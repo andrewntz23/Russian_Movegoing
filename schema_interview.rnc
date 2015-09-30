@@ -1,0 +1,21 @@
+start = interview
+interview = element interview {meta, body}
+meta = element meta {project, place_meta, persons_list+, date+}
+#I used place_meta, to include <university> in the index, and peson_list to differentiate it from the <person> element in the body.
+project = element project {text}
+place_meta = element place {text}
+persons_list = element person {mixed {interviewer | interviewee | transcriber+ | translator+}}
+interviewer = element interviewer {mixed {ref}}
+ref = attribute ref {xsd:IDREF}
+interviewee = element interviewee {mixed {ref}}
+transcriber = element transcriber {mixed {ref}}
+translator = element translator {mixed {ref}}
+date = element date {milestone}
+milestone = attribute milestone {"interview" | "translation"}
+body = element body {speech+}
+speech = element speech {mixed {(speaker | speechtype)+ , (title | person | place)*}}
+speaker = attribute speaker {xsd:IDREF}
+speechtype = attribute speechtype {"q" | "a"}
+title = attribute title {xsd:IDREF}
+person = attribute person {xsd:IDREF}
+place = attribute place {xsd:IDREF}
