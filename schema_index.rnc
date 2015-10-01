@@ -1,5 +1,5 @@
 start = index
-index = element index {persons, titles, places}
+index = element index {persons, titles, genres, places}
 persons = element persons {person_list+}
 person_list = element person {role, surname, forename, gender, nationality?,id}
 role = attribute role {text}
@@ -15,6 +15,8 @@ origin = attribute origin {text}
 era = attribute era {text}
 medium = attribute medium {text}
 year = element year {xsd:int}
+genres = element genres {genre_list+}
+genre_list = element genre {text}
 places = element places {place_list+}
 place_list = element place {placeType, location, id} 
 placeType = attribute placeType {text}
