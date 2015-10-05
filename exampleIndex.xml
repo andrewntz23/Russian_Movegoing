@@ -4,4 +4,7 @@
         <person xml:id="cool"></person>
         <person xml:id="cooler"></person>
     </persons>
+    <films>
+        <film xml:id="diamondArm"></film>
+    </films>
 </root>
