@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+    <persons>
+        <person xml:id="cool"></person>
+            
+        <person xml:id="cooler"></person>
+    </persons>
+    <titles>
+        <title xml:id="diamondArm"></title>
+    </titles>
+</index>
