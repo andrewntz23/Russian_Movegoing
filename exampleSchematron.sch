@@ -13,9 +13,9 @@
     </pattern>
     
     <pattern>
-        <let name="films" value="doc('exampleIndex.xml')//film/@xml:id"/>
-        <rule context="film/@ref">
-            <assert test=". = $films">All film references must correspond to a film in the index.</assert>
+        <let name="titles" value="doc('exampleIndex.xml')//title/@xml:id"/>
+        <rule context="title/@ref">
+            <assert test=". = $titles">All title references must correspond to a title in the index.</assert>
         </rule>
     </pattern>
     

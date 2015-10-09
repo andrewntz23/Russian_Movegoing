@@ -6,7 +6,7 @@
         <person ref="cool">Person 2</person>
         <person ref="cooler">Person 2</person>
         <person ref="coolest">Person 3 (Deliberately should raise error)</person>
-        <film ref="diamondArm"></film>
-        <film ref="platinumArm"></film>
+        <title ref="diamondArm"></title>
+        <title ref="platinumArm"></title>
     </body>
 </interview>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<index>
     <persons>
         <person xml:id="cool"></person>
         <person xml:id="cooler"></person>
     </persons>
-    <films>
-        <film xml:id="diamondArm"></film>
-    </films>
-</root>
+    <titles>
+        <title xml:id="diamondArm"></title>
+    </titles>
+</index>
