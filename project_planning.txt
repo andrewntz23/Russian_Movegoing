@@ -1,7 +1,11 @@
-Project planning: let’s take stock of what we really have. 
+we have 8 that are structurally marked up, finish the last one. 
 
-Alyzaeva
 
-Levental_irina 
-levental_vadim 
-sorkina2010
+4 are currently good to go: let’s do reference tags. 
+
+
+Reference and index:
+
+persons, titles, place, genre, national cinema. 
+
+index:

@@ -1,15 +1,23 @@
+
+#simply add in genres, and then make everything except for id into children. 
+#If there are only certain values possible, constrain the text allowed. for example,
+#title type should be "movie" | "television"
+#nationality can be soviet. 
+
 start = index
 index = element index {persons, titles, genres, places, national_cinemas}
 persons = element persons {person+}
-person = element person {role, surname, forename, gender, nationality,id}
+person = element person {role, surname, forename, gender, nationality,id} 
 role = attribute role {text}
 surname = attribute surname {text}
 forename = attribute forename {text}
 gender = attribute gender {"f" | "m"}
 nationality = attribute nationality {text}
 id = attribute xml:id { xsd:ID }
+
+#titles
 titles = element titles {title+}
-title = element title {type, country, era, medium, year, id}
+title = element title {type, country, era, medium, year, id} 
 type = attribute type {text}
 country = attribute country {text}
 era = attribute era {text}
@@ -17,8 +25,13 @@ medium = attribute medium {text}
 year = element year {xsd:int}
 genres = element genres {genre+}
 genre = element genre {text}
-places = element places {place+}
+
+#places
+places = element places {place+} 
 place = element place {placeType, location, id} 
 placeType = attribute placeType {text}
 location = attribute location {text}
+
+#genres
+
 national_cinemas = element national_cinemas {text}
