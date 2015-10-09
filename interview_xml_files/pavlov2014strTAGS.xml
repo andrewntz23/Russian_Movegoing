@@ -14,7 +14,7 @@
         <project>Russian Movie Theater Project (RMTP)</project>
         <university>College of William and Mary</university>
         <persons>
-            <interviewee ref="peskov"/>
+            <interviewee ref="pavlov"/>
             <interviewer ref="seeleyHall"/>
             <interviewer ref="wilkinson"/>
 
