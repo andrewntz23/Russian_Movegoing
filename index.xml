@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index>
     <persons>
-        <person xml:id="cool"></person>
+        <person xml:id="cool">
+            <nationality></nationality>
+        </person>
         <person xml:id="cooler"></person>
     </persons>
     <titles>
