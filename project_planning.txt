@@ -9,3 +9,27 @@ Reference and index:
 persons, titles, place, genre, national cinema. 
 
 index:
+
+
+
+
+Lena: edit the index schema. finish proofreading along with Sasha and finish non-lexical hesitation markup 
+
+Tom: reference markup for 4 documents, updated index as you go. 
+
+Sasha: Finish structural markup. Linguistic markup for at least one full document (Alyrzaeva). finish proofreading along with Lena and finish non-lexical hesitation markup. 
+
+non-pronoun personal national 
+
+
+
+possessive vs personal 
+
+singular vs plural 
+
+private vs national 
+
+
+We're going to add in a <collective> tag that will go around moments like narod, lyudi, etc. 
+
+Remove quotation marks around any title things; they are pseudo-markup. 
