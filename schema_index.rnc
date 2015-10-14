@@ -5,23 +5,23 @@
 #nationality can be soviet. 
 
 start = index
-index = element index {persons, titles, genres, places, national_cinemas}
+index = element index {persons, titles, genres_meta, places, national_cinemas}
 persons = element persons {person+}
 person = element person {role, surname, forename, gender, nationality,id} 
-role = attribute role {text}
-surname = attribute surname {text}
-forename = attribute forename {text}
-gender = attribute gender {"f" | "m"}
-nationality = attribute nationality {text}
+role = element role {text}
+surname = element surname {text}
+forename = element forename {text}
+gender = element gender {"f" | "m"}
+nationality = element nationality {text}
 id = attribute xml:id { xsd:ID }
 
 #titles
 titles = element titles {title+}
 title = element title {type, country, era, medium, year, id} 
-type = attribute type {text}
-country = attribute country {text}
-era = attribute era {text}
-medium = attribute medium {text}
+type = element type {"film" | "television"}
+country = element country {text}
+era = element era {text}
+medium = element medium {text}
 year = element year {xsd:int}
 genres = element genres {genre+}
 genre = element genre {text}
@@ -29,9 +29,11 @@ genre = element genre {text}
 #places
 places = element places {place+} 
 place = element place {placeType, location, id} 
-placeType = attribute placeType {text}
-location = attribute location {text}
+placeType = element placeType {text}
+location = element location {text}
 
 #genres
+genres_meta = element genres {genre_meta+}
+genre_meta = element genre {text}
 
 national_cinemas = element national_cinemas {text}
