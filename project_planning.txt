@@ -33,3 +33,18 @@ private vs national
 We're going to add in a <collective> tag that will go around moments like narod, lyudi, etc. 
 
 Remove quotation marks around any title things; they are pseudo-markup. 
+
+We need a project title. 
+
+Get the Github stuff cleaned up tomorrow. 
+
+
+
+OVERALL STUFF:
+
+-Get Github cleaned up. 
+-Project Title
+-Make sure that markup is in a state where it no longer needs to be discussed, just DONE.
+    -Can start assigning 2-3 interviews per week, get that finished within the month.  
+-Start a web presence. 
+-Start a basic html XSLT (?) 

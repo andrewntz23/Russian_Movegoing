@@ -1,4 +1,0 @@
-distinct-values(//sp/l[gt 8]/parent::sp/@who)
-distinct-values(//sp[count(l) gt 8]/@who) 
-//sp /count(l)[.>=8
-string-join(//sp [@who="Barnardo" and "Francisco" and "Hamlet"], ","
