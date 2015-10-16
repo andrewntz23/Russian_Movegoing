@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
     <persons>
-        <person xml:id="cool"></person>
-            
-        <person xml:id="cooler"></person>
+        <person xml:id="example1">
+            <role></role>
+            <surname></surname>
+            <forename></forename>
+            <gender>f</gender>
+            <nationality></nationality>
+        </person>
     </persons>
     <titles>
-        <title xml:id="diamondArm"></title>
+        <title xml:id="example2">
+            <medium>lit</medium>
+            <country></country>
+            <era></era>
+            <year>1234</year>
+        </title>
+
     </titles>
+    
+    <genres>
+        <genre xml:id="example3"></genre>
+    </genres>
+    
+    <places>
+        <place xml:id="example4"><placeType></placeType>
+        <location></location></place>
+    </places>
+
+    <national_cinemas>
+        <national_cinema xml:id="example5"></national_cinema>
+    </national_cinemas>
 </index>
