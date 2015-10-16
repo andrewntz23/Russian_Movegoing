@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectIndex>
+    
+<places>
+    <stPetersburg/>
+    <Russia/>
+    <pskovskayaOblast/>
+    <sovietUnion/>
+    <kinoteatrRodina/>
+    <nevel/>
+    <china/>
+    <hongKong/>
+</places>
+
+<persons>
+    <irinaLeventhal/>
+    <andreyTartovskiy/>
+    <arseniyTartovskiy/>
+    <sokurov/>
+    <serebrennikov/>
+    <popogrebskiy/>
+    <pazolini/>
+    <antonioni/>
+    <visconti/>
+    <godar/>
+    <bergman/>
+    <fellini/>
+    <lynch/>
+    <jarmusch/>
+    <aronofsky/>
+    <vonTrier/>
+    <binoche/>
+    <karvay/>
+    <bellucci/>
+   
+    
+    
+</persons>
+    
+<title>
+    <aladdin/>
+    <theLittleMermaid/>
+    <beautyBeast/>
+    <playingVictim/>
+    <straightStory/>
+    <wildHeart/>
+    <melancholy/>
+    <moodForLove/>
+</title>
+    
+<nationalCinema>
+    <americanCinema/>
+    <sovietCinema/>
+    <russianCinema/>
+    <foreignCinema/>
+    <europeanCinema/>
+    <italianCinema/>
+</nationalCinema>
+
+<genre>
+    <cartoon/>
+    <childrens/>
+    <disney/>
+    <comedy/>
+    <drama/>
+    <psychologicalThriller/>
+    <horror/>
+</genre>
+    
+</projectIndex>
