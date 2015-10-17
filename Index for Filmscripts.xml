@@ -23,6 +23,13 @@
     <domKino/>
     <atHome/>
     <movieTheater/>
+    <philadelphia/>
+    <seoul/>
+    <kinoteatrFestival/>
+    <microRegion/>
+    <cityCenter/>
+    <kinoteatrAurora/>
+    <kinoteatrMaksim/>
     
 </places>
 
@@ -59,7 +66,10 @@
     <mamonov/>
     <mikhailkov/>
     <menshov/>
-    
+    <deNiro/>
+    <pacino/>
+    <chaplin/>
+    <christie/>
 </persons>
     
 <title>
@@ -91,6 +101,9 @@
     <theAdmiral/>
     <burntBySun2/>
     <ironyOfFate/>
+    <piratesOfTheTwentiethCentury/>
+    <tenLittleIndians/>
+    <coldSummer/>
 </title>
     
 <nationalCinema>
@@ -104,6 +117,7 @@
     <chineseCinema/>
     <japaneseCinema/>
     <polishCinema/>
+    <indianCinema/>
 </nationalCinema>
 
 <genre>
