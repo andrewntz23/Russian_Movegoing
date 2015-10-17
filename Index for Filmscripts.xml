@@ -10,6 +10,12 @@
     <nevel/>
     <china/>
     <hongKong/>
+    <urals/>
+    <ufa/>
+    <republicBashkirtostan/>
+    <moscow/>
+    <kinoteatrIskra/>
+    <kino/>
 </places>
 
 <persons>
@@ -32,7 +38,11 @@
     <binoche/>
     <karvay/>
     <bellucci/>
-   
+    <butler/>
+    <theron/>
+    <depp/>
+    <carrie/>
+    <murphy/>
     
     
 </persons>
@@ -46,6 +56,17 @@
     <wildHeart/>
     <melancholy/>
     <moodForLove/>
+    <mavericks/>
+    <piratesCaribbean/>
+    <aceVentura/>
+    <max/>
+    <godfather/>
+    <brigade/>
+    <brother/>
+    <brother2/>
+    <lifeIsBeautiful/>
+    <ironman3/>
+    
 </title>
     
 <nationalCinema>
@@ -55,6 +76,7 @@
     <foreignCinema/>
     <europeanCinema/>
     <italianCinema/>
+    <ourCinema/>
 </nationalCinema>
 
 <genre>
@@ -65,6 +87,10 @@
     <drama/>
     <psychologicalThriller/>
     <horror/>
+    <blockbuster/>
+    <warFilms/>
+    <porno/>
+    <skazka/>
 </genre>
     
 </projectIndex>
