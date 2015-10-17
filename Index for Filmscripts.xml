@@ -30,7 +30,16 @@
     <cityCenter/>
     <kinoteatrAurora/>
     <kinoteatrMaksim/>
-    
+    <leningrad/>
+    <videoSalon/>
+    <citySquare/>
+    <caspianFestival/>
+    <nevskiyProspekt/>
+    <imperialRussia/>
+    <hotelAngleter/>
+    <isaacsSquare/>
+    <hollywood/>
+    <siberia/>
 </places>
 
 <persons>
@@ -70,6 +79,14 @@
     <pacino/>
     <chaplin/>
     <christie/>
+    <lee/>
+    <rubichnik/>
+    <bondarchuk/>
+    <cruise/>
+    <jackson/>
+    <trofimenkov/>
+    <volobuev/>
+    <chuvilyaev/>
 </persons>
     
 <title>
@@ -104,6 +121,14 @@
     <piratesOfTheTwentiethCentury/>
     <tenLittleIndians/>
     <coldSummer/>
+    <nineAndHalfWeeks/>
+    <windowOnParis/>
+    <savageHuntKingStakh/>
+    <pinkCloud/>
+    <transformers/>
+    <worldwarZ/>
+    <hobbit/>
+    <lifeOfAdele/>
 </title>
     
 <nationalCinema>
@@ -118,6 +143,12 @@
     <japaneseCinema/>
     <polishCinema/>
     <indianCinema/>
+    <koreanCinema/>
+    <germanCinema/>
+    <frenchCinema/>
+    <swedishCinema/>
+    <taiwaneseCinema/>
+    <austrailianCinema/>
 </nationalCinema>
 
 <genre>
@@ -137,6 +168,7 @@
     <artistic/>
     <romance/>
     <action/>
+    <erotic/>
 </genre>
     
 </projectIndex>
