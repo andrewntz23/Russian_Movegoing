@@ -40,32 +40,37 @@
         <speech speaker="" speechtype="">Фамилия и отчество, пожалуйста.</speech>
         <speech speaker="" speechttype="">Даниленко Людмила Васильевна. </speech>
         <speech speaker="" speechtype="">А где вы родились?</speech>
-        <speech speaker="" speechtype="">Я родилась в Волгоградской области. И в восемьдесят втором
-            <hes type="nonlex"/> с тысяча девятьсот восемдесят второго года я проживаю в Санкт Петербурге </speech>
+        <speech speaker="" speechtype="">Я родилась в <place ref="volgogradskayaOblast"
+                >Волгоградской области</place>. И в восемьдесят втором <hes type="nonlex"/> с тысяча
+            девятьсот восемдесят второго года я проживаю в <place ref="stPetersburg">Санкт
+                Петербурге</place>
+        </speech>
         <speech speaker="" speechtype="">Вы помните первый раз когда вы ходили в кино?</speech>
         <speech speaker="" speechtype="">Это было очень давно. Может быть, мне было лет пять. </speech>
         <speech speaker="" speechtype="">Вы помните фильм, на который вы ходили?</speech>
-        <speech speaker="" speechtype="">Эта была сказка. </speech>
+        <speech speaker="" speechtype="">Эта была <genre ref="skazka">сказка</genre>. </speech>
         <speech speaker="" speechtype="">Опишите фильм, пожалуйста.</speech>
         <speech speaker="" speechtype="">Впечатление о просмотренном фильме или сюжет?</speech>
         <speech speaker="" speechtype="">O посещениях.</speech>
-        <speech speaker="" speechtype="">О посещениях. Ощущение. <hes type="nonlex"/> Это было так давно, конечно.
-            Первый большой экран в кинотеатре для меня было что-то необыкновенное. Как и сам фильм
-            сказка. Это такое представление у ребёнка, что жизнь вся сказка, такая красивая. Вот
-            такие первые впечатления.</speech>
+        <speech speaker="" speechtype="">О посещениях. Ощущение. <hes type="nonlex"/> Это было так
+            давно, конечно. Первый большой экран в кинотеатре для меня было что-то необыкновенное.
+            Как и сам фильм сказка. Это такое представление у ребёнка, что жизнь вся сказка, такая
+            красивая. Вот такие первые впечатления.</speech>
         <speech speaker="" speechtype="">С кем вы ходили?</speech>
         <speech speaker="" speechtype="">С мамой </speech>
         <speech speaker="" speechtype="">Как вам нравится кинотеатр?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, в современном кинотеатре, я не была, потому что в связи
-            с работой, с занятостью, нет времени посещать. А первое впечатление <hes type="nonlex"/> такой огромный
-            дом с большими креслами, такое приятное что-то, что-то новое, это не собственный дом.
-            Тогда ещё у нас телевизора не было, мы не знали что, что такое. <hes type="lex">Ну</hes>, конечно очень, очень
-            приятно было. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, в современном кинотеатре, я не
+            была, потому что в связи с работой, с занятостью, нет времени посещать. А первое
+            впечатление <hes type="nonlex"/>
+            <epit ref="kino">такой огромный дом</epit>
+            <epit ref="kino">с большими креслами</epit>, такое приятное что-то, что-то новое, это не
+            собственный дом. Тогда ещё у нас телевизора не было, мы не знали что, что такое. <hes
+                type="lex">Ну</hes>, конечно очень, очень приятно было. </speech>
         <speech speaker="" speechtype="">Когда вы начали ходить в кинотеатр сама?</speech>
-        <speech speaker="" speechtype="">Это <hes type="nonlex"/> ну как, одна я не ходила, только где-то лет в
-            шестнадцать, когда мне было шестнадцать лет. Наверно, тогда только. А так мы посещали
-            коллективно кинотеатр. Со школой. Или у нас в школе был показ у нас кинозал небольшой
-            был. Нам там показывали или группой мы ходили в кинотеатр. </speech>
+        <speech speaker="" speechtype="">Это <hes type="nonlex"/> ну как, одна я не ходила, только
+            где-то лет в шестнадцать, когда мне было шестнадцать лет. Наверно, тогда только. А так
+            мы посещали коллективно кинотеатр. Со школой. Или у нас в школе был показ у нас кинозал
+            небольшой был. Нам там показывали или группой мы ходили в кинотеатр. </speech>
         <speech speaker="" speechtype="">Вам нравилось ходить в кино?</speech>
         <speech speaker="" speechtype="">Нравилось, конечно нравилось. </speech>
         <speech speaker="" speechtype="">Как часто вы ходили в кино?</speech>
@@ -73,77 +78,94 @@
             два месяца. Потому что это тоже такое дорогое удовольствие было. … </speech>
         <speech speaker="" speechtype="">Κак посещения кино изменилось, когда вы выросли?</speech>
         <speech speaker="" speechtype="">Значительно изменилось. Когда я была ребёнком, и когда я,
-            ну, стала подростком и потом уже взрослым человеком <hes type="nonlex"/> Раньше оно, такое было более
-            доступное кино к народу, народ тоже, для народа было доступным. Такое оно более
-            жизненное было, нежели сейчас. Сейчас такие фильмы как блокбастеры, всё очень странное и
-            немного непонятное. </speech>
+            ну, стала подростком и потом уже взрослым человеком <hes type="nonlex"/> Раньше оно,
+            такое было более доступное кино к народу, народ тоже, для народа было доступным. Такое
+            оно более жизненное было, нежели сейчас. Сейчас такие фильмы как <genre
+                ref="blockbuster">блокбастеры</genre>, всё <epit ref="blockbuster">очень
+                странное</epit> и <epit ref="blockbuster">немного непонятное</epit>. </speech>
         <speech speaker="" speechtype="">Какие были ваши самые любимые жанры в детстве?</speech>
         <speech speaker="" speechtype="">В детстве, я думаю это вот сказки и такие познавательные.
-            "В мире животных" мне нравилось, такая у нас передача была, и много много показывали.
-            Документальные фильмы. </speech>
+                <title ref="inTheAnimalWorld">В мире животных</title> мне нравилось, такая у нас
+            передача была, и много много показывали. <genre ref="documentary">Документальные
+                фильмы</genre>. </speech>
         <speech speaker="" speechtype="">У вас есть любимый фильм?</speech>
         <speech speaker="" speechtype="">Наша классика. Но не один, я думаю что, очень много фильмы
-            Гайдая, "Брильянтовая Рука"..и другие.</speech>
+                <person ref="gayday">Гайдая</person>, <title ref="diamondArm">Брильянтовая
+                Рука</title>..и другие.</speech>
         <speech speaker="" speechtype="">Опишите фильмы, пожалуйста.</speech>
-        <speech speaker="" speechtype="">Это кинокомедии. Они стали классикой. Или "Иван Васильевич
-            меняет профессию". Вы тоже <hes type="lex">наверно</hes> знаете. Они очень интересные и они очень жизненные. </speech>
+        <speech speaker="" speechtype="">Это кинокомедии. Они стали классикой. Или <title
+                ref="ivanVasilevichChangesJobs">Иван Васильевич меняет профессию</title>. Вы тоже
+                <hes type="lex">наверно</hes> знаете. Они очень <epit
+                ref="diamondArm and ivanVasilevichChangesJobs">интересные</epit> и они <epit
+                ref="diamondArm and ivanVasilevichChangesJobs">очень жизненные</epit>. </speech>
         <speech speaker="" speechtype="">У вас были любимые актёры и актрисы?</speech>
         <speech speaker="" speechtype="">Да, конечно. Они были и остались, хотя их уже нет в живых.
-            <hes type="lex">Ну</hes> <hes type="nonlex"/> Евгений Леонов. </speech>
+                <hes type="lex">Ну</hes>
+            <hes type="nonlex"/>
+            <person ref="leonov">Евгений Леонов</person>. </speech>
         <speech speaker="" speechtype="">Почему они были ваши любимые актёры?</speech>
-        <speech speaker="" speechtype="">Я не знаю как <hes type="nonlex"/> глядя на них в кино, ты, <hes type="lex">может быть</hes>, как
-            переживал с ними вместе ту роль, которую они исполняли. И очень интересно было, как они
-            играли. </speech>
+        <speech speaker="" speechtype="">Я не знаю как <hes type="nonlex"/> глядя на них в кино, ты,
+                <hes type="lex">может быть</hes>, как переживал с ними вместе ту роль, которую они
+            исполняли. И очень интересно было, как они играли. </speech>
         <speech speaker="" speechtype="">Вы помните какой-нибудь фильм или посещение кино
             особенно?</speech>
         <speech speaker="" speechtype="">Еще раз вопрос?</speech>
         <speech speaker="" speechtype="">Вы помните какой-нибудь фильм или посещение кино
             особенно?</speech>
-        <speech speaker="" speechtype="">Посещение кинотеатра? <hes type="nonlex"/> Это давно когда было. <hes type="lex">Ну</hes>, я не
-            знаю. Много разных фильмов, и классика, и военные фильмы. Очень нравились в детстве. У
-            нас такие "Неуловимые Мстители", это революционый фильм. Там роли исполняли мальчики.
+        <speech speaker="" speechtype="">Посещение кинотеатра? <hes type="nonlex"/> Это давно когда
+            было. <hes type="lex">Ну</hes>, я не знаю. Много разных фильмов, и <genre ref="classics"
+                >классика</genre>, и <genre ref="warFilms">военные фильмы</genre>. Очень нравились в
+            детстве. У нас такие <title ref="elusiveAvengers">Неуловимые Мстители</title>, это <epit
+                ref="elusiveAvengers"> революционый фильм</epit>. Там роли исполняли мальчики.
             Девочка и мальчики. Очень нравился мне. </speech>
         <speech speaker="" speechtype="">А почему?</speech>
         <speech speaker="" speechtype="">Я не знаю. Может быть, такие там приключенческие сюжеты у
             них <hes type="nonlex"/> примерно одинокового возраста мы были. </speech>
         <speech speaker="" speechtype="">Вы помните какое-нибудь посещение на телевизору, кино по
             телевизору?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes> <hes type="nonlex"/> первый фильм <hes type="nonlex"/> нет<hes type="nonlex"/> Да.Первый фильм, <hes type="lex">наверно</hes>, я
-            не помню, а помню балет по телевизору Лебединое Озеро, я смотрела. Это что-то
-            необыкновенное было. Очень, очень красиво. Музыка мне нравилась в этом спектакле. И
-            очень нравились девушки, которые исполняли. Тогда я очень маленькая была. Первый раз я
-            увидела. Они в очень красивых платьях, в пачках <hes type="nonlex"/> все белые, необыкновенные. Вот это,
-            <hes type="lex">наверно</hes>, такое яркое впечатление произвело на меня. Балет очень, очень
-            понравился.</speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>
+            <hes type="nonlex"/> первый фильм <hes type="nonlex"/> нет<hes type="nonlex"/> Да.
+            Первый фильм, <hes type="lex">наверно</hes>, я не помню, а помню балет по телевизору
+                <title ref="swanLake">Лебединое Озеро</title>, я смотрела. Это <epit ref="swanLake"
+                >что-то необыкновенное</epit> было. <epit ref="swanLake">Очень, очень
+            красиво</epit>. Музыка мне нравилась в этом спектакле. И очень нравились девушки,
+            которые исполняли. Тогда я очень маленькая была. Первый раз я увидела. Они в очень
+            красивых платьях, в пачках <hes type="nonlex"/> все белые, необыкновенные. Вот это, <hes
+                type="lex">наверно</hes>, такое яркое впечатление произвело на меня. Балет очень,
+            очень понравился.</speech>
         <speech speaker="" speechtype="">А вы помните, когда вы посмотрели?</speech>
         <speech speaker="" speechtype="">Это было, <hes type="lex">наверно</hes>, 1959ый год. </speech>
         <speech speaker="" speechtype="">Как вы проводили свободное время, кроме посещения
             кино?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, у нас очень много. Я жила в<hes type="nonlex"/> как можно сказать <hes type="nonlex"/>
-            такой, маленький посёлок, как в деревне. У нас очень много было занятий по дому, работы
-            было. Мы помогали родителям. У нас много животных было. Мы ухаживали за ними. Кормили.
-            Книги читали. Вот, у нас летом были каникулы. После школы, три месяца мы одыхали. <hes type="lex">Ну</hes> и
-            нам обязательно в школе давали большое задание, чтобы мы за лето прочитали много книг.
-            <hes type="lex">Ну</hes> и так, мне очень нравилось читать. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, у нас очень много. Я жила в<hes
+                type="nonlex"/> как можно сказать <hes type="nonlex"/> такой, маленький посёлок, как
+            в деревне. У нас очень много было занятий по дому, работы было. Мы помогали родителям. У
+            нас много животных было. Мы ухаживали за ними. Кормили. Книги читали. Вот, у нас летом
+            были каникулы. После школы, три месяца мы одыхали. <hes type="lex">Ну</hes> и нам
+            обязательно в школе давали большое задание, чтобы мы за лето прочитали много книг. <hes
+                type="lex">Ну</hes> и так, мне очень нравилось читать. </speech>
         <speech speaker="" speechtype="">С кем вы обычно ходили в кино?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, когда была маленькая, с мамой или со старшей сестрой и
-            с братом. А потом уже ходила с подругами. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, когда была маленькая, с мамой или
+            со старшей сестрой и с братом. А потом уже ходила с подругами. </speech>
         <speech speaker="" speechtype="">Было больше мужчин или женщин в кинотеатре?</speech>
         <speech speaker="" speechtype="">Нет, <hes type="lex">наверно</hes>, одинаково. </speech>
         <speech speaker="" speechtype="">Люди часто ходили кино с семьями или с
             друзьями/подругами?</speech>
-        <speech speaker="" speechtype="">Я не знаю. Как сказать <hes type="nonlex"/> по разному бывало, <hes type="lex">может быть</hes>
-            один раз там с друзьями ходили, другой раз семьями ходили. Родители с детьми. </speech>
+        <speech speaker="" speechtype="">Я не знаю. Как сказать <hes type="nonlex"/> по разному
+            бывало, <hes type="lex">может быть</hes> один раз там с друзьями ходили, другой раз
+            семьями ходили. Родители с детьми. </speech>
         <speech speaker="" speechtype="">В кинотеатр были очереди?</speech>
         <speech speaker="" speechtype="">Да, были очереди. </speech>
         <speech speaker="" speechtype="">Вы помните, когда вы ждали в очереди?</speech>
-        <speech speaker="" speechtype="">Какое кино? Я помню в Волгограде я училась, и мы ходили с
-            подругой. Кино называлось "Женщина, которая поёт". В этом фильме снималась наша
-            знаменитая певица Алла Борисовна Пугачёва.</speech>
+        <speech speaker="" speechtype="">Какое кино? Я помню в <place ref="volgograd"
+                >Волгограде</place> я училась, и мы ходили с подругой. Кино называлось <title
+                ref="womanWhoSings">Женщина, которая поёт</title>. В этом фильме снималась наша
+                <epit ref="pugacheva">знаменитая певица</epit>
+            <person ref="pugacheva">Алла Борисовна Пугачёва</person>.</speech>
         <speech speaker="" speechtype="">Почему вам понравилось?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, как. Она становилась известной певицей и вышел новый
-            фильм. Нам очень хотелось посмотреть и услышать новые песни и посмотреть ее не как
-            певицу, а как актрису</speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, как. Она становилась известной
+            певицей и вышел новый фильм. Нам очень хотелось посмотреть и услышать новые песни и
+            посмотреть ее не как певицу, а как актрису</speech>
         <speech speaker="" speechtype="">Вы знали людей, которые работали в кинотеатре?</speech>
         <speech speaker="" speechtype="">В кинотеатре <hes type="nonlex"/> Наверное, нет. </speech>
         <speech speaker="" speechtype="">Какая была атмосфера в кинотеатре?</speech>
@@ -160,79 +182,103 @@
         <speech speaker="" speechtype="">Другие люди ели?</speech>
         <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, иногда. </speech>
         <speech speaker="" speechtype="">Что они ели?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes> что там. <hes type="lex">Ну</hes>, пироги, бутерброды. Что продавалось.
-            Лимонад, как у вас кока кола, пепси кола, у нас лимонад. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes> что там. <hes type="lex">Ну</hes>,
+            пироги, бутерброды. Что продавалось. Лимонад, как у вас кока кола, пепси кола, у нас
+            лимонад. </speech>
         <speech speaker="" speechtype="">А мороженое?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, мороженое, у нас не было. Это так в городе только было,
-            у нас иногда только привозили мороженое. В магазин. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, мороженое, у нас не было. Это так
+            в городе только было, у нас иногда только привозили мороженое. В магазин. </speech>
         <speech speaker="" speechtype="">Вы посмотрели иностранные фильмы?</speech>
-        <speech speaker="" speechtype="">Иностранные? Да смотрела иностранные фильмы. <hes type="lex">Ну</hes>, и как
-            сейчас наши новые фильмы, мне очень мало нравятся иностранные фильмы. Много каких-то там
-            <hes type="nonlex"/> насилия и убийств. <hes type="lex">Ну</hes>, <hes type="lex">может быть</hes>, такой, я не знаю. Мне как-то, близко старое наше
-            кино. Мы воспитаны на патриотических фильмах, на сказках, как-то. <hes type="lex">Ну</hes>, есть очень хорошие
-            иностранные фильмы, я не говорю что там всё полностью кино там американское,
-            французское, нет. Есть очень хорошие фильмы. Я с удовольствием смотрю их. </speech>
+        <speech speaker="" speechtype="">Иностранные? Да смотрела иностранные фильмы. <hes
+                type="lex">Ну</hes>, и как сейчас наши новые фильмы, мне очень мало нравятся
+            иностранные фильмы. Много каких-то там <hes type="nonlex"/> насилия и убийств. <hes
+                type="lex">Ну</hes>, <hes type="lex">может быть</hes>, такой, я не знаю. Мне как-то,
+            близко старое наше кино. Мы воспитаны на <genre ref="patrioticFilms">патриотических
+                фильмах</genre>, на <genre ref="skazka">сказках</genre>, как-то. <hes type="lex"
+                >Ну</hes>, есть очень хорошие <nationalCinema ref="foreignCinema">иностранные
+                фильмы</nationalCinema>, я не говорю что там всё полностью кино там <nationalCinema
+                ref="americanCinema">американское</nationalCinema>, <nationalCinema
+                ref="frenchCinema">французское</nationalCinema>, нет. Есть очень хорошие фильмы. Я с
+            удовольствием смотрю их. </speech>
         <speech speaker="" speechtype="">Вы помните какой-нибудь фильм вы посмотрели?</speech>
-        <speech speaker="" speechtype="">Иностранные. Я могу сказать "Спартак", "Троя", но я не
-            помню ни режиссеров, ни актёров. "Александр" есть. "Tроя". <hes type="lex">Ну</hes>, <hes type="lex">может быть</hes> еще другие, ну
-            так исторические, конечно, очень такие эффектные фильмы. </speech>
+        <speech speaker="" speechtype="">Иностранные. Я могу сказать <title ref="spartacus"
+                >Спартак</title>, <title ref="troy">Троя</title>, но я не помню ни режиссеров, ни
+            актёров. <title ref="alexander">Александр</title> есть. <title ref="troy">Tроя</title>.
+                <hes type="lex">Ну</hes>, <hes type="lex">может быть</hes> еще другие, ну так <epit
+                ref="alexander and spartacus and troy">исторические</epit>, конечно, <epit
+                ref="alexander and spartacus and troy">очень такие эффектные</epit> фильмы. </speech>
         <speech speaker="" speechtype="">Вам нравилось исторический фильм?</speech>
         <speech speaker="" speechtype="">Да. Очень хорошие. "Гладиатор", хотя в этих фильмах,
-            конечно, очень много тоже таких сюжетов трагических. <hes type="lex">Ну</hes>, фильмы очень интересные. </speech>
+            конечно, очень много тоже таких сюжетов трагических. <hes type="lex">Ну</hes>, фильмы
+            очень интересные. </speech>
         <speech speaker="" speechtype="">Когда вы посмотрели это фильм?</speech>
-        <speech speaker="" speechtype=""> <hes type="lex">Ну</hes> <hes type="nonlex"/> Это в прошлом году я смотрела. </speech>
+        <speech speaker="" speechtype="">
+            <hes type="lex">Ну</hes>
+            <hes type="nonlex"/> Это в прошлом году я смотрела. </speech>
         <speech speaker="" speechtype="">А Спартак тоже?</speech>
         <speech speaker="" speechtype="">Да. </speech>
         <speech speaker="" speechtype="">А какие фильме вам нравились больше всего?</speech>
-        <speech speaker="" speechtype="">Есть и комедии иностранные. С Луи де Фюнесом мне очень
-            нравятся. Французские фильмы. Где Жан Марэ. Его уже нет. И один, и другой, они умерли.
-            <hes type="lex">Ну</hes> <hes type="nonlex"/> фильмы Тимоти Далтон снимается. Сейчас скажу, я смотрела "Джейн Эйр". Фильм
-            называется "Джейн Эйр". Тимоти Далтон снимается в этом фильме. Очень нравится. Он тоже
-            <hes type="nonlex"/> как история там есть небольшая. </speech>
+        <speech speaker="" speechtype="">Есть и комедии иностранные. С <person ref="deFunes">Луи де
+                Фюнесом</person> мне очень нравятся. <nationalCinema ref="frenchCinema">Французские
+                фильмы</nationalCinema>. Где <person ref="mare">Жан Марэ</person>. Его уже нет. И
+            один, и другой, они умерли. <hes type="lex">Ну</hes>
+            <hes type="nonlex"/> фильмы <person ref="dalton">Тимоти Далтон</person> снимается.
+            Сейчас скажу, я смотрела <title ref="janeEyre">Джейн Эйр</title>. Фильм называется
+                <title ref="janeEyre">Джейн Эйр</title>. <person ref="dalton">Тимоти Далтон</person>
+            снимается в этом фильме. Очень нравится. Он тоже <hes type="nonlex"/> как история там
+            есть небольшая. </speech>
         <speech speaker="" speechtype="">А вам нравится Тимоти Далтон?</speech>
         <speech speaker="" speechtype=""> Да</speech>
         <speech speaker="" speechtype="">У вас есть любимый иностранный актёр?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes> <hes type="nonlex"/> не знаю. С Мики Рурком мне нравится. Рукенхауэр?
-            Правильно я называю? Тоже, ну, можно много, много называть, есть хорошие
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>
+            <hes type="nonlex"/> не знаю. С <person ref="rourke">Мики Рурком</person> мне нравится.
+            Рукенхауэр? Правильно я называю? Тоже, ну, можно много, много называть, есть хорошие
             актёры.</speech>
         <speech speaker="" speechtype="">Были ли фильмы, на который вам нельзя было ходить?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, да. У нас было запрещено, до шестнадцати лет нам не
-            разрешали посещать. Кинотеатр только до четырёх часов. И там показывали только детские
-            фильмы. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, да. У нас было запрещено, до
+            шестнадцати лет нам не разрешали посещать. Кинотеатр только до четырёх часов. И там
+            показывали только <genre ref="childrens">детские фильмы</genre>. </speech>
         <speech speaker="" speechtype="">Вам не разрешали ваши родители или администрация
             кинотеатра?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, и администрация, и школа, ну родители тоже, как бы <hes type="nonlex"/>
-            не разрешали. До девяти часов мы должны вернуться домой были, если гуляли. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, и администрация, и школа, ну
+            родители тоже, как бы <hes type="nonlex"/> не разрешали. До девяти часов мы должны
+            вернуться домой были, если гуляли. </speech>
         <speech speaker="" speechtype="">Да. Вы попробовали ходить на пойти, на который вам нельзя
             было пойти?</speech>
         <speech speaker="" speechtype="">Пробовали. Но, нас не пропускали. </speech>
         <speech speaker="" speechtype="">Вы помните какой-нибудь фильм, у которого были проблемы с
             выходом на экран?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, я не знаю, я не могу этого сказать. <hes type="nonlex"/> <hes type="lex">Ну</hes>, <hes type="lex">может быть</hes>
-            цензура какие фильмы запрещала. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, я не знаю, я не могу этого
+            сказать. <hes type="nonlex"/>
+            <hes type="lex">Ну</hes>, <hes type="lex">может быть</hes> цензура какие фильмы
+            запрещала. </speech>
         <speech speaker="" speechtype="">Извините?</speech>
         <speech speaker="" speechtype="">Раньше было такое, комиссия была. Они, когда фильм был
             готов, он должен был выйти на широкий экран в кинотеатре, они смотрели и давали
-            разрешения, что можно или нет. <hes type="lex">Ну</hes> <hes type="nonlex"/> я не знаю. </speech>
+            разрешения, что можно или нет. <hes type="lex">Ну</hes>
+            <hes type="nonlex"/> я не знаю. </speech>
         <speech speaker="" speechtype="">Ваши родители ходили в кино?</speech>
         <speech speaker="" speechtype="">Ходили когда, ну, очень редко, когда было время. </speech>
         <speech speaker="" speechtype="">Что они смотрели, когда они ходили?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, разные фильмы, которые были, также и нашу классику,
-            и комедии, ну иностранные фильмы, я не могу сказать сейчас названия, потому что я была
-            очень маленькая. <hes type="lex">Ну</hes>, что было в кинотеатре, старались по возможности посещать кинотеатр
-            смотреть, интересовались тоже, чтобы узнать, как другая страна живёт.</speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, разные фильмы, которые были,
+            также и нашу <genre ref="classics">классику</genre>, и <genre ref="comedy"
+                >комедии</genre>, ну <nationalCinema ref="foreignCinema">иностранные
+                фильмы</nationalCinema>, я не могу сказать сейчас названия, потому что я была очень
+            маленькая. <hes type="lex">Ну</hes>, что было в кинотеатре, старались по возможности
+            посещать кинотеатр смотреть, интересовались тоже, чтобы узнать, как другая страна
+            живёт.</speech>
         <speech speaker="" speechtype="">Вы ещё ходите в кино?</speech>
-        <speech speaker="" speechtype="">Мне бы хотелась. Но если будет время и возможность, конечно.
-            Но сейчас, когда есть время, я смотрю по телевизору кино.</speech>
+        <speech speaker="" speechtype="">Мне бы хотелась. Но если будет время и возможность,
+            конечно. Но сейчас, когда есть время, я смотрю по телевизору кино.</speech>
         <speech speaker="" speechtype="">Как ваши посещения кинотеатров изменились со
             временем?</speech>
         <speech speaker="" speechtype="">И почему?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, в современном кинотеатре я не была. Как не знаю сейчас <hes type="nonlex"/>
-            что есть и стерео кино, другие залы. Которые раньше были в кинотеатре, просто
-            обыкновенный зал с креслами, большой экран. Конечно, первое впечатление, когда мы
-            приходили в зал, для нас было необыкновенно, очень приятно было. Я не могу сейчас
-            сравнить, потому что в новом зале я не была. Вы можете спросить у более молодого
-            поколения. </speech>
+        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, в современном кинотеатре я не
+            была. Как не знаю сейчас <hes type="nonlex"/> что есть и стерео кино, другие залы.
+            Которые раньше были в кинотеатре, просто обыкновенный зал с креслами, большой экран.
+            Конечно, первое впечатление, когда мы приходили в зал, для нас было необыкновенно, очень
+            приятно было. Я не могу сейчас сравнить, потому что в новом зале я не была. Вы можете
+            спросить у более молодого поколения. </speech>
         <speech speaker="" speechtype="">Когда был последний раз, когда вы ходили в кино?</speech>
         <speech speaker="" speechtype="">Ой, последний раз, да?</speech>
         <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, лет десять назад. </speech>

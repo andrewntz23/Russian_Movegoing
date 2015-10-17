@@ -40,6 +40,9 @@
     <isaacsSquare/>
     <hollywood/>
     <siberia/>
+    <volgograskayaOblast/>
+    <volgograd/>
+    
 </places>
 
 <persons>
@@ -87,6 +90,13 @@
     <trofimenkov/>
     <volobuev/>
     <chuvilyaev/>
+    <gayday/>
+    <leonov/>
+    <pugacheva/>
+    <dalton/>
+    <deFunes/>
+    <mare/>
+    <rourke/>
 </persons>
     
 <title>
@@ -129,6 +139,15 @@
     <worldwarZ/>
     <hobbit/>
     <lifeOfAdele/>
+    <inTheAnimalWorld/>
+    <diamondArm/>
+    <elusiveAvengers/>
+    <swanLake/>
+    <womanWhoSings/>
+    <troy/>
+    <spartacus/>
+    <alexander/>
+    <janeEyre/>
 </title>
     
 <nationalCinema>
@@ -169,6 +188,9 @@
     <romance/>
     <action/>
     <erotic/>
+    <documentary/>
+    <classics/>
+    <patrioticFilms/>
 </genre>
     
 </projectIndex>
