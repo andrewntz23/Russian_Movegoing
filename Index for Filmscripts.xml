@@ -16,6 +16,14 @@
     <moscow/>
     <kinoteatrIskra/>
     <kino/>
+    <film/>
+    <sverdlovsk/>
+    <ekaterinburg/>
+    <berlin/>
+    <domKino/>
+    <atHome/>
+    <movieTheater/>
+    
 </places>
 
 <persons>
@@ -43,7 +51,14 @@
     <depp/>
     <carrie/>
     <murphy/>
-    
+    <peck/>
+    <hepburn/>
+    <ryazanov/>
+    <allen/>
+    <almodovar/>
+    <mamonov/>
+    <mikhailkov/>
+    <menshov/>
     
 </persons>
     
@@ -66,7 +81,16 @@
     <brother2/>
     <lifeIsBeautiful/>
     <ironman3/>
-    
+    <firstYearStudent/>
+    <romanHoliday/>
+    <goneWithTheWind/>
+    <moscowDoesNotBelieveInTears/>
+    <vasiliyTheWise/>
+    <pomegranate/>
+    <theIsland/>
+    <theAdmiral/>
+    <burntBySun2/>
+    <ironyOfFate/>
 </title>
     
 <nationalCinema>
@@ -77,6 +101,9 @@
     <europeanCinema/>
     <italianCinema/>
     <ourCinema/>
+    <chineseCinema/>
+    <japaneseCinema/>
+    <polishCinema/>
 </nationalCinema>
 
 <genre>
@@ -91,6 +118,11 @@
     <warFilms/>
     <porno/>
     <skazka/>
+    <romanticComedy/>
+    <alternative/>
+    <artistic/>
+    <romance/>
+    <action/>
 </genre>
     
 </projectIndex>
