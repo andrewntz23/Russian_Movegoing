@@ -83,7 +83,7 @@
         <speech speaker="" speechtype="">Тогда? Тогда <hes type="lex">наверно</hes>
             <hes type="nonlex"/> Это был фильм <hes type="nonlex"/>
             <title ref="piratesOfTheTwentiethCentury">Пираты двадцатого века</title>, вероятно. Это
-            один из первых <genre ref="warFilms">боевиков</genre>, который вышёл в советское
+            один из первых <genre ref="action">боевиков</genre>, который вышeл в советское
             время.</speech>
         <speech speaker="" speechtype="">Сколько вам было лет? </speech>
         <speech speaker="" speechtype="">Четырнадцать. </speech>
