@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
+<index>
+    <persons>
+        <person xml:id="example1">
+            <role></role>
+            <surname></surname>
+            <forename></forename>
+            <gender>f</gender>
+            <nationality></nationality>
+        </person>
+    </persons>
 <projectIndex>
     
 <places>
@@ -97,6 +108,8 @@
     <deFunes/>
     <mare/>
     <rourke/>
+    <verne/>
+    <milosForman/>
 </persons>
     
 <title>
@@ -113,7 +126,7 @@
     <aceVentura/>
     <max/>
     <godfather/>
-    <brigade/>
+    <brigade/>              TV
     <brother/>
     <brother2/>
     <lifeIsBeautiful/>
@@ -122,7 +135,7 @@
     <romanHoliday/>
     <goneWithTheWind/>
     <moscowDoesNotBelieveInTears/>
-    <vasiliyTheWise/>
+    <vasilisaTheWise/>
     <pomegranate/>
     <theIsland/>
     <theAdmiral/>
@@ -139,15 +152,21 @@
     <worldwarZ/>
     <hobbit/>
     <lifeOfAdele/>
-    <inTheAnimalWorld/>
+    <inTheAnimalWorld/> TV
     <diamondArm/>
     <elusiveAvengers/>
-    <swanLake/>
+    <swanLake/>         TV
     <womanWhoSings/>
     <troy/>
     <spartacus/>
     <alexander/>
     <janeEyre/>
+    <dumbAndDumber/>
+    <pi/>
+    <spokNochi/>            TV
+    <childrenOfCaptainGrant/>
+    <unclеBoonmee/>
+    <juno/>
 </title>
     
 <nationalCinema>
@@ -176,6 +195,7 @@
     <disney/>
     <comedy/>
     <drama/>
+    <melodrama/>
     <psychologicalThriller/>
     <horror/>
     <blockbuster/>
@@ -194,3 +214,4 @@
 </genre>
     
 </projectIndex>
+</index>
