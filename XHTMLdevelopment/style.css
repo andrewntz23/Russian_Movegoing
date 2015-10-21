@@ -28,3 +28,14 @@ ul#menuList li
     
     
 }
+
+div#description
+{
+position: fixed;
+top: 200px;
+text-align: center;
+width: 100%;
+background-color: #f4eee2;
+
+
+}
