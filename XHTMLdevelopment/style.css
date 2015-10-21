@@ -1,0 +1,30 @@
+
+
+
+body
+{background-color: #f4eee2;}
+
+div#menu
+{
+position: fixed;
+top: 0px;
+text-align: center;
+width: 100%;
+background-color: tan;
+
+
+}
+
+
+ul#menuList
+{
+  list-style: none;
+position: relative;
+}
+
+ul#menuList li
+{
+    display: inline;
+    
+    
+}
