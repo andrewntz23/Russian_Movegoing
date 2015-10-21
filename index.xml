@@ -1,21 +1,575 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
     <persons>
-        <person xml:id="cool">
-            <nationality></nationality>
+        <person xml:id="irinaLevental">
+            <role>interviewee</role>
+            <surname>Levental</surname>
+            <forename>Irina</forename>
+            <gender>f</gender>
+            <nationality>Russia</nationality>
         </person>
-        <person xml:id="cooler"></person>
+
+        <person xml:id="andreiTarkovskii">
+            <role>director</role>
+            <surname>Tarkovskii</surname>
+            <forename>Andrei</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="arseniiTarkovskii">
+            <role>poet</role>
+            <surname>Tarkovskii</surname>
+            <forename>Arsenii</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="sokurov">
+            <role>director</role>
+            <surname>Sokurov</surname>
+            <forename>Aleksandr</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="serebrennikov">
+            <role>director</role>
+            <surname>Serebrennikov</surname>
+            <forename>Kirill</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="popogrebskii">
+            <role>director</role>
+            <surname>popogrebskii</surname>
+            <forename>Aleksei</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="pasolini">
+            <role>director</role>
+            <surname>Pasolini</surname>
+            <forename>Pier Paolo</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="antonioni">
+            <role>director</role>
+            <surname>Antonioni</surname>
+            <forename>Michelangelo</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="visconti">
+            <role>director</role>
+            <surname>Visconti</surname>
+            <forename>Luchino</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="godard">
+            <role>director</role>
+            <surname>Godard</surname>
+            <forename>Jean-Luc</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+
+        <person xml:id="bergman">
+            <role>director</role>
+            <surname>Bergman</surname>
+            <forename>Ingmar</forename>
+            <gender>m</gender>
+            <nationality>Sweden</nationality>
+        </person>
+
+        <person xml:id="fellini">
+            <role>director</role>
+            <surname>Fellini</surname>
+            <forename>Federico</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="lynch">
+            <role>director</role>
+            <surname>Lynch</surname>
+            <forename>David</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="jarmusch">
+            <role>director</role>
+            <surname>Jarmusch</surname>
+            <forename>Jim</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="aronofsky">
+            <role>director</role>
+            <surname>Aronofsky</surname>
+            <forename>Darren</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="vonTrier">
+            <role>director</role>
+            <surname>von Trier</surname>
+            <forename>Lars</forename>
+            <gender>m</gender>
+            <nationality>Denmark</nationality>
+        </person>
+
+        <person xml:id="binoche">
+            <role>actor</role>
+            <surname>Binoche</surname>
+            <forename>Juliette</forename>
+            <gender>f</gender>
+            <nationality>France</nationality>
+        </person>
+
+        <person xml:id="karwai">
+            <role>director</role>
+            <surname>Kar-wai</surname>
+            <forename>Wong</forename>
+            <gender>m</gender>
+            <nationality>China</nationality>
+        </person>
+
+        <person xml:id="bellucci">
+            <role>actor</role>
+            <surname>Bellucci</surname>
+            <forename>Monica</forename>
+            <gender>f</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="butler">
+            <role>actor</role>
+            <surname>Butler</surname>
+            <forename>Gerard</forename>
+            <gender>m</gender>
+            <nationality>Britain</nationality>
+        </person>
+
+        <person xml:id="theron">
+            <role>actor</role>
+            <surname>Theron</surname>
+            <forename>Charlize</forename>
+            <gender>f</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="depp">
+            <role>actor</role>
+            <surname>Depp</surname>
+            <forename>Johnny</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="carrey">
+            <role>actor</role>
+            <surname>Carrey</surname>
+            <forename>Jim</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="murphy">
+            <role>actor</role>
+            <surname>Murphy</surname>
+            <forename>Eddie</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="peck">
+            <role>actor</role>
+            <surname>Peck</surname>
+            <forename>Gregory</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="hepburn">
+            <role>actor</role>
+            <surname>Hepburn</surname>
+            <forename>Audrey</forename>
+            <gender>f</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="riazanov">
+            <role>director</role>
+            <surname>Riazanov</surname>
+            <forename>Eldar</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="allen">
+            <role>director</role>
+            <surname>Allen</surname>
+            <forename>Woody</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="almodovar">
+            <role>director</role>
+            <surname>Almodovar</surname>
+            <forename>Pedro</forename>
+            <gender>m</gender>
+            <nationality>Spain</nationality>
+        </person>
+
+        <person xml:id="mamonov">
+            <role>actor</role>
+            <surname>Mamonov</surname>
+            <forename>Petr</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="mikhalkov">
+            <role>director</role>
+            <surname>Mikhalkov</surname>
+            <forename>Nikita</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="menshov">
+            <role>director</role>
+            <surname>Menshov</surname>
+            <forename>Vladimir</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="deNiro">
+            <role>actor</role>
+            <surname>de Niro</surname>
+            <forename>Robert</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="pacino">
+            <role>actor</role>
+            <surname>Pacino</surname>
+            <forename>Al</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="chaplin">
+            <role>director</role>
+            <surname>Chaplin</surname>
+            <forename>Charlie</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="christie">
+            <role>writer</role>
+            <surname>Christie</surname>
+            <forename>Agatha</forename>
+            <gender>f</gender>
+            <nationality>Britain</nationality>
+        </person>
+
+        <person xml:id="rubinchik">
+            <role>director</role>
+            <surname>Rubinchik</surname>
+            <forename>Valerii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="lee">
+            <role>actor</role>
+            <surname>Lee</surname>
+            <forename>Bruce</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="bondarchuk">
+            <role>director</role>
+            <surname>Bondarchuk</surname>
+            <forename>Sergei</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="cruise">
+            <role>actor</role>
+            <surname>Cruise</surname>
+            <forename>Tom</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="jackson">
+            <role>director</role>
+            <surname>Jackson</surname>
+            <forename>Peter</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="trofimenkov">
+            <role>critic</role>
+            <surname>Trofimenkov</surname>
+            <forename>Mikhail</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="volobuev">
+            <role>critic</role>
+            <surname>Volobuev</surname>
+            <forename>Roman</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="chuviliaev">
+            <role>critic</role>
+            <surname>Chuviliaev</surname>
+            <forename>Ivan</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
+
+        <person xml:id="gaidai">
+            <role>director</role>
+            <surname>Gaidai</surname>
+            <forename>Leonid</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="leonov">
+            <role>actor</role>
+            <surname>Leonov</surname>
+            <forename>Evgenii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="pugacheva">
+            <role>singer</role>
+            <surname>Pugacheva</surname>
+            <forename>Alla</forename>
+            <gender>f</gender>
+            <nationality>Soviet</nationality>
+        </person>
+
+        <person xml:id="dalton">
+            <role>actor</role>
+            <surname>Dalton</surname>
+            <forename>Timothy</forename>
+            <gender>m</gender>
+            <nationality>Britain</nationality>
+        </person>
+
+        <person xml:id="deFunes">
+            <role>actor</role>
+            <surname>de Funes</surname>
+            <forename>Louis</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+
+        <person xml:id="marais">
+            <role>actor</role>
+            <surname>Marais</surname>
+            <forename>Jean</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+
+        <person xml:id="rourke">
+            <role>actor</role>
+            <surname>Rourke</surname>
+            <forename>Mickey</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+
+        <person xml:id="malkovich">
+            <role>actor</role>
+            <surname>Malkovich</surname>
+            <forename>John</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+
+        <person xml:id="verne">
+            <role>writer</role>
+            <surname>Verne</surname>
+            <forename>Jules</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+
+        <person xml:id="milosForman">
+            <role>director</role>
+            <surname>Forman</surname>
+            <forename>Milos</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="hopkins">
+            <role>actor</role>
+            <surname>Hopkins</surname>
+            <forename>Anthony</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+
+        <person xml:id="eisenstein">
+            <role>director</role>
+            <surname>Eisenstein</surname>
+            <forename>Sergei</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="vertov">
+            <role>director</role>
+            <surname>Vertov</surname>
+            <forename>Dziga</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+
+        <person xml:id="bertolucci">
+            <role>director</role>
+            <surname>Bertolucci</surname>
+            <forename>Bernardo</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+
+        <person xml:id="greenaway">
+            <role>director</role>
+            <surname>Greenaway</surname>
+            <forename>Peter</forename>
+            <gender>m</gender>
+            <nationality>Britain</nationality>
+        </person>
+
+
+        <person xml:id="carax">
+            <role>director</role>
+            <surname>Carax</surname>
+            <forename>Leos</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+      
+        
+        <person xml:id="noe">
+            <role>director</role>
+            <surname>Noe</surname>
+            <forename>Gaspar</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+
+
+        <person xml:id="cassel">
+            <role>actor</role>
+            <surname>Cassel</surname>
+            <forename>Vincent</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </persons>
     <titles>
-        <title xml:id="diamondArm"></title>
+        <title xml:id="example2">
+            <medium>lit</medium>
+            <country/>
+            <genre/>
+            <era/>
+            <year>1234</year>
+        </title>
+
     </titles>
-    <places>
-        
-    </places>
+
     <genres>
-        
+        <genre xml:id="example3"/>
     </genres>
-    <natCinema>
-        
-    </natCinema>
+
+    <places>
+        <place xml:id="example4">
+            <placeType/>
+            <location/>
+        </place>
+    </places>
+
+    <national_cinemas>
+        <national_cinema xml:id="example5"/>
+    </national_cinemas>
 </index>
