@@ -133,7 +133,7 @@
         <speech speaker="" speechtype="">Какие были ваши самые любимые жанры, когда вы были
             студентами? </speech>0 <speech speaker="" speechtype="">Конечно <genre ref="porno"
                 >порно</genre>. Конечно, <genre ref="porno">порно</genre>, это правда не нужно
-            ничего менять, у всех русских студентов, это так. А потом, <genre ref="warFilms"
+            ничего менять, у всех русских студентов, это так. А потом, <genre ref="action"
                 >боевики</genre>, и <genre ref="comedy">комедии</genre>. </speech>
         <speech speaker="" speechtype="">У вас есть любимый фильм? </speech>
         <speech speaker="" speechtype="">Да, я думаю, у меня есть несколько любимов фильмов. Просто,
@@ -149,7 +149,7 @@
             например. Да, <person ref="theron">Шарлиз Терон</person>, а <hes type="nonlex"/><hes
                 type="lex"> ну </hes><person ref="depp">Джонни Депп</person>, хорош, особенно в
                 <title ref="piratesCaribbean">Пиратах</title>. Вo первых. <hes type="lex">Может
-                быть</hes>, <person ref="carrie">Джим Керри</person>, да, Джим Керри. Особенно в
+                быть</hes>, <person ref="carrey">Джим Керри</person>, да, Джим Керри. Особенно в
                 <title ref="max">Маске</title> и в <title ref="aceVentura">Эйс Вентура</title>,
             самые лучшие его работы. <person ref="murphy">Мерфи, Эдди Мерфи</person> красавчик. Тоже
             делал вещи. </speech>
@@ -255,8 +255,8 @@
                 прокатные</epit>. <epit ref="americanCinema">Самые успешные</epit> в прокате. </speech>
         <speech speaker="" speechtype="">Какие фильмы вам нравилось больше всего? </speech>
         <speech speaker="" speechtype="">Больше всего, нравились, well, по возрасту, в детстве
-                <genre ref="skazka">фильмы сказки</genre>, потом и <genre ref="warFilms"
-                >боевики</genre>, а потом больше <genre ref="drama">мелодрамы</genre>. По-разному.
+                <genre ref="skazka">фильмы сказки</genre>, потом и <genre ref="action"
+                >боевики</genre>, а потом больше <genre ref="melodrama">мелодрамы</genre>. По-разному.
             По настроению. Скажем так. </speech>
         <speech speaker="" speechtype="">Были фильмы, на которые нельзя было ходить детям и почему? </speech>
         <speech speaker="" speechtype="">Да, очень много таких фильмов, и сейчас такие ограничения
