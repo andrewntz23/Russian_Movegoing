@@ -164,20 +164,22 @@
 			/> очень смешное кино для тех, кто понимает по-русски, просто ухохотаться. Там каждая
 			фраза просто под столом.<pron type="pers" number="sing">Я</pron>очень любил фильм,
 			который называется <title ref="savageHuntKingStakh">Дикая Охота Короля Стаха</title>,
-			совершенно блестящая работа такого режиссёрa Pубинчика, который знаменит ещё тем, что он
-			был вторым режиссёром для фильма <person ref="bondarchuk">Бондарчука</person>
-			<title ref="warAndPeace">Война и Мир</title>, если вы когда-нибудь смотрели фильм «Война
-			и Мир», четырехсерийнный фильм, который выиграл Оскара, как лучший иностранный фильм, то
-			там вторым режиссёром был этот самый <person ref="rubichnik">Рубинчик</person>. <title
-				ref="savageHuntKingStakh">Дикая Охота Короля Стаха</title> это был <epit
-				ref="savageHuntKingStakh">такой очень страшный</epit>, <epit
-				ref="savageHuntKingStakh">мрачный</epit> фильм <epit ref="savageHuntKingStakh">со
-				всякой мистикой</epit>, но очень <epit ref="savageHuntKingStakh">красиво
-				снятый</epit>, фантастическая операторская работа. Поэтому сказать, что<pron
-				type="pers" number="sing">я</pron>люблю какой-то вот конкретный жанр, а остальные не
-				любил.<pron type="pers" number="sing">Я</pron>так сказать не могу. <hes type="lex"
-				>Ну</hes>,<pron type="pers" number="sing">я</pron>никогда особенно не любил типа вот
-			такое кино типа там “Тупой и ещё Тупее” не… такое кино, на которое ходят поесть
+			совершенно блестящая работа такого режиссёрa <person ref="rubinchik">Pубинчика</person>,
+			который знаменит ещё тем, что он был вторым режиссёром для фильма <person
+				ref="bondarchuk">Бондарчука</person>
+			<title ref="warAndPeace">Война и Мир</title>, если вы когда-нибудь смотрели фильм <title
+				ref="warAndPeace">«Война и Мир»</title>, четырехсерийнный фильм, который выиграл
+			Оскара, как лучший иностранный фильм, то там вторым режиссёром был этот самый <person
+				ref="rubichnik">Рубинчик</person>. <title ref="savageHuntKingStakh">Дикая Охота
+				Короля Стаха</title> это был <epit ref="savageHuntKingStakh">такой очень
+				страшный</epit>, <epit ref="savageHuntKingStakh">мрачный</epit> фильм <epit
+				ref="savageHuntKingStakh">со всякой мистикой</epit>, но очень <epit
+				ref="savageHuntKingStakh">красиво снятый</epit>, фантастическая операторская работа.
+			Поэтому сказать, что<pron type="pers" number="sing">я</pron>люблю какой-то вот
+			конкретный жанр, а остальные не любил.<pron type="pers" number="sing">Я</pron>так
+			сказать не могу. <hes type="lex">Ну</hes>,<pron type="pers" number="sing"
+			>я</pron>никогда особенно не любил типа вот такое кино типа там <title
+				ref="dumbAndDumber">Тупой и ещё Тупее</title>… такое кино, на которое ходят поесть
 			попкорна. Вот такое кино<pron type="pers" number="sing">я</pron>скорее не люблю, и
 			никогда не любил. </speech>
 		<speech speaker="" speechttype=""> У вас были любимые актёры или актрисы? Кто и почему? </speech>
@@ -198,14 +200,19 @@
 		<speech speaker="" speechttype="">
 			<hes type="lex">Ну</hes>, у вас были любимые режиссёры? </speech>
 		<speech speaker="" speechttype=""> Да. режиссёры конечно. У меня есть любимыы режиссёры. Из
-			русских это Тарковский прежде всего, конечно. Хотя, если уж так говорить, конечно,
-			Эйзенштейн, Дзига Вертов и так далее. A из западных<pron type="pers" number="sing"
-				>я</pron>очень люблю Бертолуччи не знаю <hes type="nonlex"/>
-			<pron type="pers" number="sing">я</pron>люблю Фон Триера, и<pron type="pers"
-				number="sing">я</pron>люблю Линча, и<pron type="pers" number="sing">я</pron>люблю
-			Гринуэя, и<pron type="pers" number="sing">я</pron>очень люблю итальянцев всяких разных,
-			и Пазолини, и Феллини и так далее и так далее. Очень классный Лео Каракс, такой
-			французский режиссёр, просто фантастический. <hes type="lex">Ну</hes> вот как-то так. </speech>
+			русских это <person ref="andreiTarkovskii">Тарковский</person> прежде всего, конечно.
+			Хотя, если уж так говорить, конечно, <person ref="eisenstein">Эйзенштейн</person>,
+				<person ref="vertov">Дзига Вертов</person> и так далее. A из западных<pron
+				type="pers" number="sing">я</pron>очень люблю <person ref="bertolucci"
+				>Бертолуччи</person> не знаю <hes type="nonlex"/>
+			<pron type="pers" number="sing">я</pron>люблю <person ref="vonTrier">Фон
+			Триера</person>, и<pron type="pers" number="sing">я</pron>люблю <person ref="lynch"
+				>Линча</person>, и<pron type="pers" number="sing">я</pron>люблю <person
+				ref="greenaway">Гринуэя</person>, и<pron type="pers" number="sing">я</pron>очень
+			люблю итальянцев всяких разных, и <person ref="pasolini">Пазолини</person>, и <person
+				ref="fellini">Феллини</person> и так далее и так далее. Очень классный <person
+				ref="carax">Лео Каракс</person>, такой французский режиссёр, просто фантастический.
+				<hes type="lex">Ну</hes> вот как-то так. </speech>
 		<speech speaker="" speechttype=""> Вы помните какой-нибудь фильм или посещение кино
 			особенно? </speech>
 		<speech speaker="" speechttype="">
@@ -229,7 +236,7 @@
 			знали, на что<pron type="pers" number="plur">мы</pron> идём. Фильм. Его уже можно
 			посмотреть в сети. Назывался он <title ref="pinkCloud">Розовое Облако</title>, по-моему,
 				если<pron type="pers" number="sing">я</pron>не ошибаюсь. Как оказалось, эта было
-				<epit ref="pinkCloud">самая настоящая порнуха</epit>. Вот <epit ref="porno"
+				<epit ref="pinkCloud">самая настоящая <genre ref="porno">порнуха</genre></epit>. Вот <epit ref="porno"
 				>нормальное эстетическое</epit>
 			<genre ref="porno">порно</genre>. Включающее там <hes type="nonlex"/> как бы сказать
 			поприличнее? взаимодействие актёров с арбузами <hes type="nonlex"/> всякие извращённые
@@ -374,7 +381,7 @@
 				number="sing">я</pron>старый человек. Когда мне было там, до восемнадцати
 					лет,<collective><pron type="poss" number="plur">у нас</pron> не было вообще
 				никаких возрастных ограничений.</collective> Любой человек пусть даже, не знаю,
-			трёхлетнего возраста мог прийти на любую порнуху, и это было абсолютно легально и
+			трёхлетнего возраста мог прийти на любую <genre ref="porno">порнуху</genre>, и это было абсолютно легально и
 			законно. Собственно, эти законы о возрастных ограничениях, аналогичные, кстати, тем
 			который действуют в США, эти законы были введены буквально пару лет назад. </speech>
 		<speech speaker="" speechttype=""> Как вы узнавали о репертуаре кинотеатров? О качестве
@@ -414,13 +421,15 @@
 			тему в будущем? </speech>
 		<speech speaker="" speechttype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>бы посоветовал такого
-			<person ref="chuvilyaev">Ивана Чувиляева</person>. Он тоже кинокритик. Это молодой человек моего возраста. Он кинокритик.
-			Он мало того, что кинокритик, oн устроитель нескольких кинофестивалей. Этот человек,
-			который очень хорошо разбирается в современном мировом и, в особенности, конечно,
-			<nationalCinema ref="russianCinema">Российском кино</nationalCinema>. Вот если просто <hes type="nonlex"/>
+				<person ref="chuvilyaev">Ивана Чувиляева</person>. Он тоже кинокритик. Это молодой
+			человек моего возраста. Он кинокритик. Он мало того, что кинокритик, oн устроитель
+			нескольких кинофестивалей. Этот человек, который очень хорошо разбирается в современном
+			мировом и, в особенности, конечно, <nationalCinema ref="russianCinema">Российском
+				кино</nationalCinema>. Вот если просто <hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, такие вопросы ему глупо задавать, но если вы будете
-			интересоваться <nationalCinema ref="russianCinema">русским кино</nationalCinema>, то он вам может рассказать столько всего, что просто у вас
-			глаза на лоб полезут. А он знает какие-то штуки, которые снимаются где-то в <place ref="siberia">Сибири</place>,
+			интересоваться <nationalCinema ref="russianCinema">русским кино</nationalCinema>, то он
+			вам может рассказать столько всего, что просто у вас глаза на лоб полезут. А он знает
+			какие-то штуки, которые снимаются где-то в <place ref="siberia">Сибири</place>,
 			какими-то там энтузиастами на собственные деньги. Он всё это знает, всё это смотрел, и
 			может про это рассказать. </speech>
 		<speech speaker="" speechttype=""> Большое спасибо за интервью. Это всё. </speech>
