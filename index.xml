@@ -507,12 +507,122 @@
 
     </persons>
     <titles>
-        <title xml:id="example2">
-            <medium>lit</medium>
-            <country/>
-            <genre/>
-            <year>1234</year>
+        <title xml:id="alladin">
+            <fullTitle>Alladin</fullTitle>
+            <director>Ron Clements and John Musker</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>disney</genre>
+            <year>1992</year>
         </title>
+        
+        <title xml:id="theLittleMermaid">
+            <fullTitle>The Little Mermaid</fullTitle>
+            <director>Ron Clements and John Musker</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>disney</genre>
+            <year>1989</year>
+        </title>
+        
+        <title xml:id="beautyBeast">
+            <fullTitle>Beauty and the Beast</fullTitle>
+            <director>Gary Trousdale and Kirk Wise</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>disney</genre>
+            <year>1991</year>
+        </title>
+        
+        <title xml:id="playingVictim">
+            <fullTitle>Playing the Victim</fullTitle>
+            <director>Kirill Serebrennikov</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>black comedy</genre>
+            <year>2006</year>
+        </title>
+        
+        <title xml:id="straightStory">
+            <fullTitle>The Straight Story</fullTitle>
+            <director>David Lynch</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>drama</genre>
+            <year>1999</year>
+        </title>
+        
+        <title xml:id="wildHeart">
+            <fullTitle>Wild at Heart</fullTitle>
+            <director>David Lynch</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>crime thriller</genre>
+            <year>1990</year>
+        </title>
+        
+        <title xml:id="melancholy">
+            <fullTitle>Melancholia</fullTitle>
+            <director>Lars von Trier</director>
+            <medium>film</medium>
+            <country>Denmark</country>
+            <genre>artistic</genre>
+            <year>2011</year>
+        </title>
+        
+        <title xml:id="moodForLove">
+            <fullTitle>In the Mood for Love</fullTitle>
+            <director>Wong Kar-wai</director>
+            <medium>film</medium>
+            <country>China</country>
+            <genre>artistic</genre>
+            <year>2000</year>
+        </title>
+        
+        <title xml:id="mavericks">
+            <fullTitle>Chasing Mavericks</fullTitle>
+            <director>Curtis Hanson and Michael Apted</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>drama</genre>
+            <year>2012</year>
+        </title>
+        
+        <title xml:id="piratesCaribbean">
+            <fullTitle>Pirates of the Caribbean: Dead Man's Chest</fullTitle>
+            <director>Gore Verbinski</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>fantasy</genre>
+            <year>2006</year>
+        </title>
+        
+        
+        <title xml:id="aceVentura">
+            <fullTitle>Ace Ventura: Pet Detective</fullTitle>
+            <director>Tom Shadyac</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>1994</year>
+        </title>
+        
+        
+        <title xml:id="aceVentura">
+            <fullTitle>Ace Ventura: Pet Detective</fullTitle>
+            <director>Tom Shadyac</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>1994</year>
+        </title>
+        
+        
+        
+        
+        
+        
+        
 
     </titles>
     
@@ -546,6 +656,7 @@
         <genre_meta xml:id="documentary"/>
         <genre_meta xml:id="classics"/>
         <genre_meta xml:id="patrioticFilms"/>
+        <genre_meta xml:id="fantasy"/>
         
     </genres_meta>
 
