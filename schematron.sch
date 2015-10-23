@@ -2,8 +2,6 @@
 <sch:schema xmlns:sch="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt2"
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process"
     xmlns="http://purl.oclc.org/dsdl/schematron">
-    
-    
     <pattern>
         <let name="metaPersons" value="doc('index.xml')//metaPersons/person/@xml:id"/>
         <rule context="meta/persons/*/@ref">
@@ -40,11 +38,9 @@
             <assert test=". = $nationalCinemas">All natCinema references must correspond to a natCinema in the index.</assert>
         </rule>
     </pattern>
-<!--  Do we need more specific constraints for these references?
-    -->
     <pattern>
         <let name="epit" value="doc('index.xml')//*/@xml:id"/>
-        <rule context="nationalCinema/@ref">
+        <rule context="epit/@ref">
             <assert test=". = $epit">All epithets must correspond to an entry in the index.</assert>
         </rule>
     </pattern>
