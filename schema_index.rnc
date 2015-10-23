@@ -17,11 +17,10 @@ id = attribute xml:id { xsd:ID }
 
 #titles
 titles = element titles {title+}
-title = element title {medium, country, genre, era, year, id} 
+title = element title {medium, country, genre, year, id} 
 medium = element medium {"film" | "television" | "lit"}
 country = element country {text}
 genre = element genre {text}
-era = element era {text}
 year = element year {xsd:int}
 
 
