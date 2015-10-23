@@ -44,7 +44,7 @@
 
 
 
-        <speech speaker="" speechtype="">Сегодня пятое июля две тысячи четырнадцотого года. Мы
+        <speech speaker="" speechtype="q">Сегодня пятое июля две тысячи четырнадцотого года. Мы
             находимся в Санкт-Петербурге, в России. Меня зовут Оливия Вилкинсон, моя коллега и я
             берём интервью у Алексея Игориевича Павлова. Мы берём у вас интервью для кинопроекта,
             который изучает общественную, политическую, и культурную историю России через фильмы. Мы
@@ -55,237 +55,241 @@
             готовность поделиться вашими воспоминаниями и за Вашу помощь нам. Это интервью будет
             доступно для прослушивания на интернетсайте кинопроекта. Если вы не против, давайте
             начнём.</speech>
-        <speech speaker="" speechtype="">Расскажите нам, когда и где Вы выросли.</speech>
-        <speech speaker="" speechtype="">Я родился и вырос в <place ref="stPetersburg">Санкт
+        <speech speaker="" speechtype="q">Расскажите нам, когда и где Вы выросли.</speech>
+        <speech speaker="" speechtype="a">Я родился и вырос в <place ref="stPetersburg">Санкт
                 Петербурге</place>. Родился в 1977 году.</speech>
-        <speech speaker="" speechtype="">Где работали ваши папа и мама? </speech>
-        <speech speaker="" speechtype="">Папа работал спортивным тренером, а мама работала в
+        <speech speaker="" speechtype="q">Где работали ваши папа и мама? </speech>
+        <speech speaker="" speechtype="a">Папа работал спортивным тренером, а мама работала в
             торговле.</speech>
-        <speech speaker="" speechtype="">Какое у вас образование? </speech>
-        <speech speaker="" speechtype="">Я окончил Санкт-Петербургский Государственный Университет,
+        <speech speaker="" speechtype="q">Какое у вас образование? </speech>
+        <speech speaker="" speechtype="a">Я окончил Санкт-Петербургский Государственный Университет,
             филологический факультет, и аспирантуру, филологического факультета.</speech>
-        <speech speaker="" speechtype="">В каких городах вы жили? </speech>
-        <speech speaker="" speechtype="">Я жил в самом <place ref="stPetersburg">Санкт
+        <speech speaker="" speechtype="q">В каких городах вы жили? </speech>
+        <speech speaker="" speechtype="a">Я жил в самом <place ref="stPetersburg">Санкт
                 Петербурге</place>, кроме того в <place ref="philadelphia">Филадельфии</place> и в
                 <place ref="seoul">Сеуле</place>.</speech>
-        <speech speaker="" speechtype="">Когда вы переехали в Санкт Петербург? </speech>
-        <speech speaker="" speechtype="">Я не переезжал. Я здесь родился. </speech>
-        <speech speaker="" speechtype="">Хорошо. Вы помните первый раз когда вы ходили в
+        <speech speaker="" speechtype="q">Когда вы переехали в Санкт Петербург? </speech>
+        <speech speaker="" speechtype="a">Я не переезжал. Я здесь родился. </speech>
+        <speech speaker="" speechtype="q">Хорошо. Вы помните первый раз когда вы ходили в
             кино?</speech>
-        <speech speaker="" speechtype="">Самый первый не могу сказать, но, вероятно, где-то лет
+        <speech speaker="" speechtype="a">Самый первый не могу сказать, но, вероятно, где-то лет
             четырнадцать.</speech>
-        <speech speaker="" speechtype="">Хорошо. Какие фильмы вы посмотрели?</speech>
-        <speech speaker="" speechtype="">Тогда? Тогда <hes type="lex">наверно</hes>
+        <speech speaker="" speechtype="q">Хорошо. Какие фильмы вы посмотрели?</speech>
+        <speech speaker="" speechtype="a">Тогда? Тогда <hes type="lex">наверно</hes>
             <hes type="nonlex"/> Это был фильм <hes type="nonlex"/>
             <title ref="piratesOfTheTwentiethCentury">Пираты двадцатого века</title>, вероятно. Это
             один из первых <genre ref="action">боевиков</genre>, который вышeл в советское
             время.</speech>
-        <speech speaker="" speechtype="">Сколько вам было лет? </speech>
-        <speech speaker="" speechtype="">Четырнадцать. </speech>
-        <speech speaker="" speechtype="">С кем вы ходили в кино? </speech>
-        <speech speaker="" speechtype="">С подругой, конечно. </speech>
-        <speech speaker="" speechtype="">Сколько стоил билет? </speech>
-        <speech speaker="" speechtype="">
+        <speech speaker="" speechtype="q">Сколько вам было лет? </speech>
+        <speech speaker="" speechtype="a">Четырнадцать. </speech>
+        <speech speaker="" speechtype="q">С кем вы ходили в кино? </speech>
+        <speech speaker="" speechtype="a">С подругой, конечно. </speech>
+        <speech speaker="" speechtype="q">Сколько стоил билет? </speech>
+        <speech speaker="" speechtype="a">
             <hes type="nonlex"/> Боюсь ошибиться, но, вероятно, где-то около двух рублей.</speech>
-        <speech speaker="" speechtype="">Как называется кинотеатр? </speech>
-        <speech speaker="" speechtype="">Этого <place ref="kinoteatrFestival">кинотеатр
+        <speech speaker="" speechtype="q">Как называется кинотеатр? </speech>
+        <speech speaker="" speechtype="a">Этого <place ref="kinoteatrFestival">кинотеатр
                 Фестиваль</place>. </speech>
-        <speech speaker="" speechtype="">Опишите кинотеатр. .</speech>
-        <speech speaker="" speechtype="">Немножко <epit ref="kinoteatrFestival">похож на
+        <speech speaker="" speechtype="q">Опишите кинотеатр.</speech>
+        <speech speaker="" speechtype="a">Немножко <epit ref="kinoteatrFestival">похож на
                 крематорий</epit>, как где людей сжигают. <epit ref="kinoteatrFestival">Немножко
                 серый</epit>, скучный вид. Внутри деревянные кресла, как обычно в советских
             кинотеатрах, и достаточно большой зал.</speech>
-        <speech speaker="" speechtype="">Вы ходили пешком, или вы ездили?</speech>
-        <speech speaker="" speechtype="">Конечно пешком, кинотеатр в <place ref="sovietUnion"
+        <speech speaker="" speechtype="q">Вы ходили пешком, или вы ездили?</speech>
+        <speech speaker="" speechtype="a">Конечно пешком, кинотеатр в <place ref="sovietUnion"
                 >Советском Союзе</place> обычно находился в каждом <place ref="microRegion"
                 >микрорайоне</place>.</speech>
-        <speech speaker="" speechtype="">У вас было один кинотеатр или больше около дома?</speech>
-        <speech speaker="" speechtype="">Мм, один. В микрорайоне всегда находился один. И второй
+        <speech speaker="" speechtype="q">У вас было один кинотеатр или больше около дома?</speech>
+        <speech speaker="" speechtype="q">Мм, один. В микрорайоне всегда находился один. И второй
             находился чуть дальше. И основной кинотеатр всегда был где-то в <place ref="cityCenter"
                 >центре</place>.</speech>
-        <speech speaker="" speechtype="">А, что вы чувствовали когда вы ходили в кинотеатр?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, как развлечение. Исключительно
+        <speech speaker="" speechtype="q">А, что вы чувствовали когда вы ходили в
+            кинотеатр?</speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, как развлечение. Исключительно
             как досуг. Желание провести время хорошо.</speech>
-        <speech speaker="" speechtype="">Когда вы начали ходить в кинотеатр один?</speech>
-        <speech speaker="" speechtype="">Один? Не я никогда не ходил один.</speech>
-        <speech speaker="" speechtype="">Хорошо. Как часто вы ходили в кино?</speech>
-        <speech speaker="" speechtype="">А, когда я был студентом, <hes type="lex">наверно</hes>
+        <speech speaker="" speechtype="q">Когда вы начали ходить в кинотеатр один?</speech>
+        <speech speaker="" speechtype="a">Один? Не я никогда не ходил один.</speech>
+        <speech speaker="" speechtype="q">Хорошо. Как часто вы ходили в кино?</speech>
+        <speech speaker="" speechtype="a">А, когда я был студентом, <hes type="lex">наверно</hes>
             раза три-четыре в неделю. Но в настоящее время раз в месяц, <hes type="lex">может
                 быть</hes>.</speech>
-        <speech speaker="" speechtype="">Ходить в кино - это была обычное дело или особое
+        <speech speaker="" speechtype="q">Ходить в кино - это была обычное дело или особое
             событие?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes> это как вариант досуга, и обычно
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes> это как вариант досуга, и обычно
             это или с друзьями, или с подругой. Поэтому к какому-то событию приуроченное
             действие.</speech>
-        <speech speaker="" speechtype="">Как посещение кино изменилось, когда вы выросли, закончили
+        <speech speaker="" speechtype="q">Как посещение кино изменилось, когда вы выросли, закончили
             школу, поженились?</speech>
-        <speech speaker="" speechtype="">Тогда это стало одним из вариантов, скажем так, продолжения
-            досуга. После ресторана зайти в кино или сначала кино, потом ресторан. То есть, это уже
-            как шоу, потому что и кинотеатры изменились, и фильмы изменились. Все стало
-            другим.</speech>
-        <speech speaker="" speechtype="">Хорошо. Какие были ваши самы любимые жанры в
+        <speech speaker="" speechtype="a">Тогда это стало одним из вариантов, скажем так,
+            продолжения досуга. После ресторана зайти в кино или сначала кино, потом ресторан. То
+            есть, это уже как шоу, потому что и кинотеатры изменились, и фильмы изменились. Все
+            стало другим.</speech>
+        <speech speaker="" speechtype="q">Хорошо. Какие были ваши самы любимые жанры в
             детстве?</speech>
-        <speech speaker="" speechtype="">В детстве? Наверно, <genre ref="warFilms">боевик</genre>. </speech>
-        <speech speaker="" speechtype="">Какие были ваши самые любимы жанры, когда вы были
+        <speech speaker="" speechtype="a">В детстве? Наверно, <genre ref="warFilms">боевик</genre>. </speech>
+        <speech speaker="" speechtype="q">Какие были ваши самые любимы жанры, когда вы были
             студентами?</speech>
-        <speech speaker="" speechtype="">Студентами? Наверно, <genre ref="comedy">комедия</genre>,
+        <speech speaker="" speechtype="a">Студентами? Наверно, <genre ref="comedy">комедия</genre>,
             больше всего, комедия.</speech>
-        <speech speaker="" speechtype="">У вас есть любимый фильм? </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>м мой любимый <nationalCinema
+        <speech speaker="" speechtype="q">У вас есть любимый фильм? </speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>м мой любимый <nationalCinema
                 ref="americanCinema">фильм американский</nationalCinema>. Или нужно из
                 <nationalCinema ref="russianCinema">российских</nationalCinema>, <nationalCinema
                 ref="sovietCinema">советских</nationalCinema>? Из <nationalCinema
                 ref="americanCinema">американских</nationalCinema> это <title ref="godfather"
                 >Схватка</title> с <person ref="deNiro">Робертом Де Ниро</person> и <person
                 ref="pacino">Аль Пачино</person>.</speech>
-        <speech speaker="" speechtype="">У вас были любимые актеры, актрисы в зарубежном
+        <speech speaker="" speechtype="q">У вас были любимые актеры, актрисы в зарубежном
             кино?</speech>
-        <speech speaker="" speechtype="">В <nationalCinema ref="foreignCinema"
+        <speech speaker="" speechtype="a">В <nationalCinema ref="foreignCinema"
                 >зарубежном</nationalCinema> да. <person ref="deNiro">Роберт Де Ниро</person>. Из
             актрис не могу выбрать. Наверное, нет.</speech>
-        <speech speaker="" speechtype="">Вы помните какой-нибудь фильм или посещение кино
+        <speech speaker="" speechtype="q">Вы помните какой-нибудь фильм или посещение кино
             особенно?</speech>
-        <speech speaker="" speechtype="">Наверное, одно из первых посещений в бытность студентом.
+        <speech speaker="" speechtype="a">Наверное, одно из первых посещений в бытность студентом.
             Тогда мы ходили в <place ref="kinoteatrAurora">кинотеатр Аврора</place>. В настоящее
             время он тоже существует. И, в основном, там показывают или <epit ref="sovietCinema"
                 >старое</epit>
             <nationalCinema ref="sovietCinema">советское кино</nationalCinema>, или какие-то новинки
                 <nationalCinema ref="russianCinema">российского кино</nationalCinema>. Это было
             достаточно интересно.</speech>
-        <speech speaker="" speechtype="">Как вы проводили свободное время, кроме посещения
+        <speech speaker="" speechtype="q">Как вы проводили свободное время, кроме посещения
             кино?</speech>
-        <speech speaker="" speechtype="">Ходили в студенческое время, да? ездили за город, ходили в
+        <speech speaker="" speechtype="a">Ходили в студенческое время, да? ездили за город, ходили в
             бары, как обычно, все студенты делают.</speech>
-        <speech speaker="" speechtype="">С кем вы обычно ходили в кино? </speech>
-        <speech speaker="" speechtype="">С одногрупниками, однокурсниками. С друзьями.</speech>
-        <speech speaker="" speechtype="">Больше мужчин или женщин? </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, это, к сожалению или к счастью,
+        <speech speaker="" speechtype="q">С кем вы обычно ходили в кино? </speech>
+        <speech speaker="" speechtype="a">С одногрупниками, однокурсниками. С друзьями.</speech>
+        <speech speaker="" speechtype="q">Больше мужчин или женщин? </speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, это, к сожалению или к счастью,
             филологический факультет, это больше девушек.Поэтому в основном, это девушки,
             конечно.</speech>
-        <speech speaker="" speechtype="">Люди чаще ходили в кино семьями или с друзьями и
+        <speech speaker="" speechtype="q">Люди чаще ходили в кино семьями или с друзьями и
             подругами?</speech>
-        <speech speaker="" speechtype="">
+        <speech speaker="" speechtype="a">
             <hes type="lex">Ну</hes>, конечно с друзьями, с подругами, потому что семьями это не так
             популярно в России ходить.</speech>
-        <speech speaker="" speechtype="">Как люди одевались в кино? </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, абсолютно свободный стиль одежды,
-            потому что <place ref="movietheater">кинотеатр</place> в <place ref="russia"
+        <speech speaker="" speechtype="q">Как люди одевались в кино? </speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, абсолютно свободный стиль
+            одежды, потому что <place ref="movietheater">кинотеатр</place> в <place ref="russia"
                 >России</place> не театр. В театр есть определённый “дресс код,” когда необходим
             костюм, а девушке платье. В кино джинсы, рубашка, свитер <hes type="nonlex"/> это вполне
             нормально.</speech>
-        <speech speaker="" speechtype="">Вы знали людей, которые работали в кинотеатрах?</speech>
-        <speech speaker="" speechtype="">Да, конечно. Я знал человека, который был директором
+        <speech speaker="" speechtype="q">Вы знали людей, которые работали в кинотеатрах?</speech>
+        <speech speaker="" speechtype="a">Да, конечно. Я знал человека, который был директором
             кинотеатра. <place ref="kinoteatrMaksim">Кинотеатра Максим</place> (такой был
             кинотеатр).</speech>
-        <speech speaker="" speechtype="">Какая была атмосфера в кинотеатре?</speech>
-        <speech speaker="" speechtype="">В советское время или в российское время? <hes type="lex"
+        <speech speaker="" speechtype="q">Какая была атмосфера в кинотеатре?</speech>
+        <speech speaker="" speechtype="a">В советское время или в российское время? <hes type="lex"
                 >Ну</hes>, это большая разница, потому что в советское время это была одна
             атмосфера, а в российское, <hes type="lex">наверно</hes>е, когда появился попкорн и всё
             остальное, это другая атмосфера, больше как кино в качестве атрибута еды, разговоров. А
             в советское время люди ходили посмотреть фильм.</speech>
-        <speech speaker="" speechtype="">Кресла были удобные?</speech>
-        <speech speaker="" speechtype="">Извините, удобные когда? </speech>
-        <speech speaker="" speechtype="">Кресла</speech>
-        <speech speaker="" speechtype="">В советское время, конечно, нет. Это были деревянные
+        <speech speaker="" speechtype="q">Кресла были удобные?</speech>
+        <speech speaker="" speechtype="a">Извините, удобные когда? </speech>
+        <speech speaker="" speechtype="q">Кресла</speech>
+        <speech speaker="" speechtype="a">В советское время, конечно, нет. Это были деревянные
             кресла. С минимальным <hes type="nonlex"/> с минимальной обивкой. Кожезаменителем. В
             настоящее время, конечно, это удобные кресла.</speech>
-        <speech speaker="" speechtype="">В кино было холодно, тепло, жарко?</speech>
-        <speech speaker="" speechtype="">В советское время все зависело от времени года. Если
+        <speech speaker="" speechtype="q">В кино было холодно, тепло, жарко?</speech>
+        <speech speaker="" speechtype="a">В советское время все зависело от времени года. Если
             холодно, тогда лучше пальто не снимать. В настоящее время кондиционеры стоят. В
             зависимости от того, как удобней.</speech>
-        <speech speaker="" speechtype="">Кинотеатр был большой? </speech>
-        <speech speaker="" speechtype="">Раньше, в советское время, все кинотеатры были <epit
+        <speech speaker="" speechtype="q">Кинотеатр был большой? </speech>
+        <speech speaker="" speechtype="a">Раньше, в советское время, все кинотеатры были <epit
                 ref="kino">однотипные</epit>. Обычно это один зал и он достаточно большой. На
             пятьдесят зрителей. В наше дни это несколько маленьких залов. Где-то на семь рядов.
             Поэтому это другая тенденция, другая идея.</speech>
-        <speech speaker="" speechtype="">Был буфет? </speech>
-        <speech speaker="" speechtype="">Буфет. Конечно. Конечно. Да. <hes type="lex">Ну</hes>,
+        <speech speaker="" speechtype="q">Был буфет? </speech>
+        <speech speaker="" speechtype="a">Буфет. Конечно. Конечно. Да. <hes type="lex">Ну</hes>,
             конечно, буфет не как в театре. Шампанское никто в перерыве не пил. Но в советское время
             да, был буфет, можно было сьесть пирожок.</speech>
-        <speech speaker="" speechtype="">Были в кинотеатре билетёры? </speech>
-        <speech speaker="" speechtype="">Да я думаю, всегда были. Обычно это женщины пожилого
+        <speech speaker="" speechtype="q">Были в кинотеатре билетёры? </speech>
+        <speech speaker="" speechtype="a">Да я думаю, всегда были. Обычно это женщины пожилого
             возраста, как в театре. И даже была у них какая-то униформа, как я помню, в советское
             время.</speech>
-        <speech speaker="" speechtype="">Где вы любили сидеть и почему? </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, поскольку я ходил с подругой, я
+        <speech speaker="" speechtype="q">Где вы любили сидеть и почему? </speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, поскольку я ходил с подругой, я
             предпочитал последний ряд. Самый удобный. И желательно боковые места.</speech>
-        <speech speaker="" speechtype="">Хорошо. Фильмы были немые или звуковые?</speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, конечно, звуковые. Конечно
+        <speech speaker="" speechtype="q">Хорошо. Фильмы были немые или звуковые?</speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, конечно, звуковые. Конечно
             звуковые. Потому что я не припомню, чтобы фильмы, например с <person ref="chaplin">Чарли
                 Чаплиным</person> показывали в советском прокате.</speech>
-        <speech speaker="" speechtype="">Чёрно-белыe или цветные? </speech>
-        <speech speaker="" speechtype="">Конечно цветные, безусловно. </speech>
-        <speech speaker="" speechtype="">Какое было качество? </speech>
-        <speech speaker="" speechtype="">Думаю что, качество <hes type="nonlex"/> всё познается в
+        <speech speaker="" speechtype="q">Чёрно-белыe или цветные? </speech>
+        <speech speaker="" speechtype="a">Конечно цветные, безусловно. </speech>
+        <speech speaker="" speechtype="q">Какое было качество? </speech>
+        <speech speaker="" speechtype="a">Думаю что, качество <hes type="nonlex"/> всё познается в
             сравнении, если сравнивать с современным киноматографом, то конечно, оно уступало. Но,
             на то время, вполне, никто не жаловался. Было хорошо.</speech>
-        <speech speaker="" speechtype="">Какие фильмы были самые популярные у зрителей, и
+        <speech speaker="" speechtype="q">Какие фильмы были самые популярные у зрителей, и
             почему?</speech>
-        <speech speaker="" speechtype="">Я думаю, что комедии, в основном, были популярные, и я
+        <speech speaker="" speechtype="a">Я думаю, что комедии, в основном, были популярные, и я
             застал 80ые годы. Тогда, <hes type="lex">наверно</hes>, появились детективы, мода на
             детективы, <person ref="christie">Агата Кристи</person>, экранизация фильмов Агаты
             Кристи Вот, например, <title ref="tenLittleIndians">Десять негритят</title> был очень
             популярный фильм.</speech>
-        <speech speaker="" speechtype="">В кинотеатрах часто показывали иностранные фильмы?</speech>
-        <speech speaker="" speechtype="">Нет. Советском союзе, в принципе, в кинотеатре можно были
+        <speech speaker="" speechtype="q">В кинотеатрах часто показывали иностранные
+            фильмы?</speech>
+        <speech speaker="" speechtype="a">Нет. Советском союзе, в принципе, в кинотеатре можно были
             посмотреть <nationalCinema ref="indianCinema">индийские фильмы</nationalCinema> или
                 <nationalCinema ref="sovietCinema">советские фильмы</nationalCinema>. А
                 <nationalCinema ref="foreignCinema">иностранные фильмы</nationalCinema> других
             стран, конечно, редко показывали.</speech>
-        <speech speaker="" speechtype="">Были ли фильмы, на которые нельзя было ходить
+        <speech speaker="" speechtype="q">Были ли фильмы, на которые нельзя было ходить
             детям?</speech>
-        <speech speaker="" speechtype=""> Конечно было. Было возрастное ограничение, 16 лет. Детям
+        <speech speaker="" speechtype="a"> Конечно было. Было возрастное ограничение, 16 лет. Детям
             до 16 лет нельзя было смотреть фильмы, где есть сцены, которые связаны с поцелуями,
             например.</speech>
-        <speech speaker="" speechtype="">Вы помните какой-нибудь фильм, у которого были проблемы с
+        <speech speaker="" speechtype="q">Вы помните какой-нибудь фильм, у которого были проблемы с
             выходом на экран?</speech>
-        <speech speaker="" speechtype="">Была определённая история, насколько я помню, с фильмом
-            <title ref="coldSummer">Холодное лето</title> пятьдесят третьего года, но, по-моему, когда я начал ходить в кинотеатр
-            уже такого не было, чтобы фильмы на полку клались.</speech>
-        <speech speaker="" speechtype="">Как вы узнали о репертуарах кинотеатров?</speech>
-        <speech speaker="" speechtype="">Репертуары? Не было никакой возможности узнавать, скажем,
+        <speech speaker="" speechtype="a">Была определённая история, насколько я помню, с фильмом
+                <title ref="coldSummer">Холодное лето</title> пятьдесят третьего года, но, по-моему,
+            когда я начал ходить в кинотеатр уже такого не было, чтобы фильмы на полку
+            клались.</speech>
+        <speech speaker="" speechtype="q">Как вы узнали о репертуарах кинотеатров?</speech>
+        <speech speaker="" speechtype="a">Репертуары? Не было никакой возможности узнавать, скажем,
             по интернету, потому что интернета не было. Узнавались по афишам. Точно так же как
             пожилое население в настоящее время узнаёт о репертуарах театров. По афишам.</speech>
-        <speech speaker="" speechtype="">Вы читали о фильмах в журналах?</speech>
-        <speech speaker="" speechtype="">Был журнал, конечно, Советское кино. Но я думаю, что он был
-            не популярен.</speech>
-        <speech speaker="" speechtype="">Ваши родители ходили в кино?</speech>
-        <speech speaker="" speechtype="">Я не помню, чтобы это было популярно в нашей
+        <speech speaker="" speechtype="q">Вы читали о фильмах в журналах?</speech>
+        <speech speaker="" speechtype="a">Был журнал, конечно, Советское кино. Но я думаю, что он
+            был не популярен.</speech>
+        <speech speaker="" speechtype="q">Ваши родители ходили в кино?</speech>
+        <speech speaker="" speechtype="a">Я не помню, чтобы это было популярно в нашей
             семье.</speech>
-        <speech speaker="" speechtype="">Хорошо. У вас был телевизор? </speech>
-        <speech speaker="" speechtype="">Конечно. </speech>
-        <speech speaker="" speechtype="">Когда вы купили его, вы ходили в кино больше или
+        <speech speaker="" speechtype="q">Хорошо. У вас был телевизор? </speech>
+        <speech speaker="" speechtype="a">Конечно. </speech>
+        <speech speaker="" speechtype="q">Когда вы купили его, вы ходили в кино больше или
             меньше?</speech>
-        <speech speaker="" speechtype="">Честно говоря, у меня и сейчас есть телевизор. Только я его
-            не смотрю. Но это<hes type="nonlex"/> Нет, я думаю нет прямой зависимости между
+        <speech speaker="" speechtype="a">Честно говоря, у меня и сейчас есть телевизор. Только я
+            его не смотрю. Но это<hes type="nonlex"/> Нет, я думаю нет прямой зависимости между
             телевизором и кинотеатром, потому что в кинотеатр всё-таки я иду, когда хочу услышать
             качественный звук. Или, например, фильм, если я хочу посмотреть без перевода, если это
             иностранный фильм.</speech>
-        <speech speaker="" speechtype="">Как ваше посещение кинотеатров изменилось со
+        <speech speaker="" speechtype="q">Как ваше посещение кинотеатров изменилось со
             временем?</speech>
-        <speech speaker="" speechtype="">Их стало меньше, потому что меньше времени. Поэтому меньше
+        <speech speaker="" speechtype="a">Их стало меньше, потому что меньше времени. Поэтому меньше
             посещений.</speech>
-        <speech speaker="" speechtype="">Вы сейчас ходите в кино? ? Редко.</speech>
-        <speech speaker="" speechtype="">Почему? </speech>
-        <speech speaker="" speechtype="">Нет времени.</speech>
-        <speech speaker="" speechtype="">Почему? </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, интервью даю. </speech>
-        <speech speaker="" speechtype=""><hes type="lex">Ну</hes>, что вы бы хотели добавитъ в
+        <speech speaker="" speechtype="q">Вы сейчас ходите в кино?</speech>
+        <speech speaker="" speechtype="a">Редко.</speech>
+        <speech speaker="" speechtype="q">Почему? </speech>
+        <speech speaker="" speechtype="a">Нет времени.</speech>
+        <speech speaker="" speechtype="q">Почему? </speech>
+        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, интервью даю. </speech>
+        <speech speaker="" speechtype="q">Ну, что вы бы хотели добавитъ в
             заключении?</speech>
-        <speech speaker="" speechtype="">Я думаю, что кинотеатр, и само кино, оно, конечно, должно
+        <speech speaker="" speechtype="a">Я думаю, что кинотеатр, и само кино, оно, конечно, должно
             развиваться. Но мне не совсем нравится, когда фильмы исключительно развлекательные.
-            Поэтому <genre ref="artistic">авторское кино</genre>, и <hes type="lex">может быть</hes> не мейстрим, то есть не
-            основное течение, <hes type="lex">может быть</hes> это должно быть больше. На мой
-            взгляд.</speech>
-        <speech speaker="" speechtype=""> У кого вы бы посоветовали нам взять интервью на эту же
+            Поэтому <genre ref="artistic">авторское кино</genre>, и <hes type="lex">может быть</hes>
+            не мейстрим, то есть не основное течение, <hes type="lex">может быть</hes> это должно
+            быть больше. На мой взгляд.</speech>
+        <speech speaker="" speechtype="q"> У кого вы бы посоветовали нам взять интервью на эту же
             тему в будущем?</speech>
-        <speech speaker="" speechtype="">Я думаю, что есть <hes type="nonlex"/> Для вашего проекта
+        <speech speaker="" speechtype="a">Я думаю, что есть <hes type="nonlex"/> Для вашего проекта
             было бы интересно взять, например, человека, который занимается профессионально. <hes
                 type="lex">Ну</hes>, скажем, какого-то критика, того же преподавателя, который
             занимается кинобизнесом, киноиндустрией, и взять человека, который очень далек от кино.
             И <hes type="lex">может быть</hes> на контрасте сравнить.</speech>
-        <speech speaker="" speechtype="">Большое спасибо за интервью. </speech>
-        <speech speaker="" speechtype="">Большое “не за что!” </speech>
+        <speech speaker="" speechtype="q">Большое спасибо за интервью. </speech>
+        <speech speaker="" speechtype="a">Большое “не за что!” </speech>
 
 
     </body>
