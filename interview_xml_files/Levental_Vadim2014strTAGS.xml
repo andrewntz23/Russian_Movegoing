@@ -37,7 +37,7 @@
 	</meta>
 
 	<body>
-		<speech speaker="leventalVadim" speechtype="a">Сегодня двадцать четвёртое июня две тысячи четырнадцатого
+		<speech speaker="" speechtype="">Сегодня двадцать четвёртое июня две тысячи четырнадцатого
 			года. Мы находится в Санкт Петербурге, Россия. Меня зовут Джулия Сили-Халл. Моя коллега
 			Оливия Вилкинсон и я берём интервью у Вадима Левенталя. Мы берём у вас интервью для
 			кино-проекта, который изучает общественную, политическую и культурную историю России
@@ -48,24 +48,24 @@
 			их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
 			помощь нам.Это интервью будет доступно для прослушивания на интернет-сайте кино-проекта.
 			Если вы не против, давайте начнём. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Давайте. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Расскажите нам, когда и где вы выросли? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> Давайте. </speech>
+		<speech speaker="" speechtype=""> Расскажите нам, когда и где вы выросли? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>родился в восемьдесят
 			первом году, родился в <place ref="leningrad">Ленинграде</place> и отсюда никуда в
 			общем-то надолго не уезжал, рос здесь, в <place ref="leningrad">Ленинграде</place>,
 			потом <place ref="stPetersburg">Санкт-Петербурге</place>, когда город переименовали. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Где работали ваши папа и мама? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Папа инженер -- програмист, всю жизнь что-нибудь
+		<speech speaker="" speechtype=""> Где работали ваши папа и мама? </speech>
+		<speech speaker="" speechtype=""> Папа инженер -- програмист, всю жизнь что-нибудь
 			программирует. Аа <hes type="nonlex"/> Мама моя была журналистом. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Какое у вас образование? </speech>
-		<speech speaker="leventalVadim" speechtype="a"><pron type="pers" number="sing">Я</pron>закончил
+		<speech speaker="" speechtype=""> Какое у вас образование? </speech>
+		<speech speaker="" speechtype=""><pron type="pers" number="sing">Я</pron>закончил
 			Санкт-Петербургский университет, филологический факультет, кафедру русской литературы. И
 			получается магистр. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> В каких городах вы жили? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> В <place ref="stPetersburg">Санкт-Петербурге</place>. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вы помните первый раз, когда вы ходили в кино? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> В каких городах вы жили? </speech>
+		<speech speaker="" speechtype=""> В <place ref="stPetersburg">Санкт-Петербурге</place>. </speech>
+		<speech speaker="" speechtype=""> Вы помните первый раз, когда вы ходили в кино? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>не уверен, что<pron
 				type="pers" number="sing">я</pron>помню самый первый раз. <hes type="lex">Ну</hes>,
 			разумеется, это было в каком-то очень нежном возрасте. Типа там года в три или, <hes
@@ -90,42 +90,42 @@
 				половиной недель</title>. И вот все платили за вход туда. То есть это можно считать
 			кинотеатром, да? Только там стоял <hes type="nonlex"/> там не было экрана -- там стоял
 			телевизор. Телевизор с видеомагнитофоном, и за это брали деньги. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Если вы помните, как назывался кинотеатр? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Нет, не помню. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вы ходили пешком, или ездили? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> Если вы помните, как назывался кинотеатр? </speech>
+		<speech speaker="" speechtype=""> Нет, не помню. </speech>
+		<speech speaker="" speechtype=""> Вы ходили пешком, или ездили? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, как днём на автобусе ездил наверняка. Мы тогда жили в таком
 			довольно отдалённом районе. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> У вас был один кинотеатр или больше около дома? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> У вас был один кинотеатр или больше около дома? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, совсем около дома был один <hes type="nonlex"/> да. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> А что вы чувствовали когда вы ходили в кинотеатр? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> А что вы чувствовали когда вы ходили в кинотеатр? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="nonlex"/> Очень сложный вопрос, не знаю, ничего особенного … Кинотеатр как
 				кинотеатр<hes type="nonlex"/>
 		</speech>
-		<speech speaker="leventalVadim" speechtype="a"> Когда вы начали ходить в кинотеатр один? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> Когда вы начали ходить в кинотеатр один? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, что значит один? Мне кажется, что<pron type="pers"
 				number="sing">я</pron>в кино, в смысле, чтобы прямо один ни разу в жизни не ходил.
 				<hes type="lex">Ну</hes>, какой же идиот ходит в кино один? <hes type="lex"
 			>Ну</hes>, вы имеете в виду, что с девушкой там да? или что? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Да </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> Да </speech>
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, очeвидно, лет в семнадцать или в восемнадцать, что-нибудь
 			такое. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> И вам нравилось ходить в кино? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype=""> И вам нравилось ходить в кино? </speech>
+		<speech speaker="" speechtype="">
 			<hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, да, и нравилось и нравится ходить в кино, если фильм хороший.
 			Если фильм плохой, то не очень <hes type="nonlex"/> Если вы об этом <hes type="nonlex"/>
 				просто,<pron type="pers" number="sing">я</pron>не очень понимаю <hes type="nonlex"/>
 			что вы имеете в виду? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, давайте дальше… Как часто вы ходили в кино, и на какие сеансы,
 			значит, утренние, дневные, вечерние? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>думаю, что<pron
 				type="pers" number="sing">я</pron>хожу в кино, наверно, раз двадцать в год. <hes
 				type="lex">Ну</hes>, в основном на вечерние, конечно, сеансы. На утренние
@@ -133,14 +133,14 @@
 			денег, и время свободное было. Утренние сеансы дешевле, соответсвенно, было проще ходить
 			на утренние на сеансы, заплатить меньше денег. <hes type="lex">Ну</hes> в основном,
 			конечно, самый «fun»--это пойти вечером, после кино пойти напиться, например. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> И ходить в кино—это было обычное дело или особое событие? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Да нет. <hes type="lex">Ну</hes>, в последние лет десять,
+		<speech speaker="" speechtype=""> И ходить в кино—это было обычное дело или особое событие? </speech>
+		<speech speaker="" speechtype=""> Да нет. <hes type="lex">Ну</hes>, в последние лет десять,
 			во всяком случае, даже больше лет пятнадцать это никакоe не особеное событие, это просто
 				<hes type="nonlex"/> В театр. например.<pron type="pers" number="sing">я</pron>хожу
 			гораздо реже. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> И как посещение кино изменилось, когда вы выросли,
+		<speech speaker="" speechtype=""> И как посещение кино изменилось, когда вы выросли,
 			закончили школу, и поженились? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Да никак особенно. Мы как ходили с женой в кино, так и
+		<speech speaker="" speechtype=""> Да никак особенно. Мы как ходили с женой в кино, так и
 			продолжили ходить. До сих пор иногда ходим. <hes type="nonlex"/> Изменилось в том
 			смысле, что когда<pron type="pers" number="sing">я</pron>там учился в школе, когда
 			заканчивал школу, кинотеатров было не так много, такого вот нового типа, что ли,
@@ -152,9 +152,9 @@
 			какой-нибудь «Долби Сураунд», и что-нибудь еще <hes type="nonlex"/> и там,<hes
 				type="lex"> ну </hes>и так далее, так далее, ещё кинoтеатры появились на каждoм
 			шагу. Яблоку негде упасть, везде кинотеатр. В этом смысле всё, что изменилось. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Какие были ваши самые любимые жанры в детстве? Как этo
+		<speech speaker="" speechtype=""> Какие были ваши самые любимые жанры в детстве? Как этo
 			изменилось? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>не знаю, какоe детствo
 			имеется в виду. Потому что в детстве вообще <collective>все</collective> смотрят <genre
 				ref="cartoon">мультики</genre>. Что касается фильмов.<pron type="pers" number="sing"
@@ -182,8 +182,8 @@
 				ref="dumbAndDumber">Тупой и ещё Тупее</title>… такое кино, на которое ходят поесть
 			попкорна. Вот такое кино<pron type="pers" number="sing">я</pron>скорее не люблю, и
 			никогда не любил. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> У вас были любимые актёры или актрисы? Кто и почему? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Нет,<pron type="poss" number="sing"> у меня</pron> нет и
+		<speech speaker="" speechtype=""> У вас были любимые актёры или актрисы? Кто и почему? </speech>
+		<speech speaker="" speechtype=""> Нет,<pron type="poss" number="sing"> у меня</pron> нет и
 			никогда не было любимых актёров или актрис…<pron type="pers" number="sing"
 			>Я</pron>поскольку сам немножко поучился на актёра,<pron type="pers" number="sing"
 				>я</pron>просто очень хорошо эту кухню знаю <hes type="nonlex"/><pron type="pers"
@@ -197,9 +197,9 @@
 			это абсолютно не важно. Для кино главное - это режиссёр. Если режиссёр хороший, он может
 			там ходить дворников снять, они будут очень хорошо выглядеть. Никакого актёрского
 			мастерства в кино совершенно не нужно. </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, у вас были любимые режиссёры? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Да. режиссёры конечно. У меня есть любимыы режиссёры. Из
+		<speech speaker="" speechtype=""> Да. режиссёры конечно. У меня есть любимыы режиссёры. Из
 			русских это <person ref="andreiTarkovskii">Тарковский</person> прежде всего, конечно.
 			Хотя, если уж так говорить, конечно, <person ref="eisenstein">Эйзенштейн</person>,
 				<person ref="vertov">Дзига Вертов</person> и так далее. A из западных<pron
@@ -213,9 +213,9 @@
 				ref="fellini">Феллини</person> и так далее и так далее. Очень классный <person
 				ref="carax">Лео Каракс</person>, такой французский режиссёр, просто фантастический.
 				<hes type="lex">Ну</hes> вот как-то так. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вы помните какой-нибудь фильм или посещение кино
+		<speech speaker="" speechtype=""> Вы помните какой-нибудь фильм или посещение кино
 			особенно? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, наверное, не знаю, что тут сказать. <hes type="lex">Ну</hes>
 			много было всяких <hes type="nonlex"/> наверное, можно вспомнить. Что имеется в виду?
@@ -243,11 +243,11 @@
 			формы сексуального поведения. А <pron type="poss" number="plur">наши</pron> друзья были
 			довольно пуританского нрава и на <genre ref="artistic">фестивальное кино</genre> впервые
 			в жизни выбрaлись <hes type="nonlex"/> После этого они с нами в кино не ходили. (Laughs) </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Сколько лет было в среднeм людям которые ходили в кино? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Было когда? Вы все время говорите про прошедшее время,
+		<speech speaker="" speechtype=""> Сколько лет было в среднeм людям которые ходили в кино? </speech>
+		<speech speaker="" speechtype=""> Было когда? Вы все время говорите про прошедшее время,
 			из-за этого<pron type="pers" number="sing">я</pron>нeмножко путаюсь. Было когда, или
 			сейчас?</speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>не знаю, когда<pron
 				type="pers" number="plur">мы</pron> ходили вон туда, например, в <place
 				ref="domKino">Дом кино</place>, там былa даже такая своебразная что ли тусовка, там
@@ -258,19 +258,19 @@
 				<title ref="worldWarZ">Война Миров Зет</title>, или там, но, или что-то типa
 			голливудская фигня, которая вышла только что и рекламируется широко, бу средний возраст
 			там будет повыше, лет сорок. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Больше мужчин или женщин? </speech>
-		<speech speaker="leventalVadim" speechtype="a"><pron type="pers" number="sing">Я</pron>думаю что,
+		<speech speaker="" speechtype=""> Больше мужчин или женщин? </speech>
+		<speech speaker="" speechtype=""><pron type="pers" number="sing">Я</pron>думаю что,
 			примерно порoвну. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Люди чаще ходили в кино семьями или с друзьями и
+		<speech speaker="" speechtype=""> Люди чаще ходили в кино семьями или с друзьями и
 			подругами? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>думаю, что примерно
 			одинаково. Ходят парочками, мальчик с девушкой, мальчик с мальчиком, девушка с девушкой.
 			Часто довольно такими компаниями.<hes type="lex"> ну </hes>видно, что пришли компания
 			смотришь там, вот четыре, пять, шесть человек, вот пришли смотреть. Такого вот, что один
 			вариант прямо преобладал над другим, я, наверное, не могу сказать. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Люди шумели или вели себя тихо во время сеанса? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вот, вот это, кстати, изменилось, да, потому что раньше
+		<speech speaker="" speechtype=""> Люди шумели или вели себя тихо во время сеанса? </speech>
+		<speech speaker="" speechtype=""> Вот, вот это, кстати, изменилось, да, потому что раньше
 				<collective>все</collective> смотрели кино тихо, молчали, а последнее время
 			считается современным не зазорным коментировать событие, которое находится на экране.
 			Там, хохотать, разговаривать во время сеанса. Это уже стало абсолютной нормой. Мы как-то
@@ -305,9 +305,9 @@
 			это было чудовищно смешно. Так что, в последнее время это считается абсолютно нормально,
 			во время сеанса и комментировать, и разговаривать, и хохотать, разными другими способами
 			выражать свою реакцию на увиденное на экране. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Опишите кинотеатр и если можно, сравните кинотеатр раньше
+		<speech speaker="" speechtype=""> Опишите кинотеатр и если можно, сравните кинотеатр раньше
 			с кинотеатрами сейчас. </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, как выглядел кинотеатр раньше можно посмотреть и сейчас. Можно
 			прийти, допустим, в <place ref="kinoteatrAurora">кинотеатр Аврора</place> на <place
 				ref="nevskiyProspekt">Невском проспекте</place>. Один из, ну, по содержанию, что там
@@ -349,9 +349,9 @@
 			поэтому, вот, зал<pron type="pers" number="sing">я</pron>очень полюбил и считаю его
 			замечательным. Там показывают оригинальные фильмы, с оригинальными дорожками и
 			субтитрами. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> В кинотеатре часто показывали инностранные фильмы или
+		<speech speaker="" speechtype=""> В кинотеатре часто показывали инностранные фильмы или
 			фильмы каких стран и какие фильмы вам нравились больше всего? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Но вообще-то как-то есть статистика наверняка какая-то на
+		<speech speaker="" speechtype=""> Но вообще-то как-то есть статистика наверняка какая-то на
 			эту тему. У нас ну, по-моему, если<pron type="pers" number="sing">я</pron>не ошибаюсь,
 			там что-то двадцать процентов только катается <nationalCinema ref="russianCinema"
 				>русского кино</nationalCinema>, а восемьдесят процентов это, конечно, кино
@@ -374,9 +374,9 @@
 				>австралийского</nationalCinema>, какого угодно ещё. Сказать, что мне больше всего
 			нравится <hes type="nonlex"/> но хотя, конечно, можно сказать, что самый великий
 			кинематограф итальянский, конечно. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вы пробовали пройти на фильм, на который вам нельзя было
+		<speech speaker="" speechtype=""> Вы пробовали пройти на фильм, на который вам нельзя было
 			пройти? Если да, расскажите о том, как это было. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Нет, нет, когда <hes type="nonlex"/> дело просто в том,
+		<speech speaker="" speechtype=""> Нет, нет, когда <hes type="nonlex"/> дело просто в том,
 				что<pron type="pers" number="sing">я</pron>вырос довольно давно,<pron type="pers"
 				number="sing">я</pron>старый человек. Когда мне было там, до восемнадцати
 					лет,<collective><pron type="poss" number="plur">у нас</pron> не было вообще
@@ -384,9 +384,9 @@
 			трёхлетнего возраста мог прийти на любую <genre ref="porno">порнуху</genre>, и это было абсолютно легально и
 			законно. Собственно, эти законы о возрастных ограничениях, аналогичные, кстати, тем
 			который действуют в США, эти законы были введены буквально пару лет назад. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Как вы узнавали о репертуаре кинотеатров? О качестве
+		<speech speaker="" speechtype=""> Как вы узнавали о репертуаре кинотеатров? О качестве
 			фильмов? О том, что стоит посмотреть? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, интернет конечно, какие-то интернет сайты. И есть какие-то
 			кинокритики, которым<pron type="pers" number="sing">я</pron>доверяю. Допустим, там,
 				<person ref="trofimenkov">Трофименков</person>, вкусу которого<pron type="pers"
@@ -402,9 +402,9 @@
 			доверять. И там же репертуары, конечно, есть сайты журналов, типа там “Афиша”, «Time
 			out» и тому подобное. Есть сайты кинотеатров. У того же Дома Кино есть прекрасный сайт,
 			на котором афиша на пару недель вперёд есть. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Вы ходите в кино с вашими детьми. И почему да, или почему
+		<speech speaker="" speechtype=""> Вы ходите в кино с вашими детьми. И почему да, или почему
 			нет? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes> да,<pron type="pers" number="plur">мы</pron> с ребенком ходим в
 			кино, на <genre ref="cartoon">мультики</genre> конечно. <hes type="lex">Ну</hes> а
 			почему собственно нет? Это <epit ref="kino">весело</epit> и <epit ref="kino"
@@ -413,13 +413,13 @@
 			может пока смотреть ещё там <hes type="nonlex"/> что-то такое совсем уж. Но вот про
 			муравьев <epit ref="cartoon">замечательный</epit> был <genre ref="cartoon"
 				>мультик</genre>. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Ещё два <hes type="nonlex"/> что вы бы хотели добавить в
+		<speech speaker="" speechtype=""> Ещё два <hes type="nonlex"/> что вы бы хотели добавить в
 			заключении? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>, не знаю. Миру мир. (Laughs) Лигалайз (peace sign). ХАХАХАХА. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> У кого вы бы посоветовали нам взять интервью на эту же
+		<speech speaker="" speechtype=""> У кого вы бы посоветовали нам взять интервью на эту же
 			тему в будущем? </speech>
-		<speech speaker="leventalVadim" speechtype="a">
+		<speech speaker="" speechtype="">
 			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>бы посоветовал такого
 				<person ref="chuvilyaev">Ивана Чувиляева</person>. Он тоже кинокритик. Это молодой
 			человек моего возраста. Он кинокритик. Он мало того, что кинокритик, oн устроитель
@@ -432,7 +432,7 @@
 			какие-то штуки, которые снимаются где-то в <place ref="siberia">Сибири</place>,
 			какими-то там энтузиастами на собственные деньги. Он всё это знает, всё это смотрел, и
 			может про это рассказать. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Большое спасибо за интервью. Это всё. </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Не за что. </speech>
+		<speech speaker="" speechtype=""> Большое спасибо за интервью. Это всё. </speech>
+		<speech speaker="" speechtype=""> Не за что. </speech>
 	</body>
 </interview>
