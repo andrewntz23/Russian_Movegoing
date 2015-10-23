@@ -504,47 +504,6 @@
             <nationality>France</nationality>
         </person>
         
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     </persons>
     <titles>
@@ -552,24 +511,62 @@
             <medium>lit</medium>
             <country/>
             <genre/>
-            <era/>
             <year>1234</year>
         </title>
 
     </titles>
-
-    <genres>
-        <genre xml:id="example3"/>
-    </genres>
-
+    
     <places>
         <place xml:id="example4">
             <placeType/>
             <location/>
         </place>
     </places>
+    
 
-    <national_cinemas>
-        <national_cinema xml:id="example5"/>
-    </national_cinemas>
+    <genres_meta>
+        <genre_meta xml:id="cartoon"/>
+        <genre_meta xml:id="childrens"/>
+        <genre_meta xml:id="disney"/>
+        <genre_meta xml:id="comedy"/>
+        <genre_meta xml:id="drama"/>
+        <genre_meta xml:id="melodrama"/>
+        <genre_meta xml:id="psychologicalThriller"/>
+        <genre_meta xml:id="horror"/>
+        <genre_meta xml:id="blockbuster"/>
+        <genre_meta xml:id="warFilms"/>
+        <genre_meta xml:id="porno"/>
+        <genre_meta xml:id="skazka"/>
+        <genre_meta xml:id="romanticComedy"/>
+        <genre_meta xml:id="alternative"/>
+        <genre_meta xml:id="artistic"/>
+        <genre_meta xml:id="romance"/>
+        <genre_meta xml:id="action"/>
+        <genre_meta xml:id="erotic"/>
+        <genre_meta xml:id="documentary"/>
+        <genre_meta xml:id="classics"/>
+        <genre_meta xml:id="patrioticFilms"/>
+        
+    </genres_meta>
+
+
+    <nationalCinemas>
+        <nationalCinema xml:id="americanCinema"/>
+        <nationalCinema xml:id="sovietCinema"/>
+        <nationalCinema xml:id="russianCinema"/>
+        <nationalCinema xml:id="foreignCinema"/>
+        <nationalCinema xml:id="europeanCinema"/>
+        <nationalCinema xml:id="italianCinema"/>
+        <nationalCinema xml:id="ourCinema"/>
+        <nationalCinema xml:id="chineseCinema"/>
+        <nationalCinema xml:id="japaneseCinema"/>
+        <nationalCinema xml:id="polishCinema"/>
+        <nationalCinema xml:id="indianCinema"/>
+        <nationalCinema xml:id="koreanCinema"/>
+        <nationalCinema xml:id="germanCinema"/>
+        <nationalCinema xml:id="frenchCinema"/>
+        <nationalCinema xml:id="swedishCinema"/>
+        <nationalCinema xml:id="taiwaneseCinema"/>
+        <nationalCinema xml:id="australianCinema"/>
+    </nationalCinemas>
 </index>
