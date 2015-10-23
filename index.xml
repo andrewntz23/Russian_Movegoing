@@ -811,14 +811,16 @@
         <genre xml:id="patrioticFilms"/>
         <genre xml:id="fantasy"/>
     </genres>
-
     <places>
+        <place xml:id="movieTheater">
+            <placeType>generic entry</placeType>
+            <location>generic entry</location>
+        </place>
         <place xml:id="example4">
             <placeType/>
             <location/>
         </place>
     </places>
-
     <nationalCinemas>
         <nationalCinema xml:id="americanCinema"/>
         <nationalCinema xml:id="sovietCinema"/>

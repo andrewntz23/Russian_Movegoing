@@ -25,19 +25,19 @@
     <pattern>
         <let name="genres" value="doc('index.xml')//genre/@xml:id"/>
         <rule context="genre/@ref">
-            <assert test=". = $genres">All genre references must correspond to a person in the index.</assert>
+            <assert test=". = $genres">All genre references must correspond to a genre in the index.</assert>
         </rule>
     </pattern>
     <pattern>
         <let name="places" value="doc('index.xml')//place/@xml:id"/>
         <rule context="place/@ref">
-            <assert test=". = $places">All place references must correspond to a title in the index.</assert>
+            <assert test=". = $places">All place references must correspond to a place in the index.</assert>
         </rule>
     </pattern>
     <pattern>
         <let name="nationalCinemas" value="doc('index.xml')//nationalCinema/@xml:id"/>
         <rule context="nationalCinema/@ref">
-            <assert test=". = $nationalCinemas">All natCinema references must correspond to a title in the index.</assert>
+            <assert test=". = $nationalCinemas">All natCinema references must correspond to a natCinema in the index.</assert>
         </rule>
     </pattern>
 <!--  Do we need more specific constraints for these references?
@@ -45,7 +45,7 @@
     <pattern>
         <let name="epit" value="doc('index.xml')//*/@xml:id"/>
         <rule context="nationalCinema/@ref">
-            <assert test=". = $epit">All natCinema references must correspond to a title in the index.</assert>
+            <assert test=". = $epit">All epithets must correspond to an entry in the index.</assert>
         </rule>
     </pattern>
     <pattern>
