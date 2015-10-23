@@ -607,15 +607,32 @@
             <genre>comedy</genre>
             <year>1994</year>
         </title>
-        
-        
-     
-        
-        
-        
-   
     </titles>
-    
+    <genres>
+        <genre xml:id="cartoon"/>
+        <genre xml:id="childrens"/>
+        <genre xml:id="disney"/>
+        <genre xml:id="comedy"/>
+        <genre xml:id="drama"/>
+        <genre xml:id="melodrama"/>
+        <genre xml:id="psychologicalThriller"/>
+        <genre xml:id="horror"/>
+        <genre xml:id="blockbuster"/>
+        <genre xml:id="warFilms"/>
+        <genre xml:id="porno"/>
+        <genre xml:id="skazka"/>
+        <genre xml:id="romanticComedy"/>
+        <genre xml:id="alternative"/>
+        <genre xml:id="artistic"/>
+        <genre xml:id="romance"/>
+        <genre xml:id="action"/>
+        <genre xml:id="erotic"/>
+        <genre xml:id="documentary"/>
+        <genre xml:id="classics"/>
+        <genre xml:id="patrioticFilms"/>
+        <genre xml:id="fantasy"/>     
+    </genres>
+
     <places>
         <place xml:id="example4">
             <placeType/>
@@ -623,34 +640,6 @@
         </place>
     </places>
     
-
-    <genres_meta>
-        <genre_meta xml:id="cartoon"/>
-        <genre_meta xml:id="childrens"/>
-        <genre_meta xml:id="disney"/>
-        <genre_meta xml:id="comedy"/>
-        <genre_meta xml:id="drama"/>
-        <genre_meta xml:id="melodrama"/>
-        <genre_meta xml:id="psychologicalThriller"/>
-        <genre_meta xml:id="horror"/>
-        <genre_meta xml:id="blockbuster"/>
-        <genre_meta xml:id="warFilms"/>
-        <genre_meta xml:id="porno"/>
-        <genre_meta xml:id="skazka"/>
-        <genre_meta xml:id="romanticComedy"/>
-        <genre_meta xml:id="alternative"/>
-        <genre_meta xml:id="artistic"/>
-        <genre_meta xml:id="romance"/>
-        <genre_meta xml:id="action"/>
-        <genre_meta xml:id="erotic"/>
-        <genre_meta xml:id="documentary"/>
-        <genre_meta xml:id="classics"/>
-        <genre_meta xml:id="patrioticFilms"/>
-        <genre_meta xml:id="fantasy"/>
-        
-    </genres_meta>
-
-
     <nationalCinemas>
         <nationalCinema xml:id="americanCinema"/>
         <nationalCinema xml:id="sovietCinema"/>
