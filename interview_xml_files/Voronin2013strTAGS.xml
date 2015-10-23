@@ -5,6 +5,7 @@
 
 
 
+<?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
 <interview>
 
     <meta>

@@ -1,10 +1,10 @@
 start = interview
 interview = element interview {meta, body}
-meta = element meta {project, place_meta, persons_list+, date+}
+meta = element meta {project, university, persons, date+}
 #I used place_meta, to include <university> in the index, and peson_list to differentiate it from the <person> element in the body.
 project = element project {text}
-place_meta = element place {text}
-persons_list = element person {mixed {interviewer | interviewee | transcriber+ | translator+}}
+university = element university {text}
+persons = element person {mixed {interviewer | interviewee | transcriber+ | translator+}}
 interviewer = element interviewer {mixed {ref}}
 ref = attribute ref {xsd:IDREF}
 interviewee = element interviewee {mixed {ref}}
@@ -25,7 +25,7 @@ hes = element hes {ref, text}
 type = attribute type {"lex" | "nonlex"}
 lex = attribute lex {text}
 nonlex = attribute nonlex {text}
-epit = element epit {text}
+epit = element epit {mixed {ref}}
 pron = element pron {mixed {pronType, number}}
 collective = element collective {mixed {pron}}
 pronType = attribute type {"pers" | "poss"}
