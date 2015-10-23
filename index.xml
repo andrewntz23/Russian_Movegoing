@@ -3,7 +3,7 @@
 <?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
     <metaPersons>
-        <person xml:id="fake">
+        <person xml:id="leventalVadim">
             <surname></surname>
             <forename></forename>
             <gender>f</gender>
