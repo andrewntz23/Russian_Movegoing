@@ -2,6 +2,13 @@
 
 <?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
+    <metaPersons>
+        <person xml:id="fake">
+            <surname></surname>
+            <forename></forename>
+            <gender>f</gender>
+        </person>
+    </metaPersons>
     <persons>
         <person xml:id="irinaLevental">
             <role>interviewee</role>
@@ -10,7 +17,6 @@
             <gender>f</gender>
             <nationality>Russia</nationality>
         </person>
-
         <person xml:id="andreiTarkovskii">
             <role>director</role>
             <surname>Tarkovskii</surname>
@@ -485,9 +491,6 @@
             <gender>m</gender>
             <nationality>France</nationality>
         </person>
-        
-      
-        
         <person xml:id="noe">
             <role>director</role>
             <surname>Noe</surname>
@@ -495,8 +498,6 @@
             <gender>m</gender>
             <nationality>France</nationality>
         </person>
-
-
         <person xml:id="cassel">
             <role>actor</role>
             <surname>Cassel</surname>
@@ -551,8 +552,7 @@
             <country>USA</country>
             <genre>drama</genre>
             <year>1999</year>
-        </title>
-        
+        </title>      
         <title xml:id="wildHeart">
             <fullTitle>Wild at Heart</fullTitle>
             <director>David Lynch</director>
@@ -597,8 +597,6 @@
             <genre>fantasy</genre>
             <year>2006</year>
         </title>
-        
-        
         <title xml:id="aceVentura">
             <fullTitle>Ace Ventura: Pet Detective</fullTitle>
             <director>Tom Shadyac</director>

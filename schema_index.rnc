@@ -5,7 +5,14 @@
 #nationality can be soviet. 
 
 start = index
-index = element index {persons, titles, genres_meta, places, nationalCinemas}
+index = element index {metaPersons, persons, titles, genres_meta, places, nationalCinemas}
+
+#metaPersons
+metaPersons = element metaPersons {metaPerson+}
+metaPerson = element person {surname, forename, gender, id}
+
+
+#persons
 persons = element persons {person+}
 person = element person {role, surname, forename, gender, nationality,id} 
 role = element role {text}
