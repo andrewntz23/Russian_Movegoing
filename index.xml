@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?xml-model href="schema_index.rnc" type="application/relax-ng-compact-syntax"?>
 <index>
     <persons>
@@ -608,22 +609,11 @@
         </title>
         
         
-        <title xml:id="aceVentura">
-            <fullTitle>Ace Ventura: Pet Detective</fullTitle>
-            <director>Tom Shadyac</director>
-            <medium>film</medium>
-            <country>USA</country>
-            <genre>comedy</genre>
-            <year>1994</year>
-        </title>
+     
         
         
         
-        
-        
-        
-        
-
+   
     </titles>
     
     <places>

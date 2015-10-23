@@ -34,7 +34,7 @@ location = element location {text}
 
 #genres
 genres_meta = element genres {genre_meta+}
-genre_meta = element genre {id, text}
+genre_meta = element genre {id}
 
 nationalCinemas = element nationalCinemas {nationalCinema+}
-nationalCinema = element nationalCinema {id, text}
+nationalCinema = element nationalCinema {id}
