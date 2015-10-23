@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
-
-
+<?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../exampleSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <interview>
 
     <meta>
         <project>Russian Movie Theater Project (RMTP)</project>
         <university>College of William and Mary</university>
         <persons>
-            <interviewee ref="">chistiakova</interviewee>
+            <interviewee ref="chistiakova"/>
             <interviewer ref="derevyannykh"/>
 
 

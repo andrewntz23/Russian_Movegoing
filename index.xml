@@ -4,10 +4,191 @@
 <index>
     <metaPersons>
         <person xml:id="leventalVadim">
-            <surname></surname>
-            <forename></forename>
+            <surname>Levental</surname>
+            <forename>Vadim</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="leventalIrina">
+            <surname>Levental</surname>
+            <forename>Irina</forename>
             <gender>f</gender>
         </person>
+
+        <person xml:id="voronin">
+            <surname>Voronin</surname>
+            <forename>Mikhail</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="sorkina">
+            <surname>Sorkina</surname>
+            <forename>Viktoriia</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="pavlov">
+            <surname>Pavlov</surname>
+            <forename>Aleksei</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="efimova">
+            <surname>Efimova</surname>
+            <forename>Svetlana</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="danilenko">
+            <surname>Danilenko</surname>
+            <forename>Liudmila</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="chistiakova">
+            <surname>Chistiakova</surname>
+            <forename>anon</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="alyrzaeva">
+            <surname>Alyrzaeva</surname>
+            <forename>Natalia</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="faith">
+            <surname>Faith</surname>
+            <forename>Rachel</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="andell">
+            <surname>Andell</surname>
+            <forename>Andrew</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="mcgrath">
+            <surname>McGrath</surname>
+            <forename>Alex</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="derevyannykh">
+            <surname>Derevyannykh</surname>
+            <forename>Zhenia</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="verheul">
+            <surname>Verheul</surname>
+            <forename>JP</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="roberts">
+            <surname>Roberts</surname>
+            <forename>Michael</forename>
+            <gender>m</gender>
+        </person>
+
+        <person xml:id="argodale">
+            <surname>Argodale</surname>
+            <forename>Sarah</forename>
+            <gender>f</gender>
+        </person>
+
+        <person xml:id="stolz">
+            <surname>Stolz</surname>
+            <forename>Jennifer</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="abdullayeva">
+            <surname>Abdullayeva</surname>
+            <forename>Sabina</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="burke">
+            <surname>Burke</surname>
+            <forename>Maggie</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="clark">
+            <surname>Clark</surname>
+            <forename>Emilie</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="kitchen">
+            <surname>Kitchen</surname>
+            <forename>Hannah</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="parks">
+            <surname>Parks</surname>
+            <forename>Jessica</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="seeleyHall">
+            <surname>Seeley-Hall</surname>
+            <forename>Julia</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="wilkinson">
+            <surname>Wilkinson</surname>
+            <forename>Olivia</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="radich">
+            <surname>Radich</surname>
+            <forename>Patricia</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="buzek">
+            <surname>Buzek</surname>
+            <forename>Aaron</forename>
+            <gender>m</gender>
+        </person>
+        
+        <person xml:id="house">
+            <surname>House</surname>
+            <forename>Lydia</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="mirtaj">
+            <surname>Mirtaj</surname>
+            <forename>Lirsen</forename>
+            <gender>m</gender>
+        </person>
+        
+        <person xml:id="grierson">
+            <surname>Grierson</surname>
+            <forename>Sherri</forename>
+            <gender>f</gender>
+        </person>
+        
+        <person xml:id="lain">
+            <surname>Lain</surname>
+            <forename>Taylor</forename>
+            <gender>f</gender>
+        </person>
+        
+        
+        
+
+
+
+
     </metaPersons>
     <persons>
         <person xml:id="irinaLevental">
@@ -505,7 +686,7 @@
             <gender>m</gender>
             <nationality>France</nationality>
         </person>
-        
+
 
     </persons>
     <titles>
@@ -517,7 +698,7 @@
             <genre>disney</genre>
             <year>1992</year>
         </title>
-        
+
         <title xml:id="theLittleMermaid">
             <fullTitle>The Little Mermaid</fullTitle>
             <director>Ron Clements and John Musker</director>
@@ -526,7 +707,7 @@
             <genre>disney</genre>
             <year>1989</year>
         </title>
-        
+
         <title xml:id="beautyBeast">
             <fullTitle>Beauty and the Beast</fullTitle>
             <director>Gary Trousdale and Kirk Wise</director>
@@ -535,7 +716,7 @@
             <genre>disney</genre>
             <year>1991</year>
         </title>
-        
+
         <title xml:id="playingVictim">
             <fullTitle>Playing the Victim</fullTitle>
             <director>Kirill Serebrennikov</director>
@@ -544,7 +725,7 @@
             <genre>black comedy</genre>
             <year>2006</year>
         </title>
-        
+
         <title xml:id="straightStory">
             <fullTitle>The Straight Story</fullTitle>
             <director>David Lynch</director>
@@ -552,7 +733,7 @@
             <country>USA</country>
             <genre>drama</genre>
             <year>1999</year>
-        </title>      
+        </title>
         <title xml:id="wildHeart">
             <fullTitle>Wild at Heart</fullTitle>
             <director>David Lynch</director>
@@ -561,7 +742,7 @@
             <genre>crime thriller</genre>
             <year>1990</year>
         </title>
-        
+
         <title xml:id="melancholy">
             <fullTitle>Melancholia</fullTitle>
             <director>Lars von Trier</director>
@@ -570,7 +751,7 @@
             <genre>artistic</genre>
             <year>2011</year>
         </title>
-        
+
         <title xml:id="moodForLove">
             <fullTitle>In the Mood for Love</fullTitle>
             <director>Wong Kar-wai</director>
@@ -579,7 +760,7 @@
             <genre>artistic</genre>
             <year>2000</year>
         </title>
-        
+
         <title xml:id="mavericks">
             <fullTitle>Chasing Mavericks</fullTitle>
             <director>Curtis Hanson and Michael Apted</director>
@@ -588,7 +769,7 @@
             <genre>drama</genre>
             <year>2012</year>
         </title>
-        
+
         <title xml:id="piratesCaribbean">
             <fullTitle>Pirates of the Caribbean: Dead Man's Chest</fullTitle>
             <director>Gore Verbinski</director>
@@ -628,7 +809,7 @@
         <genre xml:id="documentary"/>
         <genre xml:id="classics"/>
         <genre xml:id="patrioticFilms"/>
-        <genre xml:id="fantasy"/>     
+        <genre xml:id="fantasy"/>
     </genres>
 
     <places>
@@ -637,7 +818,7 @@
             <location/>
         </place>
     </places>
-    
+
     <nationalCinemas>
         <nationalCinema xml:id="americanCinema"/>
         <nationalCinema xml:id="sovietCinema"/>

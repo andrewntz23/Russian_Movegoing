@@ -18,14 +18,14 @@
 			<transcriber ref="radich"/>
 			<transcriber ref="buzek"/>
 			<transcriber ref="house"/>
-			<transcriber ref="house"/>
+			
 
 			<translator ref="seeleyHall"/>
 			<translator ref="wilkinson"/>
 			<translator ref="radich"/>
 			<translator ref="buzek"/>
 			<translator ref="house"/>
-			<translator ref="house"/>
+			
 
 		</persons>
 
