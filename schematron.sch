@@ -7,7 +7,7 @@
     <pattern>
         <let name="metaPersons" value="doc('index.xml')//metaPersons/person/@xml:id"/>
         <rule context="meta/persons/*/@ref">
-            <assert test=". = $metaPersons">All meta persons references must correspond to a title in the index.</assert>
+            <assert test=". = $metaPersons">All meta persons references must correspond to a meta person in the index.</assert>
         </rule>
     </pattern>
     <pattern>
