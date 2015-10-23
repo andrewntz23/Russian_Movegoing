@@ -1,5 +1,5 @@
 <?xml-model href="../schema_interview.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="../exampleSchematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../schematron.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 <!--need to fix speaker and speechtype. These should not actually be idref, but text, because we verify them with schematron (and they cannot
 	point to the non-existent-in-this-document xml:id attribute values )-->
