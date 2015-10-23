@@ -40,4 +40,12 @@
             <assert test=". = $nationalCinemas">All natCinema references must correspond to a title in the index.</assert>
         </rule>
     </pattern>
+<!--  Do we need more specific constraints for these references?
+    -->
+    <pattern>
+        <let name="epit" value="doc('index.xml')//*/@xml:id"/>
+        <rule context="nationalCinema/@ref">
+            <assert test=". = $epit">All natCinema references must correspond to a title in the index.</assert>
+        </rule>
+    </pattern>
 </sch:schema>

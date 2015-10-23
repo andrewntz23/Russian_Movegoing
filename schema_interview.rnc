@@ -1,3 +1,6 @@
+#changes: chanted name of nat_cinema element to natCinema to reflec this. 
+#       Changed ref and speaker to be text, rather than IDREF (these are verified with schematron against EXTERNAL document, not internal xml:id attributes)
+
 start = interview
 interview = element interview {meta, body}
 meta = element meta {project, university, persons, date+}
