@@ -681,6 +681,14 @@
             <gender>m</gender>
             <nationality>France</nationality>
         </person>
+        
+        <person xml:id="guerra">
+            <role>scriptwriter</role>
+            <surname>Guerra</surname>
+            <forename>Tonino</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
 
     </persons>
     
@@ -1011,7 +1019,7 @@
             <year>2007</year>
         </title>
         
-        <title xml:id="worldwarZ">
+        <title xml:id="worldWarZ">
             <fullTitle>World War Z</fullTitle>
             <director>Marc Forster</director>
             <medium>film</medium>
@@ -1166,7 +1174,44 @@
             <year>2010</year>
         </title>
         
- 
+        <title xml:id="ivanVasilevichChangesJobs">
+            <fullTitle>Ivan Vasilievich: Back to the Future</fullTitle>
+            <director>Leonid Gaidai</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1973</year>
+        </title>
+        
+        <title xml:id="warAndPeace">
+            <fullTitle>War and Peace</fullTitle>
+            <director>Sergei Bondarchuk</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>epic</genre>
+            <year>1967</year>
+        </title>
+        
+        <title xml:id="juno">
+            <fullTitle>Juno</fullTitle>
+            <director>Jason Reitman</director>
+            <medium>film</medium>
+            <country>Canada/USA</country>
+            <genre>comedy</genre>
+            <year>2007</year>
+        </title>
+        
+        <title xml:id="rockyBullwinkle">
+            <fullTitle>The Rocky and Bullwinkle Show</fullTitle>
+            <director>Jay Ward</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>cartoon</genre>
+            <year>1960</year>
+        </title>
+        
+        
+     
      
 
     </titles>
@@ -1195,6 +1240,7 @@
         <genre xml:id="patrioticFilms"/>
         <genre xml:id="fantasy"/>
         <genre xml:id="crimeDrama"/>
+        <genre xml:id="thriller"/>
     </genres>
     
     <places>
