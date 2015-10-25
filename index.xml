@@ -104,87 +104,87 @@
             <forename>Jennifer</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="abdullayeva">
             <surname>Abdullayeva</surname>
             <forename>Sabina</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="burke">
             <surname>Burke</surname>
             <forename>Maggie</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="clark">
             <surname>Clark</surname>
             <forename>Emilie</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="kitchen">
             <surname>Kitchen</surname>
             <forename>Hannah</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="parks">
             <surname>Parks</surname>
             <forename>Jessica</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="seeleyHall">
             <surname>Seeley-Hall</surname>
             <forename>Julia</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="wilkinson">
             <surname>Wilkinson</surname>
             <forename>Olivia</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="radich">
             <surname>Radich</surname>
             <forename>Patricia</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="buzek">
             <surname>Buzek</surname>
             <forename>Aaron</forename>
             <gender>m</gender>
         </person>
-        
+
         <person xml:id="house">
             <surname>House</surname>
             <forename>Lydia</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="mirtaj">
             <surname>Mirtaj</surname>
             <forename>Lirsen</forename>
             <gender>m</gender>
         </person>
-        
+
         <person xml:id="grierson">
             <surname>Grierson</surname>
             <forename>Sherri</forename>
             <gender>f</gender>
         </person>
-        
+
         <person xml:id="lain">
             <surname>Lain</surname>
             <forename>Taylor</forename>
             <gender>f</gender>
         </person>
-        
-        
-        
+
+
+
 
 
 
@@ -786,7 +786,360 @@
             <genre>comedy</genre>
             <year>1994</year>
         </title>
+
+        <title xml:id="godfather">
+            <fullTitle>The Godfather</fullTitle>
+            <director>Francis Ford Coppola</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>crime drama</genre>
+            <year>1972</year>
+        </title>
+
+        <title xml:id="brigade">
+            <fullTitle>The Brigade</fullTitle>
+            <director>Aleksei Sidorov</director>
+            <medium>television</medium>
+            <country>Russia</country>
+            <genre>crime drama</genre>
+            <year>2002</year>
+        </title>
+
+
+        <title xml:id="brother">
+            <fullTitle>Brother</fullTitle>
+            <director>Aleksei Balabanov</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>crime drama</genre>
+            <year>1997</year>
+        </title>
+
+        <title xml:id="brother2">
+            <fullTitle>Brother 2</fullTitle>
+            <director>Aleksei Balabanov</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>crime drama</genre>
+            <year>2000</year>
+        </title>
+
+        <title xml:id="lifeIsBeautiful">
+            <fullTitle>Life Is Beautiful</fullTitle>
+            <director>Roberto Benigni</director>
+            <medium>film</medium>
+            <country>Italy</country>
+            <genre>drama</genre>
+            <year>1997</year>
+        </title>
+
+        <title xml:id="mask">
+            <fullTitle>The Mask</fullTitle>
+            <director>Chuck Russell</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>1994</year>
+        </title>
+
+        <title xml:id="ironman3">
+            <fullTitle>Iron Man 3</fullTitle>
+            <director>Shane Black</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>superhero</genre>
+            <year>2013</year>
+        </title>
+
+        <title xml:id="firstYearStudent">
+            <fullTitle>Firstgrader</fullTitle>
+            <director>Il'ia Frez</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>children's</genre>
+            <year>1948</year>
+        </title>
+
+        <title xml:id="romanHoliday">
+            <fullTitle>Roman Holiday</fullTitle>
+            <director>William Wyler</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>romantic comedy</genre>
+            <year>1953</year>
+        </title>
+
+        <title xml:id="goneWithTheWind">
+            <fullTitle>Gone with the Wind</fullTitle>
+            <director>Victor Fleming</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>melodrama</genre>
+            <year>1953</year>
+        </title>
+
+        <title xml:id="moscowDoesNotBelieveInTears">
+            <fullTitle>Moscow Does Not Believe in Tears</fullTitle>
+            <director>Vladimir Men'shov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>melodrama</genre>
+            <year>1979</year>
+        </title>
+
+
+        <title xml:id="vasilisaTheWise">
+            <fullTitle>Vasilisa the Beautiful</fullTitle>
+            <director>Aleksandr Rou</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>fairy tale</genre>
+            <year>1939</year>
+        </title>
+
+
+        <title xml:id="pomegranate">
+            <fullTitle>The Color of Pomegranates</fullTitle>
+            <director>Sergei Paradzhanov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>art cinema</genre>
+            <year>1969</year>
+        </title>
+        
+        <title xml:id="theIsland">
+            <fullTitle>The Island</fullTitle>
+            <director>Pavel Lungin</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>drama</genre>
+            <year>2006</year>
+        </title>
+        
+        <title xml:id="theAdmiral">
+            <fullTitle>The Admiral</fullTitle>
+            <director>Andrei Kravchuk</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>melodrama</genre>
+            <year>2008</year>
+        </title>
+        
+        <title xml:id="burntBySun2">
+            <fullTitle>Burnt by the Sun 2: Exodus and Citadel</fullTitle>
+            <director>Nikita Mikhalkov</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>war epic</genre>
+            <year>2010</year>
+        </title>
+        
+        <title xml:id="ironyOfFate">
+            <fullTitle>The Irony of Fate</fullTitle>
+            <director>Eldar Riazanov</director>
+            <medium>television</medium>
+            <country>USSR</country>
+            <genre>romantic comedy</genre>
+            <year>1976</year>
+        </title>
+        
+        <title xml:id="piratesOfTheTwentiethCentury">
+            <fullTitle>Pirates of the 20th Century</fullTitle>
+            <director>Boris Durov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>action</genre>
+            <year>1979</year>
+        </title>
+        
+        <title xml:id="tenLittleIndians">
+            <fullTitle>And Then There Were None</fullTitle>
+            <director>Stanislav Govorukhin</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>murder mystery</genre>
+            <year>1987</year>
+        </title>
+        
+        <title xml:id="coldSummer">
+            <fullTitle>Cold Summer of 1953</fullTitle>
+            <director>Aleksandr Proshkin</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>drama</genre>
+            <year>1988</year>
+        </title>
+        
+        <title xml:id="nineAndHalfWeeks">
+            <fullTitle>9 1/2 Weeks</fullTitle>
+            <director>Adrian Lyne</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>erotic</genre>
+            <year>1986</year>
+        </title>
+        
+        <title xml:id="windowOnParis">
+            <fullTitle>Window to Paris</fullTitle>
+            <director>Iurii Mamin</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>comedy</genre>
+            <year>1993</year>
+        </title>
+        
+        <title xml:id="savageHuntKingStakh">
+            <fullTitle>King Stakh's Wild Hunt</fullTitle>
+            <director>Valerii Rubinchik</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>thriller</genre>
+            <year>1979</year>
+        </title>
+        
+        <title xml:id="pinkCloud">
+            <fullTitle>The Wayward Cloud</fullTitle>
+            <director>Tsai Ming-liang</director>
+            <medium>film</medium>
+            <country>China</country>
+            <genre>erotic</genre>
+            <year>2005</year>
+        </title>
+        
+        <title xml:id="transformers">
+            <fullTitle>Transformers</fullTitle>
+            <director>Michael Bay</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>science fiction</genre>
+            <year>2007</year>
+        </title>
+        
+        <title xml:id="worldwarZ">
+            <fullTitle>World War Z</fullTitle>
+            <director>Marc Forster</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>action thriller</genre>
+            <year>2013</year>
+        </title>
+        
+        <title xml:id="hobbit">
+            <fullTitle>The Hobbit</fullTitle>
+            <director>Peter Jackson</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>fantasy</genre>
+            <year>2012</year>
+        </title>
+        
+        <title xml:id="lifeOfAdele">
+            <fullTitle>Blue Is the Warmest Color</fullTitle>
+            <director>Abdellatif Kechiche</director>
+            <medium>film</medium>
+            <country>France</country>
+            <genre>drama</genre>
+            <year>2013</year>
+        </title>
+        
+        <title xml:id="inTheAnimalWorld">
+            <fullTitle>In the Animal World</fullTitle>
+            <director>n/a</director>
+            <medium>television</medium>
+            <country>USSR</country>
+            <genre>TV show</genre>
+            <year>1968</year>
+        </title>
+        
+        
+        <title xml:id="diamondArm">
+            <fullTitle>The Diamond Arm</fullTitle>
+            <director>Leonid Gaidai</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1968</year>
+        </title>
+        
+        <title xml:id="elusiveAvengers">
+            <fullTitle>The Elusive Avengers</fullTitle>
+            <director>Edmond Keosaian</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>adventure</genre>
+            <year>1966</year>
+        </title>
+        
+        <title xml:id="swanLake">
+            <fullTitle>Swan Lake</fullTitle>
+            <director>Appolinarii Dudko and Konstantin Sergeev</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>film-ballet</genre>
+            <year>1968</year>
+        </title>
+        
+        <title xml:id="womanWhoSings">
+            <fullTitle>The Woman Who Sings</fullTitle>
+            <director>Aleksandr Orlov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>musical</genre>
+            <year>1979</year>
+        </title>
+        
+        <title xml:id="troy">
+            <fullTitle>The Woman Who Sings</fullTitle>
+            <director>Wolfgang Petersen</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>epic</genre>
+            <year>2004</year>
+        </title>
+        
+        <title xml:id="spartacus">
+            <fullTitle>Spartacus</fullTitle>
+            <director>Stanley Kubrick</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>epic</genre>
+            <year>1960</year>
+        </title>
+        
+        <title xml:id="alexander">
+            <fullTitle>Alexander</fullTitle>
+            <director>Oliver Stone</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>epic</genre>
+            <year>2004</year>
+        </title>
+        
+        
+        <title xml:id="janeEyre">
+            <fullTitle>Jane Eyre</fullTitle>
+            <director>Julian Amyes</director>
+            <medium>television</medium>
+            <country>Britain</country>
+            <genre>adaptation</genre>
+            <year>1983</year>
+        </title>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
     </titles>
+
     <genres>
         <genre xml:id="cartoon"/>
         <genre xml:id="childrens"/>
@@ -810,6 +1163,7 @@
         <genre xml:id="classics"/>
         <genre xml:id="patrioticFilms"/>
         <genre xml:id="fantasy"/>
+        <genre xml:id="crimeDrama"/>
     </genres>
     <places>
         <place xml:id="movieTheater">
