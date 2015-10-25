@@ -183,13 +183,8 @@
             <gender>f</gender>
         </person>
 
-
-
-
-
-
-
     </metaPersons>
+    
     <persons>
         <person xml:id="irinaLevental">
             <role>interviewee</role>
@@ -687,9 +682,10 @@
             <nationality>France</nationality>
         </person>
 
-
     </persons>
+    
     <titles>
+    
         <title xml:id="alladin">
             <fullTitle>Alladin</fullTitle>
             <director>Ron Clements and John Musker</director>
@@ -1170,18 +1166,8 @@
             <year>2010</year>
         </title>
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-
+ 
+     
 
     </titles>
 
@@ -1210,6 +1196,7 @@
         <genre xml:id="fantasy"/>
         <genre xml:id="crimeDrama"/>
     </genres>
+    
     <places>
         <place xml:id="movieTheater">
             <placeType>generic entry</placeType>
@@ -1220,6 +1207,8 @@
             <location/>
         </place>
     </places>
+    
+    
     <nationalCinemas>
         <nationalCinema xml:id="americanCinema"/>
         <nationalCinema xml:id="sovietCinema"/>
