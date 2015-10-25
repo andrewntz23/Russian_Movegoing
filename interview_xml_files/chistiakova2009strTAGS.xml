@@ -26,7 +26,7 @@
     <body>
 
 
-        <speech speaker="" speechtype="q"> Мы берѐм у Вас интервью для кино-проекта, который изучает
+        <speech speaker="derevyannykh" speechtype="q"> Мы берѐм у Вас интервью для кино-проекта, который изучает
             общественную, политическую и культурную историю России через фильмы. Мы хотели бы, чтобы
             Вы рассказали нам о Ваших воспоминаниях от посещения кино; нас особенно интересуют
             детали. На основании Ваших ответов мы напишем эссе, в котором мы проанализируем
@@ -35,8 +35,8 @@
             спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь нам. Это
             интервью будет доступно для прослушивания на интернет- сайте кино-проекта. Если вы не
             против, давайте мы начнѐм. </speech>
-        <speech speaker="" speechtype="q">Вы помните первый раз, когда вы ходили в кино? </speech>
-        <speech speaker="" speechtype="a"><pron type="pers" number="sing">Я</pron>вас, навѐрное,
+        <speech speaker="derevyannykh" speechtype="q">Вы помните первый раз, когда вы ходили в кино? </speech>
+        <speech speaker="chistiakova" speechtype="a"><pron type="pers" number="sing">Я</pron>вас, навѐрное,
             огорчу, но дневников,<pron type="pers" number="sing">я</pron>не вела в своей жизни, тем
             более в детстве. Даты <hes type="nonlex"/>сейчас мне много лет и даты многие стѐрлись.
                 И<pron type="pers" number="sing">я</pron>вам конкретно сказать, какой год и какой
@@ -67,8 +67,8 @@
                 фильмов<pron type="pers" number="sing">я</pron>в детстве не видела. Чапаев фильм,
             его не назовешь детским, но хотя его смотрят и сейчас <collective>все</collective> с
             удовольствием, вот, и дети.</speech>
-        <speech speaker="" speechtype="q">Когда Вы начали ходить в кинотеатры одна?</speech>
-        <speech speaker="" speechtype="a"> А вот когда в кинотеатры? Это уже<hes type="nonlex"/>
+        <speech speaker="derevyannykh" speechtype="q">Когда Вы начали ходить в кинотеатры одна?</speech>
+        <speech speaker="chistiakova" speechtype="a"> А вот когда в кинотеатры? Это уже<hes type="nonlex"/>
                 когда<hes type="nonlex"/>
             <hes type="lex">Ну</hes>, <hes type="lex">наверно</hes>, где-то, когда в седьмом
                 классе<pron type="pers" number="sing">я</pron>была, то уже вот в этом месте <hes
@@ -92,8 +92,8 @@
             беспосадочный перелет. Сам Валерий Чкалов жил и<collective><pron type="poss"
                     number="plur">у нас</pron></collective>в этом городе, на Петроградской стороне.
             Есть улица, дом на котором барельеф ему.</speech>
-        <speech speaker="" speechtype="q"> Когда вы ходили в кино? На какие сеансы? </speech>
-        <speech speaker="" speechtype="a">Kинотеатр работал днѐм. <hes type="lex">Наверно</hes>,
+        <speech speaker="derevyannykh" speechtype="q"> Когда вы ходили в кино? На какие сеансы? </speech>
+        <speech speaker="chistiakova" speechtype="a">Kинотеатр работал днѐм. <hes type="lex">Наверно</hes>,
             один или два сеанса были днѐм для детей, и вечером в семь часов два было для взрослых,
             два. Это поначалу, потому что <collective>народ</collective> занят был очень, школа, и
             работа. Поэтому просто гонять фильмы не могли, и <collective>народ</collective> могли
@@ -116,14 +116,14 @@
             немцев отняли. Очень много фильмов уже осталось от немцев. Это были фильмы зарубежные
             естественно. Иногда и вообще без перевода. Фильмы, те, которые <hes type="nonlex"
             /></speech>
-        <speech speaker="" speechtype="q">Золотой фонд?</speech>
-        <speech speaker="" speechtype="a">Нет, нет, нет, нет, нет. Фильмы немого кино. Это был и
+        <speech speaker="derevyannykh" speechtype="q">Золотой фонд?</speech>
+        <speech speaker="chistiakova" speechtype="a">Нет, нет, нет, нет, нет. Фильмы немого кино. Это был и
             Чаплин, Это были и<collective><pron type="poss" number="plur">наши</pron></collective>
             <hes type="nonlex"/> В том числе фильмы с Верой Холодной.</speech>
-        <speech speaker="" speechtype="q">Я удивляюсь, что вы знаете Веру Холодную.<collective><pron
+        <speech speaker="derevyannykh" speechtype="q">Я удивляюсь, что вы знаете Веру Холодную.<collective><pron
                     type="poss" number="plur">У нас</pron></collective>это изучают очень
             тонко.</speech>
-        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes> как же. Это выдающаяся актриса
+        <speech speaker="chistiakova" speechtype="a"><hes type="lex">Ну</hes> как же. Это выдающаяся актриса
             немого кино. Она выдающаяся. Мало того, что она была замечательно красивая женщина, она
             хорошо играла, она была личностью. Женщина очень умная. И вот порой даже сейчас не
             помнишь, какие точно это фильмы. Потому что фильмы шли безостановочно. Один
@@ -139,15 +139,15 @@
             актерская игра. И актѐры того времени, конечно, они выделялись на экране и очень
             запомнились это и Гарбо, и Марлен Дитрих, а вот фильмы, в которых они играли, не очень
             помню. </speech>
-        <speech speaker="" speechtype="q">А вы можете назвать даты приблизительно хотя бы? </speech>
-        <speech speaker="" speechtype="a"> Сейчас скажу. Это было первый раз с тысяча девятьсот
+        <speech speaker="derevyannykh" speechtype="q">А вы можете назвать даты приблизительно хотя бы? </speech>
+        <speech speaker="chistiakova" speechtype="a"> Сейчас скажу. Это было первый раз с тысяча девятьсот
             пятьдесят <hes type="nonlex"/> пятого года по шестидесятый. Вот по шестидесятый. Вот это
             годы, когда<pron type="pers" number="plur">мы</pron> смотрели вот эти фильмы<hes
                 type="lex"> ну </hes>как же, же которое<hes type="nonlex"/>
         </speech>
-        <speech speaker="" speechtype="q">Какие у вас были самые любимые жанры в детстве или когда
+        <speech speaker="derevyannykh" speechtype="q">Какие у вас были самые любимые жанры в детстве или когда
             вы выросли? </speech>
-        <speech speaker="" speechtype="a">В детстве<pron type="pers" number="sing">я</pron>не могу
+        <speech speaker="chistiakova" speechtype="a">В детстве<pron type="pers" number="sing">я</pron>не могу
             сказать, какие любимые, Что попадалось под руку, то и смотрели. А потом вот уже, после
             шестидесятого, смотрели то, что интересно, а интересно жанры любые, это сказка, это
             Золушка. Сказки <collective>все</collective> смотрели замечательные. Золушка
@@ -159,8 +159,8 @@
             фильмов помню, стояли огромные очереди и так<pron type="pers" number="plur"
             >мы</pron>смотрели фильм, потом выходили из кинотеатра, занимали очередь, опять заходили
             смотрели фильм это Большой вальс. </speech>
-        <speech speaker="" speechtype="q">Это чья (картина)?</speech>
-        <speech speaker="" speechtype="a">По-моему, это австрийский <hes type="nonlex"/> фильм <hes
+        <speech speaker="derevyannykh" speechtype="q">Это чья (картина)?</speech>
+        <speech speaker="chistiakova" speechtype="a">По-моему, это австрийский <hes type="nonlex"/> фильм <hes
                 type="nonlex"/> жизнь Штрауса, Иогана Штрауса, его творчество. Фильм Большой вальс —
             это просто замечательный фильм.<pron type="pers" number="plur">Мы</pron> смотрели его.
             Его периодически показывали. Вот его покажут.<pron type="pers" number="sing">Я</pron>не
@@ -184,9 +184,9 @@
             жизнь. Жизнь, которая была рядом с нами, она была была понятна, знакома. Но когда это
             ещѐ в исполнении замечательных актѐров, таких как Рыбников. Это <hes type="nonlex"/> то
             есть это смотрелось всѐ просто вот на ура.</speech>
-        <speech speaker="" speechtype="q">Сколько лет в среднем было людям, которые ходили в кино
+        <speech speaker="derevyannykh" speechtype="q">Сколько лет в среднем было людям, которые ходили в кино
             утром, днѐм, вечером? </speech>
-        <speech speaker="" speechtype="a">Вечером это <hes type="nonlex"/> ходили, вот можно даже
+        <speech speaker="chistiakova" speechtype="a">Вечером это <hes type="nonlex"/> ходили, вот можно даже
             сказать, семьями. Вот когда <hes type="nonlex"/> Во-первых чѐтко соблюдалось, детям до
             шестнадцати, до семнадцати лет ходить нельзя. Значит, они вот оставались дома. А семья
             остальная шла в кино. То есть, фильмы смотрели семьями. Вот это было чѐтко, потому что
@@ -197,8 +197,8 @@
             посещались. Посещаемы были. Но так как <pron type="pers" number="plur">мы</pron> жили
             вот на окранине,<pron type="poss" number="sing">моя</pron> личная жизнь сложилась так,
                 что<pron type="pers" number="sing">я</pron>ходила в кино мало.</speech>
-        <speech speaker="" speechtype="q">Разные группы сидели в разных частях кинозала? </speech>
-        <speech speaker="" speechtype="a"> Вы знаете, если это семья, вся семья сидела семьѐй. Если
+        <speech speaker="derevyannykh" speechtype="q">Разные группы сидели в разных частях кинозала? </speech>
+        <speech speaker="chistiakova" speechtype="a"> Вы знаете, если это семья, вся семья сидела семьѐй. Если
             это группа друзей, они все сидели рядом. И очень почтительное отношение в то время было
             к кинотеатрам и кино.<collective><pron type="poss" number="plur">У
                 нас</pron></collective><hes type="nonlex"/> как только выключался свет наступала
@@ -220,20 +220,20 @@
                 я </pron>считаю, что если бы это вот сейчас возобновилось, это было бы очень
             здорово. Практически не работали буфеты. Буфетов не было. А вот вот такая
             развлекательная часть была.</speech>
-        <speech speaker="" speechtype="q">Как люди одевались в кино? </speech>
-        <speech speaker="" speechtype="a"><collective>Люди</collective> шли как в театр, вот
+        <speech speaker="derevyannykh" speechtype="q">Как люди одевались в кино? </speech>
+        <speech speaker="chistiakova" speechtype="a"><collective>Люди</collective> шли как в театр, вот
                 <collective>люди</collective> шли как в театр, поэтому они одевались <hes
                 type="nonlex"/> ну, во что-то нарядное, обязательно одевались в нарядное и так чтобы
             как в старину, и бабушки говорили шли на людей посмотреть и себя показать.</speech>
-        <speech speaker="" speechtype="q">Были в кинотеатре билетѐры? Сколько им обычно было лет? </speech>
-        <speech speaker="" speechtype="a">Билет стоил помню, самый первый билет на<pron type="poss"
+        <speech speaker="derevyannykh" speechtype="q">Были в кинотеатре билетѐры? Сколько им обычно было лет? </speech>
+        <speech speaker="chistiakova" speechtype="a">Билет стоил помню, самый первый билет на<pron type="poss"
                 number="sing">моей</pron> помяти стоил тридцать копеек. Тридцать копеек стоил билет.
             И, конечно, билетѐры были. Билеты отрывали, проходили. Вот. Но так как
                 <collective>все</collective> очень с почтением, то практически не было, чтобы кто-то
             проскочил без билета. Это пресекалось, наказывалось родителями, в первую очередь,
             старшими, а не билетѐрами. </speech>
-        <speech speaker="" speechtype="q">Где вы любили сидеть и почему? </speech>
-        <speech speaker="" speechtype="a">Не важно. Не было такого. Вообще<pron type="pers"
+        <speech speaker="derevyannykh" speechtype="q">Где вы любили сидеть и почему? </speech>
+        <speech speaker="chistiakova" speechtype="a">Не важно. Не было такого. Вообще<pron type="pers"
                 number="sing">я</pron>не люблю сидеть по центру.<pron type="pers" number="sing"
                 >Я</pron>люблю сидеть сбоку. <hes type="lex">Наверно</hes>, в силу<pron type="poss"
                 number="sing">моего</pron> роста. Рост маленький, и если вот сидишь прямо и впереди
@@ -241,8 +241,8 @@
             сидишь сбоку, то где-то так маневрируешь и всѐ видно. Только этим определялось. Потому
             что билеты были абсолютно одинаковые, независимо от того, какое место. Входной билет был
             по одной цене. </speech>
-        <speech speaker="" speechtype="q">Фильмы были немые или звуковые? Черно-белые или цветные? </speech>
-        <speech speaker="" speechtype="a">Всякие, разные. Вот иногда брали на сеанс просмотра немых
+        <speech speaker="derevyannykh" speechtype="q">Фильмы были немые или звуковые? Черно-белые или цветные? </speech>
+        <speech speaker="chistiakova" speechtype="a">Всякие, разные. Вот иногда брали на сеанс просмотра немых
             кино. И там <hes type="nonlex"/><hes type="lex"> ну </hes>вот какой- нибудь ..<hes
                 type="lex"> ну </hes>типа вот Праздник Святого Йоргена. Это главную роль играл
             Ильинский <hes type="nonlex"/> и <hes type="nonlex"/>. Ладно ребята, чтобы не наврать.
@@ -261,8 +261,8 @@
                 <hes type="nonlex"/> запомнился мне американский Война и мир <hes type="nonlex"/> Не
                     <collective><pron type="poss" number="plur">наш</pron></collective> фильм
             Бондарчука, а американский фильм. </speech>
-        <speech speaker="" speechtype="q">Какие фильмы были самыми популярными у зрителей и почему? </speech>
-        <speech speaker="" speechtype="a"> Популярные фильмы, всѐ-таки популярные, это классика. Это
+        <speech speaker="derevyannykh" speechtype="q">Какие фильмы были самыми популярными у зрителей и почему? </speech>
+        <speech speaker="chistiakova" speechtype="a"> Популярные фильмы, всѐ-таки популярные, это классика. Это
             фильмы, которые ставили по<collective><pron type="poss" number="plur"
                 >нашей</pron></collective> классике, по Чехову, это <hes type="nonlex"/> по
             Достоевскому, потому что классика, она всегда востребована. И порой человек не прочитает
@@ -277,9 +277,9 @@
             смотреть. Это всегда интересно было для <collective>всех</collective>. Одни это шли,
             потому что это просто интересно было, другие шли сознательно, что<pron type="pers"
                 number="sing">я</pron>не читала, но хоть посмотрю. </speech>
-        <speech speaker="" speechtype="q">В кинотеатрах часто показывали иностранные фильмы и
+        <speech speaker="derevyannykh" speechtype="q">В кинотеатрах часто показывали иностранные фильмы и
             фильмы? Из каких стран? </speech>
-        <speech speaker="" speechtype="a">
+        <speech speaker="chistiakova" speechtype="a">
             <hes type="nonlex"/>
             <hes type="lex">Ну</hes> вот, конечно<hes type="nonlex"/> В общем, вот эти фронтовые
             фильмы, которые <hes type="nonlex"/> были отобраны у немцев. Вот эти фильмы это
@@ -289,9 +289,9 @@
                 type="lex">наверно</hes> то, что хорошее независимо от языка и национальности, оно
             хорошее И поэтому это хорошее находило отклик у<collective><pron type="poss"
                     number="plur">нашего</pron></collective> зрителя, и смотрели с удовольствием. </speech>
-        <speech speaker="" speechtype="q">Вы помните, какой-нибудь фильмы, у которого были проблемы
+        <speech speaker="derevyannykh" speechtype="q">Вы помните, какой-нибудь фильмы, у которого были проблемы
             с выходом на экран? </speech>
-        <speech speaker="" speechtype="a"> Вы знаете, мне,<pron type="pers" number="sing"
+        <speech speaker="chistiakova" speechtype="a"> Вы знаете, мне,<pron type="pers" number="sing"
             >я</pron>такого не помню,<pron type="pers" number="sing">я</pron>такого не помню. Это
             потому что <pron type="pers" number="plur">мы</pron> были далеки от этих политических
             игр. <pron type="pers" number="plur">Мы</pron> были далеки, совершенно.<collective><pron
@@ -305,8 +305,8 @@
             разоблачительные программы,<pron type="poss" number="plur">нашего</pron> телевидения.
             Сейчас это узнаю. Раньше <pron type="pers" number="plur">мы</pron> этого не знали. <pron
                 type="pers" number="plur">Мы</pron> радовались тому, что нам показывали. </speech>
-        <speech speaker="" speechtype="q">Как вы узнавали о репертуаре кинотеатров? </speech>
-        <speech speaker="" speechtype="a">Афиши. В начале<pron type="pers" number="sing">я</pron>вам
+        <speech speaker="derevyannykh" speechtype="q">Как вы узнавали о репертуаре кинотеатров? </speech>
+        <speech speaker="chistiakova" speechtype="a">Афиши. В начале<pron type="pers" number="sing">я</pron>вам
             говорила. В начале это был опрос <hes type="nonlex"/>
             <pron type="poss" number="plur">нашего</pron>, вот <hes type="nonlex"/> комитета.
             Значит, комитет этой округи, который, -ты чего хотел посмотреть? " -Да вот Чапаева. -А
@@ -315,8 +315,8 @@
             кинотеатр, то уже просто вот вывешивалась афиша. Из афиши <pron type="pers"
                 number="plur">мы </pron> видели репертуар на неделю, И из этого исходя, люди
             выбирали, что им надо смотреть, что не надо.</speech>
-        <speech speaker="" speechtype="q">Как реклама кино изменились с советского времени? </speech>
-        <speech speaker="" speechtype="a">После советского? Как реклама изменилась с советского
+        <speech speaker="derevyannykh" speechtype="q">Как реклама кино изменились с советского времени? </speech>
+        <speech speaker="chistiakova" speechtype="a">После советского? Как реклама изменилась с советского
             времени? С тех времѐн. <hes type="lex">Ну</hes>, начнем с того, что за девяностые годы
             все кинотеатры практически закрыли. Их перепрофилировали в торговые точки. Это было
             очень грустно. Вместо того, чтобы кино в массы,<collective><pron type="poss"
@@ -339,9 +339,9 @@
                 <collective>людей</collective> он, вот эту рекламу на всех<hes type="nonlex"/> на
             улицах, на столбах вот обязательно показывали рекламы, какой фильм надо смотреть,то есть
             вот-вот надо смотреть. Кто-то шел на эту рекламу, кто-то не шел. </speech>
-        <speech speaker="" speechtype="q">У Вас был телевизор? Когда Вы купили его, Вы ходили в кино
+        <speech speaker="derevyannykh" speechtype="q">У Вас был телевизор? Когда Вы купили его, Вы ходили в кино
             больше или меньше? </speech>
-        <speech speaker="" speechtype="a"><hes type="nonlex"/> Телевизор когда купили, <pron
+        <speech speaker="chistiakova" speechtype="a"><hes type="nonlex"/> Телевизор когда купили, <pron
                 type="pers" number="plur">мы</pron> смотрели фильмов больше, конечно, по телевизору,
             потому что<hes type="lex"> ну </hes>это ну, не уходя из дома, как говорится, но<hes
                 type="nonlex"/> Но! но если шел такой широкоформатный панорамный фильм, то, конечно,
@@ -356,9 +356,9 @@
             опять-таки это уже как бы какая реклама не была, сами ведь <collective>люди</collective>
             понимают, что хорошо, что плохо, надо ли тебе это смотреть или не надо. Кто-то идет
             смотреть Гладиатора, кто-то идет смотреть Муму. То есть совершенно разные. Все? </speech>
-        <speech speaker="" speechtype="q">Вы помните фильмы во время войны? После войны? В
+        <speech speaker="derevyannykh" speechtype="q">Вы помните фильмы во время войны? После войны? В
             восьмидесятые годы? Во время перестройки? </speech>
-        <speech speaker="" speechtype="a">Значит, во время войны<pron type="pers" number="sing"
+        <speech speaker="chistiakova" speechtype="a">Значит, во время войны<pron type="pers" number="sing"
                 >я</pron>была маленькая,<pron type="pers" number="sing">я</pron>родилась,
                 поэтому<pron type="pers" number="sing">я</pron>ничего не помню во время войны.
             После, после войны вот<pron type="pers" number="sing">я</pron>вам сказала, помню очень
@@ -381,8 +381,8 @@
             фильмы, типа такой есть <hes type="nonlex"/> фильма о подводниках <pron type="pers"
                 number="plur">мы</pron> смотрели, ходили, потому что это было<collective><pron
                     type="poss" number="plur">наше</pron></collective> профессиональное. </speech>
-        <speech speaker="" speechtype="q">что вы думаете об изменениях в кинотеатрах сейчас? </speech>
-        <speech speaker="" speechtype="a">
+        <speech speaker="derevyannykh" speechtype="q">что вы думаете об изменениях в кинотеатрах сейчас? </speech>
+        <speech speaker="chistiakova" speechtype="a">
             <hes type="lex">Ну</hes><pron type="pers" number="sing">я</pron>думаю, что в конце
             концов все равно придут, сейчас начинают <collective>людей</collective>
             <hes type="nonlex"/><hes type="lex"> ну </hes>привлекать к кинотеатрам, начинают
@@ -394,23 +394,23 @@
             всякий маркетинг. Если кто-то там выигрывает, то вручались вот эти билеты. Чтобы
             привлечь. Но, видимо, не очень удается, потому что на окраинах кинотеатры не
             ожили.</speech>
-        <speech speaker="" speechtype="q">А вы сейчас ходите в кино? </speech>
-        <speech speaker="" speechtype="a">Нет.</speech>
-        <speech speaker="" speechtype="q">Почему нет? </speech>
-        <speech speaker="" speechtype="a"><hes type="lex">Ну</hes>, меня оскорбляют цены билетов.
+        <speech speaker="derevyannykh" speechtype="q">А вы сейчас ходите в кино? </speech>
+        <speech speaker="chistiakova" speechtype="a">Нет.</speech>
+        <speech speaker="derevyannykh" speechtype="q">Почему нет? </speech>
+        <speech speaker="chistiakova" speechtype="a"><hes type="lex">Ну</hes>, меня оскорбляют цены билетов.
             Меня оскорбляют. Потому что <pron type="pers" number="plur">мы</pron> привыкли, что это
             самое массовое, это самое доступное. Поэтому это <collective>все</collective> могут
             посмотреть. Но за двести рублей билет купить пенсионеры не могут. </speech>
-        <speech speaker="" speechtype="q">А вам нравятся какие-нибудь фильмы, которые идут сейчас? </speech>
-        <speech speaker="" speechtype="a"> так как<pron type="pers" number="sing">я</pron>не хожу
+        <speech speaker="derevyannykh" speechtype="q">А вам нравятся какие-нибудь фильмы, которые идут сейчас? </speech>
+        <speech speaker="chistiakova" speechtype="a"> так как<pron type="pers" number="sing">я</pron>не хожу
             сейчас, то мало. А то, что иногда посмотришь, не впечатляет. А уже то что там<hes
                 type="nonlex"/>. Действие всякие<hes type="nonlex"/> Нет, не нравится. А то что
             паказывают здесь вот, эти сериалы<hes type="nonlex"/>
             <hes type="lex">Ну</hes> вот видите как мало<pron type="pers" number="sing">я</pron>вам
             всего рассказала.</speech>
-        <speech speaker="" speechtype="q">Нет. Вы рассказали очень много, Галина Нестеровна. Столько
+        <speech speaker="derevyannykh" speechtype="q">Нет. Вы рассказали очень много, Галина Нестеровна. Столько
             информации. Нам еѐ только, только изучать и изучать. Спасибо большое.</speech>
-        <speech speaker="" speechtype="a">Потому что ни дат. Потому что, если вот так вспоминать <hes
+        <speech speaker="chistiakova" speechtype="a">Потому что ни дат. Потому что, если вот так вспоминать <hes
                 type="nonlex"/> можно вспоминать актеров, которые запоминались. Вот не помнишь
             фильм, но вот актерa<hes type="nonlex"/>. фотографии старых актеров. Но вот ходили
             иногда на фильм, вот сюжет не интересен, но актерская игра привлекает. Как в театр. В
@@ -429,7 +429,7 @@
             простого советского человека. Не всегда было доступно посещение театров. А вот
             кинотеатр, он был всегда рядом. Кинотеатр посещали <collective>все</collective> от мала
             до велика. </speech>
-        <speech speaker="" speechtype="q">Спасибо большое, Галина Нестеровна. </speech>
+        <speech speaker="derevyannykh" speechtype="q">Спасибо большое, Галина Нестеровна. </speech>
 
     </body>
 </interview>
