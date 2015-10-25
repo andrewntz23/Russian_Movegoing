@@ -1125,6 +1125,51 @@
             <year>1983</year>
         </title>
         
+        <title xml:id="dumbAndDumber">
+            <fullTitle>Dumb and Dumber</fullTitle>
+            <director>Peter Farrelly</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>comedy</genre>
+            <year>1994</year>
+        </title>
+        
+        <title xml:id="pi">
+            <fullTitle>Pi</fullTitle>
+            <director>Darren Aronofsky</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>thriller</genre>
+            <year>1998</year>
+        </title>
+        
+        <title xml:id="spokNochi">
+            <fullTitle>Good Night, Little Ones!</fullTitle>
+            <director>n/a</director>
+            <medium>television</medium>
+            <country>USSR</country>
+            <genre>TV show</genre>
+            <year>1998</year>
+        </title>
+        
+        <title xml:id="childrenOfCaptainGrant">
+            <fullTitle>The Children of Captain Grant</fullTitle>
+            <director>Vladimir Vainshtok and David Gutman</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>adventure</genre>
+            <year>1936</year>
+        </title>
+        
+        <title xml:id="unclеBoonmee">
+            <fullTitle>Uncle Boonmee Who Can Recall His Past Lives</fullTitle>
+            <director>Apichatpong Weerasethakul</director>
+            <medium>film</medium>
+            <country>Thailand</country>
+            <genre>art cinema</genre>
+            <year>2010</year>
+        </title>
+        
         
         
         
