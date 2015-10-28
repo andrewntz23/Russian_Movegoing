@@ -72,7 +72,7 @@
             запись, чем обычно веселятся перед кино. Ваши ребята меня поймут. </speech>
         <speech speaker="parks" speechtype="q">Сколько стоил билет? </speech>
         <speech speaker="voronin" speechtype="a">Билет стоил, я не помню, копейки. Поначалу <hes
-                type="nonlex"/>., поначалу, когда, мы были детьми и у нас было мало собственно денег
+                type="nonlex"/>., поначалу, когда, мы были детьми и <pron type="poss" number="plur">у нас</pron> было мало собственно денег
             в карманов, мы ходили на утренние сеансы, тогда было дешевле. А потом уже в любое време.
             Билет стоил от, от одного доларов, по вашему, до десяти или двадцати доларов. </speech>
         <speech speaker="parks" speechtype="q">Как назывался кинотеатр? Опишите кинотеатр. </speech>
@@ -97,7 +97,7 @@
             похожи друг на друга, все кинотеатры. А разница есть так <hes type="nonlex"/> такая:
             кинотеатр <hes type="lex">может быть</hes> отдельным зданием стоять или кинотеатр <hes
                 type="lex">может быть</hes> в торговом комплексе. А, как правило, сейчас все
-            кинотеатры у нас в торговoм комплексе. </speech>
+            кинотеатры <pron type="poss" number="plur">у нас</pron> в торговoм комплексе. </speech>
         <speech speaker="parks" speechtype="q">Когда вы начали ходить в кинотеатр один? </speech>
         <speech speaker="voronin" speechtype="a">Я не помню лет, лет в 10. </speech>
         <speech speaker="parks" speechtype="q">Вам нравилось ходить в кино и почему? </speech>
@@ -158,8 +158,7 @@
             2</title>. “Brother and Brother 2.” <hes type="lex">Ну</hes>, да, я думаю <hes
                 type="lex">может быть</hes> еще некоторые фильмы, а да, <title ref="lifeIsBeautiful"
                 >Это Прeкрасная Жизнь</title>. 2 “It’s A Beautiful Life.” Итальянский фильм. <hes
-                type="lex">Может быть</hes> я перепутал название. Итальянский фильм. Многие наши
-            взгляды с <pron type="poss" number="sing">моими</pron> друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </speech>
+                type="lex">Может быть</hes> я перепутал название. Итальянский фильм. Многие <pron type="poss" number="plur">наши</pron> взгляды с <pron type="poss" number="sing">моими</pron> друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </speech>
         <speech speaker="parks" speechtype="q">Как вы проводились свободное время кроме посещения в кино? </speech>
         <speech speaker="voronin" speechtype="a">Гуляли, играли в футбол, и в хоккей. Я думаю примерно,
             также как и все подростки, у которых есть свободное время и которые могут себе
@@ -170,7 +169,7 @@
             girls.” </speech>
         <speech speaker="parks" speechtype="q">Больше мужчин или женщин? </speech>
         <speech speaker="voronin" speechtype="a">В кино ходят? Даже не знаю, <hes type="lex">наверно</hes>,
-            больше женщин. Но, скорее потому, что у нас вообше больше женщин живет. </speech>
+            больше женщин. Но, скорее потому, что <pron type="poss" number="plur">у нас</pron> вообше больше женщин живет. </speech>
         <speech speaker="parks" speechtype="q">Вообще, люди чаще ходили в кино с семьями или с друзьями
             или с подругами? </speech>
         <speech speaker="voronin" speechtype="a">Да нет, больше девушки ходят в кино, потому что им делать
@@ -226,7 +225,7 @@
         <speech speaker="parks" speechtype="q">Фильмы были немые или звуковые? Черно-белые или цветные? </speech>
         <speech speaker="voronin" speechtype="a">Всегда были цветные, всегда были со звуком, за исключением
             специальных фильмов, не специальных, а когда по задумке режиссера. Если во всех
-            кинотеатрах мира крутился черно-белый и без звука, то у нас тоже. А все остальные
+            кинотеатрах мира крутился черно-белый и без звука, то <pron type="poss" number="plur">у нас</pron> тоже. А все остальные
             цветные, со звуком </speech>
         <speech speaker="parks" speechtype="q">Какое былo качество?</speech>
         <speech speaker="voronin" speechtype="a">Качество отличное было. Tакже много сейчас кинотеатров в
@@ -241,7 +240,7 @@
         <speech speaker="parks" speechtype="q">В кинотеатрах часто показывали иностранные фильмы? И фильмы
             из каких стран? </speech>
         <speech speaker="voronin" speechtype="a">Почти всегда иностранные фильмы, потому что после развала
-                <place ref="sovietUnion">Советского Союза</place> у нас мало кино снималось. Вот, но
+                <place ref="sovietUnion">Советского Союза</place><pron type="poss" number="plur"> у нас </pron>мало кино снималось. Вот, но
             сейчас, показывают и <nationalCinema ref="foreignCinema">иностранные</nationalCinema>, и
                 <nationalCinema ref="ourCinema">наши фильмы</nationalCinema>, всех стран, абсолютно
             всех стран, в основном, конечно, это <nationalCinema ref="americanCinema">американские
