@@ -45,14 +45,14 @@
             работала стюардессой, летала, в основном, по <place ref="russia">России</place>. Иногда
             ближнее зарубежье. </speech>
         <speech speaker="parks" speechtype="q">Какоe у вас образование? </speech>
-        <speech speaker="voronin" speechtype="a">Сейчас у меня высшее образование. В этом году я закончил
+        <speech speaker="voronin" speechtype="a">Сейчас <pron type="poss" number="sing">у меня</pron> высшее образование. В этом году я закончил
             Военный университет. </speech>
         <speech speaker="parks" speechtype="q">В каких городах вы жили? </speech>
         <speech speaker="voronin" speechtype="a">Я жил в <place ref="ufa">Уфе</place>, столице <place
                 ref="republicBashkirtostan">республики Башкортостан</place>. Также жил 3 года в
                 <place ref="moscow">Москве</place>, в столице <place ref="russia">России</place>, и
             последние 6 лет, я жил в <place ref="stPetersburg">Санкт Петербурге</place>, <epit
-                ref="stPetersburg">самом красивом</epit> городе, на мой взгляд. </speech>
+                ref="stPetersburg">самом красивом</epit> городе, наs <pron type="poss" number="sing">мой</pron> взгляд. </speech>
         <speech speaker="parks" speechtype="q">Вы помните первый раз когда вы ходили в кино? </speech>
         <speech speaker="voronin" speechtype="a">Нет, я не помню первый раз. Плохо, очень плохо помню. </speech>
         <speech speaker="parks" speechtype="q">Какие фильмы вы посмотрели? </speech>
@@ -84,7 +84,7 @@
             премьеры сюда и все звезды съезжаются, например. </speech>
         <speech speaker="parks" speechtype="q">Вы ходили пешком, или ездили? </speech>
         <speech speaker="voronin" speechtype="a">Обычно я ездил, это довольно далеко от дома было,
-            ближайший кинотеатр от моего дома был километров 20. </speech>
+            ближайший кинотеатр от <pron type="poss" number="sing">моего</pron> дома был километров двадцать. </speech>
         <speech speaker="parks" speechtype="q">На чем вы ездили? </speech>
         <speech speaker="voronin" speechtype="a">Обычно, сначала ездили на автобусах, после, уже когда
             выросли, ездили на машинах. </speech>
@@ -121,7 +121,7 @@
                 интересным</epit>, <epit ref="kino">менее захватывающим</epit>. Проще стало скачать
             из интернета. </speech>
         <speech speaker="parks" speechtype="q">Какие были ваши самые любимые жанры в детстве? </speech>
-        <speech speaker="voronin" speechtype="a"><genre ref="comedy">Комедия</genre>, в самого детсва, мой
+        <speech speaker="voronin" speechtype="a"><genre ref="comedy">Комедия</genre>, в самого детсва,s<pron type="poss" number="sing"> мой</pron>s
             любимый жанр <genre ref="comedy">комедия</genre>, <genre ref="warFilms">боевики</genre>
             тоже любил, а сейчас больше люблю какие-то <genre ref="drama">мелодрамы</genre> либо
             основанные на реальных событиях. </speech>
@@ -132,7 +132,7 @@
             студентов, это так. А потом, <genre ref="action">боевики</genre>, и <genre ref="comedy"
                 >комедии</genre>. </speech>
         <speech speaker="parks" speechtype="q">У вас есть любимый фильм? </speech>
-        <speech speaker="voronin" speechtype="a">Да, я думаю, у меня есть несколько любимов фильмов.
+        <speech speaker="voronin" speechtype="a">Да, я думаю, <pron type="poss" number="sing">у меня</pron> есть несколько любимyых фильмов.
             Просто, я очень много фильмов посмотрел, последний фильм, который произвел впечатление,
             называется “<title ref="mavericks">Mavericks</title>” <hes type="nonlex"/> либо, <title
                 ref="mavericks">Укротители волн 1</title> на русском. Это плохой перевод, с <person
@@ -159,7 +159,7 @@
                 type="lex">может быть</hes> еще некоторые фильмы, а да, <title ref="lifeIsBeautiful"
                 >Это Прeкрасная Жизнь</title>. 2 “It’s A Beautiful Life.” Итальянский фильм. <hes
                 type="lex">Может быть</hes> я перепутал название. Итальянский фильм. Многие наши
-            взгляды с моими друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </speech>
+            взгляды с <pron type="poss" number="sing">моими</pron> друзьями совпадают с рейтингом Интернет Муви Дейта Бейз. </speech>
         <speech speaker="parks" speechtype="q">Как вы проводились свободное время кроме посещения в кино? </speech>
         <speech speaker="voronin" speechtype="a">Гуляли, играли в футбол, и в хоккей. Я думаю примерно,
             также как и все подростки, у которых есть свободное время и которые могут себе
@@ -193,8 +193,7 @@
         <speech speaker="voronin" speechtype="a">Да, парочку знал. И, бывало, ходили бесплатно. </speech>
         <speech speaker="parks" speechtype="q">Какая была атмосфера в кинотеатре? </speech>
         <speech speaker="voronin" speechtype="a">По-разному. На ужастиках обычно <epit ref="kino"
-                >весело</epit>, потому что мы на ужастиках ходим с девушкой и самый напряженный
-            момент, мы специально ее пугаем. <hes type="lex">Ну</hes> что посмеяться. </speech>
+                >весело</epit>, потому что мы на ужастиках ходим с девушкой и самый напряженный момент, мы специально ее пугаем. <hes type="lex">Ну</hes> что посмеяться. </speech>
         <speech speaker="parks" speechtype="q">Опишите кинотеатр. Если можно, сравните с кинотеатрами
             сейчас. </speech>
         <speech speaker="voronin" speechtype="a">Я даже не знаю как его описать. Там большой экран, <epit
@@ -316,7 +315,7 @@
         <speech speaker="voronin" speechtype="a">Реже хожу, потому что меньше времени и кинотеатр уже
             немножко приелся. Раньше это было что-то удивительное и редкое, <hes type="lex">может
                 быть</hes>. Редко, когда мало ходишь, это как захватывает дух. А сейчас хочется
-            чего-то нового. Каких-то новых удовольствий, но я знаю многих людей, многих моих друзей
+            чего-то нового. Каких-то новых удовольствий, но я знаю многих людей, многих <pron type="poss" number="sing">моих</pron> друзей
             у которых, есть такая привычка, ходить в кино, они просто ни знают, куда еще пойти. Им
             хватает похода в кино. </speech>
         <speech speaker="parks" speechtype="q">Что бы вы хотели добавить в заключениe? </speech>
@@ -325,7 +324,7 @@
                 >Железный Человек 3</title>, Ironman 3, very good. </speech>
         <speech speaker="parks" speechtype="q">У кого бы вы посоветовали нам взять интервью на эту же тему
             в будущем? </speech>
-        <speech speaker="voronin" speechtype="a">Только не у меня! У кого-нибудь другого. Потому что я мало
+        <speech speaker="voronin" speechtype="a">Только не <pron type="poss" number="sing">у меня</pron>! У кого-нибудь другого. Потому что я мало
             чего могу сказать. Последнее время особенно. </speech>
     </body>
 </interview>
