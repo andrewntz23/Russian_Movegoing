@@ -218,7 +218,7 @@
 			<hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, наверное, не знаю, что тут сказать. <hes type="lex">Ну</hes>
 			много было всяких <hes type="nonlex"/> наверное, можно вспомнить. Что имеется в виду?
-			Если, типа<hes type="nonlex"/> ну<pron type="pers" number="sing">я</pron>даже несколько
+			Если, типа<hes type="nonlex"/> <hes type="lex">ну</hes><pron type="pers" number="sing">я</pron>даже несколько
 			раз сходил на <title ref="melancholy">Мелaнхолию</title>
 			<person ref="vonTrier">Фон Триера</person>, когда она вышла, потому что на большом
 			экране смотреть это уничтожение земли <hes type="nonlex"/> было особое удовольствие.
@@ -252,7 +252,7 @@
 			например, в <place ref="domKino">Дом кино</place>, там былa даже такая своебразная что
 			ли тусовка, там люди друг друга узнавали, там средний возраст <hes type="nonlex"/> но,
 			это всегда молодежь смотрит. <hes type="lex">Ну</hes>, от двадцати до тридцати лет. А
-			если ты сейчас пойдёшь на какой-нибудь фильм там типа, ну<pron type="pers" number="sing"
+			если ты сейчас пойдёшь на какой-нибудь фильм там типа, <hes type="lex">ну</hes><pron type="pers" number="sing"
 				>я</pron>не знаю, там, типa как <title ref="transformers">Трансформеры</title> или
 				<title ref="worldWarZ">Война Миров Зет</title>, или там, но, или что-то типa
 			голливудская фигня, которая вышла только что и рекламируется широко, бу средний возраст
@@ -309,7 +309,7 @@
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, как выглядел кинотеатр раньше можно посмотреть и сейчас. Можно
 			прийти, допустим, в <place ref="kinoteatrAurora">кинотеатр Аврора</place> на <place
-				ref="nevskiyProspekt">Невском проспекте</place>. Один из, ну, по содержанию, что там
+				ref="nevskiyProspekt">Невском проспекте</place>. Один из, <hes type="lex">ну</hes>, по содержанию, что там
 			катают, один из лучших кинотеатров в <place ref="stPetersburg">городе</place>. Надо
 			понимать, что в <place ref="stPetersburg">Петербурге</place> кинотеатры начали
 			открываться, там, ещё в <place ref="imperialRussia">императорской России</place>, в
@@ -351,7 +351,7 @@
 		<speech speaker="seeleyHall" speechtype="q"> В кинотеатре часто показывали инностранные фильмы или
 			фильмы каких стран и какие фильмы вам нравились больше всего? </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Но вообще-то как-то есть статистика наверняка какая-то на
-			эту тему. У нас ну, по-моему, если<pron type="pers" number="sing">я</pron>не ошибаюсь,
+			эту тему. У нас, <hes type="lex">ну</hes>, по-моему, если<pron type="pers" number="sing">я</pron>не ошибаюсь,
 			там что-то двадцать процентов только катается <nationalCinema ref="russianCinema"
 				>русского кино</nationalCinema>, а восемьдесят процентов это, конечно, кино
 			иностранное. И если брать вообще в целом по всем кинотеатрам,<hes type="lex"> ну
