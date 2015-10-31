@@ -21,10 +21,11 @@
     </xsl:template>
 <!--  Catch all to get any element and output it 
         as a span inside of speech tags  -->
-    <!--<xsl:template match="speech/*">
-        <span><xsl:attribute name="class" select="node-name()"/>
-            <xsl:apply-templates/></span>
-    </xsl:template>-->
+    <xsl:template match="speech/*">
+        <!--<span><xsl:attribute name="class" select="node-name()"/>
+            <xsl:apply-templates/></span>-->
+        
+    </xsl:template>
     
 <!--  This is how you could do it with two seperate rules -->
     <!--<xsl:template match="hes[@type='non-lex']">
