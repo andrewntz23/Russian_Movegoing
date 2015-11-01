@@ -96,8 +96,8 @@
             кинотеатрах, и достаточно большой зал.</speech>
         <speech speaker="wilkinson" speechtype="q">Вы ходили пешком, или вы ездили?</speech>
         <speech speaker="pavlov" speechtype="a">Конечно пешком, кинотеатр в <place ref="sovietUnion"
-                >Советском Союзе</place> обычно находился в каждом <place ref="microRegion"
-                >микрорайоне</place>.</speech>
+                >Советском Союзе</place> обычно находился в каждом
+                микрорайоне.</speech>
         <speech speaker="wilkinson" speechtype="q">У вас было один кинотеатр или больше около дома?</speech>
         <speech speaker="pavlov" speechtype="a">Мм, один. В микрорайоне всегда находился один. И второй
             находился чуть дальше. И основной кинотеатр всегда был где-то в <place ref="cityCenter"
@@ -169,7 +169,7 @@
             популярно в России ходить.</speech>
         <speech speaker="wilkinson" speechtype="q">Как люди одевались в кино? </speech>
         <speech speaker="pavlov" speechtype="a"><hes type="lex">Ну</hes>, абсолютно свободный стиль
-            одежды, потому что <place ref="movietheater">кинотеатр</place> в <place ref="russia"
+            одежды, потому что кинотеатр в <place ref="russia"
                 >России</place> не театр. В театр есть определённый “дресс код,” когда необходим
             костюм, а девушке платье. В кино джинсы, рубашка, свитер <hes type="nonlex"/> это вполне
             нормально.</speech>
