@@ -47,8 +47,6 @@
             </ul>
         </h3>
 
-<fn id="fn1"><xsl:apply-templates select="persons"/></fn>
-
         <hr/>
 
 
