@@ -184,7 +184,7 @@
         </person>
 
     </metaPersons>
-    
+
     <persons>
         <person xml:id="irinaLevental">
             <role>interviewee</role>
@@ -681,7 +681,7 @@
             <gender>m</gender>
             <nationality>France</nationality>
         </person>
-        
+
         <person xml:id="guerra">
             <role>scriptwriter</role>
             <surname>Guerra</surname>
@@ -691,9 +691,9 @@
         </person>
 
     </persons>
-    
+
     <titles>
-    
+
         <title xml:id="alladin">
             <fullTitle>Alladin</fullTitle>
             <director>Ron Clements and John Musker</director>
@@ -910,7 +910,7 @@
             <genre>art cinema</genre>
             <year>1969</year>
         </title>
-        
+
         <title xml:id="theIsland">
             <fullTitle>The Island</fullTitle>
             <director>Pavel Lungin</director>
@@ -919,7 +919,7 @@
             <genre>drama</genre>
             <year>2006</year>
         </title>
-        
+
         <title xml:id="theAdmiral">
             <fullTitle>The Admiral</fullTitle>
             <director>Andrei Kravchuk</director>
@@ -928,7 +928,7 @@
             <genre>melodrama</genre>
             <year>2008</year>
         </title>
-        
+
         <title xml:id="burntBySun2">
             <fullTitle>Burnt by the Sun 2: Exodus and Citadel</fullTitle>
             <director>Nikita Mikhalkov</director>
@@ -937,7 +937,7 @@
             <genre>war epic</genre>
             <year>2010</year>
         </title>
-        
+
         <title xml:id="ironyOfFate">
             <fullTitle>The Irony of Fate</fullTitle>
             <director>Eldar Riazanov</director>
@@ -946,7 +946,7 @@
             <genre>romantic comedy</genre>
             <year>1976</year>
         </title>
-        
+
         <title xml:id="piratesOfTheTwentiethCentury">
             <fullTitle>Pirates of the 20th Century</fullTitle>
             <director>Boris Durov</director>
@@ -955,7 +955,7 @@
             <genre>action</genre>
             <year>1979</year>
         </title>
-        
+
         <title xml:id="tenLittleIndians">
             <fullTitle>And Then There Were None</fullTitle>
             <director>Stanislav Govorukhin</director>
@@ -964,7 +964,7 @@
             <genre>murder mystery</genre>
             <year>1987</year>
         </title>
-        
+
         <title xml:id="coldSummer">
             <fullTitle>Cold Summer of 1953</fullTitle>
             <director>Aleksandr Proshkin</director>
@@ -973,7 +973,7 @@
             <genre>drama</genre>
             <year>1988</year>
         </title>
-        
+
         <title xml:id="nineAndHalfWeeks">
             <fullTitle>9 1/2 Weeks</fullTitle>
             <director>Adrian Lyne</director>
@@ -982,7 +982,7 @@
             <genre>erotic</genre>
             <year>1986</year>
         </title>
-        
+
         <title xml:id="windowOnParis">
             <fullTitle>Window to Paris</fullTitle>
             <director>Iurii Mamin</director>
@@ -991,7 +991,7 @@
             <genre>comedy</genre>
             <year>1993</year>
         </title>
-        
+
         <title xml:id="savageHuntKingStakh">
             <fullTitle>King Stakh's Wild Hunt</fullTitle>
             <director>Valerii Rubinchik</director>
@@ -1000,7 +1000,7 @@
             <genre>thriller</genre>
             <year>1979</year>
         </title>
-        
+
         <title xml:id="pinkCloud">
             <fullTitle>The Wayward Cloud</fullTitle>
             <director>Tsai Ming-liang</director>
@@ -1009,7 +1009,7 @@
             <genre>erotic</genre>
             <year>2005</year>
         </title>
-        
+
         <title xml:id="transformers">
             <fullTitle>Transformers</fullTitle>
             <director>Michael Bay</director>
@@ -1018,7 +1018,7 @@
             <genre>science fiction</genre>
             <year>2007</year>
         </title>
-        
+
         <title xml:id="worldWarZ">
             <fullTitle>World War Z</fullTitle>
             <director>Marc Forster</director>
@@ -1027,7 +1027,7 @@
             <genre>action thriller</genre>
             <year>2013</year>
         </title>
-        
+
         <title xml:id="hobbit">
             <fullTitle>The Hobbit</fullTitle>
             <director>Peter Jackson</director>
@@ -1036,7 +1036,7 @@
             <genre>fantasy</genre>
             <year>2012</year>
         </title>
-        
+
         <title xml:id="lifeOfAdele">
             <fullTitle>Blue Is the Warmest Color</fullTitle>
             <director>Abdellatif Kechiche</director>
@@ -1045,7 +1045,7 @@
             <genre>drama</genre>
             <year>2013</year>
         </title>
-        
+
         <title xml:id="inTheAnimalWorld">
             <fullTitle>In the Animal World</fullTitle>
             <director>n/a</director>
@@ -1054,8 +1054,8 @@
             <genre>TV show</genre>
             <year>1968</year>
         </title>
-        
-        
+
+
         <title xml:id="diamondArm">
             <fullTitle>The Diamond Arm</fullTitle>
             <director>Leonid Gaidai</director>
@@ -1064,7 +1064,7 @@
             <genre>comedy</genre>
             <year>1968</year>
         </title>
-        
+
         <title xml:id="elusiveAvengers">
             <fullTitle>The Elusive Avengers</fullTitle>
             <director>Edmond Keosaian</director>
@@ -1073,7 +1073,7 @@
             <genre>adventure</genre>
             <year>1966</year>
         </title>
-        
+
         <title xml:id="swanLake">
             <fullTitle>Swan Lake</fullTitle>
             <director>Appolinarii Dudko and Konstantin Sergeev</director>
@@ -1082,7 +1082,7 @@
             <genre>film-ballet</genre>
             <year>1968</year>
         </title>
-        
+
         <title xml:id="womanWhoSings">
             <fullTitle>The Woman Who Sings</fullTitle>
             <director>Aleksandr Orlov</director>
@@ -1091,7 +1091,7 @@
             <genre>musical</genre>
             <year>1979</year>
         </title>
-        
+
         <title xml:id="troy">
             <fullTitle>The Woman Who Sings</fullTitle>
             <director>Wolfgang Petersen</director>
@@ -1100,7 +1100,7 @@
             <genre>epic</genre>
             <year>2004</year>
         </title>
-        
+
         <title xml:id="spartacus">
             <fullTitle>Spartacus</fullTitle>
             <director>Stanley Kubrick</director>
@@ -1109,7 +1109,7 @@
             <genre>epic</genre>
             <year>1960</year>
         </title>
-        
+
         <title xml:id="alexander">
             <fullTitle>Alexander</fullTitle>
             <director>Oliver Stone</director>
@@ -1118,8 +1118,8 @@
             <genre>epic</genre>
             <year>2004</year>
         </title>
-        
-        
+
+
         <title xml:id="janeEyre">
             <fullTitle>Jane Eyre</fullTitle>
             <director>Julian Amyes</director>
@@ -1128,7 +1128,7 @@
             <genre>adaptation</genre>
             <year>1983</year>
         </title>
-        
+
         <title xml:id="dumbAndDumber">
             <fullTitle>Dumb and Dumber</fullTitle>
             <director>Peter Farrelly</director>
@@ -1137,7 +1137,7 @@
             <genre>comedy</genre>
             <year>1994</year>
         </title>
-        
+
         <title xml:id="pi">
             <fullTitle>Pi</fullTitle>
             <director>Darren Aronofsky</director>
@@ -1146,7 +1146,7 @@
             <genre>thriller</genre>
             <year>1998</year>
         </title>
-        
+
         <title xml:id="spokNochi">
             <fullTitle>Good Night, Little Ones!</fullTitle>
             <director>n/a</director>
@@ -1155,7 +1155,7 @@
             <genre>TV show</genre>
             <year>1998</year>
         </title>
-        
+
         <title xml:id="childrenOfCaptainGrant">
             <fullTitle>The Children of Captain Grant</fullTitle>
             <director>Vladimir Vainshtok and David Gutman</director>
@@ -1164,7 +1164,7 @@
             <genre>adventure</genre>
             <year>1936</year>
         </title>
-        
+
         <title xml:id="unclеBoonmee">
             <fullTitle>Uncle Boonmee Who Can Recall His Past Lives</fullTitle>
             <director>Apichatpong Weerasethakul</director>
@@ -1173,7 +1173,7 @@
             <genre>art cinema</genre>
             <year>2010</year>
         </title>
-        
+
         <title xml:id="ivanVasilevichChangesJobs">
             <fullTitle>Ivan Vasilievich: Back to the Future</fullTitle>
             <director>Leonid Gaidai</director>
@@ -1182,7 +1182,7 @@
             <genre>comedy</genre>
             <year>1973</year>
         </title>
-        
+
         <title xml:id="warAndPeace">
             <fullTitle>War and Peace</fullTitle>
             <director>Sergei Bondarchuk</director>
@@ -1191,7 +1191,7 @@
             <genre>epic</genre>
             <year>1967</year>
         </title>
-        
+
         <title xml:id="juno">
             <fullTitle>Juno</fullTitle>
             <director>Jason Reitman</director>
@@ -1200,7 +1200,7 @@
             <genre>comedy</genre>
             <year>2007</year>
         </title>
-        
+
         <title xml:id="rockyBullwinkle">
             <fullTitle>The Rocky and Bullwinkle Show</fullTitle>
             <director>Jay Ward</director>
@@ -1209,10 +1209,7 @@
             <genre>cartoon</genre>
             <year>1960</year>
         </title>
-        
-        
-     
-     
+
 
     </titles>
 
@@ -1242,19 +1239,183 @@
         <genre xml:id="crimeDrama"/>
         <genre xml:id="thriller"/>
     </genres>
-    
+
     <places>
-        <place xml:id="movieTheater">
-            <placeType>generic entry</placeType>
-            <location>generic entry</location>
+        <place xml:id="stPetersburg">
+            <fullName>St. Petersburg</fullName>
+            <placeType>geo</placeType>
         </place>
-        <place xml:id="example4">
-            <placeType/>
-            <location/>
+        
+        <place xml:id="russia">
+            <fullName>Russia</fullName>
+            <placeType>geo</placeType>
         </place>
+        
+        <place xml:id="pskovskayaOblast">
+            <fullName>Pskov Oblast </fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="sovietUnion">
+            <fullName>Soviet Union</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrRodina">
+            <fullName>Rodina movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="nevel">
+            <fullName>Nevel</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="china">
+            <fullName>China</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="hongKong">
+            <fullName>Hong Kong</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="urals">
+            <fullName>CThe Urals</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="ufa">
+            <fullName>Ufa</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="republicBashkirtostan">
+            <fullName>Republic Bashkortostan</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="moscow">
+            <fullName>Moscow</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrIskra">
+            <fullName>Iskra movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="sverdlovsk">
+            <fullName>Sverdlovsk</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="ekaterinburg">
+            <fullName>Ekaterinburg</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="berlin">
+            <fullName>Berlin</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="domKino">
+            <fullName>Dom Kino</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="philadelphia">
+            <fullName>Philadelhia</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="seoul">
+            <fullName>Seoul</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrFestival">
+            <fullName>Festival movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="cityCenter">
+            <fullName>mall</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrAurora">
+            <fullName>Aurora movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrMaksim">
+            <fullName>Maksim movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="leningrad">
+            <fullName>Leningrad</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="videoSalon">
+            <fullName>Video Salon</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="canneFestival">
+            <fullName>Cannes Film Festival</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="nevskiyProspekt">
+            <fullName>Nevsky Prospect</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="imperialRussia">
+            <fullName>Imperial Russia</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="hotelAngleter">
+            <fullName>Hotel Angleterre</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="isaacsSquare">
+            <fullName>Saint Isaac's Square</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="hollywood">
+            <fullName>Hollywood</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="siberia">
+            <fullName>Siberia</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="volgograskayaOblast">
+            <fullName>Volgograd Oblast</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        
+        <place xml:id="volgograd">
+            <fullName>Volgograd</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+      
     </places>
-    
-    
+
+
     <nationalCinemas>
         <nationalCinema xml:id="americanCinema"/>
         <nationalCinema xml:id="sovietCinema"/>
