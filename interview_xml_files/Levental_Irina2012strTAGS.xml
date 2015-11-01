@@ -33,7 +33,7 @@
 
 
 		<speech speaker="faith" speechtype="q"> Сегодня двадцать восьмоe июля 2012ого года. Мы
-			находимся в <place ref="stPetersburg">Санкт-Петербурге</place>, в <place ref="Russia"
+			находимся в <place ref="stPetersburg">Санкт-Петербурге</place>, в <place ref="russia"
 				>России</place>. Меня зовут Рейчел. Moй коллега Андрю и<pron type="pers"
 				number="sing"> я </pron>берём интервью у Ирины Валерьевны Левенталь. Мы берём у вас
 			интервью для кинопроекта, который изучает общественную, политическую, и культурную
@@ -48,7 +48,7 @@
 		<speech speaker="faith" speechtype="q"> Расскажите нам когда и где вы выросли? </speech>
 		<speech speaker="leventalIrina" speechtype="a">
 			<pron type="pers" number="sing">Я</pron> родилась в маленьком городе, который находится
-			в <place ref="pskovskayaOblast'">Псковской области</place> на границе с Белоруссией.
+			в <place ref="pskovskayaOblast">Псковской области</place> на границе с Белоруссией.
 			Примерно десять пятнадцать километров до границы. Это примерно четыре ста пятьдесят,
 			пятьсот километров от Санкт-Петербурга на юге от <place ref="stPetersburg"
 				>Петербурга</place>. <hes type="nonlex"/> Город маленький когда <pron type="pers"
@@ -102,7 +102,7 @@
 		<speech speaker="leventalIrina" speechtype="a"> Тогда? <pron type="pers" number="sing"
 				>Я</pron> не знаю. <pron type="pers" number="sing">Я</pron> совсем, совсем не помню,
 			сколько стоил билет. То есть, это, это <hes type="nonlex"/> если мне было лет пять,
-			тогда это был 1987ой, 1988ой год, да, тогда ещё был <place ref="sovietUntion">Советский
+			тогда это был 1987ой, 1988ой год, да, тогда ещё был <place ref="sovietUnion">Советский
 				Союз</place>, и эти цены, конечно, <pron type="pers" number="sing">я</pron> не знаю,
 			какие это были цены.<hes type="lex"> Ну</hes>копейки или рубли, не знаю. </speech>
 		<speech speaker="faith" speechtype="q"> Ладно. Как назывался кинотеатр? </speech>
@@ -314,8 +314,8 @@
 				Попогребского</person>, Как <pron type="pers" number="sing">я</pron> провел этим
 			летом. Мне это очень нравится <hes type="nonlex"/> Так, а из зарубежных <hes
 				type="nonlex"/> Мне нравится <nationalCinema ref="europeanCinema">европейское
-				кино</nationalCinema>. Да? <nationlCinema ref="europeanCinema">европейское
-				кино</nationlCinema>. Ну, <hes type="lex">наверно</hes> это <hes type="nonlex"/> мне
+				кино</nationalCinema>. Да? <nationalCinema ref="europeanCinema">европейское
+				кино</nationalCinema>. Ну, <hes type="lex">наверно</hes> это <hes type="nonlex"/> мне
 			нравятся режиссёры 60ых годов. <nationalCinema ref="italianCinema"
 				>Итальянцы</nationalCinema>, например, да там? То, что они снимали в 60ые годы, там,
 				<person ref="visconti">Висконти</person>, <person ref="antonioni"
@@ -336,7 +336,7 @@
 			Да, мне нравится <person ref="lynch">Давид Линч</person>. Мне нравится <person
 				ref="jarmusch">Джим Джармуш</person>. Кто мне ещё нравится<hes type="nonlex"/>?
 				<person ref="aronofsky">Дарен Аранофски</person>, да. Мне нравится его фильм <title
-				ref="pi">Пи</title>. Ну, вот.<hes type="lex"><hes type="lex"> Ну </hes></hes>и так.
+				ref="pi">Пи</title>. <hes type="lex">Ну</hes>, вот.<hes type="lex"> Ну </hes>и так.
 			Да? А, мне ещё нравится <person ref="vonTrier">Ларс фон Триер</person>. Очень. <hes
 				type="lex">Наверно</hes>, фильм <title ref="melancholy">Меланхолия</title>,
 			смотрели? Фильм Меланхолия да? <person ref="vonTrier">Ларса фон Триера</person> из
