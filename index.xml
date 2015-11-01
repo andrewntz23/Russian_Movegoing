@@ -1412,6 +1412,19 @@
             <placeType>geo</placeType>
         </place>
         
+        <place xml:id="america">
+            <fullName>America</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="vietnam">
+            <fullName>Vietnam</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        
+        
+        
       
     </places>
 
