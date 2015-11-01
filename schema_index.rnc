@@ -35,9 +35,10 @@ year = element year {xsd:int}
 
 #places
 places = element places {place+} 
-place = element place {placeType, location, id} 
+place = element place {fullName, placeType, id} 
 placeType = element placeType {"exhibition" | "geo"}
-location = element location {text}
+fullName=element fullName {text}
+
 
 #genres
 genres_meta = element genres {genre_meta+}
