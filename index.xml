@@ -1209,6 +1209,15 @@
             <genre>cartoon</genre>
             <year>1960</year>
         </title>
+        
+        <title xml:id="irreversible">
+            <fullTitle>Irreversible</fullTitle>
+            <director>Gaspar Noe</director>
+            <medium>film</medium>
+            <country>France</country>
+            <genre>thriller</genre>
+            <year>2002</year>
+        </title>
 
 
     </titles>
@@ -1421,6 +1430,18 @@
             <fullName>Vietnam</fullName>
             <placeType>geo</placeType>
         </place>
+        
+        <place xml:id="kino">
+            <fullName>movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="kinoteatrMirazh">
+            <fullName>Mirazh movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        
         
         
         
