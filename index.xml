@@ -1431,6 +1431,11 @@
             <placeType>geo</placeType>
         </place>
         
+        <place xml:id="movieTheater">
+            <fullName>movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
         <place xml:id="kino">
             <fullName>movie theater</fullName>
             <placeType>exhibition</placeType>
