@@ -1,0 +1,39 @@
+/*CSS for Interviews */
+body {background-color: wheat;}
+
+span.pers.sing
+{color:blue;}
+
+span.pers.plur
+{color:red;}
+
+span.poss.sing
+{color: green;}
+
+span.poss.plur
+{color: fuchsia;}
+
+span.lex
+{color: orange; font-size: 14px;}
+
+span.nonlex
+{color: aqua}
+
+span.collective
+{color: yellowgreen; font-size: 20px;}
+
+span.epit
+{color: sienna;}
+
+span.person
+{color: brown;}
+
+
+span.title
+{color: darkgreen;}
+
+span.genre
+{color: DarkOliveGreen; font-size: 24px;}
+
+span.nationalCinema
+{color: DarkSlateGray; font-size: 32px;}
