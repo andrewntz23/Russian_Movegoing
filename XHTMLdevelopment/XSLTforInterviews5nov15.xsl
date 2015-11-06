@@ -4,13 +4,13 @@
     xmlns="http://www.w3.org/1999/xhtml" version="2.0">
 
     <xsl:output method="xml" indent="yes"/>
-
+    <xsl:variable name="index" select="document('../index.xml')"/>  
     <xsl:template match="/">
 
         <html>
             <head>
                 <title>XSLT INTERVIEW TEMPLATE</title>
-                <link rel="stylesheet" type="text/css" href="CSSforinterviews5nov15.css"/>" </head>
+                <link rel="stylesheet" type="text/css" href="interview.css"/>" </head>
             <body>
                 <xsl:apply-templates/>
             </body>
@@ -19,16 +19,13 @@
     </xsl:template>
 
     <xsl:template match="meta">
-<!--        FOR ANDREW: How do we output authors of the interview (transcribers and transltors)?-->
-        <h2 style="color: green"><xsl:text>Interview with Mikhail Voronin.</xsl:text></h2>
-        <!--          FOR ANDREW:  how does one enter interviewee's name automatically?-->
+    <xsl:variable name="interviewee" select="//interviewee/@ref"/>  
+    <xsl:variable name="interviewer" select="//interviewer[1]/@ref"/>    
+        <h1 style="color: green"><xsl:value-of select="'Interview with', $index//person[@xml:id=$interviewee]/forename, $index//person[@xml:id=$interviewee]/surname"/></h1>
         <ul>
-            
-                
-            
+
             <li>
-                <xsl:text>Interviewer: Jessica Parks</xsl:text>
-                <!--          FOR ANDREW:  how does one enter interviewee's name automatically?-->
+                <xsl:value-of select="'Interviewer:', $index//person[@xml:id=$interviewer]/forename, $index//person[@xml:id = $interviewer]/surname"/>
             </li>
             <li>
                 <a href="http://mtp.blogs.wm.edu">
@@ -40,6 +37,7 @@
                     <xsl:apply-templates select="university"/>
                 </a>
             </li>
+<!--     We'll also want to link to the XML file       -->
             <li><xsl:text>Interview Date: </xsl:text><xsl:apply-templates select="date[1]"/></li>
             <li><xsl:text>Transcription and Translation Date: </xsl:text><xsl:apply-templates select="date[2]"/></li>
 
@@ -49,23 +47,6 @@
     </xsl:template>
 
     <xsl:template match="speech">
-
-        <!--<xsl:choose>
-            <xsl:when test="@speaker = 'parks'">
-                <!-\-          FOR ANDREW:  how does one enter interviewer's name automatically?-\->
-                <strong>
-                    <xsl:text>Паркс: </xsl:text>
-                </strong>
-            </xsl:when>
-            
-            <xsl:when test="@speaker = 'voronin'">
-                <strong>
-                    <xsl:text>Воронин: </xsl:text>
-                </strong>
-            </xsl:when>
-        </xsl:choose>-->
-        
-        <xsl:variable name="index" select="document('../index.xml')"/>  
         <xsl:variable name="speaker" select="@speaker"/>
         <h2>
             <xsl:value-of select="$index//person[@xml:id = $speaker]/surname"></xsl:value-of>
@@ -86,16 +67,28 @@
 
 <!--   Below is a template for hesitation marks: lexical and non-lexical-->
     <xsl:template match="hes">
-        <span class="lex">        
+<!--        <span class="lex">        
             <xsl:apply-templates/>
-        </span>
+        </span>-->
     
     
-        <span class="nonlex">        
-            <xsl:if test="@type='nonlex'">
+              
+            <!--<xsl:if test="@type='nonlex'">
              <strong><xsl:value-of>...</xsl:value-of></strong>  
-            </xsl:if>
-        </span>
+            </xsl:if>-->
+            <xsl:choose>
+                <xsl:when test="@type='nonlex'">
+                    <span class="nonlex">
+                        <xsl:text>...</xsl:text>
+                    </span>
+                </xsl:when>
+                <xsl:otherwise>
+                    <span class="lex">
+                        <xsl:apply-templates></xsl:apply-templates>
+                    </span>
+                </xsl:otherwise>
+            </xsl:choose>
+        
     </xsl:template>
     
     <xsl:template match="collective">
