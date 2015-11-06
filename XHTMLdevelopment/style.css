@@ -2,7 +2,8 @@
 
 
 body
-{background-color: #f4eee2;}
+{background-color: #f4eee2;
+position:fixed}
 
 div#menu
 {
@@ -20,6 +21,7 @@ ul#menuList
 {
   list-style: none;
 position: relative;
+color:black;
 }
 
 ul#menuList li
