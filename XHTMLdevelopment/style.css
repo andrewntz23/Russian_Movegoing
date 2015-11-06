@@ -3,7 +3,9 @@
 
 body
 {background-color: #f4eee2;
-position:fixed}
+position:fixed
+text-decoration:none;
+color:black;}
 
 div#menu
 {
