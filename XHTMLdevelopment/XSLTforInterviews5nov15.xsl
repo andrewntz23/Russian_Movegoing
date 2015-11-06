@@ -10,7 +10,9 @@
         <html>
             <head>
                 <title>XSLT INTERVIEW TEMPLATE</title>
-                <link rel="stylesheet" type="text/css" href="interview.css"/>" </head>
+                <link rel="stylesheet" type="text/css" href="/css/interview.css"/> 
+                <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+            </head>
             <body>
                 <xsl:apply-templates/>
             </body>
