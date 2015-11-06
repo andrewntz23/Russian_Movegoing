@@ -29,10 +29,14 @@ color:black;
 ul#menuList li
 {
     display: inline;
+    padding-right:30px;
+    padding-left:30px;
     font-size: 125%;
     text-decoration:none;
     color:black
 }
+
+ul.menu li a:hover{color:black}
 
 div#description
 {
