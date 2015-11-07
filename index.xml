@@ -689,6 +689,73 @@
             <gender>m</gender>
             <nationality>Italy</nationality>
         </person>
+        
+        <person xml:id="celentano">
+            <role>actor and singer</role>
+            <surname>Celentano</surname>
+            <forename>Adriano</forename>
+            <gender>m</gender>
+            <nationality>Italy</nationality>
+        </person>
+        
+        <person xml:id="gere">
+            <role>actor</role>
+            <surname>Gere</surname>
+            <forename>Richard</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+     
+         <person xml:id="robertsJ">
+            <role>actor</role>
+            <surname>Roberts</surname>
+            <forename>Julia</forename>
+            <gender>f</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+         <person xml:id="delon">
+            <role>actor</role>
+            <surname>Delon</surname>
+            <forename>Alain</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+         <person xml:id="loren">
+            <role>actor</role>
+            <surname>Loren</surname>
+            <forename>Sophia</forename>
+            <gender>f</gender>
+            <nationality>Italy</nationality>
+        </person>
+        
+        <person xml:id="swayze">
+            <role>actor</role>
+            <surname>Swayze</surname>
+            <forename>patrick</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="gromova">
+            <role>character</role>
+            <surname>Gromova</surname>
+            <forename>Ul'iana</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="shevtsova">
+            <role>character</role>
+            <surname>Shevtsova</surname>
+            <forename>Liubov'</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        
+      
 
     </persons>
 
@@ -1218,6 +1285,47 @@
             <genre>thriller</genre>
             <year>2002</year>
         </title>
+        
+        <title xml:id="youngGuard">
+            <fullTitle>The Young Guard</fullTitle>
+            <director>Sergei Gerasimov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>war film</genre>
+            <year>1948</year>
+        </title>
+        
+          <title xml:id="seventeenMoments">
+            <fullTitle>Seventeen Moments of Spring</fullTitle>
+            <director>Tat'ana Lioznova</director>
+            <medium>television</medium>
+            <country>USSR</country>
+            <genre>spy thriller</genre>
+            <year>1973</year>
+        </title>
+        
+        
+          <title xml:id="morozko">
+            <fullTitle>Morozko</fullTitle>
+            <director>Aleksandr Rou</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>skazka</genre>
+            <year>1964</year>
+        </title>
+        
+           <title xml:id="ivanBrovkin">
+            <fullTitle>Ivan Brovkin at the Virgin Lands</fullTitle>
+            <director>Ivan Lukinskii</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1959</year>
+        </title>
+         
+
+        
+        
 
 
     </titles>
@@ -1446,6 +1554,27 @@
             <placeType>exhibition</placeType>
         </place>
         
+        <place xml:id="club">
+            <fullName>Club</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="odessa">
+            <fullName>Odessa</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="baltika">
+            <fullName>Baltina</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="priboi">
+            <fullName>Priboi</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        
         
         
         
@@ -1473,5 +1602,7 @@
         <nationalCinema xml:id="swedishCinema"/>
         <nationalCinema xml:id="taiwaneseCinema"/>
         <nationalCinema xml:id="australianCinema"/>
+        <nationalCinema xml:id="hungarianCinema"/>
+        <nationalCinema xml:id="czechoslovakCinema"/>
     </nationalCinemas>
 </index>
