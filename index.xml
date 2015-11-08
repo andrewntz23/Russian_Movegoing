@@ -754,8 +754,81 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="chkalov">
+            <role>pilot</role>
+            <surname>Chkalov</surname>
+            <forename>Valerii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
         
-      
+        <person xml:id="kholodnaia">
+            <role>actor</role>
+            <surname>Khalodnaia</surname>
+            <forename>Vera</forename>
+            <gender>f</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        <person xml:id="dietrich">
+            <role>actor</role>
+            <surname>Dietrich</surname>
+            <forename>Marlene</forename>
+            <gender>f</gender>
+            <nationality>Germany/USA</nationality>
+        </person>
+        
+        <person xml:id="garbo">
+            <role>actor</role>
+            <surname>Garbo</surname>
+            <forename>Greta</forename>
+            <gender>f</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="zheimo">
+            <role>actor</role>
+            <surname>Zheimo</surname>
+            <forename>Ianina</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="garin">
+            <role>actor</role>
+            <surname>Garin</surname>
+            <forename>Erast</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="ranevskaia">
+            <role>actor</role>
+            <surname>Ranevskaia</surname>
+            <forename>Faina</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="strauss">
+            <role>composer</role>
+            <surname>Strauss</surname>
+            <forename>Johann</forename>
+            <gender>m</gender>
+            <nationality>Austria</nationality>
+        </person>
+        
+        <person xml:id="rybnikov">
+            <role>actor</role>
+            <surname>Rybnikov</surname>
+            <forename>Nikolai</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        
+        
+    
 
     </persons>
 
@@ -1322,10 +1395,34 @@
             <genre>comedy</genre>
             <year>1959</year>
         </title>
-         
-
         
+        <title xml:id="chapaev">
+            <fullTitle>Chapaev</fullTitle>
+            <director>Georgii Vasil'ev and Sergei Vasil'ev</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>biopic</genre>
+            <year>1934</year>
+        </title>
         
+        <title xml:id="cinderella">
+            <fullTitle>Cinderella</fullTitle>
+            <director>Nadezhda Kosheverova and Mikhail Shapiro</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>skazka</genre>
+            <year>1947</year>
+        </title>
+        
+        <title xml:id="greatWaltz">
+            <fullTitle>The Great Waltz</fullTitle>
+            <director>Julien Duvivier</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>biopic</genre>
+            <year>1938</year>
+        </title>
+  
 
 
     </titles>
@@ -1355,6 +1452,9 @@
         <genre xml:id="fantasy"/>
         <genre xml:id="crimeDrama"/>
         <genre xml:id="thriller"/>
+        <genre xml:id="retro"/>
+        <genre xml:id="trophy"/>
+        <genre xml:id="silent"/>
     </genres>
 
     <places>
@@ -1565,14 +1665,40 @@
         </place>
         
         <place xml:id="baltika">
-            <fullName>Baltina</fullName>
+            <fullName>Baltika</fullName>
             <placeType>exhibition</placeType>
         </place>
         
         <place xml:id="priboi">
-            <fullName>Priboi</fullName>
+            <fullName>Priboi movie theater</fullName>
             <placeType>exhibition</placeType>
         </place>
+        
+        <place xml:id="rostovOnDon">
+            <fullName>Rostov-on-Don</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="filmProjectionUnit">
+            <fullName>Portable Film Projection Unit</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="chkalovets">
+            <fullName>Chalovets movie theater</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="moskva">
+            <fullName>Moscow</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="vancouver">
+            <fullName>Vancouver</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
         
         
         
@@ -1604,5 +1730,6 @@
         <nationalCinema xml:id="australianCinema"/>
         <nationalCinema xml:id="hungarianCinema"/>
         <nationalCinema xml:id="czechoslovakCinema"/>
+        <nationalCinema xml:id="austrianCinema"/>
     </nationalCinemas>
 </index>
