@@ -131,6 +131,13 @@
         </span> 
     </xsl:template>
     
+<!--   FOR THE TEAM: for this span we do not have CSS style yet-->
+    <xsl:template match="collective">
+        <span class="collective">
+            <xsl:apply-templates/>
+        </span> 
+    </xsl:template>
+    
 
 </xsl:stylesheet>
 
