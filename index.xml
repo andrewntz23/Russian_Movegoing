@@ -826,6 +826,109 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="ilinskii">
+            <role>actor</role>
+            <surname>Il'inskii</surname>
+            <forename>Igor'</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="chekhov">
+            <role>writer</role>
+            <surname>Chekhov</surname>
+            <forename>Anton</forename>
+            <gender>m</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        <person xml:id="dostoevskii">
+            <role>writer</role>
+            <surname>Dostoevskii</surname>
+            <forename>Fedor</forename>
+            <gender>m</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        <person xml:id="tolstoi">
+            <role>writer</role>
+            <surname>Tolstoi</surname>
+            <forename>Lev</forename>
+            <gender>m</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        
+        <person xml:id="tolstoi2">
+            <role>writer</role>
+            <surname>Tolstoi</surname>
+            <forename>Aleksei</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="turgenev">
+            <role>writer</role>
+            <surname>Turgenev</surname>
+            <forename>Ivan</forename>
+            <gender>m</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        <person xml:id="smoktunovskii">
+            <role>actor</role>
+            <surname>Smoktunovskii</surname>
+            <forename>Innokentii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="basilashvili">
+            <role>actor</role>
+            <surname>Basilashvili</surname>
+            <forename>Oleg</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="freindlikh">
+            <role>actor</role>
+            <surname>Freindlikh</surname>
+            <forename>Alisa</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="kuznetsovAl">
+            <role>actor</role>
+            <surname>Kuznetsov</surname>
+            <forename>Aleksandr</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="kuznetsovAn">
+            <role>actor</role>
+            <surname>Kuznetsov</surname>
+            <forename>Anatolii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="batalov">
+            <role>actor</role>
+            <surname>Batalov</surname>
+            <forename>Aleksei</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        
+        
+        
+        
+        
+        
         
         
     
@@ -1422,9 +1525,79 @@
             <genre>biopic</genre>
             <year>1938</year>
         </title>
+        
+        <title xml:id="jorgenDay">
+            <fullTitle>St. Jorgen's Day</fullTitle>
+            <director>Iakov Protazanov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1930</year>
+        </title>
+        
+        <title xml:id="warAndPeaceAm">
+            <fullTitle>War and Peace</fullTitle>
+            <director>King Vidor</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>adaptation</genre>
+            <year>1956</year>
+        </title>
+        
+        <title xml:id="admiralUshakov">
+            <fullTitle>Admiral Ushakov</fullTitle>
+            <director>Mikhail Romm</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>biopic</genre>
+            <year>1953</year>
+        </title>
+        
+        <title xml:id="gladiator">
+            <fullTitle>Gladiator</fullTitle>
+            <director>ridley Scott</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>epic</genre>
+            <year>2000</year>
+        </title>
+        
+        <title xml:id="mumu">
+            <fullTitle>Mumu</fullTitle>
+            <director>Iurii Grymov</director>
+            <medium>film</medium>
+            <country>Russia</country>
+            <genre>adaptation</genre>
+            <year>1998</year>
+        </title>   
+        
+        <title xml:id="iceAge">
+            <fullTitle>ice Age</fullTitle>
+            <director>Chris Wedge and Carlos Saldanha</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>cartoon</genre>
+            <year>2002</year>
+        </title>  
+        
+        <title xml:id="whiteSun">
+            <fullTitle>White Sun of the Desert</fullTitle>
+            <director>Vladimir Motyl'</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>western</genre>
+            <year>1970</year>
+        </title>
+        
+        <title xml:id="ladyWithDog">
+            <fullTitle>The lady with the Dog</fullTitle>
+            <director>Iosif Kheifits</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>melodrama</genre>
+            <year>1960</year>
+        </title>
   
-
-
     </titles>
 
     <genres>
@@ -1697,6 +1870,11 @@
         <place xml:id="vancouver">
             <fullName>Vancouver</fullName>
             <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="knowledgePower">
+            <fullName>Knowledge Is Power</fullName>
+            <placeType>exhibition</placeType>
         </place>
         
         
