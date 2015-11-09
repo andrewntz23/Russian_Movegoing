@@ -37,3 +37,6 @@ span.genre
 
 span.nationalCinema
 {color: DarkSlateGray; font-size: 32px;}
+
+span.collective
+{font-style: italic;}
