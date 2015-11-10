@@ -186,13 +186,7 @@
     </metaPersons>
 
     <persons>
-        <person xml:id="irinaLevental">
-            <role>interviewee</role>
-            <surname>Levental</surname>
-            <forename>Irina</forename>
-            <gender>f</gender>
-            <nationality>Russia</nationality>
-        </person>
+       
         <person xml:id="andreiTarkovskii">
             <role>director</role>
             <surname>Tarkovskii</surname>
@@ -923,15 +917,7 @@
             <nationality>USSR</nationality>
         </person>
         
-        
-        
-        
-        
-        
-        
-        
-        
-    
+      
 
     </persons>
 
@@ -1876,6 +1862,12 @@
             <fullName>Knowledge Is Power</fullName>
             <placeType>exhibition</placeType>
         </place>
+        
+        <place xml:id="volgogradskayaOblast">
+            <fullName>Volgograd Oblast</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
         
         
         
