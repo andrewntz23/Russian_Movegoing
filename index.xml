@@ -917,6 +917,31 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="dumas">
+            <role>writer</role>
+            <surname>Dumas</surname>
+            <forename>Alexandre</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+        <person xml:id="schneider">
+            <role>actor</role>
+            <surname>Schneider</surname>
+            <forename>Romy</forename>
+            <gender>f</gender>
+            <nationality>France</nationality>
+        </person>
+        
+        <person xml:id="funes">
+            <role>actor</role>
+            <surname>de Funes</surname>
+            <forename>Louis</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+        
       
 
     </persons>
@@ -1583,6 +1608,33 @@
             <genre>melodrama</genre>
             <year>1960</year>
         </title>
+        
+        <title xml:id="threeMusketeers">
+            <fullTitle>The Three Musketeers</fullTitle>
+            <director>Andre Hunebelle</director>
+            <medium>film</medium>
+            <country>France</country>
+            <genre>adaptation</genre>
+            <year>1953</year>
+        </title>
+        
+        <title xml:id="tearsOfBlood">
+            <fullTitle>Tears of Blood</fullTitle>
+            <director>Alfred Vohrer</director>
+            <medium>film</medium>
+            <country>Germany/France</country>
+            <genre>melodrama</genre>
+            <year>1972</year>
+        </title>
+        
+        <title xml:id="fantomas">
+            <fullTitle>Fantomas</fullTitle>
+            <director>Andre Hunebelle</director>
+            <medium>film</medium>
+            <country>France</country>
+            <genre>crime thriller / comedy</genre>
+            <year>1964</year>
+        </title>
   
     </titles>
 
@@ -1614,6 +1666,7 @@
         <genre xml:id="retro"/>
         <genre xml:id="trophy"/>
         <genre xml:id="silent"/>
+        <genre xml:id="detective"/>
     </genres>
 
     <places>
@@ -1868,6 +1921,41 @@
             <placeType>geo</placeType>
         </place>
         
+        <place xml:id="nikolaev">
+            <fullName>Nikolaev</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="ukraine">
+            <fullName>Ukraine</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="blackSea">
+            <fullName>The Black Sea</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="crimea">
+            <fullName>Crimea</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="feodosiia">
+            <fullName>Feodosiia</fullName>
+            <placeType>geo</placeType>
+        </place>
+        
+        <place xml:id="vinbochka">
+            <fullName>"kinoteatr "Vinbochka"</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        <place xml:id="france">
+            <fullName>France</fullName>
+            <placeType>geo</placeType>
+        </place>
+  
         
         
         
@@ -1901,5 +1989,7 @@
         <nationalCinema xml:id="hungarianCinema"/>
         <nationalCinema xml:id="czechoslovakCinema"/>
         <nationalCinema xml:id="austrianCinema"/>
+        <nationalCinema xml:id="britishCinema"/>
+        
     </nationalCinemas>
 </index>
