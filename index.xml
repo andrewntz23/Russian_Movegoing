@@ -4,181 +4,190 @@
 <index>
     <metaPersons>
         <person xml:id="leventalVadim">
-            <surname>Levental</surname>
+            <surnameEng>Levental</surnameEng>
+            <surnameRus>Левенталь</surnameRus>
             <forename>Vadim</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="leventalIrina">
-            <surname>Levental</surname>
+            <surnameEng>Levental</surnameEng>
+            <surnameRus>Левенталь</surnameRus>
             <forename>Irina</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="voronin">
-            <surname>Voronin</surname>
+            <surnameEng>Voronin</surnameEng>
+            <surnameRus>Воронин</surnameRus>
             <forename>Mikhail</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="sorkina">
-            <surname>Sorkina</surname>
+            <surnameEng>Sorkina</surnameEng>
+            <surnameRus>Соркина</surnameRus>
             <forename>Viktoriia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="pavlov">
-            <surname>Pavlov</surname>
+            <surnameEng>Pavlov</surnameEng>
+            <surnameRus>Павлов</surnameRus>
             <forename>Aleksei</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="efimova">
-            <surname>Efimova</surname>
+            <surnameEng>Efimova</surnameEng>
+            <surnameRus>Ефимова</surnameRus>
             <forename>Svetlana</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="danilenko">
-            <surname>Danilenko</surname>
+            <surnameEng>Danilenko</surnameEng>
+            <surnameRus>Даниленко</surnameRus>
             <forename>Liudmila</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="chistiakova">
-            <surname>Chistiakova</surname>
+            <surnameEng>Chistiakova</surnameEng>
+            <surnameRus>Чистякова</surnameRus>
             <forename>Galina</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="alyrzaeva">
-            <surname>Alyrzaeva</surname>
+            <surnameEng>Alyrzaeva</surnameEng>
+            <surnameRus>Алырзаева</surnameRus>
             <forename>Natalia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="faith">
-            <surname>Faith</surname>
+            <surnameEng>Faith</surnameEng>
             <forename>Rachel</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="andell">
-            <surname>Andell</surname>
+            <surnameEng>Andell</surnameEng>
             <forename>Andrew</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="mcgrath">
-            <surname>McGrath</surname>
+            <surnameEng>McGrath</surnameEng>
             <forename>Alex</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="derevyannykh">
-            <surname>Derevyannykh</surname>
+            <surnameEng>Derevyannykh</surnameEng>
             <forename>Zhenia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="verheul">
-            <surname>Verheul</surname>
+            <surnameEng>Verheul</surnameEng>
             <forename>JP</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="roberts">
-            <surname>Roberts</surname>
+            <surnameEng>Roberts</surnameEng>
             <forename>Michael</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="argodale">
-            <surname>Argodale</surname>
+            <surnameEng>Argodale</surnameEng>
             <forename>Sarah</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="stolz">
-            <surname>Stolz</surname>
+            <surnameEng>Stolz</surnameEng>
             <forename>Jennifer</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="abdullayeva">
-            <surname>Abdullayeva</surname>
+            <surnameEng>Abdullayeva</surnameEng>
             <forename>Sabina</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="burke">
-            <surname>Burke</surname>
+            <surnameEng>Burke</surnameEng>
             <forename>Maggie</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="clark">
-            <surname>Clark</surname>
+            <surnameEng>Clark</surnameEng>
             <forename>Emilie</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="kitchen">
-            <surname>Kitchen</surname>
+            <surnameEng>Kitchen</surnameEng>
             <forename>Hannah</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="parks">
-            <surname>Parks</surname>
+            <surnameEng>Parks</surnameEng>
             <forename>Jessica</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="seeleyHall">
-            <surname>Seeley-Hall</surname>
+            <surnameEng>Seeley-Hall</surnameEng>
             <forename>Julia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="wilkinson">
-            <surname>Wilkinson</surname>
+            <surnameEng>Wilkinson</surnameEng>
             <forename>Olivia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="radich">
-            <surname>Radich</surname>
+            <surnameEng>Radich</surnameEng>
             <forename>Patricia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="buzek">
-            <surname>Buzek</surname>
+            <surnameEng>Buzek</surnameEng>
             <forename>Aaron</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="house">
-            <surname>House</surname>
+            <surnameEng>House</surnameEng>
             <forename>Lydia</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="mirtaj">
-            <surname>Mirtaj</surname>
+            <surnameEng>Mirtaj</surnameEng>
             <forename>Lirsen</forename>
             <gender>m</gender>
         </person>
 
         <person xml:id="grierson">
-            <surname>Grierson</surname>
+            <surnameEng>Grierson</surnameEng>
             <forename>Sherri</forename>
             <gender>f</gender>
         </person>
 
         <person xml:id="lain">
-            <surname>Lain</surname>
+            <surnameEng>Lain</surnameEng>
             <forename>Taylor</forename>
             <gender>f</gender>
         </person>
