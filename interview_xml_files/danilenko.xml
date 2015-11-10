@@ -178,9 +178,10 @@
                 >Я</pron>помню в <place ref="volgograd">Волгограде</place><pron type="pers"
                 number="sing">я</pron>училась, и<pron type="pers" number="plur">мы</pron>ходили с
             подругой. Кино называлось <title ref="womanWhoSings">Женщина, которая поёт</title>. В
-            этом фильме снималась <collective><pron type="poss" number="plur">наша</pron>
-                <epit ref="pugacheva">знаменитая певица</epit>
-                <person ref="pugacheva">Алла Борисовна Пугачёва</person></collective>.</speech>
+            этом фильме снималась <collective><pron type="poss" number="plur"
+                >наша</pron></collective>
+            <epit ref="pugacheva">знаменитая певица</epit>
+            <person ref="pugacheva">Алла Борисовна Пугачёва</person>.</speech>
         <speech speaker="roberts" speechtype="q">Почему вам понравилось?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, как. Она становилась
             известной певицей и вышел новый фильм. Нам очень хотелось посмотреть и услышать новые
@@ -292,14 +293,13 @@
         <speech speaker="danilenko" speechtype="a">Ходили когда, ну, очень редко, когда было время. </speech>
         <speech speaker="roberts" speechtype="q">Что они смотрели, когда они ходили?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, разные фильмы, которые
-            были, также и<collective><pron type="poss" number="plur">нашу</pron>
-                <genre ref="classics">классику</genre></collective>, и <genre ref="comedy"
-                >комедии</genre>, ну <nationalCinema ref="foreignCinema">иностранные
-                фильмы</nationalCinema>,<pron type="pers" number="sing">я</pron>не могу сказать
-            сейчас названия, потому что<pron type="pers" number="sing"> я </pron>была очень
-            маленькая. <hes type="lex">Ну</hes>, что было в кинотеатре, старались по возможности
-            посещать кинотеатр смотреть, интересовались тоже, чтобы узнать, как другая страна
-            живёт.</speech>
+            были, также и<collective><pron type="poss" number="plur">нашу</pron></collective>
+            <genre ref="classics">классику</genre>, и <genre ref="comedy">комедии</genre>, ну
+                <nationalCinema ref="foreignCinema">иностранные фильмы</nationalCinema>,<pron
+                type="pers" number="sing">я</pron>не могу сказать сейчас названия, потому что<pron
+                type="pers" number="sing"> я </pron>была очень маленькая. <hes type="lex">Ну</hes>,
+            что было в кинотеатре, старались по возможности посещать кинотеатр смотреть,
+            интересовались тоже, чтобы узнать, как другая страна живёт.</speech>
         <speech speaker="roberts" speechtype="q">Вы ещё ходите в кино?</speech>
         <speech speaker="danilenko" speechtype="a">Мне бы хотелась. Но если будет время и
             возможность, конечно. Но сейчас, когда есть время,<pron type="pers" number="sing"
