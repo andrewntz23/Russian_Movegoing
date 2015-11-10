@@ -941,6 +941,78 @@
             <nationality>France</nationality>
         </person>
         
+        <person xml:id="brezhnev">
+            <role>General Secretary of the Communist Party </role>
+            <surname>Brezhnev</surname>
+            <forename>Leonid</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="gubenko">
+            <role>director </role>
+            <surname>Gubenko</surname>
+            <forename>Nikolai</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="bolotova">
+            <role>actor </role>
+            <surname>Bolotova</surname>
+            <forename>Zhanna</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="gabin">
+            <role>actor </role>
+            <surname>Gabin</surname>
+            <forename>Jean</forename>
+            <gender>m</gender>
+            <nationality>France</nationality>
+        </person>
+        
+        <person xml:id="monroe">
+            <role>actor </role>
+            <surname>Monroe</surname>
+            <forename>Marilyn</forename>
+            <gender>f</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="savelyeva">
+            <role>actor </role>
+            <surname>Savel'eva</surname>
+            <forename>Liudmila</forename>
+            <gender>f</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="rostova">
+            <role>character</role>
+            <surname>Rostova</surname>
+            <forename>Natasha</forename>
+            <gender>f</gender>
+            <nationality>Russian Empire</nationality>
+        </person>
+        
+        <person xml:id="bulgakov">
+            <role>writer</role>
+            <surname>Bulgakov</surname>
+            <forename>Mikhail</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        
+        
+  
+        
+        
+        
+       
+        
         
       
 
@@ -1635,6 +1707,42 @@
             <genre>crime thriller / comedy</genre>
             <year>1964</year>
         </title>
+        
+        <title xml:id="podranki">
+            <fullTitle>Wounded game</fullTitle>
+            <director>Nikolai Gubenko</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>drama</genre>
+            <year>1977</year>
+        </title>
+        
+        <title xml:id="lifeTearsLove">
+            <fullTitle>Life, Tears, and Love</fullTitle>
+            <director>Nikolai Gubenko</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>drama</genre>
+            <year>1973</year>
+        </title>
+        
+        <title xml:id="vacationers">
+            <fullTitle>From the Life of Vacationers</fullTitle>
+            <director>Nikolai Gubenko</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>romantic comedy</genre>
+            <year>1980</year>
+        </title>
+        
+        <title xml:id="flight">
+            <fullTitle>FThe Flight</fullTitle>
+            <director>Aleksandr Alov and Vladimir Naumov</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>adaptation</genre>
+            <year>1970</year>
+        </title>
   
     </titles>
 
@@ -1667,6 +1775,7 @@
         <genre xml:id="trophy"/>
         <genre xml:id="silent"/>
         <genre xml:id="detective"/>
+        <genre xml:id="western"/>
     </genres>
 
     <places>
@@ -1955,15 +2064,13 @@
             <fullName>France</fullName>
             <placeType>geo</placeType>
         </place>
-  
         
+        <place xml:id="tashkent">
+            <fullName>Tashkent</fullName>
+            <placeType>geo</placeType>
+        </place>
         
-        
-        
-        
-        
-        
-        
+       
       
     </places>
 
