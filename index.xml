@@ -1014,15 +1014,24 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="nicholson">
+            <role>actor</role>
+            <surname>Nicholson</surname>
+            <forename>Jack</forename>
+            <gender>m</gender>
+            <nationality>USA</nationality>
+        </person>
+        
+        <person xml:id="seryi">
+            <role>director</role>
+            <surname>Seryi</surname>
+            <forename>Aleksandr</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
         
         
-  
-        
-        
-        
-       
-        
-        
+    
       
 
     </persons>
@@ -1745,12 +1754,39 @@
         </title>
         
         <title xml:id="flight">
-            <fullTitle>FThe Flight</fullTitle>
+            <fullTitle>The Flight</fullTitle>
             <director>Aleksandr Alov and Vladimir Naumov</director>
             <medium>film</medium>
             <country>USSR</country>
             <genre>adaptation</genre>
             <year>1970</year>
+        </title>
+        
+        <title xml:id="onceUponTime">
+            <fullTitle>Once Upon a Time in America </fullTitle>
+            <director>Sergio Leone</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>crime drama</genre>
+            <year>1984</year>
+        </title>
+        
+        <title xml:id="oneFlewCuckoo">
+            <fullTitle>One Flew Over the Cuckoo's Nest</fullTitle>
+            <director>Milos Forman</director>
+            <medium>film</medium>
+            <country>USA</country>
+            <genre>drama</genre>
+            <year>1975</year>
+        </title>
+        
+        <title xml:id="gentelmenFortune">
+            <fullTitle>Gentelmen of Fortune</fullTitle>
+            <director>Aleksandr Seryi</director>
+            <medium>film</medium>
+            <country>USSR</country>
+            <genre>comedy</genre>
+            <year>1971</year>
         </title>
   
     </titles>
