@@ -10,19 +10,16 @@
 			<interviewer ref="faith"/>
 			<!--			Rachel Faith is the interviewer who actually conducted the interview.  Andrew Andell did camera and sound work.-->
 			<interviewer ref="andell"/>
-
 			<transcriber ref="andell"/>
 			<transcriber ref="clark"/>
 			<transcriber ref="kitchen"/>
 			<transcriber ref="parks"/>
 			<transcriber ref="mcgrath"/>
-
 			<translator ref="andell"/>
 			<translator ref="clark"/>
 			<translator ref="kitchen"/>
 			<translator ref="parks"/>
 			<translator ref="mcgrath"/>
-
 		</persons>
 
 		<date milestone="interview">July 2013</date>
@@ -114,8 +111,8 @@
 			<place ref="kinoteatrRodina">Родина</place>. А это <epit ref="kinoteatrRodina">такой
 				типовой</epit>
 			<epit ref="kinoteatrRodina">Советский</epit> кинотеатр, да? В этом городе был, и сейчас
-			ещё есть, только один кинотеатр. Он называется Родина, это <epit ref="kinoteatrRodina"
-				>такое тоже типовоe</epit>
+			ещё есть, только один кинотеатр. Он называется <place ref="kinoteatrRodina"
+				>Родина</place>, это <epit ref="kinoteatrRodina">такое тоже типовоe</epit>
 			<epit ref="kinoteatrRodina">стандартное</epit> название для кинотеатров было в <place
 				ref="sovietUnion">Советском Союзе</place>. Были такие типовые названия<hes
 				type="nonlex"/> Такое здание - здание, да? Как вам объяснить? Дом. Да, такое здание,
@@ -315,8 +312,8 @@
 			летом. Мне это очень нравится <hes type="nonlex"/> Так, а из зарубежных <hes
 				type="nonlex"/> Мне нравится <nationalCinema ref="europeanCinema">европейское
 				кино</nationalCinema>. Да? <nationalCinema ref="europeanCinema">европейское
-				кино</nationalCinema>. Ну, <hes type="lex">наверно</hes> это <hes type="nonlex"/> мне
-			нравятся режиссёры 60ых годов. <nationalCinema ref="italianCinema"
+				кино</nationalCinema>. Ну, <hes type="lex">наверно</hes> это <hes type="nonlex"/>
+			мне нравятся режиссёры 60ых годов. <nationalCinema ref="italianCinema"
 				>Итальянцы</nationalCinema>, например, да там? То, что они снимали в 60ые годы, там,
 				<person ref="visconti">Висконти</person>, <person ref="antonioni"
 			>Антониони</person>, <person ref="pasolini">Пазолини</person>. Они ещё в 50ые снимали и
@@ -544,17 +541,18 @@
 			и десять лет назад были тоже удобные. А, например, в кинотеатре, в который <pron
 				type="pers" number="sing">я</pron> хожу и сейчас, кинотеатры, например, Дом Кино,
 			Родина, тоже. Они находятся на Манежной площади. Недалеко от Невского проспекта,
-			Манежная площадь, и там находится, в одном здании два кинотеатра. Родина и Дом Кино.
-			Вот, и ещё десять лет назад они были такие <hes type="nonlex"/> как сказать, неудобные
-			залы. Они были не удобные. Там был не такой хороший звух. Там кресла были ещё старые,
-			да, обычные. Вот. Но сейчас уже там, <hes type="lex">наверно</hes>, у них появились
-			деньги и финансирование, и они сейчас удобные, красивые, хорошие, да. </speech>
+			Манежная площадь, и там находится, в одном здании два кинотеатра. <place
+				ref="kinoteatrRodina">Родина</place> и <place ref="domKino">Дом Кино.</place> Вот, и
+			ещё десять лет назад они были такие <hes type="nonlex"/> как сказать, неудобные залы.
+			Они были не удобные. Там был не такой хороший звух. Там кресла были ещё старые, да,
+			обычные. Вот. Но сейчас уже там, <hes type="lex">наверно</hes>, у них появились деньги и
+			финансирование, и они сейчас удобные, красивые, хорошие, да. </speech>
 		<speech speaker="faith" speechtype="q"> И в кино было холодно, тепло, жарко, душно? </speech>
 		<speech speaker="leventalIrina" speechtype="a">
 			<hes type="lex">Ну</hes>,вот в Родине всегда холодно было. В детстве, например, в
 			детстве. <pron type="pers" number="sing">Я</pron> не помню. Да? Скорее было прохладно.
-			Да? Например, здесь в Петербурге в театре Родина всегда было холодно. Сейчас нет. В Доме
-			Кино, нет, не было холодно. Нормально. </speech>
+			Да? Например, здесь в Петербурге в театре <place ref="kinoteatrRodina">Родина</place>
+			всегда было холодно. Сейчас нет. В Доме Кино, нет, не было холодно. Нормально. </speech>
 		<speech speaker="faith" speechtype="q"> И кинотеатр был большой? </speech>
 
 		<speech speaker="leventalIrina" speechtype="a"> Ну, вот если в детстве, да, да, большой
@@ -563,8 +561,8 @@
 			<hes type="lex">может быть</hes> тридцать, сорок, но большой, большой такой, большой
 			зал. Сколько квадратных метров <pron type="pers" number="sing">я</pron> не помню. Очень
 			большой зал и большой экран. Здесь в Петербурге, эти кинотеатры, куда <pron type="pers"
-				number="sing">я</pron> хожу, Родина, Дом Кино, у них есть большие залы и есть малые
-			залы. Большие залы, большие. Малые, маленькие. </speech>
+				number="sing">я</pron> хожу, <place ref="kinoteatrRodina">Родина</place>, Дом Кино,
+			у них есть большие залы и есть малые залы. Большие залы, большие. Малые, маленькие. </speech>
 
 		<speech speaker="faith" speechtype="q"> Сколько было залов? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> В кинотеатре в детстве, только один. В
@@ -574,12 +572,13 @@
 		<speech speaker="faith" speechtype="q"> Кинотеатр был только для кино или для других
 			мероприятий? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> В детстве в этом кинотеатре, он тоже
-			назывался Родина. Вы понимаете в детстве, и сейчас здесь тоже Родина. В детстве, да, в
-			кинотеатре проходили иногда концерты, потому что там была сцена. То есть вот был экран и
-			тоже была сцена, и там проходили концерты, разные. Иногда <collective>люди</collective>
-			приходили на концерты. Или там в кинотеатре проводили какие-нибудь мероприятие <hes
-				type="nonlex"/><hes type="lex"> Ну </hes>какие-нибудь фабрики могли снять зал
-			кинотеатра для проведения какого-нибудь собрания. </speech>
+			назывался <place ref="kinoteatrRodina">Родина</place>. Вы понимаете в детстве, и сейчас
+			здесь тоже <place ref="kinoteatrRodina">Родина</place>. В детстве, да, в кинотеатре
+			проходили иногда концерты, потому что там была сцена. То есть вот был экран и тоже была
+			сцена, и там проходили концерты, разные. Иногда <collective>люди</collective> приходили
+			на концерты. Или там в кинотеатре проводили какие-нибудь мероприятие <hes type="nonlex"
+				/><hes type="lex"> Ну </hes>какие-нибудь фабрики могли снять зал кинотеатра для
+			проведения какого-нибудь собрания. </speech>
 
 		<speech speaker="faith" speechtype="q"> Были ли в кинотеатре билетеры и сколько им обычно
 			было лет если да? </speech>
@@ -610,10 +609,11 @@
 			кинотеатре, но это даже не был кинотеатр, такие были залы для показа кино. Ну, как
 			вечеринка, вы знаете, вечеринка с показом немого кино. Нет, конечно это были звуковые
 			фильмы, обычно цветные, да? Но, в студенческие годы <pron type="pers" number="sing"
-				>я</pron> очень часто любила ходить в кинотеатр Родина, и там часто идут, и сейчас
-			еще иногда, идут ретроспективы, да <hes type="nonlex"/> и показывают черно-белые фильмы,
-			60ые годы, 70ые годы. Но, <pron type="pers" number="sing">я</pron> люблю их. Или
-			например, Касабланка, да? И тоже вот, пожалуйста. Но это там, в Родине. </speech>
+				>я</pron> очень часто любила ходить в кинотеатр <place ref="kinoteatrRodina"
+				>Родина</place>, и там часто идут, и сейчас еще иногда, идут ретроспективы, да <hes
+				type="nonlex"/> и показывают черно-белые фильмы, 60ые годы, 70ые годы. Но, <pron
+				type="pers" number="sing">я</pron> люблю их. Или например, Касабланка, да? И тоже
+			вот, пожалуйста. Но это там, в Родине. </speech>
 		<speech speaker="faith" speechtype="q"> И какое было качество фильмов? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Качество <hes type="nonlex"/> ну, да, в
 			конце 90ых, двухтысячные годы, были фильмы еще не <hes type="nonlex"/>. ну, как сказать,
