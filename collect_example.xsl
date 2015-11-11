@@ -6,6 +6,7 @@
     <xsl:variable name="interviews" select="collection('interview_xml_files')"/>
     
     <xsl:template match="/">
+        
         <xsl:value-of select="'Total pronouns:', count($interviews//pron), '&#10;'"/>
         <xsl:value-of select="'Personal pronouns:', count($interviews//pron[@type='pers']), '&#10;'"/>
         <xsl:value-of select="'Possessive pronouns:', count($interviews//pron[@type='poss']), '&#10;'"/>
@@ -20,3 +21,6 @@
         <xsl:value-of select="count(//pron) div count($interviews//pron) * 100,  '&#10;'"/>
     </xsl:template>
 </xsl:stylesheet>
+<!--&#10;  new line
+&#09;  tab
+-->
