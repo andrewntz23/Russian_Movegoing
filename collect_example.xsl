@@ -4,7 +4,16 @@
     exclude-result-prefixes="xs"
     version="3.0">
     <xsl:variable name="interviews" select="collection('interview_xml_files')"/>
+    <xsl:template match="/">
+        <xsl:value-of select="'Total pronouns:', count($interviews//pron), '&#10;'"/>
+        <xsl:value-of select="'Personal pronouns:', count($interviews//pron[@type='pers']), '&#10;'"/>
+        <xsl:value-of select="'Possessive pronouns:', count($interviews//pron[@type='poss']), '&#10;'"/>
+        
+        <xsl:apply-templates select="$interviews//body"/>
+    </xsl:template>
     <xsl:template match="$interviews//body">
-        <xsl:apply-templates/>
+        <xsl:text>Number of pronouns in </xsl:text>
+        <xsl:value-of select="//interviewee/@ref, ':'"/>
+        <xsl:value-of select="count(//pron),  '&#10;'"/>
     </xsl:template>
 </xsl:stylesheet>
