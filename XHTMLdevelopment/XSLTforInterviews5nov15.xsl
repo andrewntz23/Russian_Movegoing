@@ -9,11 +9,12 @@
 
         <html>
             <head>
-                <title>XSLT INTERVIEW TEMPLATE</title>
+                <title>CINEMA and MEMORY</title>
                 <link rel="stylesheet" type="text/css" href="/css/interview.css"/>
                 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
             </head>
             <body>
+<!-- #include virtual="/inc/menuSSI.xhtml"  -->
                 <xsl:apply-templates/>
             </body>
         </html>
