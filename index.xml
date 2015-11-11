@@ -1046,12 +1046,29 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="daneliia">
+            <role>actor</role>
+            <surname>Daneliia</surname>
+            <forename>Georgii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
         
+        <person xml:id="solovyov">
+            <role>director</role>
+            <surname>Solovyov</surname>
+            <forename>Sergei</forename>
+            <gender>m</gender>
+            <nationality>Russia</nationality>
+        </person>
         
-
-        
-        
-        
+        <person xml:id="drubich">
+            <role>actor</role>
+            <surname>Drubich</surname>
+            <forename>Tatyana</forename>
+            <gender>f</gender>
+            <nationality>Russia</nationality>
+        </person>
         
     
       
@@ -1817,7 +1834,7 @@
             <medium>film</medium>
             <country>USSR </country>
             <genre>cartoon series</genre>
-            <year>1969-</year>
+            <year>1969</year>
         </title>
         
         <title xml:id="mimino">
@@ -1826,7 +1843,34 @@
             <medium>film</medium>
             <country>USSR </country>
             <genre>comedy</genre>
-            <year>1977-</year>
+            <year>1977</year>
+        </title>
+        
+        <title xml:id="casablanca">
+            <fullTitle>Casablanca</fullTitle>
+            <director>Michael Curtiz</director>
+            <medium>film</medium>
+            <country>USA </country>
+            <genre>melodrama</genre>
+            <year>1942</year>
+        </title>
+        
+        <title xml:id="annaKarenina">
+            <fullTitle>Anna Karenina</fullTitle>
+            <director>Sergei Solovyov</director>
+            <medium>film</medium>
+            <country>Russia </country>
+            <genre>melodrama</genre>
+            <year>2009</year>
+        </title>
+        
+        <title xml:id="copperMountMistress">
+            <fullTitle>Mistress of the Copper Mountain</fullTitle>
+            <director>O. Nikolaevskii</director>
+            <medium>film</medium>
+            <country>USSR </country>
+            <genre>cartoon</genre>
+            <year>1975</year>
         </title>
   
     </titles>
@@ -1861,6 +1905,8 @@
         <genre xml:id="silent"/>
         <genre xml:id="detective"/>
         <genre xml:id="western"/>
+        <genre xml:id="shortFilm"/>
+        <genre xml:id="commercialCinema"/>
     </genres>
 
     <places>
@@ -2155,6 +2201,13 @@
             <placeType>geo</placeType>
         </place>
         
+        <place xml:id="shortFestival">
+            <fullName>Short and Animation Film Festival Open Cinema</fullName>
+            <placeType>exhibition</placeType>
+        </place>
+        
+        
+        
        
       
     </places>
@@ -2182,6 +2235,8 @@
         <nationalCinema xml:id="czechoslovakCinema"/>
         <nationalCinema xml:id="austrianCinema"/>
         <nationalCinema xml:id="britishCinema"/>
+        <nationalCinema xml:id="coproduction"/>
+        <nationalCinema xml:id="asianCinema"/>
         
     </nationalCinemas>
 </index>
