@@ -1030,6 +1030,28 @@
             <nationality>USSR</nationality>
         </person>
         
+        <person xml:id="mironov">
+            <role>actor</role>
+            <surname>Mironov</surname>
+            <forename>Andrei</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        <person xml:id="mkrtchian">
+            <role>actor</role>
+            <surname>Mkrtchian</surname>
+            <forename>Frunzik</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
+        
+        
+
+        
+        
+        
         
     
       
@@ -1787,6 +1809,24 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1971</year>
+        </title>
+        
+        <title xml:id="nuPogodi">
+            <fullTitle>Just You Wait!</fullTitle>
+            <director>Viacheslav Kotenochkin</director>
+            <medium>film</medium>
+            <country>USSR </country>
+            <genre>cartoon series</genre>
+            <year>1969-</year>
+        </title>
+        
+        <title xml:id="mimino">
+            <fullTitle>Mimino</fullTitle>
+            <director>Georgii Daneliia</director>
+            <medium>film</medium>
+            <country>USSR </country>
+            <genre>comedy</genre>
+            <year>1977-</year>
         </title>
   
     </titles>
