@@ -222,7 +222,7 @@
         <speech speaker="wilkinson" speechtype="q">Какие фильмы были самые популярные у зрителей, и
             почему?</speech>
         <speech speaker="pavlov" speechtype="a">Я думаю, что комедии, в основном, были популярные, и <pron type="pers" number="sing">я</pron> застал 80ые годы. Тогда, <hes type="lex">наверно</hes>, появились детективы, мода на
-            детективы, <person ref="christie">Агата Кристи</person>, экранизация фильмов Агаты
+            <genre ref="detective">детективы</genre>, <person ref="christie">Агата Кристи</person>, экранизация фильмов Агаты
             Кристи Вот, например, <title ref="tenLittleIndians">Десять негритят</title> был очень
             популярный фильм.</speech>
         <speech speaker="wilkinson" speechtype="q">В кинотеатрах часто показывали иностранные
