@@ -9,7 +9,7 @@
     
     <xsl:variable name="barwidth" select="20" as="xs:integer"/>
     <xsl:variable name="space" select="10" as="xs:integer"/>
-    <xsl:variable name="interviews" select="collection('interview_xml_files')"/>
+    <xsl:variable name="interviews" select="collection('../interview_xml_files')"/>
     <xsl:variable name="scale" select="5" as="xs:integer"/>
     
     <xsl:template match="/">
