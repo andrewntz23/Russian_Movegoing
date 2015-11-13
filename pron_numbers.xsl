@@ -7,10 +7,11 @@
         <html>
             <head>
                 <title>Use of Pronouns in the Interviews</title>
+                
             </head>
             <body>
                 <h2>Use of Pronouns in the Interviews</h2>
-
+                <h2>Use of Elements Referring to a Community of a Nation</h2>
                 <ul>
                     <li>
                         <xsl:value-of
