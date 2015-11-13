@@ -137,8 +137,8 @@
         <speech speaker="parks" speechtype="q">Какие были ваши самые любимые жанры в детстве? </speech>
         <speech speaker="voronin" speechtype="a"><genre ref="comedy">Комедия</genre>, в самого
             детсва, <pron type="poss" number="sing">мой</pron> любимый жанр <genre ref="comedy"
-                >комедия</genre>, <genre ref="warFilms">боевики</genre> тоже любил, а сейчас больше
-            люблю какие-то <genre ref="drama">мелодрамы</genre> либо основанные на реальных
+                >комедия</genre>, <genre ref="action">боевики</genre> тоже любил, а сейчас больше
+            люблю какие-то <genre ref="melodrama">мелодрамы</genre> либо основанные на реальных
             событиях. </speech>
         <speech speaker="parks" speechtype="q">Какие были ваши самые любимые жанры, когда вы были
             студентами? </speech>
@@ -161,7 +161,7 @@
                 <person ref="theron">Шарлиз Терон</person>, например. Да, <person ref="theron"
                 >Шарлиз Терон</person>, а <hes type="nonlex"/><hes type="lex"> ну </hes><person
                 ref="depp">Джонни Депп</person>, хорош, особенно в <title ref="piratesCaribbean"
-                >Пиратах</title>. Вo первых. <hes type="lex">Может быть</hes>, <person ref="carrey"
+                >Пиратах</title>. Вo-первых. <hes type="lex">Может быть</hes>, <person ref="carrey"
                 >Джим Керри</person>, да, Джим Керри. Особенно в <title ref="mask">Маске</title> и в
                 <title ref="aceVentura">Эйс Вентура</title>, самые лучшие его работы. <person
                 ref="murphy">Мерфи, Эдди Мерфи</person> красавчик. Тоже делал вещи. </speech>
@@ -369,7 +369,7 @@
         <speech speaker="voronin" speechtype="a">В заключение, <pron type="pers" number="sing"
                 >я</pron> хочу добавить <hes type="nonlex"/>что нужно сходить как-нибудь в кино.
             Давно что-то <pron type="pers" number="sing">я</pron> там не был, да, и что <title
-                ref="ironman3">Железный Человек 3</title>, Ironman 3, very good. </speech>
+                ref="ironman3">Железный Человек 3</title>, <title ref="ironman3">Ironman 3</title>, very good. </speech>
         <speech speaker="parks" speechtype="q">У кого бы вы посоветовали нам взять интервью на эту
             же тему в будущем? </speech>
         <speech speaker="voronin" speechtype="a">Только не <pron type="poss" number="sing">у
