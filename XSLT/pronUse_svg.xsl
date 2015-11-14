@@ -19,8 +19,8 @@
             <g transform="translate(50, 400)">
                 
                
-                    <line x1="0" y1="0" x2="400" y2="0" stroke="black" stroke-width="5px"/>
-                    <line x1="0" y1="0" x2="0" y2="-280" stroke="black" stroke-width="5px"/>  
+                    <line x1="0" y1="0" x2="400" y2="0" stroke="black" stroke-width="2px"/>
+                    <line x1="0" y1="0" x2="0" y2="-280" stroke="black" stroke-width="2px"/>  
                
                <xsl:apply-templates select="$interviews//body"/>
                   
@@ -37,7 +37,7 @@
             x="{position()*$barwidth + $space}"
             y="-{$scale*$possPlur}"
             height="{$scale*$possPlur}"
-            width="20"
+            width="15"
             fill="red"
             />
         

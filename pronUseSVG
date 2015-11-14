@@ -6,13 +6,13 @@
             x2="400"
             y2="0"
             stroke="black"
-            stroke-width="5px"/>
+            stroke-width="2px"/>
       <line x1="0"
             y1="0"
             x2="0"
             y2="-280"
             stroke="black"
-            stroke-width="5px"/>
+            stroke-width="2px"/>
       <rect x="30" y="-120" height="120" width="15" fill="red"/>
       <rect x="50" y="-145" height="145" width="15" fill="red"/>
       <rect x="70" y="-85" height="85" width="15" fill="red"/>
