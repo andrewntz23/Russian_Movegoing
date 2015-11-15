@@ -1070,6 +1070,14 @@
             <nationality>Russia</nationality>
         </person>
         
+        <person xml:id="papanov">
+            <role>actor</role>
+            <surname>Papanov</surname>
+            <forename>Anatolii</forename>
+            <gender>m</gender>
+            <nationality>USSR</nationality>
+        </person>
+        
     
       
 
