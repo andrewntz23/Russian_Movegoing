@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
     <xsl:variable name="interviews" select="collection('../interview_xml_files')"/>
-
+    <xsl:variable name="index" select="document('../index.xml')"/>
     <xsl:template match="/">
 
         <!--    Works with counts across the board with all interviews at once    -->
@@ -15,10 +15,9 @@
                 <p><xsl:value-of
                     select="
                         'Total Titles Cited by Interviewees:',
-                        count($interviews//distinct-values(title)),
+                        count($interviews//distinct-values(title/@ref)),
                         '&#10;'"/></p>
-                <hr/>
-
+                <hr/>   
                 <xsl:apply-templates select="$interviews//body"/>
                     
                 
@@ -38,10 +37,14 @@
                 ':'"/>
 
         <ul>
-            <xsl:value-of select="count(//title)"/>
+            <xsl:value-of select="count(distinct-values(//title/@ref))"/>
             <br/>
             
-            <xsl:apply-templates select="//title" />
+            <!--<xsl:apply-templates select="distinct-values(//title/@ref)" />-->
+            <xsl:for-each select="//title/@ref[not(preceding::title/@ref = .)]">
+                <xsl:variable name="ref" select="."/>
+                <li><xsl:value-of select="$index//title[@xml:id = $ref]/fullTitle"/></li>
+            </xsl:for-each>
         </ul>
         
     </xsl:template>
