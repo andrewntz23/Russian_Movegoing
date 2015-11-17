@@ -1086,7 +1086,8 @@
     <titles>
 
         <title xml:id="alladin">
-            <fullTitle>Alladin</fullTitle>
+            <fullTitleEng>Alladin</fullTitleEng>
+            <fullTitleRus>Алладин</fullTitleRus>
             <director>Ron Clements and John Musker</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1095,7 +1096,8 @@
         </title>
 
         <title xml:id="theLittleMermaid">
-            <fullTitle>The Little Mermaid</fullTitle>
+            <fullTitleEng>The Little Mermaid</fullTitleEng>
+            <fullTitleRus>Русалочка</fullTitleRus>
             <director>Ron Clements and John Musker</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1104,7 +1106,8 @@
         </title>
 
         <title xml:id="beautyBeast">
-            <fullTitle>Beauty and the Beast</fullTitle>
+            <fullTitleEng>Beauty and the Beast</fullTitleEng>
+            <fullTitleRus>Красавица и чудовище</fullTitleRus>
             <director>Gary Trousdale and Kirk Wise</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1113,7 +1116,8 @@
         </title>
 
         <title xml:id="playingVictim">
-            <fullTitle>Playing the Victim</fullTitle>
+            <fullTitleEng>Playing the Victim</fullTitleEng>
+            <fullTitleRus>Изображая жертву</fullTitleRus>
             <director>Kirill Serebrennikov</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1122,7 +1126,8 @@
         </title>
 
         <title xml:id="straightStory">
-            <fullTitle>The Straight Story</fullTitle>
+            <fullTitleEng>The Straight Story</fullTitleEng>
+            <fullTitleRus>Простая история</fullTitleRus>
             <director>David Lynch</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1130,7 +1135,8 @@
             <year>1999</year>
         </title>
         <title xml:id="wildHeart">
-            <fullTitle>Wild at Heart</fullTitle>
+            <fullTitleEng>Wild at Heart</fullTitleEng>
+            <fullTitleRus>Дикие сердцем</fullTitleRus>
             <director>David Lynch</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1139,7 +1145,8 @@
         </title>
 
         <title xml:id="melancholy">
-            <fullTitle>Melancholia</fullTitle>
+            <fullTitleEng>Melancholia</fullTitleEng>
+            <fullTitleRus>Меланхолия</fullTitleRus>
             <director>Lars von Trier</director>
             <medium>film</medium>
             <country>Denmark</country>
@@ -1148,7 +1155,8 @@
         </title>
 
         <title xml:id="moodForLove">
-            <fullTitle>In the Mood for Love</fullTitle>
+            <fullTitleEng>In the Mood for Love</fullTitleEng>
+            <fullTitleRus>Любовное настроение</fullTitleRus>
             <director>Wong Kar-wai</director>
             <medium>film</medium>
             <country>China</country>
@@ -1157,7 +1165,8 @@
         </title>
 
         <title xml:id="mavericks">
-            <fullTitle>Chasing Mavericks</fullTitle>
+            <fullTitleEng>Chasing Mavericks</fullTitleEng>
+            <fullTitleRus>Покорители волн</fullTitleRus>
             <director>Curtis Hanson and Michael Apted</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1166,7 +1175,8 @@
         </title>
 
         <title xml:id="piratesCaribbean">
-            <fullTitle>Pirates of the Caribbean: Dead Man's Chest</fullTitle>
+            <fullTitleEng>Pirates of the Caribbean: Dead Man's Chest</fullTitleEng>
+            <fullTitleRus>Пираты Карибского моря</fullTitleRus>
             <director>Gore Verbinski</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1174,7 +1184,7 @@
             <year>2006</year>
         </title>
         <title xml:id="aceVentura">
-            <fullTitle>Ace Ventura: Pet Detective</fullTitle>
+            <fullTitleEng>Ace Ventura: Pet Detective</fullTitleEng>
             <director>Tom Shadyac</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1183,7 +1193,7 @@
         </title>
 
         <title xml:id="godfather">
-            <fullTitle>The Godfather</fullTitle>
+            <fullTitleEng>The Godfather</fullTitleEng>
             <director>Francis Ford Coppola</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1192,7 +1202,7 @@
         </title>
 
         <title xml:id="brigade">
-            <fullTitle>The Brigade</fullTitle>
+            <fullTitleEng>The Brigade</fullTitleEng>
             <director>Aleksei Sidorov</director>
             <medium>television</medium>
             <country>Russia</country>
@@ -1202,7 +1212,7 @@
 
 
         <title xml:id="brother">
-            <fullTitle>Brother</fullTitle>
+            <fullTitleEng>Brother</fullTitleEng>
             <director>Aleksei Balabanov</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1211,7 +1221,7 @@
         </title>
 
         <title xml:id="brother2">
-            <fullTitle>Brother 2</fullTitle>
+            <fullTitleEng>Brother 2</fullTitleEng>
             <director>Aleksei Balabanov</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1220,7 +1230,7 @@
         </title>
 
         <title xml:id="lifeIsBeautiful">
-            <fullTitle>Life Is Beautiful</fullTitle>
+            <fullTitleEng>Life Is Beautiful</fullTitleEng>
             <director>Roberto Benigni</director>
             <medium>film</medium>
             <country>Italy</country>
@@ -1229,7 +1239,7 @@
         </title>
 
         <title xml:id="mask">
-            <fullTitle>The Mask</fullTitle>
+            <fullTitleEng>The Mask</fullTitleEng>
             <director>Chuck Russell</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1238,7 +1248,7 @@
         </title>
 
         <title xml:id="ironman3">
-            <fullTitle>Iron Man 3</fullTitle>
+            <fullTitleEng>Iron Man 3</fullTitleEng>
             <director>Shane Black</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1247,7 +1257,7 @@
         </title>
 
         <title xml:id="firstYearStudent">
-            <fullTitle>Firstgrader</fullTitle>
+            <fullTitleEng>Firstgrader</fullTitleEng>
             <director>Il'ia Frez</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1256,7 +1266,7 @@
         </title>
 
         <title xml:id="romanHoliday">
-            <fullTitle>Roman Holiday</fullTitle>
+            <fullTitleEng>Roman Holiday</fullTitleEng>
             <director>William Wyler</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1265,7 +1275,7 @@
         </title>
 
         <title xml:id="goneWithTheWind">
-            <fullTitle>Gone with the Wind</fullTitle>
+            <fullTitleEng>Gone with the Wind</fullTitleEng>
             <director>Victor Fleming</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1274,7 +1284,7 @@
         </title>
 
         <title xml:id="moscowDoesNotBelieveInTears">
-            <fullTitle>Moscow Does Not Believe in Tears</fullTitle>
+            <fullTitleEng>Moscow Does Not Believe in Tears</fullTitleEng>
             <director>Vladimir Men'shov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1284,7 +1294,7 @@
 
 
         <title xml:id="vasilisaTheWise">
-            <fullTitle>Vasilisa the Beautiful</fullTitle>
+            <fullTitleEng>Vasilisa the Beautiful</fullTitleEng>
             <director>Aleksandr Rou</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1294,7 +1304,7 @@
 
 
         <title xml:id="pomegranate">
-            <fullTitle>The Color of Pomegranates</fullTitle>
+            <fullTitleEng>The Color of Pomegranates</fullTitleEng>
             <director>Sergei Paradzhanov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1303,7 +1313,7 @@
         </title>
 
         <title xml:id="theIsland">
-            <fullTitle>The Island</fullTitle>
+            <fullTitleEng>The Island</fullTitleEng>
             <director>Pavel Lungin</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1312,7 +1322,7 @@
         </title>
 
         <title xml:id="theAdmiral">
-            <fullTitle>The Admiral</fullTitle>
+            <fullTitleEng>The Admiral</fullTitleEng>
             <director>Andrei Kravchuk</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1321,7 +1331,7 @@
         </title>
 
         <title xml:id="burntBySun2">
-            <fullTitle>Burnt by the Sun 2: Exodus and Citadel</fullTitle>
+            <fullTitleEng>Burnt by the Sun 2: Exodus and Citadel</fullTitleEng>
             <director>Nikita Mikhalkov</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1330,7 +1340,7 @@
         </title>
 
         <title xml:id="ironyOfFate">
-            <fullTitle>The Irony of Fate</fullTitle>
+            <fullTitleEng>The Irony of Fate</fullTitleEng>
             <director>Eldar Riazanov</director>
             <medium>television</medium>
             <country>USSR</country>
@@ -1339,7 +1349,7 @@
         </title>
 
         <title xml:id="piratesOfTheTwentiethCentury">
-            <fullTitle>Pirates of the 20th Century</fullTitle>
+            <fullTitleEng>Pirates of the 20th Century</fullTitleEng>
             <director>Boris Durov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1348,7 +1358,7 @@
         </title>
 
         <title xml:id="tenLittleIndians">
-            <fullTitle>And Then There Were None</fullTitle>
+            <fullTitleEng>And Then There Were None</fullTitleEng>
             <director>Stanislav Govorukhin</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1357,7 +1367,7 @@
         </title>
 
         <title xml:id="coldSummer">
-            <fullTitle>Cold Summer of 1953</fullTitle>
+            <fullTitleEng>Cold Summer of 1953</fullTitleEng>
             <director>Aleksandr Proshkin</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1366,7 +1376,7 @@
         </title>
 
         <title xml:id="nineAndHalfWeeks">
-            <fullTitle>9 1/2 Weeks</fullTitle>
+            <fullTitleEng>9 1/2 Weeks</fullTitleEng>
             <director>Adrian Lyne</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1375,7 +1385,7 @@
         </title>
 
         <title xml:id="windowOnParis">
-            <fullTitle>Window to Paris</fullTitle>
+            <fullTitleEng>Window to Paris</fullTitleEng>
             <director>Iurii Mamin</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1384,7 +1394,7 @@
         </title>
 
         <title xml:id="savageHuntKingStakh">
-            <fullTitle>King Stakh's Wild Hunt</fullTitle>
+            <fullTitleEng>King Stakh's Wild Hunt</fullTitleEng>
             <director>Valerii Rubinchik</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1393,7 +1403,7 @@
         </title>
 
         <title xml:id="pinkCloud">
-            <fullTitle>The Wayward Cloud</fullTitle>
+            <fullTitleEng>The Wayward Cloud</fullTitleEng>
             <director>Tsai Ming-liang</director>
             <medium>film</medium>
             <country>China</country>
@@ -1402,7 +1412,7 @@
         </title>
 
         <title xml:id="transformers">
-            <fullTitle>Transformers</fullTitle>
+            <fullTitleEng>Transformers</fullTitleEng>
             <director>Michael Bay</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1411,7 +1421,7 @@
         </title>
 
         <title xml:id="worldWarZ">
-            <fullTitle>World War Z</fullTitle>
+            <fullTitleEng>World War Z</fullTitleEng>
             <director>Marc Forster</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1420,7 +1430,7 @@
         </title>
 
         <title xml:id="hobbit">
-            <fullTitle>The Hobbit</fullTitle>
+            <fullTitleEng>The Hobbit</fullTitleEng>
             <director>Peter Jackson</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1429,7 +1439,7 @@
         </title>
 
         <title xml:id="lifeOfAdele">
-            <fullTitle>Blue Is the Warmest Color</fullTitle>
+            <fullTitleEng>Blue Is the Warmest Color</fullTitleEng>
             <director>Abdellatif Kechiche</director>
             <medium>film</medium>
             <country>France</country>
@@ -1438,7 +1448,7 @@
         </title>
 
         <title xml:id="inTheAnimalWorld">
-            <fullTitle>In the Animal World</fullTitle>
+            <fullTitleEng>In the Animal World</fullTitleEng>
             <director>n/a</director>
             <medium>television</medium>
             <country>USSR</country>
@@ -1448,7 +1458,7 @@
 
 
         <title xml:id="diamondArm">
-            <fullTitle>The Diamond Arm</fullTitle>
+            <fullTitleEng>The Diamond Arm</fullTitleEng>
             <director>Leonid Gaidai</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1457,7 +1467,7 @@
         </title>
 
         <title xml:id="elusiveAvengers">
-            <fullTitle>The Elusive Avengers</fullTitle>
+            <fullTitleEng>The Elusive Avengers</fullTitleEng>
             <director>Edmond Keosaian</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1466,7 +1476,7 @@
         </title>
 
         <title xml:id="swanLake">
-            <fullTitle>Swan Lake</fullTitle>
+            <fullTitleEng>Swan Lake</fullTitleEng>
             <director>Appolinarii Dudko and Konstantin Sergeev</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1475,7 +1485,7 @@
         </title>
 
         <title xml:id="womanWhoSings">
-            <fullTitle>The Woman Who Sings</fullTitle>
+            <fullTitleEng>The Woman Who Sings</fullTitleEng>
             <director>Aleksandr Orlov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1484,7 +1494,7 @@
         </title>
 
         <title xml:id="troy">
-            <fullTitle>The Woman Who Sings</fullTitle>
+            <fullTitleEng>The Woman Who Sings</fullTitleEng>
             <director>Wolfgang Petersen</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1493,7 +1503,7 @@
         </title>
 
         <title xml:id="spartacus">
-            <fullTitle>Spartacus</fullTitle>
+            <fullTitleEng>Spartacus</fullTitleEng>
             <director>Stanley Kubrick</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1502,7 +1512,7 @@
         </title>
 
         <title xml:id="alexander">
-            <fullTitle>Alexander</fullTitle>
+            <fullTitleEng>Alexander</fullTitleEng>
             <director>Oliver Stone</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1512,7 +1522,7 @@
 
 
         <title xml:id="janeEyre">
-            <fullTitle>Jane Eyre</fullTitle>
+            <fullTitleEng>Jane Eyre</fullTitleEng>
             <director>Julian Amyes</director>
             <medium>television</medium>
             <country>Britain</country>
@@ -1521,7 +1531,7 @@
         </title>
 
         <title xml:id="dumbAndDumber">
-            <fullTitle>Dumb and Dumber</fullTitle>
+            <fullTitleEng>Dumb and Dumber</fullTitleEng>
             <director>Peter Farrelly</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1530,7 +1540,7 @@
         </title>
 
         <title xml:id="pi">
-            <fullTitle>Pi</fullTitle>
+            <fullTitleEng>Pi</fullTitleEng>
             <director>Darren Aronofsky</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1539,7 +1549,7 @@
         </title>
 
         <title xml:id="spokNochi">
-            <fullTitle>Good Night, Little Ones!</fullTitle>
+            <fullTitleEng>Good Night, Little Ones!</fullTitleEng>
             <director>n/a</director>
             <medium>television</medium>
             <country>USSR</country>
@@ -1548,7 +1558,7 @@
         </title>
 
         <title xml:id="childrenOfCaptainGrant">
-            <fullTitle>The Children of Captain Grant</fullTitle>
+            <fullTitleEng>The Children of Captain Grant</fullTitleEng>
             <director>Vladimir Vainshtok and David Gutman</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1557,7 +1567,7 @@
         </title>
 
         <title xml:id="unclеBoonmee">
-            <fullTitle>Uncle Boonmee Who Can Recall His Past Lives</fullTitle>
+            <fullTitleEng>Uncle Boonmee Who Can Recall His Past Lives</fullTitleEng>
             <director>Apichatpong Weerasethakul</director>
             <medium>film</medium>
             <country>Thailand</country>
@@ -1566,7 +1576,7 @@
         </title>
 
         <title xml:id="ivanVasilevichChangesJobs">
-            <fullTitle>Ivan Vasilievich: Back to the Future</fullTitle>
+            <fullTitleEng>Ivan Vasilievich: Back to the Future</fullTitleEng>
             <director>Leonid Gaidai</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1575,7 +1585,7 @@
         </title>
 
         <title xml:id="warAndPeace">
-            <fullTitle>War and Peace</fullTitle>
+            <fullTitleEng>War and Peace</fullTitleEng>
             <director>Sergei Bondarchuk</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1584,7 +1594,7 @@
         </title>
 
         <title xml:id="juno">
-            <fullTitle>Juno</fullTitle>
+            <fullTitleEng>Juno</fullTitleEng>
             <director>Jason Reitman</director>
             <medium>film</medium>
             <country>Canada/USA</country>
@@ -1593,7 +1603,7 @@
         </title>
 
         <title xml:id="rockyBullwinkle">
-            <fullTitle>The Rocky and Bullwinkle Show</fullTitle>
+            <fullTitleEng>The Rocky and Bullwinkle Show</fullTitleEng>
             <director>Jay Ward</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1602,7 +1612,7 @@
         </title>
         
         <title xml:id="irreversible">
-            <fullTitle>Irreversible</fullTitle>
+            <fullTitleEng>Irreversible</fullTitleEng>
             <director>Gaspar Noe</director>
             <medium>film</medium>
             <country>France</country>
@@ -1611,7 +1621,7 @@
         </title>
         
         <title xml:id="youngGuard">
-            <fullTitle>The Young Guard</fullTitle>
+            <fullTitleEng>The Young Guard</fullTitleEng>
             <director>Sergei Gerasimov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1620,7 +1630,7 @@
         </title>
         
           <title xml:id="seventeenMoments">
-            <fullTitle>Seventeen Moments of Spring</fullTitle>
+            <fullTitleEng>Seventeen Moments of Spring</fullTitleEng>
             <director>Tat'ana Lioznova</director>
             <medium>television</medium>
             <country>USSR</country>
@@ -1630,7 +1640,7 @@
         
         
           <title xml:id="morozko">
-            <fullTitle>Morozko</fullTitle>
+            <fullTitleEng>Morozko</fullTitleEng>
             <director>Aleksandr Rou</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1639,7 +1649,7 @@
         </title>
         
            <title xml:id="ivanBrovkin">
-            <fullTitle>Ivan Brovkin at the Virgin Lands</fullTitle>
+            <fullTitleEng>Ivan Brovkin at the Virgin Lands</fullTitleEng>
             <director>Ivan Lukinskii</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1648,7 +1658,7 @@
         </title>
         
         <title xml:id="chapaev">
-            <fullTitle>Chapaev</fullTitle>
+            <fullTitleEng>Chapaev</fullTitleEng>
             <director>Georgii Vasil'ev and Sergei Vasil'ev</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1657,7 +1667,7 @@
         </title>
         
         <title xml:id="cinderella">
-            <fullTitle>Cinderella</fullTitle>
+            <fullTitleEng>Cinderella</fullTitleEng>
             <director>Nadezhda Kosheverova and Mikhail Shapiro</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1666,7 +1676,7 @@
         </title>
         
         <title xml:id="greatWaltz">
-            <fullTitle>The Great Waltz</fullTitle>
+            <fullTitleEng>The Great Waltz</fullTitleEng>
             <director>Julien Duvivier</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1675,7 +1685,7 @@
         </title>
         
         <title xml:id="jorgenDay">
-            <fullTitle>St. Jorgen's Day</fullTitle>
+            <fullTitleEng>St. Jorgen's Day</fullTitleEng>
             <director>Iakov Protazanov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1684,7 +1694,7 @@
         </title>
         
         <title xml:id="warAndPeaceAm">
-            <fullTitle>War and Peace</fullTitle>
+            <fullTitleEng>War and Peace</fullTitleEng>
             <director>King Vidor</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1693,7 +1703,7 @@
         </title>
         
         <title xml:id="admiralUshakov">
-            <fullTitle>Admiral Ushakov</fullTitle>
+            <fullTitleEng>Admiral Ushakov</fullTitleEng>
             <director>Mikhail Romm</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1702,7 +1712,7 @@
         </title>
         
         <title xml:id="gladiator">
-            <fullTitle>Gladiator</fullTitle>
+            <fullTitleEng>Gladiator</fullTitleEng>
             <director>ridley Scott</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1711,7 +1721,7 @@
         </title>
         
         <title xml:id="mumu">
-            <fullTitle>Mumu</fullTitle>
+            <fullTitleEng>Mumu</fullTitleEng>
             <director>Iurii Grymov</director>
             <medium>film</medium>
             <country>Russia</country>
@@ -1720,7 +1730,7 @@
         </title>   
         
         <title xml:id="iceAge">
-            <fullTitle>ice Age</fullTitle>
+            <fullTitleEng>ice Age</fullTitleEng>
             <director>Chris Wedge and Carlos Saldanha</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1729,7 +1739,7 @@
         </title>  
         
         <title xml:id="whiteSun">
-            <fullTitle>White Sun of the Desert</fullTitle>
+            <fullTitleEng>White Sun of the Desert</fullTitleEng>
             <director>Vladimir Motyl'</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1738,7 +1748,7 @@
         </title>
         
         <title xml:id="ladyWithDog">
-            <fullTitle>The lady with the Dog</fullTitle>
+            <fullTitleEng>The lady with the Dog</fullTitleEng>
             <director>Iosif Kheifits</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1747,7 +1757,7 @@
         </title>
         
         <title xml:id="threeMusketeers">
-            <fullTitle>The Three Musketeers</fullTitle>
+            <fullTitleEng>The Three Musketeers</fullTitleEng>
             <director>Andre Hunebelle</director>
             <medium>film</medium>
             <country>France</country>
@@ -1756,7 +1766,7 @@
         </title>
         
         <title xml:id="tearsOfBlood">
-            <fullTitle>Tears of Blood</fullTitle>
+            <fullTitleEng>Tears of Blood</fullTitleEng>
             <director>Alfred Vohrer</director>
             <medium>film</medium>
             <country>Germany/France</country>
@@ -1765,7 +1775,7 @@
         </title>
         
         <title xml:id="fantomas">
-            <fullTitle>Fantomas</fullTitle>
+            <fullTitleEng>Fantomas</fullTitleEng>
             <director>Andre Hunebelle</director>
             <medium>film</medium>
             <country>France</country>
@@ -1774,7 +1784,7 @@
         </title>
         
         <title xml:id="podranki">
-            <fullTitle>Wounded game</fullTitle>
+            <fullTitleEng>Wounded game</fullTitleEng>
             <director>Nikolai Gubenko</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1783,7 +1793,7 @@
         </title>
         
         <title xml:id="lifeTearsLove">
-            <fullTitle>Life, Tears, and Love</fullTitle>
+            <fullTitleEng>Life, Tears, and Love</fullTitleEng>
             <director>Nikolai Gubenko</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1792,7 +1802,7 @@
         </title>
         
         <title xml:id="vacationers">
-            <fullTitle>From the Life of Vacationers</fullTitle>
+            <fullTitleEng>From the Life of Vacationers</fullTitleEng>
             <director>Nikolai Gubenko</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1801,7 +1811,7 @@
         </title>
         
         <title xml:id="flight">
-            <fullTitle>The Flight</fullTitle>
+            <fullTitleEng>The Flight</fullTitleEng>
             <director>Aleksandr Alov and Vladimir Naumov</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1810,7 +1820,7 @@
         </title>
         
         <title xml:id="onceUponTime">
-            <fullTitle>Once Upon a Time in America </fullTitle>
+            <fullTitleEng>Once Upon a Time in America </fullTitleEng>
             <director>Sergio Leone</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1819,7 +1829,7 @@
         </title>
         
         <title xml:id="oneFlewCuckoo">
-            <fullTitle>One Flew Over the Cuckoo's Nest</fullTitle>
+            <fullTitleEng>One Flew Over the Cuckoo's Nest</fullTitleEng>
             <director>Milos Forman</director>
             <medium>film</medium>
             <country>USA</country>
@@ -1828,7 +1838,7 @@
         </title>
         
         <title xml:id="gentelmenFortune">
-            <fullTitle>Gentelmen of Fortune</fullTitle>
+            <fullTitleEng>Gentelmen of Fortune</fullTitleEng>
             <director>Aleksandr Seryi</director>
             <medium>film</medium>
             <country>USSR</country>
@@ -1837,7 +1847,7 @@
         </title>
         
         <title xml:id="nuPogodi">
-            <fullTitle>Just You Wait!</fullTitle>
+            <fullTitleEng>Just You Wait!</fullTitleEng>
             <director>Viacheslav Kotenochkin</director>
             <medium>film</medium>
             <country>USSR </country>
@@ -1846,7 +1856,7 @@
         </title>
         
         <title xml:id="mimino">
-            <fullTitle>Mimino</fullTitle>
+            <fullTitleEng>Mimino</fullTitleEng>
             <director>Georgii Daneliia</director>
             <medium>film</medium>
             <country>USSR </country>
@@ -1855,7 +1865,7 @@
         </title>
         
         <title xml:id="casablanca">
-            <fullTitle>Casablanca</fullTitle>
+            <fullTitleEng>Casablanca</fullTitleEng>
             <director>Michael Curtiz</director>
             <medium>film</medium>
             <country>USA </country>
@@ -1864,7 +1874,7 @@
         </title>
         
         <title xml:id="annaKarenina">
-            <fullTitle>Anna Karenina</fullTitle>
+            <fullTitleEng>Anna Karenina</fullTitleEng>
             <director>Sergei Solovyov</director>
             <medium>film</medium>
             <country>Russia </country>
@@ -1873,7 +1883,7 @@
         </title>
         
         <title xml:id="copperMountMistress">
-            <fullTitle>Mistress of the Copper Mountain</fullTitle>
+            <fullTitleEng>Mistress of the Copper Mountain</fullTitleEng>
             <director>O. Nikolaevskii</director>
             <medium>film</medium>
             <country>USSR </country>
