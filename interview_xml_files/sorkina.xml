@@ -34,7 +34,7 @@
             изучает общественную, политическую и культурную историю России через фильмы. Мы хотели
             бы, чтобы Вы рассказали нам о Ваших воспоминаниях от посещения кино; нас особенно
             интересуют детали. На основании Ваших ответов мы напишем эссе, в котором мы
-            проанализируем результаты опроса и напишем о посещении кинотеатров в России. Цель этого
+            проанализируем результаты опроса и напишем о посещении <place ref="movieTheater">кинотеатр</place>ов в России. Цель этого
             интервью для нас-узнать как можно больше о конкретных людях и месте кино в их жизни.
             Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь
             нам. Это интервью будет доступно для прослушивания на интернет-сайте кино-проекта. Если
@@ -45,8 +45,8 @@
         <speech speaker="sorkina" speechtype="a"> Меня зовут Соркина Виктория Михайловна. <pron
                 type="pers" number="sing">Я</pron> родилась в 1975ом году. </speech>
         <speech speaker="burke" speechtype="q"> Спасибо. Расскажите мне о ваших первых воспоминаниях
-            о кинотеатре. </speech>
-        <speech speaker="sorkina" speechtype="a"> Вы имеете в виду кинотеатр как здание? Как, или
+            о <place ref="movieTheater">кинотеатр</place>е. </speech>
+        <speech speaker="sorkina" speechtype="a"> Вы имеете в виду <place ref="movieTheater">кинотеатр</place> как здание? Как, или
             просто кино? </speech>
 
         <speech speaker="burke" speechtype="q"> Или<hes type="nonlex"/>
@@ -74,14 +74,14 @@
             советские, <epit ref="cartoon">очень хорошие</epit>
             <genre ref="cartoon">мультфильмы</genre>, которые <pron type="pers" number="sing"
                 >я</pron> до сих пор люблю. То есть, это было самое первое воспоминание. А потом,
-                потом,<hes type="lex"> наверно</hes>, кинотеатр начался уже в школьные годы. То
+                потом,<hes type="lex"> наверно</hes>, <place ref="movieTheater">кинотеатр</place> начался уже в школьные годы. То
             есть, когда <pron type="pers" number="sing">я</pron> была школьницей, <pron type="poss"
                 number="sing">мои</pron> родители меня водили в кино, и <pron type="pers"
                 number="plur">мы</pron> также ходили в кино со школой. Возможно, когда <pron
                 type="pers" number="sing">я</pron> отдыхала у <pron type="poss" number="sing"
                 >моих</pron> бабушки и дедушки, значит, это было в <place ref="sverdlovsk"
                 >Свердловске</place>, а теперь этот город называется <place ref="ekaterinburg"
-                >Екатеринбург</place>. Там, тоже был кинотеатр. И <pron type="pers" number="sing"
+                >Екатеринбург</place>. Там, тоже был <place ref="movieTheater">кинотеатр</place>. И <pron type="pers" number="sing"
                 >я</pron> ходила смотреть совсем <genre ref="childrens">детские фильмы</genre>. Вот,
             это было самое такое первое воспоминание о кино. И,<hes type="lex"> наверно</hes>,
             первый фильм, который <pron type="pers" number="sing">я</pron> посмотрела, это был фильм
@@ -90,7 +90,7 @@
                 >Первоклассница</title>. Вот это было, так скажем,<hes type="lex"> наверно</hes>, в
             первые годы школы. Потом, если уже говорить, потом <pron type="pers" number="sing"
                 >я</pron> помню уже другое такое большое впечатление от кино, когда<pron type="pers"
-                number="sing"> я </pron>сходила в кинотеатр и посмотрела фильм <title
+                number="sing"> я </pron>сходила в <place ref="movieTheater">кинотеатр</place> и посмотрела фильм <title
                 ref="romanHoliday">Римские каникулы</title>. Вы,<hes type="lex"> наверно</hes>, тоже
             смотрели этот фильм?</speech>
 
@@ -145,7 +145,7 @@
             эту тему. Практически все ушло. Да. <nationalCinema ref="sovietCinema">Советские
                 фильмы</nationalCinema> смотрели тоже. Но, за этим, <pron type="pers" number="sing"
                 >я</pron> думаю, по крайней мере,<pron type="pers" number="sing"> я </pron>не ходила
-            в кинотеатр. <pron type="pers" number="sing">Я</pron> смотрела их по телевизору. Но,
+            в <place ref="movieTheater">кинотеатр</place>. <pron type="pers" number="sing">Я</pron> смотрела их по телевизору. Но,
             знаю, что, например, <pron type="poss" number="sing">мои</pron> родители ходили часто в
             кино. Они смотрели те фильмы, которые выходили каждый раз. Да, новый фильм. Например те
             же самые фильмы <person ref="riazanov">Эльдара Рязанова</person> и всех остальных
@@ -169,16 +169,16 @@
         <speech speaker="burke" speechtype="q"> Когда вы смотрели этот фильм было по телевизору? </speech>
         <speech speaker="sorkina" speechtype="a">
             <pron type="pers" number="sing">Я</pron> смотрела по-телевизору. Да. </speech>
-        <speech speaker="burke" speechtype="q"> Ну что, вы помните о зданиях кинотеатров? </speech>
+        <speech speaker="burke" speechtype="q"> Ну что, вы помните о зданиях <place ref="movieTheater">кинотеатр</place>ов? </speech>
         <speech speaker="sorkina" speechtype="a"> О зданиях? Именно о зданиях. <pron type="pers"
-                number="sing">Я</pron> не думаю, что эти кинотеатры были очень <epit ref="kino"
+                number="sing">Я</pron> не думаю, что эти <place ref="movieTheater">кинотеатр</place>ы были очень <epit ref="kino"
                 >удобные</epit>, как сейчас. Они были <epit ref="kino">такие очень типичные</epit>,
             все похожи друг на другa. Но <pron type="pers" number="sing">я</pron> тогда об этом не
             думала. <pron type="pers" number="sing">Я</pron> помню что тогда такая была традиция,
-            когда <pron type="pers" number="sing">я</pron> приходила в кинотеатр,<pron type="pers"
+            когда <pron type="pers" number="sing">я</pron> приходила в <place ref="movieTheater">кинотеатр</place>,<pron type="pers"
                 number="sing"> я </pron> всегда ела мороженое. Да, в <place ref="america"
                 >Америке</place> это попкорн да? Например сейчас тоже <place ref="movieTheater">в
-                кинотеатре</place> продают попкорн. Но <pron type="pers" number="sing">я</pron>
+                <place ref="movieTheater">кинотеатр</place>е</place> продают попкорн. Но <pron type="pers" number="sing">я</pron>
             помню, что тогда продавали мороженое. Это было, так скажем, часть спектакля. То есть,
             часть всего действия. И возможно, для меня, когда <pron type="pers" number="sing"
                 >я</pron> была маленькая, это была вполне даже в общем главная часть. Потому что,
@@ -269,7 +269,7 @@
             сказать, что сейчас русское кино очень удачливо. Очень мало можно назвать режиссеров,
             которых действительно хочется посмотреть. Как-то так.</speech>
         <speech speaker="burke" speechtype="q"> Вы знаете в Санкт Петербурге или, <hes type="lex"
-                >может быть</hes>, вы знаете кинотеатры, в котором они, в котором может смотреть
+                >может быть</hes>, вы знаете <place ref="movieTheater">кинотеатр</place>ы, в котором они, в котором может смотреть
             международные искусственые фильмы? </speech>
         <speech speaker="sorkina" speechtype="a"> Именно международные фильмы по искусству, да? Да,
             то есть, вы имеете в виду искусство, как что-то, это то есть, не было, так скажем,
@@ -280,10 +280,10 @@
         <speech speaker="burke" speechtype="q"> Да. </speech>
         <speech speaker="sorkina" speechtype="a">
             <pron type="pers" number="sing">Я</pron> думаю так, что нет каких-то конкретных
-            кинотеатров. Бывает так, что фильм идет, например, фильм идет в прокате. Например, всего
+            <place ref="movieTheater">кинотеатр</place>ов. Бывает так, что фильм идет, например, фильм идет в прокате. Например, всего
             режиссер. Да, например, <collective><pron type="poss" number="plur">у
-                нас</pron></collective> в кинотеатре идет весь<person ref="bergman"> Ингмар
-                Бергман</person>, да, целый месяц. Да. Конечно, да есть такой кинотеатр, Дом Кино. В
+                нас</pron></collective> в <place ref="movieTheater">кинотеатр</place>е идет весь<person ref="bergman"> Ингмар
+                Бергман</person>, да, целый месяц. Да. Конечно, да есть такой <place ref="movieTheater">кинотеатр</place>, Дом Кино. В
             Доме Кино часто идет классика. Можно всегда посмотреть что-то хорошее. Также бывают
             фестивали по городу. Например, фестиваль <nationalCinema ref="polishCinema">польского
                 кино</nationalCinema>, фестиваль <nationalCinema ref="japaneseCinema">японского
@@ -311,25 +311,25 @@
             <pron type="pers" number="sing">Я</pron> очень редко их смотрю. Но если смотрю, то,
             скорее всего, по интернету. Да. И<hes type="lex"> наверно</hes> больше никак. Что
             касается до какого серьезного кино, то как <pron type="pers" number="sing">я</pron> уже
-            сказала как, бывает<pron type="pers" number="sing"> я </pron>хожу в кинотеатры. Или
-            опять же смотрю что-то дома. То есть больше, конечно, дома. Но в кинотеатре тоже. За
+            сказала как, бывает<pron type="pers" number="sing"> я </pron>хожу в <place ref="movieTheater">кинотеатр</place>ы. Или
+            опять же смотрю что-то дома. То есть больше, конечно, дома. Но в <place ref="movieTheater">кинотеатр</place>е тоже. За
                 <genre ref="blockbuster">блокбастером</genre> я,<hes type="lex"> наверно</hes>, не
             пойду. </speech>
 
-        <speech speaker="burke" speechtype="q"> Сейчас, вы не ходили в кинотеатр потому, что вы не
-            любите новые фильмы или кинотеатры как сейчас или что-то еще? </speech>
+        <speech speaker="burke" speechtype="q"> Сейчас, вы не ходили в <place ref="movieTheater">кинотеатр</place> потому, что вы не
+            любите новые фильмы или <place ref="movieTheater">кинотеатр</place>ы как сейчас или что-то еще? </speech>
         <speech speaker="sorkina" speechtype="a"> Трудно сказать. <pron type="pers" number="sing"
                 >Я</pron> хожу, но не очень часто,<hes type="lex"> наверно</hes> потому, что бывает
             нету времени. Бывает, ты понимаешь, что этот фильм можешь посмотреть дома и вообще тебе
             лень встать и пойти. Бывает так что <hes type="nonlex"/> бывает так, что ты идешь и
-            можешь взять какой-то кусочек своего времени и уделить его походу в кинотеатр все-таки.
+            можешь взять какой-то кусочек своего времени и уделить его походу в <place ref="movieTheater">кинотеатр</place> все-таки.
                 <pron type="pers" number="sing">Я</pron> думаю, что больше из-за того сейчас все
             удобно посмотреть дома. Нет времени на то, чтобы пойти куда. Но, бывает так что <pron
                 type="pers" number="sing">я</pron> иду. Да. То есть, <pron type="pers" number="sing"
                 >я</pron> бы сказала,<hes type="lex"> наверно</hes>, возможно, 50% или 70% <pron
                 type="pers" number="sing">я</pron> смотрю дома а остальные 30% в <place
-                ref="movieTheater">кинотеатре</place>. <pron type="pers" number="sing">Я</pron> иду
-            в кинотеатр, когда есть для этого настроение и когда <pron type="pers" number="sing"
+                ref="movieTheater"><place ref="movieTheater">кинотеатр</place>е</place>. <pron type="pers" number="sing">Я</pron> иду
+            в <place ref="movieTheater">кинотеатр</place>, когда есть для этого настроение и когда <pron type="pers" number="sing"
                 >я</pron> знаю, что это фильм, который бы <pron type="pers" number="sing">я</pron>
             очень хотела посмотреть на большом экране, так скажем. Потому что есть фильмы, которые
             просто трудно посмотреть на маленьком экране. Например, был такой уже, по-моему 2 или 3

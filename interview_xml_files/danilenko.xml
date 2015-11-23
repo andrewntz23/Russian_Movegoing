@@ -46,16 +46,16 @@
             сюжет?</speech>
         <speech speaker="roberts" speechtype="q">O посещениях.</speech>
         <speech speaker="danilenko" speechtype="a">О посещениях. Ощущение. <hes type="nonlex"/> Это
-            было так давно, конечно. Первый большой экран в кинотеатре для меня было что-то
+            было так давно, конечно. Первый большой экран в <place ref="movieTheater">кинотеатр</place>е для меня было что-то
             необыкновенное. Как и сам <genre ref="skazka">фильм-сказка</genre>. Это такое
             представление у ребёнка, что жизнь вся сказка, такая красивая. Вот такие первые
             впечатления.</speech>
         <speech speaker="roberts" speechtype="q">С кем вы ходили?</speech>
         <speech speaker="danilenko" speechtype="a">С мамой.</speech>
-        <speech speaker="roberts" speechtype="q">Как вам нравится кинотеатр?</speech>
+        <speech speaker="roberts" speechtype="q">Как вам нравится <place ref="movieTheater">кинотеатр</place>?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, в <epit
                 ref="movieTheater">современном</epit>
-            <place ref="movieTheater">кинотеатре</place>,<pron type="pers" number="sing">я</pron>не
+            <place ref="movieTheater"><place ref="movieTheater">кинотеатр</place>е</place>,<pron type="pers" number="sing">я</pron>не
             была, потому что в связи с работой, с занятостью, нет времени посещать. А первое
             впечатление <hes type="nonlex"/>
             <epit ref="kino">такой огромный дом</epit>
@@ -63,14 +63,14 @@
             собственный дом. Тогда ещё <pron type="poss" number="plur">у нас</pron> телевизора не
                 было,<pron type="pers" number="plur">мы</pron>не знали что, что такое. <hes
                 type="lex">Ну</hes>, конечно очень, очень приятно было. </speech>
-        <speech speaker="roberts" speechtype="q">Когда вы начали ходить в кинотеатр сама?</speech>
+        <speech speaker="roberts" speechtype="q">Когда вы начали ходить в <place ref="movieTheater">кинотеатр</place> сама?</speech>
         <speech speaker="danilenko" speechtype="a">Это <hes type="nonlex"/> ну как, одна<pron
                 type="pers" number="sing">я</pron>не ходила, только где-то лет в шестнадцать, когда
             мне было шестнадцать лет. Наверно, тогда только. А так <pron type="pers" number="plur"
-                >мы</pron>посещали коллективно кинотеатр. Со школой. Или <pron type="poss"
+                >мы</pron>посещали коллективно <place ref="movieTheater">кинотеатр</place>. Со школой. Или <pron type="poss"
                 number="plur">у нас</pron> в школе был показ <pron type="poss" number="plur">у
                 нас</pron> кинозал небольшой был. Нам там показывали или группой<pron type="pers"
-                number="plur">мы</pron>ходили в кинотеатр. </speech>
+                number="plur">мы</pron>ходили в <place ref="movieTheater">кинотеатр</place>. </speech>
         <speech speaker="roberts" speechtype="q">Вам нравилось ходить в кино?</speech>
         <speech speaker="danilenko" speechtype="a">Нравилось, конечно нравилось. </speech>
         <speech speaker="roberts" speechtype="q">Как часто вы ходили в кино?</speech>
@@ -118,7 +118,7 @@
         <speech speaker="danilenko" speechtype="a">Еще раз вопрос?</speech>
         <speech speaker="roberts" speechtype="q">Вы помните какой-нибудь фильм или посещение кино
             особенно?</speech>
-        <speech speaker="danilenko" speechtype="a">Посещение кинотеатра? <hes type="nonlex"/> Это
+        <speech speaker="danilenko" speechtype="a">Посещение <place ref="movieTheater">кинотеатр</place>а? <hes type="nonlex"/> Это
             давно когда было. <hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron>не
             знаю. Много разных фильмов, и <genre ref="classics">классика</genre>, и <genre
                 ref="warFilms">военные фильмы</genre>. Очень нравились в детстве.<collective><pron
@@ -164,14 +164,14 @@
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, когда была маленькая, с
             ма или со старшей сестрой и с братом. А потом уже ходила с подругами. </speech>
         <speech speaker="roberts" speechtype="q">Было больше мужчин или женщин в
-            кинотеатре?</speech>
+            <place ref="movieTheater">кинотеатр</place>е?</speech>
         <speech speaker="danilenko" speechtype="a">Нет, <hes type="lex">наверно</hes>, одинаково. </speech>
         <speech speaker="roberts" speechtype="q">Люди часто ходили кино с семьями или с
             друзьями/подругами?</speech>
         <speech speaker="danilenko" speechtype="a">Я не знаю. Как сказать <hes type="nonlex"/> по
             разному бывало, <hes type="lex">может быть</hes> один раз там с друзьями ходили, другой
             раз семьями ходили. Родители с детьми. </speech>
-        <speech speaker="roberts" speechtype="q">В кинотеатр были очереди?</speech>
+        <speech speaker="roberts" speechtype="q">В <place ref="movieTheater">кинотеатр</place> были очереди?</speech>
         <speech speaker="danilenko" speechtype="a">Да, были очереди. </speech>
         <speech speaker="roberts" speechtype="q">Вы помните, когда вы ждали в очереди?</speech>
         <speech speaker="danilenko" speechtype="a">Какое кино?<pron type="pers" number="sing"
@@ -187,19 +187,19 @@
             известной певицей и вышел новый фильм. Нам очень хотелось посмотреть и услышать новые
             песни и посмотреть ее не как певицу, а как актрису</speech>
         <speech speaker="roberts" speechtype="q">Вы знали людей, которые работали в
-            кинотеатре?</speech>
-        <speech speaker="danilenko" speechtype="a">В кинотеатре <hes type="nonlex"/> Наверное, нет. </speech>
-        <speech speaker="roberts" speechtype="q">Какая была атмосфера в кинотеатре?</speech>
+            <place ref="movieTheater">кинотеатр</place>е?</speech>
+        <speech speaker="danilenko" speechtype="a">В <place ref="movieTheater">кинотеатр</place>е <hes type="nonlex"/> Наверное, нет. </speech>
+        <speech speaker="roberts" speechtype="q">Какая была атмосфера в <place ref="movieTheater">кинотеатр</place>е?</speech>
         <speech speaker="danilenko" speechtype="a">Как в кинозале? Как себя вели дети, кто приходил
             в кино? Когда как, там смотреть когда какой шел фильм кричали, хлопали. Но когда
             спокойно. Кто-то плакал. Какой сюжет в кино был. Если, там, грустный. Когда смешно, все
             смеялись.</speech>
-        <speech speaker="roberts" speechtype="q">Вы ели что-нибудь в кинотеатре?</speech>
+        <speech speaker="roberts" speechtype="q">Вы ели что-нибудь в <place ref="movieTheater">кинотеатр</place>е?</speech>
         <speech speaker="danilenko" speechtype="a">Нет.<pron type="pers" number="sing"
             >Я</pron>считаю, что это неприлично. Если человек пришел смотреть фильм, значит все
             внимание его должно быть приковано только к экрану, и он должен смотреть, а не кушать.
             Для этого есть другое место.</speech>
-        <speech speaker="roberts" speechtype="q">Но был буфет в кинотеатре?</speech>
+        <speech speaker="roberts" speechtype="q">Но был буфет в <place ref="movieTheater">кинотеатр</place>е?</speech>
         <speech speaker="danilenko" speechtype="a">Да. </speech>
         <speech speaker="roberts" speechtype="q">Другие люди ели?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, иногда. </speech>
@@ -270,7 +270,7 @@
             шестнадцати лет нам не разрешали посещать. Кинотеатр только до четырёх часов. И там
             показывали только <genre ref="childrens">детские фильмы</genre>. </speech>
         <speech speaker="roberts" speechtype="q">Вам не разрешали ваши родители или администрация
-            кинотеатра?</speech>
+            <place ref="movieTheater">кинотеатр</place>а?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, и администрация, и
             школа, ну родители тоже, как бы <hes type="nonlex"/> не разрешали. До девяти часов<pron
                 type="pers" number="plur">мы</pron>должны вернуться до были, если гуляли. </speech>
@@ -286,7 +286,7 @@
             запрещала. </speech>
         <speech speaker="roberts" speechtype="q">Извините?</speech>
         <speech speaker="danilenko" speechtype="a">Раньше было такое, комиссия была. Они, когда
-            фильм был готов, он должен был выйти на широкий экран в кинотеатре, они смотрели и
+            фильм был готов, он должен был выйти на широкий экран в <place ref="movieTheater">кинотеатр</place>е, они смотрели и
             давали разрешения, что можно или нет. <hes type="lex">Ну</hes>
             <hes type="nonlex"/><pron type="pers" number="sing">я</pron>не знаю. </speech>
         <speech speaker="roberts" speechtype="q">Ваши родители ходили в кино?</speech>
@@ -298,18 +298,18 @@
                 <nationalCinema ref="foreignCinema">иностранные фильмы</nationalCinema>,<pron
                 type="pers" number="sing">я</pron>не могу сказать сейчас названия, потому что<pron
                 type="pers" number="sing"> я </pron>была очень маленькая. <hes type="lex">Ну</hes>,
-            что было в кинотеатре, старались по возможности посещать кинотеатр смотреть,
+            что было в <place ref="movieTheater">кинотеатр</place>е, старались по возможности посещать <place ref="movieTheater">кинотеатр</place> смотреть,
             интересовались тоже, чтобы узнать, как другая страна живёт.</speech>
         <speech speaker="roberts" speechtype="q">Вы ещё ходите в кино?</speech>
         <speech speaker="danilenko" speechtype="a">Мне бы хотелась. Но если будет время и
             возможность, конечно. Но сейчас, когда есть время,<pron type="pers" number="sing"
                 >я</pron>смотрю по телевизору кино.</speech>
-        <speech speaker="roberts" speechtype="q">Как ваши посещения кинотеатров изменились со
+        <speech speaker="roberts" speechtype="q">Как ваши посещения <place ref="movieTheater">кинотеатр</place>ов изменились со
             временем почему?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, в современном
-                кинотеатре<pron type="pers" number="sing">я</pron>не была. Как не знаю сейчас <hes
+                <place ref="movieTheater">кинотеатр</place>е<pron type="pers" number="sing">я</pron>не была. Как не знаю сейчас <hes
                 type="nonlex"/> что есть и стерео кино, другие залы. Которые раньше были в
-            кинотеатре, просто обыкновенный зал с креслами, большой экран. Конечно, первое
+            <place ref="movieTheater">кинотеатр</place>е, просто обыкновенный зал с креслами, большой экран. Конечно, первое
             впечатление, когда<pron type="pers" number="plur">мы</pron>приходили в зал, для нас было
             необыкновенно, очень приятно было.<pron type="pers" number="sing">Я</pron>не могу сейчас
             сравнить, потому что в новом зале<pron type="pers" number="sing"> я </pron>не была. Вы

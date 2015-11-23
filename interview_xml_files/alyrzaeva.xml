@@ -26,7 +26,7 @@
             который изучает общественную, политическую и культурную историю России через фильмы. Мы
             хотели бы, чтобы вы рассказали нам о ваших воспоминаниях о посещении кино. На основании
             Ваших ответов мы напишем эссе, в котором мы проанализируем результаты опроса и напишем о
-            посещении кинотеатров в России. Цель этого интервью для нас – узнать как можно больше о
+            посещении <place ref="movieTheater">кинотеатр</place>ов в России. Цель этого интервью для нас – узнать как можно больше о
             конкретных людях и месте кино в их жизни. Большое спасибо за Вашу готовность поделиться
             вашими воспоминаниями и за Вашу помощь нам. Это интервью будет доступно для
             прослушивания на интернетсайте кинопроекта. Если вы не против, давайте начнём. </speech>
@@ -38,9 +38,9 @@
                 type="nonlex"/> в Санкт-Петербурге. Здесь родились, здесь росли. Больше <hes
                 type="nonlex"/> детство за городом были. Там конечно<pron type="pers" number="plur"
                 >мы</pron>посещали, <hes type="nonlex"/> но там называется не <place ref="kino"
-                >кинотеатр</place>, а <place ref="club">клуб</place>. <place ref="club">В
+                ><place ref="movieTheater">кинотеатр</place></place>, а <place ref="club">клуб</place>. <place ref="club">В
                 клубе</place> показывали кино<hes type="nonlex"/>.<hes type="lex"> Ну </hes>а по
-            горoду, конечно, кинотеатрах. <hes type="nonlex"/> Ходили в кинотеатры, смотрели
+            горoду, конечно, <place ref="movieTheater">кинотеатр</place>ах. <hes type="nonlex"/> Ходили в <place ref="movieTheater">кинотеатр</place>ы, смотрели
                 фильмы.<hes type="lex"> Ну </hes>вот. </speech>
         <speech speaker="andell" speechtype="q">Где работали ваши папа и мама? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ой, где работали папа<hes type="nonlex"/> Папу не
@@ -73,42 +73,42 @@
         <speech speaker="andell" speechtype="q">Сколько стоил билет? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ой тогда билет стоил? В те времена пять копеек. А
             для взрослых двадцать копеек, по-моему. </speech>
-        <speech speaker="andell" speechtype="q">Как называет, ах назывался кинотеатр,пожалуйста. </speech>
+        <speech speaker="andell" speechtype="q">Как называет, ах назывался <place ref="movieTheater">кинотеатр</place>,пожалуйста. </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, например, если здесь в <place
                 ref="stPetersburg">городе</place>, <collective><pron type="poss" number="plur">у
-                    нас</pron></collective> на Васильевском такой <place ref="baltika">кинотеатр
+                    нас</pron></collective> на Васильевском такой <place ref="baltika"><place ref="movieTheater">кинотеатр</place>
                 Балтика</place>.<hes type="lex"> Ну </hes>посещали в основном <hes type="nonlex"
                 /><hes type="lex"> ну </hes>это около метро Василиостровская. Вы <hes type="lex"
                 >наверно</hes>, если вы ходили, ездили на метро, то в университет проходили <hes
                 type="lex">наверно</hes> мимо. Но сейчас его уже нет. <place ref="baltika">Кинотеатр
                 Балтика</place> назывался. <pron type="pers" number="plur">Мы</pron>с друзьями его
             посешали всегда. Какие-то новые фильмы, значит<pron type="pers" number="plur">мы</pron>в
-            кинотеатре. Да еще, кстати, рядом <collective><pron type="poss" number="plur">у
+            <place ref="movieTheater">кинотеатр</place>е. Да еще, кстати, рядом <collective><pron type="poss" number="plur">у
                     нас</pron></collective> здесь на Ваське (Васильевский Остров) есть <place
-                ref="priboi">кинотеатр Прибой</place>. Это угол Среднeго проспекта. По Среднeму
+                ref="priboi"><place ref="movieTheater">кинотеатр</place> Прибой</place>. Это угол Среднeго проспекта. По Среднeму
             проспекту недалеко здесь в гавани. Но они уже тоже <collective><pron type="poss"
                     number="plur">у нас</pron></collective> не работают, не действуют. </speech>
         <speech speaker="andell" speechtype="q">Вы ходили пешком или ездили? </speech>
         <speech speaker="alyrzaeva" speechtype="a">И ходили, и ездили на транспорте. </speech>
         <speech speaker="andell" speechtype="q">На чем вы ездили? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Трамвай </speech>
-        <speech speaker="andell" speechtype="q">У вас был один кинотеатр или больше одного? </speech>
+        <speech speaker="andell" speechtype="q">У вас был один <place ref="movieTheater">кинотеатр</place> или больше одного? </speech>
         <speech speaker="andell" speechtype="q"><collective><pron type="poss" number="plur">У
-                    нас</pron></collective> тут около дома было три кинотеатрa. Самые такие близкие. </speech>
-        <speech speaker="andell" speechtype="q">Сравните эти кинотеатры </speech>
+                    нас</pron></collective> тут около дома было три <place ref="movieTheater">кинотеатр</place>a. Самые такие близкие. </speech>
+        <speech speaker="andell" speechtype="q">Сравните эти <place ref="movieTheater">кинотеатр</place>ы </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, в то время, они по своему времени были
                 такие<hes type="nonlex"/> как сказать<hes type="nonlex"/><hes type="lex"> Ну
-            </hes>хорошие кинотеатры для того времени, какое было для нас. Когда<pron type="pers"
-                number="plur">мы</pron>посещали. Сейчас, конечно, кинотеатры уже совершенно
+            </hes>хорошие <place ref="movieTheater">кинотеатр</place>ы для того времени, какое было для нас. Когда<pron type="pers"
+                number="plur">мы</pron>посещали. Сейчас, конечно, <place ref="movieTheater">кинотеатр</place>ы уже совершенно
                 другие<hes type="nonlex"/>. Вот. Ну,для нас были интересные, красивые и удобные
-            кинотеатры. </speech>
-        <speech speaker="andell" speechtype="q">Что вы чувствовали когда вы ходили в кинотеатр? </speech>
-        <speech speaker="alyrzaeva" speechtype="a">Ну отдых, отдых. Отдыхали в кинотеатре<hes
+            <place ref="movieTheater">кинотеатр</place>ы. </speech>
+        <speech speaker="andell" speechtype="q">Что вы чувствовали когда вы ходили в <place ref="movieTheater">кинотеатр</place>? </speech>
+        <speech speaker="alyrzaeva" speechtype="a">Ну отдых, отдых. Отдыхали в <place ref="movieTheater">кинотеатр</place>е<hes
                 type="nonlex"/> А когда <nationalCinema ref="indianCinema">индийские
                 фильмы</nationalCinema> смотрели, то горько плакали. (Laughs) </speech>
-        <speech speaker="andell" speechtype="q">Когда вы начaли ходить в кинотеатр одна? </speech>
+        <speech speaker="andell" speechtype="q">Когда вы начaли ходить в <place ref="movieTheater">кинотеатр</place> одна? </speech>
         <speech speaker="alyrzaeva" speechtype="a"><hes type="nonlex"/> Да по-моему со школы. Еще в
-            школе учились, ходили в кинотеатры. </speech>
+            школе учились, ходили в <place ref="movieTheater">кинотеатр</place>ы. </speech>
         <speech speaker="andell" speechtype="q">Вам нравилось ходить в кино? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Конечно. А потому что даже если новые какие-то
             фильмы, то это интересно всегда посмотреть. Что-то узнаешь и для себя, и про любовь, и
@@ -127,7 +127,7 @@
             Закончили школу, вышли замуж? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну конечно кино изменилось. Кинотреатры
             изменились. Стали<hes type="lex"> ну </hes>как вам сказать, такие вот вот вот<hes
-                type="nonlex"/> даже не знаю, как вам обьяснить, какие кинотеатры стали. Ну,
+                type="nonlex"/> даже не знаю, как вам обьяснить, какие <place ref="movieTheater">кинотеатр</place>ы стали. Ну,
             современные, двадцать первому веку, конечно, и кинотетры другие. Красивые, большие, и
             значит “триД” какое-то.<pron type="pers" number="sing">Я</pron>не знаю, красиво
             смотреть. Лучше, конечно, как раньше было. Ты сидишь, ты смотришь, как будто ты в этом
@@ -177,33 +177,33 @@
                 ref="celentano">Челентано</person>. <nationalCinema ref="italianCinema">Итальянские
                 фильмы</nationalCinema>. <person ref="loren">София Лорен</person>
             <hes type="nonlex"/> эти актёры были, то, конечно, детям смотреть нельзя. Но так,
-            конечно, дети от десяти-двенадцати лет до пенсионного возраста, в кинотеатрах все люди
+            конечно, дети от десяти-двенадцати лет до пенсионного возраста, в <place ref="movieTheater">кинотеатр</place>ах все люди
             были. </speech>
         <speech speaker="andell" speechtype="q">Больше мужчины или женщины? </speech>
         <speech speaker="alyrzaeva" speechtype="a"><hes type="lex">Ну</hes>, вы знаете, <hes
                 type="lex">наверноe</hes> все одинаково были, и мужчины и женщины, всех было много,
             всегда. Но сейчас, кстати,<pron type="pers" number="sing">я</pron>вот была недавно уже в
-            новых кинотеатрах, это <hes type="nonlex"/>
+            новых <place ref="movieTheater">кинотеатр</place>ах, это <hes type="nonlex"/>
             <hes type="lex">наверно</hes>, были на Площади мира, как он называется-то<hes
                 type="nonlex"/> этот <place ref="cityCenter">новый большой комплекс</place> (shows),
             и там<hes type="lex"> ну </hes><hes type="nonlex"/> в основном молодёжь. Ну, <hes
                 type="lex">наверноe</hes>, до сорока лет, пожилых их очень очень очень мало,
-            десятки, единицы. A так молодёжь в основном теперь в кинотеатрах. <hes type="lex"
+            десятки, единицы. A так молодёжь в основном теперь в <place ref="movieTheater">кинотеатр</place>ах. <hes type="lex"
                 >наверноe</hes> от 15 лет до 45. </speech>
         <speech speaker="andell" speechtype="q">С кем вы чаще ходили в кино? С семьями или с
             друзьями? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну это уже кто как ходил, и с семьями ходили, и с
             друзьями ходили. </speech>
-        <speech speaker="andell" speechtype="q">В кинотеатре были очереди? </speech>
+        <speech speaker="andell" speechtype="q">В <place ref="movieTheater">кинотеатр</place>е были очереди? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Были, были<hes type="nonlex"/> Сейчас нет
                 очередей,<hes type="lex"> ну </hes>и что в кассy 10-12 человек стоят, а были
-            очереди, где стояли сорок минут чтобы купить билет в кинотеатр. </speech>
+            очереди, где стояли сорок минут чтобы купить билет в <place ref="movieTheater">кинотеатр</place>. </speech>
         <speech speaker="andell" speechtype="q">Вы помните, когда вы ждали в очереди? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, конечно, помню когда<pron type="pers"
                 number="sing">я</pron>стояла в очереди, и<hes type="lex"> ну </hes>вот кстати, было
             два раза, когда<pron type="pers" number="plur"> мы </pron>стояли чтобы купить билет,
                 <hes type="lex">наверно</hes>е, часа полтора даже. Ну, Средний проспект знаете, и
-                Большой?<hes type="lex"> Ну </hes>так вот, от Среднего, как раз был рядом кинотеатр,
+                Большой?<hes type="lex"> Ну </hes>так вот, от Среднего, как раз был рядом <place ref="movieTheater">кинотеатр</place>,
             и до Большого, по Седьмой линии вот стояла очередь. Тысячная, <hes type="lex"
                 >наверно</hes>. Больше тысячи людей. </speech>
         <speech speaker="andell" speechtype="q">Разные группы сидели в разных частях
@@ -218,35 +218,35 @@
             приятно. </speech>
         <speech speaker="andell" speechtype="q">Как вы одевались? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, как обычно! Обычно, обычно, да? </speech>
-        <speech speaker="andell" speechtype="q">Вы знали людей, которые работали в кинотеатрах? </speech>
+        <speech speaker="andell" speechtype="q">Вы знали людей, которые работали в <place ref="movieTheater">кинотеатр</place>ах? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Бывало знали некоторых людей, потому что ходили
             всё время, и люди одни и те же работали. В другой раз через них билеты даже заказывали.
             По блату.(laughs) </speech>
-        <speech speaker="andell" speechtype="q">Какая была атмосфера в кинотеатре? </speech>
+        <speech speaker="andell" speechtype="q">Какая была атмосфера в <place ref="movieTheater">кинотеатр</place>е? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Хорошая атмосфера. Хорошая. Такая <hes
                 type="nonlex"/> приятная, спокойная, как-то не былo, знаете, тахих больших интрижек.
             Спокойно всегда было, хорошо. </speech>
-        <speech speaker="andell" speechtype="q">Опишите кинотеатр. Можно? А если можно, сравните с
-            кинотеатрами сейчас. </speech>
+        <speech speaker="andell" speechtype="q">Опишите <place ref="movieTheater">кинотеатр</place>. Можно? А если можно, сравните с
+            <place ref="movieTheater">кинотеатр</place>ами сейчас. </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, да по-моему даже никакого сравнения нет. Как
-            сейчас кинотеатры? Эти были, вы знаете <hes type="nonlex"/> но обычные были, какие-то
-            спокойные, тихие кинотеатры, Cейчас они огромные, большие, экраны совершенно другие,<hes
+            сейчас <place ref="movieTheater">кинотеатр</place>ы? Эти были, вы знаете <hes type="nonlex"/> но обычные были, какие-то
+            спокойные, тихие <place ref="movieTheater">кинотеатр</place>ы, Cейчас они огромные, большие, экраны совершенно другие,<hes
                 type="lex"> ну </hes>даже<pron type="pers" number="sing">я</pron>не знаю, сравнивать
             нечего. Абсолютно. Да сейчас, конечно, это много лучше чем было. Даже сравнения нет. </speech>
         <speech speaker="andell" speechtype="q">Опишите звуки и запахи, которые вы воспоминаете,
-            когда бы думаете о кинотеатре. </speech>
+            когда бы думаете о <place ref="movieTheater">кинотеатр</place>е. </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну бывают запахи, когда пивом, или табаком пахнет
             от людей. Вот это не приятно. Особенно когда не куришь, и сядет человек, который
             покурил. Пахнет этото табак неприятно. </speech>
         <speech speaker="andell" speechtype="q">Кресла были удобные? </speech>
-        <speech speaker="alyrzaeva" speechtype="a">Ну, для того времени, и для тех кинотеатров были
+        <speech speaker="alyrzaeva" speechtype="a">Ну, для того времени, и для тех <place ref="movieTheater">кинотеатр</place>ов были
             удобные. Это сейчас уже лежишь в этих креслах. Ну, в свое время, все было то что нужно,
             то что необходимо. </speech>
         <speech speaker="andell" speechtype="q">В кино было холодно или тепло? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Нет, вентиляция всегда работала. </speech>
         <speech speaker="andell" speechtype="q">Кинотеатр был большой? Сколько там было залов? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, раньше были залы <hes type="nonlex"/>
-            по-моему, по одному залу. Да кинотеатры были один зал только. Ну, на сколько? <hes
+            по-моему, по одному залу. Да <place ref="movieTheater">кинотеатр</place>ы были один зал только. Ну, на сколько? <hes
                 type="lex">Наверно</hes> на тысячу человек был зал. </speech>
         <speech speaker="andell" speechtype="q">Кинотеатр был только для кино или для других
             мероприятий? </speech>
@@ -254,14 +254,14 @@
             небольшие. Вот например девятое мая, первое мая, то для ветеранов войны там делали
             концерты. </speech>
         <speech speaker="andell" speechtype="q">Был буфет? </speech>
-        <speech speaker="alyrzaeva" speechtype="a">Да, буфеты были всегда в кинотеатрах.<hes
+        <speech speaker="alyrzaeva" speechtype="a">Да, буфеты были всегда в <place ref="movieTheater">кинотеатр</place>ах.<hes
                 type="lex"> Ну </hes>вот именно в праздники был буфет всегда. </speech>
         <speech speaker="andell" speechtype="q">Что продавали в буфете? </speech>
         <speech speaker="alyrzaeva" speechtype="a">
             <hes type="nonlex"/> (hums melody, remembering). Чай, кофе, пирожное, мoроженое,
             пирожки. Спиртного не было. Ну, по-моему, пиво было ешё. Ой забыла, но спиртного не было
             крепкого. </speech>
-        <speech speaker="andell" speechtype="q">Были в кинотеатре билетёры? Сколько им обычно было
+        <speech speaker="andell" speechtype="q">Были в <place ref="movieTheater">кинотеатр</place>е билетёры? Сколько им обычно было
             лет? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Билетёры? Да, это были пенсионного возраста люди.
             Уже за шестьдесят лет людям, которые работали там. В основном. Сейчас молодёжь работает,
@@ -293,7 +293,7 @@
                 type="lex"> Ну </hes>в общем-то много. По Тургеневу, по всем<collective><pron
                     type="poss" number="plur">нашим</pron></collective>советским писателям фильмы
             были, очень даже красивые и хорошие фильмы были, интересные. </speech>
-        <speech speaker="andell" speechtype="q">В кинотеатре часто показывали иностранные фильмы? </speech>
+        <speech speaker="andell" speechtype="q">В <place ref="movieTheater">кинотеатр</place>е часто показывали иностранные фильмы? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Да, много раз показывали, всегда показывали. И
             даже в семидесятых годах, вот<pron type="pers" number="sing">я</pron>говорю
                 <nationalCinema ref="frenchCinema">Франция</nationalCinema>, <nationalCinema
@@ -332,7 +332,7 @@
             актёров, уже сейчас не вспомнишь, забывается. То там уже такие, такая лирика, такая
             любовь, что детям смотреть, конечно, нельзя. </speech>
         <speech speaker="andell" speechtype="q">Вам не разрешили ваши родители или администрация
-            кинотеатра? </speech>
+            <place ref="movieTheater">кинотеатр</place>а? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну, когда были<pron type="pers" number="plur"
                 >мы</pron>тогда маленькие, конечно, нас не пускали. И даже не пускали администрация
                 <place ref="club">клуба</place>. “Всё. Ты ребёнок, до свидания, приходи на детский
@@ -359,10 +359,10 @@
                 >наверноe</hes>, Сталин. При Сталине, когда ещё были снимались фильмы. Вроде фильм,
             ничего такого страшного, хороший фильм, прекрасный, но вот запрещали. Есть, есть такие
             фильмы, были. </speech>
-        <speech speaker="andell" speechtype="q">Как вы узнавали о репертуаре кинотеатров? </speech>
+        <speech speaker="andell" speechtype="q">Как вы узнавали о репертуаре <place ref="movieTheater">кинотеатр</place>ов? </speech>
         <speech speaker="alyrzaeva" speechtype="a">А <collective><pron type="poss" number="plur">у
                     нас</pron></collective>, по крайней мере, как раньше были афиши, кругом висели
-            или афиши вокруг кинотеатра, едешь, идешь всегда увидишь. </speech>
+            или афиши вокруг <place ref="movieTheater">кинотеатр</place>а, едешь, идешь всегда увидишь. </speech>
         <speech speaker="andell" speechtype="q">О качестве фильмов? </speech>
         <speech speaker="alyrzaeva" speechtype="a"><hes type="lex">Ну</hes>, фильмы в общем-то, <hes
                 type="lex">наверноe</hes>, в любое время были хорошие, качественные. Самого
@@ -375,8 +375,8 @@
         <speech speaker="andell" speechtype="q">Какие? Какие газеты или журналы? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Какие <hes type="nonlex"/>
             <collective><pron type="poss" number="plur">у нас</pron></collective> специально,
-            по-моему, были програмки такие по кинотеатрам. Как сейчас вот есть журналы по программе
-            телевидения, То по-моему были программы и кинотеатров. Покупаешь, и там на месяц, на
+            по-моему, были програмки такие по <place ref="movieTheater">кинотеатр</place>ам. Как сейчас вот есть журналы по программе
+            телевидения, То по-моему были программы и <place ref="movieTheater">кинотеатр</place>ов. Покупаешь, и там на месяц, на
             неделю, вся программка есть, какие фильмы идут, будут. </speech>
         <speech speaker="andell" speechtype="q">Как реклама кино изменилась с советского времени? </speech>
         <speech speaker="alyrzaeva" speechtype="a"><hes type="lex">Ну</hes>, конечно, она стала
@@ -392,7 +392,7 @@
                 number="sing">моим</pron> сыном. </speech>
         <speech speaker="andell" speechtype="q">Что они смотрели? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ну тоже разные фильмы смотрели,<hes type="lex">
-                ну </hes>вот какие шли в кинотеатрах, таких ходили фильмы. И <genre ref="warFilms"
+                ну </hes>вот какие шли в <place ref="movieTheater">кинотеатр</place>ах, таких ходили фильмы. И <genre ref="warFilms"
                 >военные</genre>, и всякие. </speech>
         <speech speaker="andell" speechtype="q">Они ходили вместе с вами? или друг с другом ходили? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Ходили, вот она ходила чаще всего с внуком, и со
@@ -416,7 +416,7 @@
                 type="lex"> ну </hes>два раза в год ходим в кино. Сын чаще ходит, а<pron type="pers"
                 number="sing">я</pron><hes type="lex"> ну </hes>два раза в год хожу. А так
             телевизор, потому что работа, дом, устанешь и уже куда-то ехать конечно не хочется.
-            Всему свое время, и кинотеатру свое время, и телевизору свое время. </speech>
+            Всему свое время, и <place ref="movieTheater">кинотеатр</place>у свое время, и телевизору свое время. </speech>
         <speech speaker="andell" speechtype="q">Вы знаете, когда звуковые фильмы пришли на экраны? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Звуковые? Ну, <hes type="lex">наверно</hes>,
             где-то начало шестидесятых годов, по-моему так, потому что ещё в шестидесятых годах
@@ -443,15 +443,15 @@
                 <collective>все</collective> знают. Ну, много в общем-то фильмов, вроде как, все
             знаешь, но сразу и не вспомнишь что там, какие фильмы, потому что их там пересмотрено
             миллионы. </speech>
-        <speech speaker="andell" speechtype="q">Как ваши посещения кинотеатров изменились со
+        <speech speaker="andell" speechtype="q">Как ваши посещения <place ref="movieTheater">кинотеатр</place>ов изменились со
             временем? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Но, со временем<pron type="pers" number="sing"
-                >я</pron>лично стала посещать намного реже кинотеатры. <hes type="lex"> Ну
-            </hes>времени не хватает. Здоровья уже такого нет. В хорошие кинотеатры надо ехать.
+                >я</pron>лично стала посещать намного реже <place ref="movieTheater">кинотеатр</place>ы. <hes type="lex"> Ну
+            </hes>времени не хватает. Здоровья уже такого нет. В хорошие <place ref="movieTheater">кинотеатр</place>ы надо ехать.
             Как-то уже лень. </speech>
         <speech speaker="andell" speechtype="q">Что вы думаете об этих изменениях? </speech>
         <speech speaker="alyrzaeva" speechtype="a"><hes type="lex">Ну</hes> что, всё меняется к
-            лучшему. И кинотеатры, конечно, современные. Нp как-то это всё быстро очень идёт, к чему
+            лучшему. И <place ref="movieTheater">кинотеатр</place>ы, конечно, современные. Нp как-то это всё быстро очень идёт, к чему
             всё это приведет, все эти изменения, современные, конечно, это странно. Но просто всё
             это, знаете, вот как ветер дует, всё это меняется. Потому что<pron type="pers"
                 number="plur">мы</pron>уже много лет жили спокойно, спокойно много лет жили, до
@@ -461,11 +461,11 @@
             как-то вот я, например, смотрю и думаю: как-то страшновато вот. Чем дальше идёшь,
             живёшь, тем страшнее становится. </speech>
         <speech speaker="andell" speechtype="q">Вы сейчас ходите в кино? Почему да или почему нет? </speech>
-        <speech speaker="alyrzaeva" speechtype="a">Ой, уже здоровья нет бегать по кинотеатрам,
+        <speech speaker="alyrzaeva" speechtype="a">Ой, уже здоровья нет бегать по <place ref="movieTheater">кинотеатр</place>ам,
             просто. </speech>
         <speech speaker="andell" speechtype="q">Что вы хотели добавить в заключение? </speech>
         <speech speaker="alyrzaeva" speechtype="a">Что добавить, пусть молодёжь ходит по
-            кинотеатрам, живёт счастливо, и здорово. Вот тогда будет всё хорошо, чтобы
+            <place ref="movieTheater">кинотеатр</place>ам, живёт счастливо, и здорово. Вот тогда будет всё хорошо, чтобы
                 <collective>все</collective> были умные. Как-то ум-то есть, но делают не то, что
             положено. А чтобы <collective>все</collective> дружили с своей головой. Чтобы всё было
             тихо и спокойно. </speech>
@@ -476,7 +476,7 @@
             Конечно, у взрослых людей, даже и у молодёжи взять интервью. Что молодежь скажет. Но
             молодёжь сейчас <hes type="nonlex"/> вот они живут в компьютере, больше ничего не знают.
             Ведь читают мало <hes type="nonlex"/> А вообще<pron type="pers" number="sing"
-            >я</pron>как послушаю, многие в кинотеатры даже не ходят! Вот они в компьютере днем и
+            >я</pron>как послушаю, многие в <place ref="movieTheater">кинотеатр</place>ы даже не ходят! Вот они в компьютере днем и
             ночью. А что там интересного? А там и много гадости всякой. И вот почему
                     <collective><pron type="poss" number="plur">у нас</pron></collective>
                 молодежь<hes type="nonlex"/>
