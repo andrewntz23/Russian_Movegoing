@@ -14,38 +14,79 @@
         <svg>
             <g transform="translate(80, 400)">
 
-                <line x1="0" y1="0" x2="500" y2="0" stroke="black" stroke-width="2px"/>
+<!--Below is the x axis-->
+                <line x1="0" y1="0" x2="1000" y2="0" stroke="black" stroke-width="2px"/>
+<!--                the y axis-->
                 <line x1="0" y1="0" x2="0" y2="-200" stroke="black" stroke-width="2px"/>
 
                
                 
                 <rect 
                     x="30"
-                    y= "-{100}"
-                    height= "{100}"
+                    y= "-100"
+                    height= "100"
                     width="70" 
-                    fill="blue"/>
-                
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+
+<!--  Use of pornouns by male interviewees. Weighted by 200              -->
                 <rect 
                     x="30"
                     y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
                     height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
                     width="70" 
-                    fill="yellow"/>
+                    fill="blue"/>
                 
                 <rect 
                     x="200"
-                    y= "-{100}"
-                    height= "{100}"
+                    y= "-100"
+                    height= "100"
                     width="70" 
-                    fill="blue"/>
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
                 
                 <rect 
                     x="200"
                     y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
                     height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
                     width="70" 
-                    fill="yellow"/>
+                    fill="blue"/>
+                
+                
+                <rect 
+                    x="370"
+                    y= "-100"
+                    height= "100"
+                    width="70" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                
+                <rect 
+                    x="370"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
+                    width="70" 
+                    fill="blue"/>
+    
+<!--    Below: Use of plural personal pronouns by gender-->
+                <rect 
+                    x="540"
+                    y= "-100"
+                    height= "100"
+                    width="70" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                
+                <rect 
+                    x="540"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
+                    width="70" 
+                    fill="blue"/>
                 
                 
                 <text
@@ -60,8 +101,8 @@
                     x="30"
                     y="-230" stroke="black" stroke-width="1"
                     >
-                    Blue represent female interviewees and Yellow represents male interviewees.
-                    Interviews are weighed.
+                    Red represents female interviewees and blue represents male interviewees.
+                    Interviews are weighted.
                 </text>
                 
                 <text
@@ -77,6 +118,21 @@
                     >
                     Plural
                 </text>
+                
+                <text
+                    x="370"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Plur, Poss
+                </text>
+                
+                <text
+                    x="540"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Plur, Pers
+                </text>
+                
                 
                 <xsl:for-each select="1 to 10">
                     <xsl:variable name="yPosition" select=". * -10"/>

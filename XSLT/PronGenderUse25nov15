@@ -3,7 +3,7 @@
    <g transform="translate(80, 400)">
       <line x1="0"
             y1="0"
-            x2="500"
+            x2="1000"
             y2="0"
             stroke="black"
             stroke-width="2px"/>
@@ -13,31 +13,73 @@
             y2="-200"
             stroke="black"
             stroke-width="2px"/>
-      <rect x="30" y="-100" height="100" width="70" fill="blue"/>
+      <rect x="30"
+            y="-100"
+            height="100"
+            width="70"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
       <rect x="30"
             y="-38.002436053593179"
             height="38.002436053593179"
             width="70"
-            fill="yellow"/>
-      <rect x="200" y="-100" height="100" width="70" fill="blue"/>
+            fill="blue"/>
+      <rect x="200"
+            y="-100"
+            height="100"
+            width="70"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
       <rect x="200"
             y="-27.7777777777777778"
             height="27.7777777777777778"
             width="70"
-            fill="yellow"/>
+            fill="blue"/>
+      <rect x="370"
+            y="-100"
+            height="100"
+            width="70"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="370"
+            y="-29.1262135922330098"
+            height="29.1262135922330098"
+            width="70"
+            fill="blue"/>
+      <rect x="540"
+            y="-100"
+            height="100"
+            width="70"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="540"
+            y="-26.8456375838926174"
+            height="26.8456375838926174"
+            width="70"
+            fill="blue"/>
       <text x="30" y="-250" stroke="black" stroke-width="1">
                     Use of Pronouns in Interviews by Gender (%)
                     
                 </text>
       <text x="30" y="-230" stroke="black" stroke-width="1">
-                    Blue represent female interviewees and Yellow represents male interviewees.
-                    Interviews are weighed.
+                    Red represents female interviewees and blue represents male interviewees.
+                    Interviews are weighted.
                 </text>
       <text x="30" y="40" stroke="black" stroke-width="1">
                     Total
                 </text>
       <text x="200" y="40" stroke="black" stroke-width="1">
                     Plural
+                </text>
+      <text x="370" y="40" stroke="black" stroke-width="1">
+                    Plur, Poss
+                </text>
+      <text x="540" y="40" stroke="black" stroke-width="1">
+                    Plur, Pers
                 </text>
       <line x1="-3"
             y1="-10"
