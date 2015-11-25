@@ -8,6 +8,7 @@
             <surnameRus>Левенталь</surnameRus>
             <forename>Vadim</forename>
             <gender>m</gender>
+            <viewerAge>postSov</viewerAge>
         </person>
 
         <person xml:id="leventalIrina">
@@ -15,6 +16,7 @@
             <surnameRus>Левенталь</surnameRus>
             <forename>Irina</forename>
             <gender>f</gender>
+            <viewerAge>postSov</viewerAge>
         </person>
 
         <person xml:id="voronin">
@@ -22,6 +24,7 @@
             <surnameRus>Воронин</surnameRus>
             <forename>Mikhail</forename>
             <gender>m</gender>
+            <viewerAge>postSov</viewerAge>
         </person>
 
         <person xml:id="sorkina">
@@ -29,6 +32,7 @@
             <surnameRus>Соркина</surnameRus>
             <forename>Viktoriia</forename>
             <gender>f</gender>
+            <viewerAge>postSov</viewerAge>
         </person>
 
         <person xml:id="pavlov">
@@ -36,6 +40,7 @@
             <surnameRus>Павлов</surnameRus>
             <forename>Aleksei</forename>
             <gender>m</gender>
+            <viewerAge>postSov</viewerAge>
         </person>
 
         <person xml:id="efimova">
@@ -43,6 +48,7 @@
             <surnameRus>Ефимова</surnameRus>
             <forename>Svetlana</forename>
             <gender>f</gender>
+            <viewerAge>sov</viewerAge>
         </person>
 
         <person xml:id="danilenko">
@@ -50,6 +56,7 @@
             <surnameRus>Даниленко</surnameRus>
             <forename>Liudmila</forename>
             <gender>f</gender>
+            <viewerAge>sov</viewerAge>
         </person>
 
         <person xml:id="chistiakova">
@@ -57,6 +64,7 @@
             <surnameRus>Чистякова</surnameRus>
             <forename>Galina</forename>
             <gender>f</gender>
+            <viewerAge>sov</viewerAge>
         </person>
 
         <person xml:id="alyrzaeva">
@@ -64,6 +72,7 @@
             <surnameRus>Алырзаева</surnameRus>
             <forename>Natalia</forename>
             <gender>f</gender>
+            <viewerAge>sov</viewerAge>
         </person>
 
         <person xml:id="faith">

@@ -9,9 +9,10 @@ index = element index {metaPersons, persons, titles, genres_meta, places, nation
 
 #metaPersons
 metaPersons = element metaPersons {metaPerson+}
-metaPerson = element person {surnameEng, surnameRus?, forename, gender, id}
+metaPerson = element person {surnameEng, surnameRus?, forename, gender, viewerAge?,id}
 surnameEng = element surnameEng {text}
 surnameRus = element surnameRus {text}
+viewerAge = element viewerAge {text}
 
 
 #persons
