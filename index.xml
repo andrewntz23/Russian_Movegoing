@@ -776,7 +776,7 @@
         
         <person xml:id="kholodnaia">
             <role>actor</role>
-            <surname>Khalodnaia</surname>
+            <surname>Kholodnaia</surname>
             <forename>Vera</forename>
             <gender>f</gender>
             <nationality>Russian Empire</nationality>
@@ -1102,6 +1102,7 @@
             <country>USA</country>
             <genre>disney</genre>
             <year>1992</year>
+            <imdb>http://www.imdb.com/title/tt0103639/</imdb>
         </title>
 
         <title xml:id="theLittleMermaid">
@@ -1112,6 +1113,7 @@
             <country>USA</country>
             <genre>disney</genre>
             <year>1989</year>
+            <imdb>http://www.imdb.com/title/tt0097757/</imdb>
         </title>
 
         <title xml:id="beautyBeast">
@@ -1122,6 +1124,7 @@
             <country>USA</country>
             <genre>disney</genre>
             <year>1991</year>
+            <imdb>http://www.imdb.com/title/tt0101414/</imdb>  
         </title>
 
         <title xml:id="playingVictim">
@@ -1132,6 +1135,7 @@
             <country>Russia</country>
             <genre>black comedy</genre>
             <year>2006</year>
+            <imdb>http://www.imdb.com/title/tt0820096/</imdb>
         </title>
 
         <title xml:id="straightStory">
@@ -1142,7 +1146,9 @@
             <country>USA</country>
             <genre>drama</genre>
             <year>1999</year>
+            <imdb>http://www.imdb.com/title/tt0166896/</imdb>
         </title>
+        
         <title xml:id="wildHeart">
             <fullTitleEng>Wild at Heart</fullTitleEng>
             <fullTitleRus>Дикие сердцем</fullTitleRus>
@@ -1151,6 +1157,7 @@
             <country>USA</country>
             <genre>crime thriller</genre>
             <year>1990</year>
+            <imdb>http://www.imdb.com/title/tt0100935/</imdb>
         </title>
 
         <title xml:id="melancholy">
@@ -1161,6 +1168,7 @@
             <country>Denmark</country>
             <genre>artistic</genre>
             <year>2011</year>
+            <imdb>http://www.imdb.com/title/tt1527186/</imdb>
         </title>
 
         <title xml:id="moodForLove">
@@ -1171,6 +1179,7 @@
             <country>China</country>
             <genre>artistic</genre>
             <year>2000</year>
+            <imdb>http://www.imdb.com/title/tt0118694/</imdb>
         </title>
 
         <title xml:id="mavericks">
@@ -1181,6 +1190,7 @@
             <country>USA</country>
             <genre>drama</genre>
             <year>2012</year>
+            <imdb>http://www.imdb.com/title/tt1629757/</imdb>
         </title>
 
         <title xml:id="piratesCaribbean">
@@ -1191,7 +1201,9 @@
             <country>USA</country>
             <genre>fantasy</genre>
             <year>2006</year>
+            <imdb>http://www.imdb.com/title/tt0383574/</imdb>
         </title>
+        
         <title xml:id="aceVentura">
             <fullTitleEng>Ace Ventura: Pet Detective</fullTitleEng>
             <fullTitleRus>Эйс Вентура: Розыск домашних животных</fullTitleRus>
@@ -1200,6 +1212,7 @@
             <country>USA</country>
             <genre>comedy</genre>
             <year>1994</year>
+            <imdb>http://www.imdb.com/title/tt0109040/</imdb>
         </title>
 
         <title xml:id="godfather">
@@ -1210,6 +1223,7 @@
             <country>USA</country>
             <genre>crime drama</genre>
             <year>1972</year>
+            <imdb>http://www.imdb.com/title/tt0068646/</imdb>
         </title>
 
         <title xml:id="brigade">
@@ -1220,6 +1234,7 @@
             <country>Russia</country>
             <genre>crime drama</genre>
             <year>2002</year>
+            <imdb>http://www.imdb.com/title/tt0337898/</imdb>
         </title>
 
 
@@ -1231,6 +1246,7 @@
             <country>Russia</country>
             <genre>crime drama</genre>
             <year>1997</year>
+            <imdb>http://www.imdb.com/title/tt0118767/</imdb>
         </title>
 
         <title xml:id="brother2">
@@ -1241,6 +1257,7 @@
             <country>Russia</country>
             <genre>crime drama</genre>
             <year>2000</year>
+            <imdb>http://www.imdb.com/title/tt0238883/</imdb>
         </title>
 
         <title xml:id="lifeIsBeautiful">
@@ -1251,6 +1268,7 @@
             <country>Italy</country>
             <genre>drama</genre>
             <year>1997</year>
+            <imdb>http://www.imdb.com/title/tt0118799/</imdb>
         </title>
 
         <title xml:id="mask">
@@ -1261,6 +1279,7 @@
             <country>USA</country>
             <genre>comedy</genre>
             <year>1994</year>
+            <imdb>http://www.imdb.com/title/tt0110475/</imdb>
         </title>
 
         <title xml:id="ironman3">
@@ -1271,6 +1290,7 @@
             <country>USA</country>
             <genre>superhero</genre>
             <year>2013</year>
+            <imdb>http://www.imdb.com/title/tt1300854/</imdb>
         </title>
 
         <title xml:id="firstYearStudent">
@@ -1281,6 +1301,7 @@
             <country>USSR</country>
             <genre>children's</genre>
             <year>1948</year>
+            <imdb>http://www.imdb.com/title/tt0040689/</imdb>
         </title>
 
         <title xml:id="romanHoliday">
@@ -1291,6 +1312,7 @@
             <country>USA</country>
             <genre>romantic comedy</genre>
             <year>1953</year>
+            <imdb>http://www.imdb.com/title/tt0046250/</imdb>
         </title>
 
         <title xml:id="goneWithTheWind">
@@ -1301,6 +1323,7 @@
             <country>USA</country>
             <genre>melodrama</genre>
             <year>1953</year>
+            <imdb>http://www.imdb.com/title/tt0031381/</imdb>
         </title>
 
         <title xml:id="moscowDoesNotBelieveInTears">
@@ -1311,6 +1334,7 @@
             <country>USSR</country>
             <genre>melodrama</genre>
             <year>1979</year>
+            <imdb>http://www.imdb.com/title/tt0079579/</imdb>
         </title>
 
 
@@ -1322,6 +1346,7 @@
             <country>USSR</country>
             <genre>fairy tale</genre>
             <year>1939</year>
+            <imdb>http://www.imdb.com/title/tt0167474/</imdb>
         </title>
 
 
@@ -1333,6 +1358,7 @@
             <country>USSR</country>
             <genre>art cinema</genre>
             <year>1969</year>
+            <imdb>http://www.imdb.com/title/tt0063555/</imdb>
         </title>
 
         <title xml:id="theIsland">
@@ -1343,6 +1369,7 @@
             <country>Russia</country>
             <genre>drama</genre>
             <year>2006</year>
+            <imdb>http://www.imdb.com/title/tt0851577/</imdb>
         </title>
 
         <title xml:id="theAdmiral">
@@ -1353,6 +1380,7 @@
             <country>Russia</country>
             <genre>melodrama</genre>
             <year>2008</year>
+            <imdb>http://www.imdb.com/title/tt1101026/</imdb>
         </title>
 
         <title xml:id="burntBySun2">
@@ -1363,6 +1391,7 @@
             <country>Russia</country>
             <genre>war epic</genre>
             <year>2010</year>
+            <imdb>http://www.imdb.com/title/tt1912518/</imdb>
         </title>
 
         <title xml:id="ironyOfFate">
@@ -1373,6 +1402,7 @@
             <country>USSR</country>
             <genre>romantic comedy</genre>
             <year>1976</year>
+            <imdb>http://www.imdb.com/title/tt0073179/</imdb>
         </title>
 
         <title xml:id="piratesOfTheTwentiethCentury">
@@ -1383,6 +1413,7 @@
             <country>USSR</country>
             <genre>action</genre>
             <year>1979</year>
+            <imdb>http://www.imdb.com/title/tt0151987/</imdb>
         </title>
 
         <title xml:id="tenLittleIndians">
@@ -1393,6 +1424,7 @@
             <country>USSR</country>
             <genre>murder mystery</genre>
             <year>1987</year>
+            <imdb>http://www.imdb.com/title/tt0092879/</imdb>
         </title>
 
         <title xml:id="coldSummer">
@@ -1403,16 +1435,18 @@
             <country>USSR</country>
             <genre>drama</genre>
             <year>1988</year>
+            <imdb>http://www.imdb.com/title/tt0095441/</imdb>
         </title>
 
         <title xml:id="nineAndHalfWeeks">
-            <fullTitleEng>9 1/2 Weeks</fullTitleEng>
+            <fullTitleEng>Nine 1/2 Weeks</fullTitleEng>
             <fullTitleRus>Девять с половиной недель</fullTitleRus>
             <director>Adrian Lyne</director>
             <medium>film</medium>
             <country>USA</country>
             <genre>erotic</genre>
             <year>1986</year>
+            <imdb>http://www.imdb.com/title/tt0091635/</imdb>
         </title>
 
         <title xml:id="windowOnParis">
@@ -1423,6 +1457,7 @@
             <country>Russia</country>
             <genre>comedy</genre>
             <year>1993</year>
+            <imdb>http://www.imdb.com/title/tt0110719/</imdb>
         </title>
 
         <title xml:id="savageHuntKingStakh">
@@ -1433,6 +1468,7 @@
             <country>USSR</country>
             <genre>thriller</genre>
             <year>1979</year>
+            <imdb>http://www.imdb.com/title/tt0128164/</imdb>
         </title>
 
         <title xml:id="pinkCloud">
@@ -1443,6 +1479,7 @@
             <country>China</country>
             <genre>erotic</genre>
             <year>2005</year>
+            <imdb>http://www.imdb.com/title/tt0445760/</imdb>
         </title>
 
         <title xml:id="transformers">
@@ -1453,6 +1490,7 @@
             <country>USA</country>
             <genre>science fiction</genre>
             <year>2007</year>
+            <imdb>http://www.imdb.com/title/tt0418279/</imdb>
         </title>
 
         <title xml:id="worldWarZ">
@@ -1463,6 +1501,7 @@
             <country>USA</country>
             <genre>action thriller</genre>
             <year>2013</year>
+            <imdb>http://www.imdb.com/title/tt0816711/</imdb>
         </title>
 
         <title xml:id="hobbit">
@@ -1473,6 +1512,7 @@
             <country>USA</country>
             <genre>fantasy</genre>
             <year>2012</year>
+            <imdb>http://www.imdb.com/title/tt0903624/</imdb>
         </title>
 
         <title xml:id="lifeOfAdele">
@@ -1483,6 +1523,7 @@
             <country>France</country>
             <genre>drama</genre>
             <year>2013</year>
+            <imdb>http://www.imdb.com/title/tt2278871/</imdb>
         </title>
 
         <title xml:id="inTheAnimalWorld">
@@ -1493,6 +1534,7 @@
             <country>USSR</country>
             <genre>TV show</genre>
             <year>1968</year>
+            <imdb></imdb>
         </title>
 
 
@@ -1504,6 +1546,7 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1968</year>
+            <imdb>http://www.imdb.com/title/tt0062759/</imdb>
         </title>
 
         <title xml:id="elusiveAvengers">
@@ -1514,6 +1557,7 @@
             <country>USSR</country>
             <genre>adventure</genre>
             <year>1966</year>
+            <imdb>http://www.imdb.com/title/tt0060747/</imdb>
         </title>
 
         <title xml:id="swanLake">
@@ -1523,7 +1567,8 @@
             <medium>film</medium>
             <country>USSR</country>
             <genre>film-ballet</genre>
-            <year>1968</year>
+            <year>1958</year>
+            <imdb>http://www.imdb.com/title/tt0165855/</imdb>
         </title>
 
         <title xml:id="womanWhoSings">
@@ -1534,6 +1579,7 @@
             <country>USSR</country>
             <genre>musical</genre>
             <year>1979</year>
+            <imdb>http://www.imdb.com/title/tt0169403/</imdb>
         </title>
 
         <title xml:id="troy">
@@ -1544,6 +1590,7 @@
             <country>USA</country>
             <genre>epic</genre>
             <year>2004</year>
+            <imdb>http://www.imdb.com/title/tt0332452/</imdb>
         </title>
 
         <title xml:id="spartacus">
@@ -1554,6 +1601,7 @@
             <country>USA</country>
             <genre>epic</genre>
             <year>1960</year>
+            <imdb>http://www.imdb.com/title/tt0054331/</imdb>
         </title>
 
         <title xml:id="alexander">
@@ -1564,6 +1612,7 @@
             <country>USA</country>
             <genre>epic</genre>
             <year>2004</year>
+            <imdb>http://www.imdb.com/title/tt0346491/</imdb>
         </title>
 
 
@@ -1575,6 +1624,7 @@
             <country>Britain</country>
             <genre>adaptation</genre>
             <year>1983</year>
+            <imdb>http://www.imdb.com/title/tt0085037/</imdb>
         </title>
 
         <title xml:id="dumbAndDumber">
@@ -1585,6 +1635,7 @@
             <country>USA</country>
             <genre>comedy</genre>
             <year>1994</year>
+            <imdb>http://www.imdb.com/title/tt0109686/</imdb>
         </title>
 
         <title xml:id="pi">
@@ -1595,6 +1646,7 @@
             <country>USA</country>
             <genre>thriller</genre>
             <year>1998</year>
+            <imdb>http://www.imdb.com/title/tt0138704/</imdb>
         </title>
 
         <title xml:id="spokNochi">
@@ -1605,6 +1657,7 @@
             <country>USSR</country>
             <genre>TV show</genre>
             <year>1998</year>
+            <imdb>http://www.imdb.com/title/tt3994982/</imdb>
         </title>
 
         <title xml:id="childrenOfCaptainGrant">
@@ -1615,6 +1668,7 @@
             <country>USSR</country>
             <genre>adventure</genre>
             <year>1936</year>
+            <imdb>http://www.imdb.com/title/tt0027516/</imdb>
         </title>
 
         <title xml:id="unclеBoonmee">
@@ -1625,6 +1679,7 @@
             <country>Thailand</country>
             <genre>art cinema</genre>
             <year>2010</year>
+            <imdb>http://www.imdb.com/title/tt1588895/</imdb>
         </title>
 
         <title xml:id="ivanVasilevichChangesJobs">
@@ -1635,6 +1690,7 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1973</year>
+            <imdb>http://www.imdb.com/title/tt0070233/</imdb>
         </title>
 
         <title xml:id="warAndPeace">
@@ -1645,6 +1701,7 @@
             <country>USSR</country>
             <genre>epic</genre>
             <year>1967</year>
+            <imdb>http://www.imdb.com/title/tt0062456/</imdb>
         </title>
 
         <title xml:id="juno">
@@ -1655,6 +1712,7 @@
             <country>Canada/USA</country>
             <genre>comedy</genre>
             <year>2007</year>
+            <imdb>http://www.imdb.com/title/tt0467406/</imdb>
         </title>
 
         <title xml:id="rockyBullwinkle">
@@ -1665,6 +1723,7 @@
             <country>USA</country>
             <genre>cartoon</genre>
             <year>1960</year>
+            <imdb>http://www.imdb.com/title/tt0054524/</imdb>
         </title>
         
         <title xml:id="irreversible">
@@ -1675,6 +1734,7 @@
             <country>France</country>
             <genre>thriller</genre>
             <year>2002</year>
+            <imdb>http://www.imdb.com/title/tt0290673/</imdb>
         </title>
         
         <title xml:id="youngGuard">
@@ -1685,6 +1745,7 @@
             <country>USSR</country>
             <genre>war film</genre>
             <year>1948</year>
+            <imdb>http://www.imdb.com/title/tt0040601/</imdb>
         </title>
         
           <title xml:id="seventeenMoments">
@@ -1695,6 +1756,7 @@
             <country>USSR</country>
             <genre>spy thriller</genre>
             <year>1973</year>
+            <imdb>http://www.imdb.com/title/tt0069628/</imdb>
         </title>
         
         
@@ -1706,6 +1768,7 @@
             <country>USSR</country>
             <genre>skazka</genre>
             <year>1964</year>
+              <imdb>http://www.imdb.com/title/tt0058374/</imdb>
         </title>
         
            <title xml:id="ivanBrovkin">
@@ -1716,6 +1779,7 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1959</year>
+               <imdb>http://www.imdb.com/title/tt0051789/</imdb>
         </title>
         
         <title xml:id="chapaev">
@@ -1726,6 +1790,7 @@
             <country>USSR</country>
             <genre>biopic</genre>
             <year>1934</year>
+            <imdb>http://www.imdb.com/title/tt0024966/</imdb>
         </title>
         
         <title xml:id="cinderella">
@@ -1736,6 +1801,7 @@
             <country>USSR</country>
             <genre>skazka</genre>
             <year>1947</year>
+            <imdb>http://www.imdb.com/title/tt0168269/</imdb>
         </title>
         
         <title xml:id="greatWaltz">
@@ -1746,6 +1812,7 @@
             <country>USA</country>
             <genre>biopic</genre>
             <year>1938</year>
+            <imdb>http://www.imdb.com/title/tt0030202/</imdb>
         </title>
         
         <title xml:id="jorgenDay">
@@ -1756,6 +1823,7 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1930</year>
+            <imdb>http://www.imdb.com/title/tt0021268/</imdb>
         </title>
         
         <title xml:id="warAndPeaceAm">
@@ -1766,6 +1834,7 @@
             <country>USA</country>
             <genre>adaptation</genre>
             <year>1956</year>
+            <imdb>http://www.imdb.com/title/tt0049934/</imdb>
         </title>
         
         <title xml:id="admiralUshakov">
@@ -1776,6 +1845,7 @@
             <country>USSR</country>
             <genre>biopic</genre>
             <year>1953</year>
+            <imdb>http://www.imdb.com/title/tt0045473/</imdb>
         </title>
         
         <title xml:id="gladiator">
@@ -1786,6 +1856,7 @@
             <country>USA</country>
             <genre>epic</genre>
             <year>2000</year>
+            <imdb>http://www.imdb.com/title/tt0172495/</imdb>
         </title>
         
         <title xml:id="mumu">
@@ -1796,6 +1867,7 @@
             <country>Russia</country>
             <genre>adaptation</genre>
             <year>1998</year>
+            <imdb>http://www.imdb.com/title/tt0129243/</imdb>
         </title>   
         
         <title xml:id="iceAge">
@@ -1806,6 +1878,7 @@
             <country>USA</country>
             <genre>cartoon</genre>
             <year>2002</year>
+            <imdb>http://www.imdb.com/title/tt0268380/</imdb>
         </title>  
         
         <title xml:id="whiteSun">
@@ -1816,6 +1889,7 @@
             <country>USSR</country>
             <genre>western</genre>
             <year>1970</year>
+            <imdb>http://www.imdb.com/title/tt0066565/</imdb>
         </title>
         
         <title xml:id="ladyWithDog">
@@ -1826,6 +1900,7 @@
             <country>USSR</country>
             <genre>melodrama</genre>
             <year>1960</year>
+            <imdb>http://www.imdb.com/title/tt0053746/</imdb>
         </title>
         
         <title xml:id="threeMusketeers">
@@ -1836,6 +1911,7 @@
             <country>France</country>
             <genre>adaptation</genre>
             <year>1953</year>
+            <imdb>http://www.imdb.com/title/tt0046461/</imdb>
         </title>
         
         <title xml:id="tearsOfBlood">
@@ -1846,6 +1922,7 @@
             <country>Germany/France</country>
             <genre>melodrama</genre>
             <year>1972</year>
+            <imdb>http://www.imdb.com/title/tt0069441/</imdb>
         </title>
         
         <title xml:id="fantomas">
@@ -1856,6 +1933,7 @@
             <country>France</country>
             <genre>crime thriller / comedy</genre>
             <year>1964</year>
+            <imdb>http://www.imdb.com/title/tt0058089/</imdb>
         </title>
         
         <title xml:id="podranki">
@@ -1866,6 +1944,7 @@
             <country>USSR</country>
             <genre>drama</genre>
             <year>1977</year>
+            <imdb>http://www.imdb.com/title/tt0075079/</imdb>
         </title>
         
         <title xml:id="lifeTearsLove">
@@ -1876,6 +1955,7 @@
             <country>USSR</country>
             <genre>drama</genre>
             <year>1973</year>
+            <imdb>http://www.imdb.com/title/tt0167204/</imdb>
         </title>
         
         <title xml:id="vacationers">
@@ -1886,6 +1966,7 @@
             <country>USSR</country>
             <genre>romantic comedy</genre>
             <year>1980</year>
+            <imdb>http://www.imdb.com/title/tt0080939/</imdb>
         </title>
         
         <title xml:id="flight">
@@ -1896,16 +1977,19 @@
             <country>USSR</country>
             <genre>adaptation</genre>
             <year>1970</year>
+            <imdb>http://www.imdb.com/title/tt0065457/</imdb>
         </title>
         
         <title xml:id="onceUponTime">
-            <fullTitleEng>Once Upon a Time in America </fullTitleEng>
+            <fullTitleEng>Once Upon a Time in America</fullTitleEng>
             <fullTitleRus>Однажды в Америке</fullTitleRus>
             <director>Sergio Leone</director>
             <medium>film</medium>
             <country>USA</country>
             <genre>crime drama</genre>
             <year>1984</year>
+            <imdb>http://www.imdb.com/title/tt0087843/</imdb>
+            
         </title>
         
         <title xml:id="oneFlewCuckoo">
@@ -1916,6 +2000,7 @@
             <country>USA</country>
             <genre>drama</genre>
             <year>1975</year>
+            <imdb>http://www.imdb.com/title/tt0073486/</imdb>
         </title>
         
         <title xml:id="gentelmenFortune">
@@ -1926,6 +2011,7 @@
             <country>USSR</country>
             <genre>comedy</genre>
             <year>1971</year>
+            <imdb>http://www.imdb.com/title/tt0068519/</imdb>
         </title>
         
         <title xml:id="nuPogodi">
@@ -1936,6 +2022,7 @@
             <country>USSR </country>
             <genre>cartoon series</genre>
             <year>1969</year>
+            <imdb>http://www.imdb.com/title/tt0234355/</imdb>
         </title>
         
         <title xml:id="mimino">
@@ -1946,6 +2033,7 @@
             <country>USSR </country>
             <genre>comedy</genre>
             <year>1977</year>
+            <imdb>http://www.imdb.com/title/tt0076391/</imdb>
         </title>
         
         <title xml:id="casablanca">
@@ -1956,6 +2044,7 @@
             <country>USA </country>
             <genre>melodrama</genre>
             <year>1942</year>
+            <imdb>http://www.imdb.com/title/tt0034583/</imdb>
         </title>
         
         <title xml:id="annaKarenina">
@@ -1966,16 +2055,18 @@
             <country>Russia </country>
             <genre>melodrama</genre>
             <year>2009</year>
+            <imdb>http://www.imdb.com/title/tt0403726/</imdb>
         </title>
         
         <title xml:id="copperMountMistress">
             <fullTitleEng>Mistress of the Copper Mountain</fullTitleEng>
             <fullTitleRus>Хозяйка медной горы</fullTitleRus>
-            <director>O. Nikolaevskii</director>
+            <director>Alexander Ptushko</director>
             <medium>film</medium>
             <country>USSR </country>
-            <genre>cartoon</genre>
-            <year>1975</year>
+            <genre>skazka</genre>
+            <year>1946</year>
+            <imdb>http://www.imdb.com/title/tt0038666/</imdb>
         </title>
   
     </titles>
