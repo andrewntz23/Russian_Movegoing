@@ -156,6 +156,12 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
+    <xsl:template match="place">
+        <span class="place">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 
 
 
