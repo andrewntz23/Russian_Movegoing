@@ -1135,7 +1135,7 @@
             <country>USA</country>
             <genre>crime</genre>
             <year>1995</year>
-            <imdb></imdb>
+            <imdb>http://www.imdb.com/title/tt0113277/</imdb>
         </title>
 
         <title xml:id="playingVictim">
