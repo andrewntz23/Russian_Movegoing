@@ -30,13 +30,11 @@
 
 
 		<speech speaker="faith" speechtype="q"> Сегодня двадцать восьмоe июля 2012ого года. Мы
-			находимся в <place ref="stPetersburg">Санкт-Петербурге</place>, в <place ref="russia"
-				>России</place>. Меня зовут Рейчел. Moй коллега Андрю и<pron type="pers"
-				number="sing"> я </pron>берём интервью у Ирины Валерьевны Левенталь. Мы берём у вас
+			находимся в Санкт-Петербурге, в России. Меня зовут Рейчел. Moй коллега Андрю и я берём интервью у Ирины Валерьевны Левенталь. Мы берём у вас
 			интервью для кинопроекта, который изучает общественную, политическую, и культурную
 			историю России через фильмы. Мы хотели бы, чтобы вы рассказали нам о ваших воспоминаниях
 			о посещении кино. На основании обсудить детали. Ваших ответов мы напишем эссе, в котором
-			мы проанализируем результаты опроса и напишем о посещении <place ref="movieTheater">кинотеатр</place>ов в России. Цель
+			мы проанализируем результаты опроса и напишем о посещении кинотеатров в России. Цель
 			этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в их
 			жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
 			помощь нам. Это интервью будет доступно для прослушивания на интернет-сайте
@@ -76,10 +74,10 @@
 			<hes type="lex">наверно</hes> не смогу сказать точно, когда это первый раз, но <hes
 				type="nonlex"/>
 			<pron type="poss" number="sing">мои</pron> воспоминания конечно из детства. В детстве
-				<hes type="nonlex"/><pron type="pers" number="sing">я</pron>думаю, что <pron
-				type="pers" number="sing">я</pron>думаю что<pron type="pers" number="sing"> я
-			</pron>еще не училась в школе.<pron type="pers" number="sing"> Я </pron>думаю, что <pron
-				type="pers" number="sing">я</pron>ходила детский сад и <hes type="lex">наверно</hes>
+				<hes type="nonlex"/><pron type="pers" number="sing">я</pron> думаю, что <pron
+				type="pers" number="sing">я</pron> думаю что<pron type="pers" number="sing">я
+			</pron> еще не училась в школе. <pron type="pers" number="sing">Я</pron> думаю, что <pron
+				type="pers" number="sing">я</pron> ходила детский сад и <hes type="lex">наверно</hes>
 			мне было лет пять. Может быть и раньше. Не помню. <pron type="pers" number="sing"
 				>Я</pron> помню пять лет, <hes type="lex">наверно</hes>. </speech>
 		<speech speaker="faith" speechtype="q"> Какие фильмы вы посмотрели? </speech>
@@ -89,7 +87,7 @@
 				Союзе</place> очень часто экранизировали разные сказки. В том числе русские сказки.
 			И это была сказка которая называлась. <pron type="pers" number="sing">Я</pron> не помню
 			точно. <title ref="copperMountMistress">Хозяйка медной горы</title>. Да, эта был <genre
-				ref="skazka">фильм-сказка</genre>, да, такое кино для детей, <epit ref="childrens"
+				ref="skazka">фильм-сказка</genre>, да , такое кино для детей, <epit ref="childrens"
 				>детский</epit> конечно. </speech>
 		<speech speaker="faith" speechtype="q"> С кем вы ходили в кино? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> С мамой - тогда? Первый раз? </speech>
@@ -102,12 +100,11 @@
 			сколько стоил билет. То есть, это, это <hes type="nonlex"/> если мне было лет пять,
 			тогда это был 1987ой, 1988ой год, да, тогда ещё был <place ref="sovietUnion">Советский
 				Союз</place>, и эти цены, конечно, <pron type="pers" number="sing">я</pron> не знаю,
-			какие это были цены.<hes type="lex"> Ну</hes>копейки или рубли, не знаю. </speech>
+			какие это были цены.<hes type="lex"> Ну</hes> копейки или рубли, не знаю. </speech>
 		<speech speaker="faith" speechtype="q"> Ладно. Как назывался <place ref="movieTheater">кинотеатр</place>? </speech>
 		<speech speaker="leventalIrina" speechtype="a">
 			<place ref="kinoteatrRodina">Родина</place>. </speech>
-		<speech speaker="faith" speechtype="q"> Опишите <place ref="kinoteatrRodina"
-				>Кинотеатр</place>. </speech>
+		<speech speaker="faith" speechtype="q"> Опишите Кинотеатр. </speech>
 		<speech speaker="leventalIrina" speechtype="a">
 			<place ref="kinoteatrRodina">Родина</place>. А это <epit ref="kinoteatrRodina">такой
 				типовой</epit>
@@ -131,7 +128,7 @@
 		<speech speaker="faith" speechtype="q"> Вы ходили пешком, или ездили? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Пешком. Пешком, это маленький город. Там,
 			конечно, есть автобусы, но там везде можно ходить пешком, да. </speech>
-		<speech speaker="faith" speechtype="q"> Сравните эти кинотеарты. </speech>
+		<speech speaker="faith" speechtype="q"> Сравните эти кинотеатры. </speech>
 		<speech speaker="leventalIrina" speechtype="a">
 			<hes type="lex">Ну</hes> там был один, да?. Поэтому, <pron type="pers" number="sing"
 				>я</pron> в детстве ходила только в этот <place ref="movieTheater">кинотеатр</place>. Поэтому, <pron type="pers"
@@ -139,7 +136,7 @@
 		<speech speaker="faith" speechtype="q"> Что вы чувствовали когда вы ходили в <place ref="movieTheater">кинотеатр</place>? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Что <pron type="pers" number="sing">я</pron>
 			чувствовала? Мне было очень интересно.<pron type="pers" number="sing"> Я </pron>любила
-			ходить в кино, конечно.<hes type="lex">Ну</hes>это было событие, это было большое
+			ходить в кино, конечно.<hes type="lex">Ну</hes> это было событие, это было большое
 			событие для ребёнка, конечно. Когда <pron type="pers" number="sing">я</pron> была
 			маленькая, мне нравилось. Это было большое событие. Необычно <hes type="nonlex"/> Точные
 			чувства <pron type="pers" number="sing">я</pron> не могу вспомнить. Мне ещё очень
@@ -201,7 +198,7 @@
 				number="plur">у нас</pron> были каникулы, когда <pron type="pers" number="plur"
 				>мы</pron> были свободны, летом, да да тогда <pron type="pers" number="plur"
 				>мы</pron> ходили. Тогда это было нормально. Зимой, зимой <pron type="pers"
-				number="plur">мы</pron> дома сиде <hes type="nonlex"/> дома были. </speech>
+				number="plur">мы</pron> дома сидели <hes type="nonlex"/> дома были. </speech>
 		<speech speaker="faith" speechtype="q"> Как посещение кино изменилось, когда вы выросли,
 			закончили школу, вышли замуж? </speech>
 
@@ -218,23 +215,20 @@
 				number="plur">мы</pron> приходили и весь зрительный зал <pron type="poss"
 				number="plur">наш</pron>, можно даже было бегать. И играть и так далее. <pron
 				type="pers" number="plur">Мы</pron> были одни. В девяностые годы был кризис
-			<place ref="movieTheater">кинотеатр</place>ов, и в <place ref="movieTheater">кинотеатр</place>ы почти никто не ходил, <place ref="movieTheater">кинотеатр</place>ы закрывались. А потом <hes
+			<place ref="movieTheater">кинотеатров</place>, и в <place ref="movieTheater">кинотеатры</place> почти никто не ходил, <place ref="movieTheater">кинотеатр</place>ы закрывались. А потом <hes
 				type="nonlex"/> в конце девяностых годов, в начале двухтысячных годов снова стали
-			открываться <place ref="movieTheater">кинотеатр</place>ы. И это были <place ref="movieTheater">кинотеатр</place>ы уже немного другого типа; такого
+			открываться <place ref="movieTheater">кинотеатры</place>. И это были <place ref="movieTheater">кинотеатр</place>ы уже немного другого типа; такого
 			международного, современные, удобные, красивые, да? И так далее. И в <place
 				ref="stPetersburg">Петербурге</place> тоже, да, в конце девяностых, в начале
-			двухтысячных да, стали открываться новые <place ref="movieTheater">кинотеатр</place>ы, которые сейчас все работают. Люди
+			двухтысячных да, стали открываться новые <place ref="movieTheater">кинотеатры</place>, которые сейчас все работают. Люди
 			стали ходить в кино, больше больше больше, больше, много, много, и сейчас
-				<collective>люди</collective> ходят в кино.<hes type="lex">Ну</hes>вот. Вот. Но как
+				<collective>люди</collective> ходят в кино.<hes type="lex">Ну</hes> вот. Вот. Но как
 			изменилось? <hes type="nonlex"/> Я, честно говоря <hes type="nonlex"/> всё изменилось.
-			Всё изменилось, всё изменилось. Фильмы, которые показывают сейчас в <place ref="movieTheater">кинотеатр</place>ах, да?
-				<hes type="nonlex"/> В популярных <place ref="movieTheater">кинотеатр</place>ах, это в основном <hes type="nonlex"/>
+			Всё изменилось, всё изменилось. Фильмы, которые показывают сейчас в <place ref="movieTheater">кинотеатрах</place>, да?
+				<hes type="nonlex"/> В популярных <place ref="movieTheater">кинотеатрах</place>, это в основном <hes type="nonlex"/>
 			кассовое, массовое, такое популярное коммерческое кино, которое смотрят во всем мире,
-			да? Люди, смотрят. В основном, <nationalCinema ref="americanCinema"
-				>американское</nationalCinema>, конечно,кино, которое смотрят во всём мире. Люди
-			смотрят, в основном, эти фильмы.<hes type="lex">Ну</hes>да, Во-вторых <hes type="nonlex"
-			/> Ну, во-вторых, сейчас в большом городе, в <place ref="stPetersburg"
-				>Петербурге</place>, например, это обычное дело ходить в кино. Да, то же самое что
+			да? Люди, смотрят. В основном, <nationalCinema ref="americanCinema">американское</nationalCinema>, конечно,кино, которое смотрят во всём мире. Люди
+			смотрят, в основном, эти фильмы.<hes type="lex">Ну</hes> да, Во-вторых <hes type="nonlex"/> Ну, во-вторых, сейчас в большом городе, в <place ref="stPetersburg">Петербурге</place>, например, это обычное дело ходить в кино. Да, то же самое что
 			ходить пить кофе, люди ходят в кино. </speech>
 		<speech speaker="faith" speechtype="q"> Какие были ваши самые любимые жанры в детстве? И
 			какие были ваши самые любимые жанры, когда вы были студенткой? </speech>
@@ -374,15 +368,14 @@
 				type="pers" number="sing"> Я </pron>училась на <hes type="nonlex"/><pron type="pers"
 				number="sing"> я </pron>думаю, это был 2002-ой год, <pron type="pers" number="sing"
 				>я</pron> училась на первом курсе в университете, и <pron type="pers" number="plur"
-				>мы</pron> с друзьями друзьями пошли в <place ref="movieTheater">кинотеатр</place> на Петроградской стороне, в <place
-				ref="kinoteatrMirazh"><place ref="movieTheater">кинотеатр</place> Мираж</place>, такой современный. Один из первых
+				>мы</pron> с друзьями друзьями пошли в <place ref="movieTheater">кинотеатр</place> на Петроградской стороне, в <place ref="movieTheater">кинотеатр</place> Мираж, такой современный. Один из первых
 			современных <place ref="movieTheater">кинотеатр</place>ов, который открылся в <place ref="stPetersburg"
 			>Петербурге</place>. И <pron type="pers" number="plur">мы</pron> пошли смотреть фильм
 			мне <title ref="irreversible">Необратимость</title>. Это фильм французский режисер,
 				<person ref="noe">Гаспар Ноэ</person>, знаете? <person ref="noe">Гаспар
 			Ноэ</person>, у него есть фильм <title ref="irreversible">Необратимость</title>. Там
 			играет <person ref="bellucci">Моника Белуччи</person> и <person ref="cassel">Вeнсен
-				Кассель</person>, как-то так.<hes type="lex">Ну</hes>вот. Очень тяжелый фильм,
+				Кассель</person>, как-то так.<hes type="lex">Ну</hes> вот. Очень тяжелый фильм,
 			ужасно тяжелый фильм. Там <hes type="nonlex"/> ах.. там. Но,<pron type="pers"
 				number="sing"> я </pron>не знаю почему но, вот этот поход, этот визит в кино, <pron
 				type="pers" number="sing">я</pron> помню до сих пор, вот еще сейчас, да? Вот фильм
@@ -748,7 +741,7 @@
 			какой-нибудь закрытый показ, <pron type="pers" number="sing">я</pron> не знаю. Но, этот
 			фильм <pron type="pers" number="sing">я </pron> смотрела дома уже, дома <pron
 				type="pers" number="plur">мы</pron> его искали, нашли и он, и он не вышел. Но это не
-			так давно было, то есть я,<pron type="pers" number="plur">мы</pron>не знали. </speech>
+			так давно было, то есть я, <pron type="pers" number="plur">мы</pron> не знали. </speech>
 
 	</body>
 </interview>
