@@ -19,121 +19,7 @@
 <!--                the y axis-->
                 <line x1="0" y1="0" x2="0" y2="-200" stroke="black" stroke-width="2px"/>
 
-               
-                
-                <rect 
-                    x="30"
-                    y= "-100"
-                    height= "100"
-                    width="70" 
-                    fill="red"
-                    stroke="black"
-                    stroke-width="1"/>
-
-<!--  Use of pornouns by male interviewees. Weighted by 200              -->
-                <rect 
-                    x="30"
-                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
-                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
-                    width="70" 
-                    fill="blue"/>
-                
-                <rect 
-                    x="200"
-                    y= "-100"
-                    height= "100"
-                    width="70" 
-                    fill="red"
-                    stroke="black"
-                    stroke-width="1"/>
-                
-                <rect 
-                    x="200"
-                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
-                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
-                    width="70" 
-                    fill="blue"/>
-                
-                
-                <rect 
-                    x="370"
-                    y= "-100"
-                    height= "100"
-                    width="70" 
-                    fill="red"
-                    stroke="black"
-                    stroke-width="1"/>
-                
-                <rect 
-                    x="370"
-                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
-                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
-                    width="70" 
-                    fill="blue"/>
-    
-<!--    Below: Use of plural personal pronouns by gender-->
-                <rect 
-                    x="540"
-                    y= "-100"
-                    height= "100"
-                    width="70" 
-                    fill="red"
-                    stroke="black"
-                    stroke-width="1"/>
-                
-                <rect 
-                    x="540"
-                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
-                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
-                    width="70" 
-                    fill="blue"/>
-                
-                
-                <text
-                    x="30"
-                    y="-250" stroke="black" stroke-width="1"
-                    >
-                    Use of Pronouns in Interviews by Gender (%)
-                    
-                </text>
-                
-                <text
-                    x="30"
-                    y="-230" stroke="black" stroke-width="1"
-                    >
-                    Red represents female interviewees and blue represents male interviewees.
-                    Interviews are weighted.
-                </text>
-                
-                <text
-                x="30"
-                y="40" stroke="black" stroke-width="1"
-                >
-                    Total
-                </text>
-                
-                <text
-                    x="200"
-                    y="40" stroke="black" stroke-width="1"
-                    >
-                    Plural
-                </text>
-                
-                <text
-                    x="370"
-                    y="40" stroke="black" stroke-width="1"
-                    >
-                    Plur, Poss
-                </text>
-                
-                <text
-                    x="540"
-                    y="40" stroke="black" stroke-width="1"
-                    >
-                    Plur, Pers
-                </text>
-                
-                
+<!-- tick marks for the y axis-->
                 <xsl:for-each select="1 to 10">
                     <xsl:variable name="yPosition" select=". * -10"/>
                     
@@ -149,6 +35,233 @@
                     >
                     100%
                 </text>
+                
+                
+                
+<!-- BAR GRAPHS              -->
+
+<!--Use of pronouns by female interviewees.-->
+                <rect 
+                    x="30"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+
+<!--  Use of pronouns by male interviewees. Weighted by 200              -->
+                <rect 
+                    x="30"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron))*200}"
+                    width="90" 
+                    fill="blue"/>
+ 
+<!--Use of plural pronouns by female interviewees.-->
+                <rect 
+                    x="200"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+ 
+    <!--  Use of plural pronouns by male interviewees. Weighted by 200              -->
+                <rect 
+                    x="200"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur']))*200}"
+                    width="90" 
+                    fill="blue"/>
+                
+                
+                <rect 
+                    x="370"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                
+                <rect 
+                    x="370"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='poss']))*200}"
+                    width="90" 
+                    fill="blue"/>
+    
+<!--    Below: Use of plural personal pronouns by gender-->
+                <rect 
+                    x="540"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                
+                <rect 
+                    x="540"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='plur'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='plur'][@type='pers']))*200}"
+                    width="90" 
+                    fill="blue"/>
+                
+                <rect
+                    x="710"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                    
+                <rect 
+                    x="710"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='sing'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='sing'][@type='poss']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='sing'][@type='poss']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='sing'][@type='poss']))*200}"
+                    width="90" 
+                    fill="blue"/>
+                
+                <rect
+                    x="880"
+                    y= "-100"
+                    height= "100"
+                    width="90" 
+                    fill="red"
+                    stroke="black"
+                    stroke-width="1"/>
+                
+               <rect 
+                    x="880"
+                    y="-{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='sing'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='sing'][@type='pers']))*200}"
+                    height="{(count($interviews[//interviewee/@ref = $index//person[.//gender/text() = 'm']/@xml:id]//pron[@number='sing'][@type='pers']) div count($interviews[//interviewee/@ref = $index//person/@xml:id]//pron[@number='sing'][@type='pers']))*200}"
+                    width="90" 
+                    fill="blue"/>
+                
+                
+                
+<!-- Text for the graph               -->
+                <text
+                    x="30"
+                    y="-250" stroke="black" stroke-width="1"
+                    >
+                    Use of Pronouns in Interviews by Gender (%)
+                    
+                </text>
+                
+                <text
+                    x="30"
+                    y="-230" stroke="black" stroke-width="1"
+                    >
+                    Red represents female interviewees and blue represents male interviewees.
+                    Interviews are weighted.
+                </text>
+ 
+<!-- the x axis text: -->
+                <text
+                x="30"
+                y="40" stroke="black" stroke-width="1"
+                >
+                    Total
+                </text>
+ 
+<!--  labels for the calculated percentage: Total            -->
+                
+                <text
+                    x="30"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:62%/M:38%
+                </text>
+                
+
+                <text
+                    x="200"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Plural
+                </text>
+
+<!--  labels for the calculated percentage: Plural           -->
+                <text
+                    x="200"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:73%/M:27%
+                </text>
+                
+                
+                <text
+                    x="370"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Plur, Poss
+                </text>
+    
+<!--  labels for the calculated percentage: Plural, Possessive          -->    
+                
+                <text
+                    x="370"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:71%/M:29%
+                </text>
+                
+                
+                
+                <text
+                    x="540"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Plur, Pers
+                </text>
+                
+<!--  labels for the calculated percentage: Plural, Personal          --> 
+   
+                <text
+                    x="540"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:73%/M:27%
+                </text>
+   
+
+                <text
+                    x="710"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Sing, Poss
+                </text>
+
+<!--  labels for the calculated percentage: Singular, Possessive          -->   
+                <text
+                    x="710"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:52%/M:48%
+                </text>
+                
+                
+                <text
+                    x="880"
+                    y="40" stroke="black" stroke-width="1"
+                    >
+                    Sing, Pers
+                </text>
+
+ 
+ <!--  labels for the calculated percentage: Singular, Personal          -->
+                <text
+                    x="880"
+                    y="-110" stroke="black" stroke-width="1"
+                    >
+                    F:58%/M:42%
+                </text>             
+               
                     
 
             </g>
