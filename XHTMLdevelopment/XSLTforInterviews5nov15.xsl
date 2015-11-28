@@ -9,7 +9,7 @@
 
         <html>
             <head>
-                <title>CINEMA and MEMORY</title>
+                <title>Cinema and Memory</title>
                 <link rel="stylesheet" type="text/css" href="/css/interview.css"/>
                 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
             </head>
