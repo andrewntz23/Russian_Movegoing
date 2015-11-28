@@ -482,9 +482,7 @@
             назад. Это очень популярный фильм, но ещё, не знаю как сказать по-русски, но это (shows)
             аспекты из этой культуры. </speech>
         <speech speaker="sorkina" speechtype="a"> Понятно. И ещё <pron type="pers" number="sing"
-                >я</pron> бы хотела спросить, а что нравится Американцам из <nationalCinema
-                ref="ourCinema"><collective><pron type="poss" number="plur"
-                    >нашего</pron></collective> кино</nationalCinema>? </speech>
+            >я</pron> бы хотела спросить, а что нравится Американцам из <collective><pron type="poss" number="plur">нашего</pron> кино?</collective> </speech>
         <speech speaker="burke" speechtype="q">
             <pron type="pers" number="sing">Я</pron> думаю, что, к сожалению, это очень, как,
             блокбастер фильмы, как американские фильмы, которые в России, это как большие
