@@ -98,25 +98,22 @@
         <speech speaker="parks" speechtype="q">На чем вы ездили? </speech>
         <speech speaker="voronin" speechtype="a">Обычно, сначала ездили на автобусах, после, уже
             когда выросли, ездили на машинах. </speech>
-        <speech speaker="parks" speechtype="q">У вас был один <place ref="movieTheater"
-                >кинотеатр</place> или больше около дома? </speech>
+        <speech speaker="parks" speechtype="q">У вас был один кинотеатр или больше около дома? </speech>
         <speech speaker="voronin" speechtype="a">Нет, около дома вообще <place ref="movieTheater"
                 >кинотеатр</place>ов не было. <pron type="pers" number="plur">Мы</pron> менялись
             касетами VHS, этими, старыми. А <place ref="movieTheater">кинотеатр</place> был далеко
             от дома. Кинотеатров в городе было, штук 5, сначала. А сейчас их штук 10, <pron
                 type="pers" number="sing">я</pron> думаю. </speech>
-        <speech speaker="parks" speechtype="q">Сравните эти <place ref="movieTheater"
-                >кинотеатр</place>ы. </speech>
+        <speech speaker="parks" speechtype="q">Сравните эти кинотеатры. </speech>
         <speech speaker="voronin" speechtype="a">Сравнить их немного трудно, потому что они все
             типовые, похожи друг на друга, все <place ref="movieTheater">кинотеатр</place>ы. А
             разница есть так <hes type="nonlex"/> такая: <place ref="movieTheater">кинотеатр</place>
             <hes type="lex">может быть</hes> отдельным зданием стоять или <place ref="movieTheater"
                 >кинотеатр</place>
             <hes type="lex">может быть</hes> в торговом комплексе. А, как правило, сейчас все <place
-                ref="movieTheater">кинотеатр</place>ы <collective><pron type="poss" number="plur">у
+                ref="movieTheater">кинотеатры</place> <collective><pron type="poss" number="plur">у
                     нас</pron></collective> в торговoм комплексе. </speech>
-        <speech speaker="parks" speechtype="q">Когда вы начали ходить в <place ref="movieTheater"
-                >кинотеатр</place> один? </speech>
+        <speech speaker="parks" speechtype="q">Когда вы начали ходить в кинотеатр один? </speech>
         <speech speaker="voronin" speechtype="a">Я не помню лет, лет в 10. </speech>
         <speech speaker="parks" speechtype="q">Вам нравилось ходить в кино и почему? </speech>
         <speech speaker="voronin" speechtype="a">Мне нравилось ходить в кино только на опредленные

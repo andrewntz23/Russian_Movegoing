@@ -209,13 +209,13 @@
                 >романтическую комедию</genre>, люблю <genre ref="thriller">триллер</genre>. Но за
                 <genre ref="thriller">триллером</genre>
             <pron type="pers" number="sing">я</pron> не пойду в кино. <pron type="pers"
-                number="sing">Я</pron> люблю <genre ref="alternative">альтернативное кино</genre>.
-            Что это такое? Хорошо <genre ref="artistic">художественное</genre>, сделанное, кино с
-            альтернативным взглядом, сo своим взглядом режиссера на вещи. Вот, примерно так. То есть
-            в моём вкусе фильмы <person ref="bergman">Ингмара Бергмана</person>, и <person
-                ref="allen">Вуди Аллена</person>, и что-то типа, не знаю, того же Формана, <person
-                ref="milosForman">Милоша Формана</person>. Да? Тo есть <pron type="pers"
-                number="sing">я</pron> люблю такое <epit ref="kino">классическое</epit>
+                number="sing">Я</pron> люблю <genre ref="art">альтернативное кино</genre>. Что это
+            такое? Хорошо <genre ref="art">художественное</genre>, сделанное, кино с альтернативным
+            взглядом, сo своим взглядом режиссера на вещи. Вот, примерно так. То есть в моём вкусе
+            фильмы <person ref="bergman">Ингмара Бергмана</person>, и <person ref="allen">Вуди
+                Аллена</person>, и что-то типа, не знаю, того же Формана, <person ref="milosForman"
+                >Милоша Формана</person>. Да? Тo есть <pron type="pers" number="sing">я</pron> люблю
+            такое <epit ref="kino">классическое</epit>
             <epit ref="kino">нетрадиционное</epit>
             <epit ref="kino">хорошее</epit> кино.</speech>
 
@@ -466,8 +466,8 @@
             всё что <pron type="pers" number="sing">я</pron> могу спросить, но, у вас есть что-то,
             что вы хотите спросить мне, или хотите сказать? </speech>
         <speech speaker="sorkina" speechtype="a"> Спросить. Да, <pron type="pers" number="sing"
-                >я</pron> бы хотела спросить, существует ли сейчас <genre ref="alternative"
-                >альтернативное кино</genre> в Америке у вас, например, как вы думаете?</speech>
+                >я</pron> бы хотела спросить, существует ли сейчас <genre ref="art">альтернативное
+                кино</genre> в Америке у вас, например, как вы думаете?</speech>
         <speech speaker="burke" speechtype="q">
             <pron type="pers" number="sing">Я</pron> не часто смотрю альтернативные фильмы<hes
                 type="nonlex"/> в Америке, <pron type="pers" number="sing">я</pron> знаю, что
@@ -482,7 +482,9 @@
             назад. Это очень популярный фильм, но ещё, не знаю как сказать по-русски, но это (shows)
             аспекты из этой культуры. </speech>
         <speech speaker="sorkina" speechtype="a"> Понятно. И ещё <pron type="pers" number="sing"
-            >я</pron> бы хотела спросить, а что нравится Американцам из <collective><pron type="poss" number="plur">нашего</pron> кино?</collective> </speech>
+                >я</pron> бы хотела спросить, а что нравится Американцам из <collective><pron
+                    type="poss" number="plur">нашего</pron> кино?</collective>
+        </speech>
         <speech speaker="burke" speechtype="q">
             <pron type="pers" number="sing">Я</pron> думаю, что, к сожалению, это очень, как,
             блокбастер фильмы, как американские фильмы, которые в России, это как большие
