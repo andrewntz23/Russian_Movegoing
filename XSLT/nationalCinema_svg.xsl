@@ -12,14 +12,14 @@
         
         
         <svg>
-            <g transform="translate(150, 550)">
+            <g transform="translate(160, 550)">
                 <!--Below is the x axis-->
-                <line x1="0" y1="0" x2="1000" y2="0" stroke="black" stroke-width="2px"/>
+                <line x1="0" y1="0" x2="800" y2="0" stroke="black" stroke-width="2px"/>
                 <!--                the y axis-->
                 <line x1="0" y1="0" x2="0" y2="-450" stroke="black" stroke-width="2px"/>
                 
                 <!-- tick marks for the y axis-->
-                <xsl:for-each select="1 to 10">
+                <xsl:for-each select="1 to 25">
                     <xsl:variable name="xPosition" select=". * 30"/>
                     
                     <line y1="-3" x1="{$xPosition}" y2="3" x2="{$xPosition}" stroke="black"
@@ -132,71 +132,167 @@
                 
                 <text
                     x="-100"
-                    y="-425"
+                    y="-420"
                     stroke="black"
                     stroke-width="1px">American</text>
                 
                 <text
                     x="-100"
-                    y="-385"
+                    y="-380"
                     stroke="black"
                     stroke-width="1px">Soviet</text>
                 
                 <text
                     x="-100"
-                    y="-345"
+                    y="-340"
                     stroke="black"
                     stroke-width="1px">Russian</text>
                 
                 
                 <text
                     x="-100"
-                    y="-305"
+                    y="-300"
                     stroke="black"
-                    stroke-width="1px">"Our"</text>
+                    stroke-width="1px">"Our"/Sov/Rus</text>
                 
                 <text
                     x="-100"
-                    y="-265"
+                    y="-260"
                     stroke="black"
                     stroke-width="1px">French</text>
                 
                 <text
                     x="-100"
-                    y="-225"
+                    y="-220"
                     stroke="black"
                     stroke-width="1px">Italian</text>
                 
                 <text
                     x="-100"
-                    y="-185"
+                    y="-180"
                     stroke="black"
                     stroke-width="1px">European</text>
                 
                 <text
                     x="-100"
-                    y="-145"
+                    y="-140"
                     stroke="black"
                     stroke-width="1px">Indian</text>
                 
                 <text
                     x="-100"
-                    y="-105"
+                    y="-100"
                     stroke="black"
                     stroke-width="1px">German</text>
                 
                 <text
                     x="-100"
-                    y="-65"
+                    y="-60"
                     stroke="black"
                     stroke-width="1px">Foreign</text>
                 
                 
                 <text
                     x="-100"
-                    y="-25"
+                    y="-20"
                     stroke="black"
                     stroke-width="1px">Other</text>
+                
+                <text
+                    x="700"
+                    y="-420"
+                    stroke="black"
+                    stroke-width="1px">
+                    20%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-390"
+                    stroke="black"
+                    stroke-width="1px">
+                    11%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-350"
+                    stroke="black"
+                    stroke-width="1px">
+                    9%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-310"
+                    stroke="black"
+                    stroke-width="1px">
+                    1,5%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-270"
+                    stroke="black"
+                    stroke-width="1px">
+                    12%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-230"
+                    stroke="black"
+                    stroke-width="1px">
+                    7%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-190"
+                    stroke="black"
+                    stroke-width="1px">
+                    6%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-150"
+                    stroke="black"
+                    stroke-width="1px">
+                    3%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-110"
+                    stroke="black"
+                    stroke-width="1px">
+                    3%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-70"
+                    stroke="black"
+                    stroke-width="1px">
+                    10%
+                </text>
+                
+                <text
+                    x="700"
+                    y="-30"
+                    stroke="black"
+                    stroke-width="1px">
+                    17,5%
+                </text>
+                
+                <text
+                    x="200"
+                    y="-490"
+                    stroke="black"
+                    stroke-width="1px">
+                    References to National Cinemas in Interviews: Percent of Total References
+                </text>
                 
                 
                 
