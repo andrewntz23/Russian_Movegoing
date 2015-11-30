@@ -1,0 +1,30 @@
+
+#centerPanel {
+    position:absolute;
+    width: 50%;
+    margin-left:20%;
+	margin-top:0%;
+	overflow-y:scroll;
+    }
+    
+#boxes {
+    position:fixed;
+    width:15%;
+    margin-left:2%;
+}
+
+#boxes * {
+    display:block
+    
+}
+
+#rightPanel{
+    border: 2px;
+    border-color:black;
+    border-style:solid; 
+    position:fixed;
+    width:18%;
+    height: 500px;
+    margin-left:80%;
+    overflow-y:auto;
+}

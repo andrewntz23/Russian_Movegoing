@@ -1,5 +1,10 @@
 window.onload = function(){
     setBoxes();
+        //Set up the #rightPanel scrolling thing to eliminate that issue
+    //onmouseover="document.body.style.overflow='hidden';" onmouseout="document.body.style.overflow='auto';"
+    var rightPanel = document.querySelectorAll('#rightPanel');
+    rightPanel[0].setAttribute('onmouseover', 'document.body.style.overflow="hidden"');
+    rightPanel[0].setAttribute('onmouseout', 'document.body.style.overflow="auto"');
 }
 
 function setBoxes(){
