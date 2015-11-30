@@ -1,3 +1,14 @@
+/*
+ -Changes: capitalize the first letter of the stuff on the right. 
+ -Can potentially make previous and current highlighted (main has big highlight, secondary has slightly differen)
+ -Add in a function to clear all span colors when clicking one of the radios
+ -Edit the XSLT to a) create the three panels b) give basic stuff that we're missing in example javascript
+  
+  
+ */
+
+
+
 window.onload = function(){
     setBoxes();
         //Set up the #rightPanel scrolling thing to eliminate that issue
