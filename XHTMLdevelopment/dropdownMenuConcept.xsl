@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <xml:div class="dropdown">
+    <div class="dropdown">
         <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Analysis
             <span class="caret"></span></button>
         <ul class="dropdown-menu">
@@ -12,9 +12,9 @@
             <li><a href="/xhtml/quantitative.xhtml">Quantitative Analysis</a></li>
             <li><a href="/xhtml/graphic.xhtml">Graphic Analysis</a></li>
         </ul>
-    </xml:div>
+    </div>
     
-    <xml:div class="dropdown">
+    <div class="dropdown">
         <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Interviews
             <span class="caret"></span></button>
         <ul class="dropdown-menu">
@@ -28,6 +28,6 @@
             <li><a href="interviews/levental-v.xhtml">Leventhal, V. (2014)</a></li>
             <li><a href="interviews/pavlov.xhtml">Pavlov (2014)</a></li>
         </ul>
-    </xml:div>
+    </div>
     
 </xsl:stylesheet>
