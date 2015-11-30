@@ -4,7 +4,14 @@ h1 {padding-top:30px;}
 body
 {background-color: #f4eee2;
 text-decoration:none;
+margin:0;
 color:black;}
+
+ul#indexList {
+    
+    list-style-type: none;
+    padding-left:0
+}
 
 div#menu
 {
