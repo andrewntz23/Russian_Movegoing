@@ -48,7 +48,7 @@
 		<speech speaker="leventalVadim" speechtype="a"> Давайте. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Расскажите нам, когда и где вы выросли? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
-			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron>родился в восемьдесят
+			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron> родился в восемьдесят
 			первом году, родился в <place ref="leningrad">Ленинграде</place> и отсюда никуда в
 			общем-то надолго не уезжал, рос здесь, в <place ref="leningrad">Ленинграде</place>,
 			потом <place ref="stPetersburg">Санкт-Петербурге</place>, когда город переименовали. </speech>
@@ -64,7 +64,7 @@
 				>Санкт-Петербурге</place>. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Вы помните первый раз, когда вы ходили в кино? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
-			<hes type="lex">Ну</hes>,<pron type="pers" number="sing">я</pron> не уверен, что<pron
+			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron> не уверен, что<pron
 				type="pers" number="sing"> я</pron> помню самый первый раз. <hes type="lex"
 			>Ну</hes>, разумеется, это было в каком-то очень нежном возрасте. Типа там года в три
 			или, <hes type="lex">может быть</hes>, лет в пять наверняка <hes type="nonlex"/> С
@@ -132,10 +132,10 @@
 			значит, утренние, дневные, вечерние? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron> думаю, что <pron
-				type="pers" number="sing">я</pron>хожу в кино, наверно, раз двадцать в год. <hes
+				type="pers" number="sing">я</pron> хожу в кино, наверно, раз двадцать в год. <hes
 				type="lex">Ну</hes>, в основном на вечерние, конечно, сеансы. На утренние сеансы
 				<pron type="pers" number="sing">я</pron> ходил несколько раз, когда было мало денег,
-			и время свободное было. Утренние сеансы дешевле, соответсвенно, было проще ходить на
+			и время свободное было. Утренние сеансы дешевле, соответственно было проще ходить на
 			утренние на сеансы, заплатить меньше денег. <hes type="lex">Ну</hes>, в основном,
 			конечно, самый «fun»--это пойти вечером, после кино пойти напиться, например. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> И ходить в кино—это было обычное дело или
@@ -166,7 +166,7 @@
 			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron> не знаю, какоe
 			детствo имеется в виду. Потому что в детстве вообще <collective>все</collective> смотрят
 				<genre ref="cartoon">мультики</genre>. Что касается фильмов. <pron type="pers"
-				number="sing">Я</pron>помню, что <pron type="pers" number="sing">я</pron> очень
+				number="sing">Я</pron> помню, что <pron type="pers" number="sing">я</pron> очень
 			любил фильм, который назывался <title ref="windowOnParis">Окно в Париж</title>
 			<hes type="nonlex"/> по-моему, девяностого или девяносто второго года <hes type="nonlex"
 			/> очень смешное кино для тех, кто понимает по-русски, просто ухохотаться. Там каждая
@@ -185,11 +185,11 @@
 				ref="savageHuntKingStakh">красиво снятый</epit>, фантастическая операторская работа.
 			Поэтому сказать, что <pron type="pers" number="sing">я</pron> люблю какой-то вот
 			конкретный жанр, а остальные не любил. <pron type="pers" number="sing">Я</pron> так
-			сказать не могу. <hes type="lex">Ну, </hes>,<pron type="pers" number="sing">я</pron>
+			сказать не могу. <hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron>
 			никогда особенно не любил типа вот такое кино типа там <title ref="dumbAndDumber">Тупой
 				и ещё Тупее</title>
 			<hes type="nonlex"/>такое кино, на которое ходят поесть попкорна. Вот такое кино <pron
-				type="pers" number="sing">я</pron> ,скорее, не люблю и никогда не любил. </speech>
+				type="pers" number="sing">я</pron>,скорее, не люблю и никогда не любил. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> У вас были любимые актёры или актрисы? Кто и
 			почему? </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Нет,<pron type="poss" number="sing"> у
@@ -202,13 +202,13 @@
 			рожи, и какие-то там <person ref="cruise">Томы Крузы</person>, и какие-то там.. не знаю
 			это <hes type="nonlex"/> Билл? Который <hes type="nonlex"/>
 			<pron type="pers" number="sing">Я</pron> даже не помню. Какие-то там <person
-				ref="hopkins">Хопкинсы</person>, фиг знает.<pron type="pers" number="sing">Я</pron>
+				ref="hopkins">Хопкинсы</person>, фиг знает. <pron type="pers" number="sing">Я</pron>
 			не знаю их, вообще <hes type="nonlex"/> ну, не запоминаю. Мне кажется, что это абсолютно
 			не важно. Для кино главное - это режиссёр. Если режиссёр хороший, он может там ходить
 			дворников снять, они будут очень хорошо выглядеть. Никакого актёрского мастерства в кино
 			совершенно не нужно. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Ну, у вас были любимые режиссёры? </speech>
-		<speech speaker="leventalVadim" speechtype="a"> Да. режиссёры конечно. У меня есть любимыe
+		<speech speaker="leventalVadim" speechtype="a"> Да, режиссёры конечно. У меня есть любимыe
 			режиссёры. Из русских это <person ref="andreiTarkovskii">Тарковский</person> прежде
 			всего, конечно. Хотя, если уж так говорить, конечно, <person ref="eisenstein"
 				>Эйзенштейн</person>, <person ref="vertov">Дзига Вертов</person> и так далее. A из
@@ -229,7 +229,7 @@
 			<hes type="lex">Ну</hes>, наверное, не знаю, что тут сказать. <hes type="lex">Ну</hes>
 			много было всяких <hes type="nonlex"/> наверное, можно вспомнить. Что имеется в виду?
 			Если, типа<hes type="nonlex"/>
-			<hes type="lex">ну</hes><pron type="pers" number="sing">я</pron>даже несколько раз
+			<hes type="lex">ну</hes> <pron type="pers" number="sing">я</pron> даже несколько раз
 			сходил на <title ref="melancholy">Мелaнхолию</title>
 			<person ref="vonTrier">Фон Триера</person>, когда она вышла, потому что на большом
 			экране смотреть это уничтожение земли <hes type="nonlex"/> было особое удовольствие.
@@ -240,7 +240,7 @@
 			“underground”ные фильмы. Со всего мира, <genre ref="art">фестивальное кино</genre>,
 			артхаус. Мы туда ходили очень часто, и <pron type="poss" number="plur">наши</pron>
 			друзья об этом знали, и вдруг они говорят «Давайте <pron type="pers" number="plur"
-				>мы</pron> с вами сходим» Давайте, нет проблем, конечно. А на что вы идёте? Да <pron
+				>мы</pron> с вами сходим». Давайте, нет проблем, конечно. А на что вы идёте? Да <pron
 				type="pers" number="plur">мы</pron> не знаем, какой-то там фильм, какого-то
 				<nationalCinema ref="koreanCinema">корейского режиссёра</nationalCinema>, не знаем.
 			И ребята с нами пошли. Мы на самом деле не знали, на что <pron type="pers" number="plur"
@@ -265,7 +265,7 @@
 			своебразная что ли тусовка, там люди друг друга узнавали, там средний возраст <hes
 				type="nonlex"/> но, это всегда молодежь смотрит. <hes type="lex">Ну</hes>, от
 			двадцати до тридцати лет. А если ты сейчас пойдёшь на какой-нибудь фильм там типа, <hes
-				type="lex">ну</hes><pron type="pers" number="sing"> я</pron>не знаю, там, типa как
+				type="lex">ну</hes><pron type="pers" number="sing"> я</pron> не знаю, там, типa как
 				<title ref="transformers">Трансформеры</title> или <title ref="worldWarZ">Война
 				Миров Зет</title>, или там, но, или что-то типa голливудская фигня, которая вышла
 			только что и рекламируется широко, <hes type="lex">ну</hes> средний возраст там будет
@@ -301,7 +301,7 @@
 			прошлым летом, <place ref="canneFestival">Каннский фестиваль</place> выиграл фильм,
 			который назывался <title ref="lifeOfAdele">Жизнь Адель</title>. Про девочку, которая,
 			значит, там встречается с другой девoчкой. И три часа с половиной они выясняют друг с
-			другом какие у них отношения. Любовь не любовь все дела,<hes type="lex"> ну </hes>раз
+			другом, какие у них отношения. Любовь не любовь все дела,<hes type="lex"> ну </hes>раз
 			Каннский приз получен, надо сходить посмотреть. Чудовищно скучное отвратительное кино. И
 			там есть сцена, <pron type="pers" number="sing">я</pron> засекал, двадцать минут она
 			длится где-то в середине фильма <hes type="nonlex"/> когда та девoчка уже <hes
@@ -412,7 +412,7 @@
 			кинокритики, которым <pron type="pers" number="sing">я</pron> доверяю. Допустим, там,
 				<person ref="trofimenkov">Трофименков</person>, вкусу которого <pron type="pers"
 				number="sing">я</pron> доверяю абсолютно. <person ref="trofimenkov">Михаил
-				Трофименков</person>--<epit ref="trofimenkov">наш петербургский кинокритик</epit>.
+				Трофименков</person> -- <epit ref="trofimenkov">наш петербургский кинокритик</epit>.
 			Eсть <epit ref="volobuev">такой московский</epit>, <person ref="volobuev">Роман
 				Волобуев</person>, <epit ref="volobuev">совершенно замечательно остроумный
 				критик</epit>, которому <pron type="pers" number="sing">я</pron> доверяю чуть меньше,
