@@ -47,15 +47,6 @@ ul#menuList li
 
 ul#menuList li a:hover{color:white;}
 
-div#description
-{
-position: fixed;
-top: 100px;
-text-align: center;
-width: 100%;
-background-color: #f4eee2;
-
-}
 
 #menu ul li{
     float:left;
