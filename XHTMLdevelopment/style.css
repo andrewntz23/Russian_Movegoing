@@ -83,7 +83,7 @@ background-color: #f4eee2;
     font-size:.8em;
     color:#FFFFFF;
     width:60px;
-    background:#800000;
+    background:tan;
     position:relative;
     padding-top:3px;
     padding-bottom: 3px;
@@ -96,21 +96,21 @@ background-color: #f4eee2;
 
 #menu li:hover{
     position:relative;
-    background:#800000;
+    background:tan;
 }
 #menu li:active{
     position:relative;
-    background:#800000;
+    background:tan;
     z-index:100;
 }
 #menu li:hover ul li{
     padding:5px;
     display:block;
     width:160px;
-    background-color:#800000;
+    background-color:tan;
 }
 #menu li:hover ul li a:hover{
-    background:#400000;
+    background:tan;
 }
 
 
