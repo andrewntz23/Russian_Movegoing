@@ -24,7 +24,7 @@
     <xsl:template match="meta">
         <xsl:variable name="interviewee" select="//interviewee/@ref"/>
         <xsl:variable name="interviewer" select="//interviewer[1]/@ref"/>
-        <h1 style="color: green">
+        <h1>
             <xsl:value-of
                 select="
                     'Interview with',

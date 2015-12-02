@@ -80,7 +80,7 @@
 					нас</pron> начался разгул капитализма</collective>, и <collective>все стали
 				пытаться зарабатывать какие-то деньги</collective>, и вдруг хлынул поток вот этого
 			кино, которое раньше вроде бы было наполовину запрещенное <hes type="nonlex"/> Там
-			например <genre ref="erotic">эротические сцены</genre> или какие нибудь там допустим
+			например <genre ref="adult">эротические сцены</genre> или какие нибудь там допустим
 				<genre ref="warFilms">боевики</genre>. Так вот, в некоторых районах <place
 				ref="stPetersburg">города</place> можно было найти такие <place ref="videoSalon"
 				>видео-салоны</place>, это называлось. Это был такой зал, человек на пятьдесят, в
@@ -165,7 +165,7 @@
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, <pron type="pers" number="sing">я</pron> не знаю, какоe
 			детствo имеется в виду. Потому что в детстве вообще <collective>все</collective> смотрят
-				<genre ref="cartoon">мультики</genre>. Что касается фильмов. <pron type="pers"
+				<genre ref="animation">мультики</genre>. Что касается фильмов. <pron type="pers"
 				number="sing">Я</pron> помню, что <pron type="pers" number="sing">я</pron> очень
 			любил фильм, который назывался <title ref="windowOnParis">Окно в Париж</title>
 			<hes type="nonlex"/> по-моему, девяностого или девяносто второго года <hes type="nonlex"
@@ -246,9 +246,9 @@
 			И ребята с нами пошли. Мы на самом деле не знали, на что <pron type="pers" number="plur"
 				>мы</pron> идём. Фильм. Его уже можно посмотреть в сети. Назывался он <title
 				ref="pinkCloud">Розовое Облако</title>, по-моему, если <pron type="pers"
-				number="sing">я</pron> не ошибаюсь. Как оказалось, эта было <genre ref="porno"
-				>порнуха</genre>. Вот, <epit ref="porno">нормальное эстетическое</epit>
-			<genre ref="porno">порно</genre>. Включающее там <hes type="nonlex"/> как бы сказать
+				number="sing">я</pron> не ошибаюсь. Как оказалось, эта было <genre ref="adult"
+				>порнуха</genre>. Вот, <epit ref="adult">нормальное эстетическое</epit>
+			<genre ref="adult">порно</genre>. Включающее там <hes type="nonlex"/> как бы сказать
 			поприличнее? взаимодействие актёров с арбузами <hes type="nonlex"/> всякие извращённые
 			формы сексуального поведения. А <pron type="poss" number="plur">наши</pron> друзья были
 			довольно пуританского нрава и на <genre ref="art">фестивальное кино</genre> впервые
@@ -400,7 +400,7 @@
 				type="pers" number="sing">я</pron> старый человек. Когда мне было там, до
 			восемнадцати лет,<collective><pron type="poss" number="plur">у нас</pron> не было вообще
 				никаких возрастных ограничений.</collective> Любой человек пусть даже, не знаю,
-			трёхлетнего возраста мог прийти на любую <genre ref="porno">порнуху</genre>, и это было
+			трёхлетнего возраста мог прийти на любую <genre ref="adult">порнуху</genre>, и это было
 			абсолютно легально и законно. Собственно, эти законы о возрастных ограничениях,
 			аналогичные, кстати, тем который действуют в США, эти законы были введены буквально пару
 			лет назад. </speech>
@@ -427,12 +427,12 @@
 			или почему нет? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes> да, <pron type="pers" number="plur">мы</pron> с ребенком ходим в
-			кино, на <genre ref="cartoon">мультики</genre> конечно. <hes type="lex">Ну</hes> а
+			кино, на <genre ref="animation">мультики</genre> конечно. <hes type="lex">Ну</hes> а
 			почему собственно нет? Это <epit ref="kino">весело</epit> и <epit ref="kino"
-				>прикольно</epit>. Мы последний раз посмотрели какой-то <genre ref="cartoon"
+				>прикольно</epit>. Мы последний раз посмотрели какой-то <genre ref="animation"
 				>мультик</genre> про муравьев. <hes type="lex">Ну</hes>, ребёнку шесть лет. Он не
 			может пока смотреть ещё там <hes type="nonlex"/> что-то такое совсем уж. Но вот про
-			муравьев <epit ref="cartoon">замечательный</epit> был <genre ref="cartoon"
+			муравьев <epit ref="animation">замечательный</epit> был <genre ref="animation"
 				>мультик</genre>. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Ещё два. Что вы бы хотели добавить в
 			заключении? </speech>

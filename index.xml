@@ -2083,9 +2083,8 @@
     </titles>
 
     <genres>
-        <genre xml:id="cartoon"/>
+        <genre xml:id="animation"/>
         <genre xml:id="childrens"/>
-        <genre xml:id="disney"/>
         <genre xml:id="comedy"/>
         <genre xml:id="drama"/>
         <genre xml:id="melodrama"/>
@@ -2093,13 +2092,12 @@
         <genre xml:id="horror"/>
         <genre xml:id="blockbuster"/>
         <genre xml:id="warFilms"/>
-        <genre xml:id="porno"/>
+        <genre xml:id="adult"/>
         <genre xml:id="skazka"/>
         <genre xml:id="romanticComedy"/>
         <genre xml:id="art"/>
         <genre xml:id="romance"/>
         <genre xml:id="action"/>
-        <genre xml:id="erotic"/>
         <genre xml:id="documentary"/>
         <genre xml:id="classics"/>
         <genre xml:id="patrioticFilms"/>

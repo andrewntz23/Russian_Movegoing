@@ -30,14 +30,14 @@
         <speech speaker="roberts" speechtype="q">Фамилия и отчество, пожалуйста.</speech>
         <speech speaker="danilenko" speechtype="a">Даниленко Людмила Васильевна. </speech>
         <speech speaker="roberts" speechtype="q">А где вы родились?</speech>
-        <speech speaker="roberts" speechtype="q">Я родилась в <place ref="volgogradskayaOblast"
+        <speech speaker="danilenko" speechtype="a">Я родилась в <place ref="volgogradskayaOblast"
                 >Волгоградской области</place>. И в восемьдесят втором <hes type="nonlex"/> с тысяча
             девятьсот восемдесят второго года <pron type="pers" number="sing">я</pron> проживаю в
                 <place ref="stPetersburg">Санкт Петербурге</place>
         </speech>
         <speech speaker="roberts" speechtype="q">Вы помните первый раз, когда вы ходили в
             кино?</speech>
-        <speech speaker="danilenko" speechtype="q">Это было очень давно. Может быть, мне было лет
+        <speech speaker="danilenko" speechtype="a">Это было очень давно. Может быть, мне было лет
             пять. </speech>
         <speech speaker="roberts" speechtype="q">Вы помните фильм, на который вы ходили?</speech>
         <speech speaker="danilenko" speechtype="a">Эта была <genre ref="skazka">сказка</genre>. </speech>
@@ -56,7 +56,7 @@
                 >кинотеатр</place>?</speech>
         <speech speaker="danilenko" speechtype="a"><hes type="lex">Ну</hes>, в <epit
                 ref="movieTheater">современном</epit>
-            <place ref="movieTheater">кинотеатре </place>,<pron type="pers" number="sing">я</pron>
+            <place ref="movieTheater">кинотеатре </place> <pron type="pers" number="sing">я</pron> 
             не была, потому что в связи с работой, с занятостью, нет времени посещать. А первое
             впечатление <hes type="nonlex"/>
             <epit ref="kino">такой огромный дом</epit>

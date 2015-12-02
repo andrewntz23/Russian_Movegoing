@@ -82,7 +82,7 @@
 				>Я</pron> помню пять лет, <hes type="lex">наверно</hes>. </speech>
 		<speech speaker="faith" speechtype="q"> Какие фильмы вы посмотрели? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Эта была <genre ref="skazka">сказка</genre>.
-			Это был не <genre ref="cartoon">мультфильм</genre>, не <genre ref="cartoon"
+			Это был не <genre ref="animation">мультфильм</genre>, не <genre ref="animation"
 				>анимация</genre>. Это была сказка. В <place ref="sovietUnion">Советском
 				Союзе</place> очень часто экранизировали разные сказки. В том числе русские сказки.
 			И это была сказка которая называлась. <pron type="pers" number="sing">Я</pron> не помню
@@ -234,20 +234,20 @@
 			какие были ваши самые любимые жанры, когда вы были студенткой? </speech>
 
 		<speech speaker="leventalIrina" speechtype="a"> Ну, в детстве <hes type="nonlex"/> Конечно,
-			в детстве <pron type="pers" number="sing">я</pron> любила смотреть <genre ref="cartoon"
+			в детстве <pron type="pers" number="sing">я</pron> любила смотреть <genre ref="animation"
 				>мультфильмы</genre>. Да? Конечно,<pron type="pers" number="sing"> я </pron>любила в
-			детстве смотреть <genre ref="cartoon">мультфильмы</genre>. Да? И этo были
+			детстве смотреть <genre ref="animation">мультфильмы</genre>. Да? И этo были
 				<nationalCinema ref="sovietCinema">советские мультфильмы.</nationalCinema> Да? Вот.
 			Потому что, советская мультипликация, она вообще <hes type="nonlex"/> особенно,<hes
 				type="lex"> ну </hes>как, не особенно, но там было много, много, много всего. Да,
 				<nationalCinema ref="sovietCinema">советские мультфильмы</nationalCinema>. Потом
 				<hes type="nonlex"/> в 90ые годы, <pron type="poss" number="plur">у нас</pron> стали
-			появляться дома, в том числе, да? дома, в том числе, <genre ref="disney">мультфильмы
+			появляться дома, в том числе, да? дома, в том числе, <genre ref="animation">мультфильмы
 				Диснея</genre>, и потом <pron type="pers" number="plur">мы</pron>
-			<collective>все</collective> смотрели <genre ref="disney">мультфильмы Диснея</genre>.
+			<collective>все</collective> смотрели <genre ref="animation">мультфильмы Диснея</genre>.
 				<title ref="alladin">Алладин</title>, <title ref="theLittleMermaid"
 				>Русалочка</title>, <title ref="beautyBeast">Красавица и Чудовище</title>,<hes
-				type="lex"> ну </hes>вы знаете всё это, да? Вот, эти <genre ref="cartoon"
+				type="lex"> ну </hes>вы знаете всё это, да? Вот, эти <genre ref="animation"
 				>мультфильмы</genre> потом <hes type="nonlex"/> А потом, уже в подростковом возрасте
 				<hes type="nonlex"/>
 			<pron type="pers" number="sing">я</pron> любила смотреть советские <genre ref="comedy"
@@ -419,7 +419,7 @@
 			всегда есть дела. Нет, сейчас <pron type="pers" number="sing">я</pron> хожу утром иногда
 			с <pron type="poss" number="sing">моим</pron> сыном. Да? В одиннадцать, в выходной день
 			в субботу, в воскресение в одинадцать часов, в час дня. <pron type="pers" number="plur"
-				>Мы</pron> смотрели <genre ref="cartoon">мультфильм</genre>. Вот, и утром почти
+				>Мы</pron> смотрели <genre ref="animation">мультфильм</genre>. Вот, и утром почти
 			никого нет, утром никто не ходит. Да, а вечером, когда раньше или сейчас? </speech>
 		<speech speaker="faith" speechtype="q"> Раньше. </speech>
 
