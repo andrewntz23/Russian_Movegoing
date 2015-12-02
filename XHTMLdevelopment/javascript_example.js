@@ -46,7 +46,8 @@ function setBoxes(){
 }
 
 function highlight(highlightClass) {
-    clearRight()
+    clearSpans();
+    clearRight();
     var spans = document.getElementsByClassName(highlightClass);
     var rightPanel = document.getElementById('rightPanel');
     for (var i = 0; i < spans.length; i++){
@@ -54,7 +55,7 @@ function highlight(highlightClass) {
         spans[i].id = 'target'.concat(i);
         var newP = document.createElement('p');
         var newA = document.createElement('a');
-        var pText = document.createTextNode(spans[i].innerText);
+        var pText = document.createTextNode(capitalize(spans[i].innerText));
         newA.appendChild(pText);
         newA.href = '#target'.concat(i);
         newP.appendChild(newA);
@@ -74,3 +75,17 @@ function clearRight(){
          spans[i].removeAttribute('id')
      }
 }
+
+function clearSpans(){
+    
+    var spans = document.querySelectorAll('span');
+    for (var i = 0; i < spans.length; i ++){
+        spans[i].removeAttribute('style');
+    }
+    
+}
+
+function capitalize(str){
+        return str.substring(0,1).toUpperCase() + str.slice(1); 
+}
+
