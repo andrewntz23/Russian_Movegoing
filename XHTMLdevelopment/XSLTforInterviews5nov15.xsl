@@ -16,7 +16,40 @@
             </head>
             <body>
  <xsl:comment>#include virtual="/inc/menuSSI.xhtml"</xsl:comment>
-                <div id="boxes"></div>
+                <div id="boxes">
+                                   
+                    <label for="person">Person</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="title">Title</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="genre">Genre</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="nationalCinema">National Cinema</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="place">Place</label>
+                    <input type="radio" id="" name="selector"></input>
+                    
+                    <label for="epit">Epithet</label>
+                    <input type="radio" id="" name="selector"></input>
+                    
+                    <label for="pers sing">Pers Sing</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="pers plur">Pers Plur</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="poss sing">Poss Sing</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="poss plur">Poss Plur</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="collective">Collective</label>
+                    <input type="radio" id="" name="selector"></input>
+                    
+                    <label for="lex">Lex Hes Marks</label>
+                    <input type="radio" id="" name="selector"></input>
+                    <label for="nonlex">Nonlex Hes Marks</label>
+                    <input type="radio" id="" name="selector"></input>
+                    
+                    
+                </div>
                 <div id="rightPanel"></div>
               <div id='centerPanel'>  <xsl:apply-templates/></div>
             </body>
