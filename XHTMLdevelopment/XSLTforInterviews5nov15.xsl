@@ -12,10 +12,13 @@
                 <title>Cinema and Memory</title>
                 <link rel="stylesheet" type="text/css" href="/css/interview.css"/>
                 <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+                <script type="text/javascript" src="/javascript/interview.js"/>
             </head>
             <body>
-<!-- #include virtual="/inc/menuSSI.xhtml"  -->
-                <xsl:apply-templates/>
+ <xsl:comment>#include virtual="/inc/menuSSI.xhtml"</xsl:comment>
+                <div id="boxes"></div>
+                <div id="rightPanel"></div>
+              <div id='centerPanel'>  <xsl:apply-templates/></div>
             </body>
         </html>
 
@@ -69,16 +72,18 @@
 
     <xsl:template match="speech">
         <xsl:variable name="speaker" select="@speaker"/>
+        
+        <h2>   <xsl:if test="@speechtype = 'q'">
+            <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameEng"/>
+        </xsl:if>
+            
+            <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameRus"/>
+            <xsl:text>: </xsl:text>
+            
+        </h2>
         <p>
            
-             <strong>   <xsl:if test="@speechtype = 'q'">
-                    <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameEng"/>
-                </xsl:if>
-
-                <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameRus"/>
-                <xsl:text>: </xsl:text>
-            </strong>
-
+      
             <xsl:apply-templates/>
         </p>
 
