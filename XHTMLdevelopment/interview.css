@@ -1,45 +1,34 @@
-/*CSS for Interviews */
-body {background-color: wheat;}
 
-span.pers.sing
-{color:blue;}
+#centerPanel {
+    position:absolute;
+    width: 50%;
+    margin-left:20%;
+	margin-top:0%;
+	overflow-y:scroll;
+    }
+    
+#boxes {
+    border: 2px;
+    border-color:black;
+    border-style:solid; 
+    position:fixed;
+    width:15%;
+    margin-left:2%;
+    height: 70%;
+}
 
-span.pers.plur
-{color:red;}
+#boxes * {
+    display:block
+    
+}
 
-span.poss.sing
-{color: green;}
-
-span.poss.plur
-{color: fuchsia;}
-
-span.lex
-{color: orange; font-size: 14px;}
-
-span.nonlex
-{color: aqua}
-
-span.collective
-{color: yellowgreen; font-size: 20px;}
-
-span.epit
-{color: sienna;}
-
-span.person
-{color: brown;}
-
-
-span.title
-{color: darkgreen;}
-
-span.genre
-{color: DarkOliveGreen; font-size: 24px;}
-
-span.nationalCinema
-{color: DarkSlateGray; font-size: 32px;}
-
-span.collective
-{font-style: italic;}
-
-span.place
-{color: purple;}
+#rightPanel{
+    border: 2px;
+    border-color:black;
+    border-style:solid; 
+    position:fixed;
+    width:18%;
+    height: 70%;
+    margin-left:80%;
+    overflow-y:auto;
+}
