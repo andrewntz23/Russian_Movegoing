@@ -19,34 +19,34 @@
                 <div id="boxes">
                                    
                     <label for="person">Person</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="person" name="selector"></input>
                     <label for="title">Title</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="title" name="selector"></input>
                     <label for="genre">Genre</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="genre" name="selector"></input>
                     <label for="nationalCinema">National Cinema</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="nationalCinema" name="selector"></input>
                     <label for="place">Place</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="place" name="selector"></input>
                     
                     <label for="epit">Epithet</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="epit" name="selector"></input>
                     
-                    <label for="pers sing">Pers Sing</label>
-                    <input type="radio" id="" name="selector"></input>
-                    <label for="pers plur">Pers Plur</label>
-                    <input type="radio" id="" name="selector"></input>
-                    <label for="poss sing">Poss Sing</label>
-                    <input type="radio" id="" name="selector"></input>
-                    <label for="poss plur">Poss Plur</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <label for="persSing">Personal Singular</label>
+                    <input type="radio" id="persSing" name="selector"></input>
+                    <label for="persPlur">Personal Plural</label>
+                    <input type="radio" id="persPlur" name="selector"></input>
+                    <label for="possSing">Possessive Singular</label>
+                    <input type="radio" id="possSing" name="selector"></input>
+                    <label for="possPlur">Possessive Plural</label>
+                    <input type="radio" id="possPlur" name="selector"></input>
                     <label for="collective">Collective</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="collective" name="selector"></input>
                     
                     <label for="lex">Lex Hes Marks</label>
-                    <input type="radio" id="" name="selector"></input>
-                    <label for="nonlex">Nonlex Hes Marks</label>
-                    <input type="radio" id="" name="selector"></input>
+                    <input type="radio" id="lex" name="selector"></input>
+                    <label for="nonLex">Nonlex Hes Marks</label>
+                    <input type="radio" id="nonLex" name="selector"></input>
                     
                     
                 </div>
