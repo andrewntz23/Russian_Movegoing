@@ -15,7 +15,8 @@
 
 window.spans = document.getElementsByTagName('span');
 window.onload = function(){
-    setBoxes();
+    //setBoxes();
+    setRadios();
     //Set up the #rightPanel scrolling thing to eliminate that issue
     var rightPanel = document.querySelectorAll('#rightPanel');
     rightPanel[0].setAttribute('onmouseover', 'document.body.style.overflow="hidden"');
@@ -24,9 +25,8 @@ window.onload = function(){
 
 function setBoxes(){
     var container = document.getElementById('boxes')
- //   var spans = document.querySelectorAll('span'); 
     var classes = []
-    
+
     for (var i = 0; i < spans.length; i++){
         var thisClass = spans[i].getAttribute('class')
         if (classes.indexOf(thisClass) == -1){
@@ -47,6 +47,16 @@ function setBoxes(){
         container.appendChild(newLabel)
         container.appendChild(newBox)
     }
+}
+
+function setRadios(){
+    var radios = document.querySelectorAll('input');
+    var labels = document.querySelectorAll('label');
+    for (var i = 0; i < radios.length; i++){
+        var id = radios[i].getAttribute('id');
+        radios[i].setAttribute('onclick', 'highlight("'.concat(id, '")'));       
+    }
+    
 }
 
 function highlight(highlightClass) {

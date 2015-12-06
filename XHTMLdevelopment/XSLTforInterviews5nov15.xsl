@@ -106,14 +106,15 @@
     <xsl:template match="speech">
         <xsl:variable name="speaker" select="@speaker"/>
         
-        <h2>   <xsl:if test="@speechtype = 'q'">
+        <h3>   <xsl:if test="@speechtype = 'q'">
             <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameEng"/>
         </xsl:if>
             
             <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameRus"/>
             <xsl:text>: </xsl:text>
             
-        </h2>
+        </h3>
+        
         <p>
            
       
