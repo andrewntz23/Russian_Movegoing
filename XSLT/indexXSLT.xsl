@@ -39,11 +39,11 @@
                         </xsl:for-each>
 
                     </ul>
-                    <xsl:for-each select="$interviews//epit[@ref = $thisid]">
-                        <p>
-                            <xsl:value-of select="."/>
-                        </p>
-                    </xsl:for-each>
+                   <p> <xsl:for-each select="$interviews//epit[@ref = $thisid]">
+                       
+                            <a href="{document-uri(root(.)) }"> <xsl:value-of select="., ' '"/></a>
+                        
+                    </xsl:for-each></p>
                 </xsl:for-each>
 
 
