@@ -43,9 +43,9 @@
                     <label for="collective">Collective</label>
                     <input type="radio" id="collective" name="selector"></input>
                     
-                    <label for="lex">Lex Hes Marks</label>
+                    <label for="lex">Lexical Hesitation Marks</label>
                     <input type="radio" id="lex" name="selector"></input>
-                    <label for="nonLex">Nonlex Hes Marks</label>
+                    <label for="nonLex">Nonlexical Hesitation Marks</label>
                     <input type="radio" id="nonLex" name="selector"></input>
                     
                     
@@ -126,7 +126,7 @@
 
     <!--    Below is a template for pronouns: personal and possessive, singular and plural.-->
     <xsl:template match="pron">
-        <span class="{@type} {@number}">
+        <span class="{@type}{upper-case(substring(@number, 1,1))}{substring(@number, 2)}">
 
             <xsl:apply-templates/>
         </span>
