@@ -145,7 +145,7 @@
             </xsl:if>-->
         <xsl:choose>
             <xsl:when test="@type = 'nonlex'">
-                <span class="nonlex">
+                <span class="nonLex">
                     <xsl:text>...</xsl:text>
                 </span>
             </xsl:when>
