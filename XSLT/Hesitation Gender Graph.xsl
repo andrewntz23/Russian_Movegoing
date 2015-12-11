@@ -30,23 +30,23 @@
                 </xsl:for-each>
 
                 <text x="-50" y="-100" stroke="black" stroke-width="1" font-family="arial"
-                    text-anchor="center" font-weight="normal" fill="black"> 100% </text>
+                     font-weight="normal" fill="black"> 100% </text>
 
                 <!-- Text for the graph               -->
                 <text x="30" y="-250" stroke="black" stroke-width="1" font-family="arial"
-                    text-anchor="center" font-weight="bold" fill="black"> Use of Hesitation Marks in
+                     font-weight="bold" fill="black"> Use of Hesitation Marks in
                     Interviews by Gender (%) </text>
 
                 <text x="30" y="-230" stroke="black" stroke-width="1" font-family="arial"
-                    text-anchor="center" font-weight="normal" fill="black"> Red represents female
+                     font-weight="normal" fill="black"> Red represents female
                     interviewees and blue represents male interviewees. </text>
                 <text x="30" y="-210" stroke="black" stroke-width="1" font-family="arial"
-                    text-anchor="center" font-weight="normal" fill="black"> Interviews are weighted. </text>
+                     font-weight="normal" fill="black"> Interviews are weighted. </text>
                 
                 <!-- the x axis text: -->
                 <text
                     x="45"
-                    y="35" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="35" stroke="black" stroke-width="1" font-family="arial"  font-weight="normal" fill="black"
                     >
                     Total
                 </text>
@@ -55,7 +55,7 @@
                 
                 <text
                     x="30"
-                    y="-110" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="-110" stroke="black" stroke-width="1" font-family="arial"  font-weight="normal" fill="black"
                     >
                     F:59%/M:41%
                 </text>
@@ -63,7 +63,7 @@
                 <!--  labels for the calculated percentage: Lex hes marks           -->
                 <text
                     x="170"
-                    y="35" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="35" stroke="black" stroke-width="1" font-family="arial" font-weight="normal" fill="black"
                     >
                     Lexical hes marks
                 </text>
@@ -71,7 +71,7 @@
           
                 <text
                     x="190"
-                    y="-110" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="-110" stroke="black" stroke-width="1" font-family="arial"  font-weight="normal" fill="black"
                     >
                     F:52%/M:48%
                 </text>
@@ -79,14 +79,14 @@
                 <!--  labels for the calculated percentage: Non lex marks          -->  
                 <text
                     x="330"
-                    y="35" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="35" stroke="black" stroke-width="1" font-family="arial"  font-weight="normal" fill="black"
                     >
                     Non-lexical hes marks
                 </text>
                   
                 <text
                     x="350"
-                    y="-110" stroke="black" stroke-width="1" font-family="arial" text-anchor="center" font-weight="normal" fill="black"
+                    y="-110" stroke="black" stroke-width="1" font-family="arial"  font-weight="normal" fill="black"
                     >
                     F:66%/M:34%
                 </text>
