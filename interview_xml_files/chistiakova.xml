@@ -26,11 +26,11 @@
             который изучает общественную, политическую и культурную историю России через фильмы. Мы
             хотели бы, чтобы Вы рассказали нам о Ваших воспоминаниях от посещения кино; нас особенно
             интересуют детали. На основании Ваших ответов мы напишем эссе, в котором мы
-            проанализируем результаты опроса и напишем о посещении <place ref="movieTheater"
-                >кинотеатр</place>ов в России. Цель этого интервью для нас – узнать как можно больше
-            о конкретных людях и месте кино в их жизни. Большое спасибо за Вашу готовность
-            поделиться вашими воспоминаниями и за Вашу помощь нам. Это интервью будет доступно для
-            прослушивания на интернет- сайте кино-проекта. Если вы не против, давайте мы начнѐм. </speech>
+            проанализируем результаты опроса и напишем о посещении кинотеатров в России. Цель этого
+            интервью для нас – узнать как можно больше о конкретных людях и месте кино в их жизни.
+            Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь
+            нам. Это интервью будет доступно для прослушивания на интернет- сайте кино-проекта. Если
+            вы не против, давайте мы начнѐм. </speech>
         <speech speaker="derevyannykh" speechtype="q">Вы помните первый раз, когда вы ходили в кино? </speech>
         <speech speaker="chistiakova" speechtype="a"><pron type="pers" number="sing">Я</pron> вас,
             навѐрное, огорчу, но дневников <pron type="pers" number="sing">я</pron> не вела в своей
@@ -41,7 +41,7 @@
                 number="sing">я</pron> была маленькая, <pron type="pers" number="plur">мы</pron>
             жили в городе <place ref="rostovOnDon">Ростове-на-Дону</place>, на окраине города. Город
             был очень разрушен, очень пострадал после войны. И шла стройка. И строили, в первую
-            очередь, конечно, не <place ref="movieTheater">кинотеатр</place>ы. В первую очередь
+            очередь, конечно, не <place ref="movieTheater">кинотеатры</place>. В первую очередь
             строили жилые дома и заводы. И <hes type="nonlex"/> Но культурная жизнь не прекращалась.
             Фильмы демонстрировали и по желанию местного совета района, где <pron type="pers"
                 number="plur">мы</pron> жили в Ростове, это было вообще так организовано на Руси.
@@ -68,22 +68,23 @@
         <speech speaker="derevyannykh" speechtype="q">Когда Вы начали ходить в кинотеатры
             одна?</speech>
         <speech speaker="chistiakova" speechtype="a"> А вот когда в <place ref="movieTheater"
-                >кинотеатр</place>ы? Это уже<hes type="nonlex"/> когда<hes type="nonlex"/>
-            <hes type="lex">Ну</hes>, <hes type="lex">наверно</hes>, где-то, когда в седьмом
-                классе <pron type="pers" number="sing">я</pron> была, то уже вот в этом месте <hes
+                >кинотеатры</place>? Это уже<hes type="nonlex"/> когда<hes type="nonlex"/>
+            <hes type="lex">Ну</hes>, <hes type="lex">наверно</hes>, где-то, когда в седьмом классе
+                <pron type="pers" number="sing">я</pron> была, то уже вот в этом месте <hes
                 type="nonlex"/> был построен <place ref="movieTheater">кинотеатр</place>. Очень был
             простой <place ref="movieTheater">кинотеатр</place>. Просто,<hes type="lex"> ну
-            </hes>типа, одноэтажное такое здание <hes type="nonlex"/> совершенно простое, типа вот
-            барачного такого, барак, вот такого стиля. Но не это главное, главное, что там были
-            удобные сидения, они не мягкие были, но это были удобные, отдельные, на каждого сиденья.
-            И был задрапирован экран красиво, таким бархатом тѐмно-синего цвета, вот сейчас помню. В
-            общем, этот <place ref="movieTheater">кинотеатр</place>, это было событие. Вот постройка
-            этого <place ref="movieTheater">кинотеатр</place>а. При всем том
-                <collective>народ</collective> жил в основном в частных домах, вот в этом, строили
-            себе дома частным образом. Вот, но для этого поселка был вот построен <place
-                ref="movieTheater">кинотеатр</place>. Как он назывался, <pron type="pers"
-                number="sing">я</pron> не помню. А нет, помню. Это поселок Чкаловский и <place
-                ref="movieTheater">кинотеатр</place> назывался <place ref="chkalovets"
+            </hes>типа, <epit ref="movieTheater">одноэтажное</epit> такое здание <hes type="nonlex"/>
+            <epit ref="movieTheater">совершенно простое</epit>, типа вот барачного такого, <epit
+                ref="movieTheater">барак</epit>, вот такого стиля. Но не это главное, главное, что
+            там были <epit ref="movieTheater">удобные сидения</epit>, они не мягкие были, но это были
+            удобные, отдельные, на каждого сиденья. И был задрапирован экран красиво, таким бархатом
+            тѐмно-синего цвета, вот сейчас помню. В общем, этот <place ref="movieTheater"
+                >кинотеатр</place>, это было событие. Вот постройка этого <place ref="movieTheater"
+                >кинотеатра</place>. При всем том <collective>народ</collective> жил в основном в
+            частных домах, вот в этом, строили себе дома частным образом. Вот, но для этого поселка
+            был вот построен <place ref="movieTheater">кинотеатр</place>. Как он назывался, <pron
+                type="pers" number="sing">я</pron> не помню. А нет, помню. Это поселок Чкаловский и
+                <place ref="movieTheater">кинотеатр</place> назывался <place ref="chkalovets"
                 >«Чкаловец»</place>. Вот. Кинотеатр «Чкаловец»<hes type="nonlex"/> все. <hes
                 type="lex">Ну</hes>, <person ref="chkalov">Чкалов</person>, вы знаете, кто такой
             Чкалов? Нет? Валерий. Чкалов это <hes type="nonlex"/> выдающийся летчик
@@ -102,7 +103,7 @@
             было для взрослых, два. Это поначалу, потому что <collective>народ</collective> занят
             был очень, школа, и работа. Поэтому просто гонять фильмы не могли, и
                 <collective>народ</collective> могли собрать только в определенное количество
-            времени. Вот <hes type="nonlex"/> Какие фильмы? <hes type="nonlex"/> 
+            времени. Вот <hes type="nonlex"/> Какие фильмы? <hes type="nonlex"/>
             <pron type="pers" number="plur">Мы</pron> ходили редко. В кино <pron type="pers"
                 number="plur">мы</pron> ходили редко, потому что <hes type="nonlex"/> Лично <pron
                 type="pers" number="sing">я</pron> ходила редко, потому что мне не давали денег на
@@ -110,18 +111,18 @@
             мачеха, которая говорила: "Нечего по фильмам там шастать." Поэтому <pron type="pers"
                 number="sing">я</pron> больше сидела в библиотеке и читала. Грустно. Но
             навѐрстывалось потом. И навѐрстывалось потом в <place ref="movieTheater"
-                >кинотеатр</place>ах просмотров фильмов <genre ref="retro">ретро</genre>. Очень
-                любили <pron type="pers" number="plur">мы</pron> ходить смотреть фильмы из так
+                >кинотеатрax</place> просмотров фильмов <genre ref="retro">ретро</genre>. Очень
+            любили <pron type="pers" number="plur">мы</pron> ходить смотреть фильмы из так
             называемой, из фондов <hes type="nonlex"/> Как называется забыла <hes type="nonlex"/>
             <hes type="lex">Ну</hes>
             <genre ref="trophy">то, что у немцев отняли</genre>. Очень много фильмов уже осталось от
             немцев. А это фильмы были зарубежные естественно. Иногда и вообще без перевода. <hes
-                type="nonlex"/> Как же это называется. <hes type="nonlex"/> Фильмы <hes type="nonlex"
-            /> Они и еще те, которые<hes type="nonlex"/> - Золотой фонд. Нет, смотреть фильмы из
-            так называемой, из фондов. Как называется забыла. <hes type="lex">Ну</hes> то, что у
-            немцев отняли. Очень много фильмов уже осталось от немцев. Это были фильмы зарубежные
-            естественно. Иногда и вообще без перевода. Фильмы, те, которые <hes type="nonlex"
-            /></speech>
+                type="nonlex"/> Как же это называется. <hes type="nonlex"/> Фильмы <hes
+                type="nonlex"/> Они и еще те, которые<hes type="nonlex"/> - Золотой фонд. Нет,
+            смотреть фильмы из так называемой, из фондов. Как называется забыла. <hes type="lex"
+                >Ну</hes> то, что у немцев отняли. Очень много фильмов уже осталось от немцев. Это
+            были фильмы зарубежные естественно. Иногда и вообще без перевода. Фильмы, те, которые
+                <hes type="nonlex"/></speech>
         <speech speaker="derevyannykh" speechtype="q">Золотой фонд?</speech>
         <speech speaker="chistiakova" speechtype="a">Нет, нет, нет, нет, нет. Фильмы <genre
                 ref="silent">немого кино</genre>. Это был и <person ref="chaplin">Чаплин</person>,
@@ -136,15 +137,15 @@
             сейчас не помнишь, какие точно это фильмы. Потому что фильмы шли безостановочно. Один
             заканчивался, а второй<hes type="nonlex"/>Брали билеты на два часа. В течение этих
             умная. И вот порой даже сейчас не помнишь, какие это фильмы. Потому что фильмы шли
-            безостановочно. Один заканчивался, а второй<hes type="nonlex"/>  Брали билеты на два часа
+            безостановочно. Один заканчивался, а второй<hes type="nonlex"/> Брали билеты на два часа
             и в течение этих двух часов показывали, ну, какое-то попурри фильмов. И вот они мне не
             запомнились, но это вот один фильм закaнчивался, второй показывали на два часа. <hes
-                type="lex">Ну</hes>, сеанс закончился, два часа, до свидания. Всѐ. Экран гаснет, и ты
-            уходишь. Но в течение этих двух часов это много было фильмов. И были вот, фильмы и
+                type="lex">Ну</hes>, сеанс закончился, два часа, до свидания. Всѐ. Экран гаснет, и
+            ты уходишь. Но в течение этих двух часов это много было фильмов. И были вот, фильмы и
             зарубежные, и с <person ref="dietrich">Марлен Дитрих</person>, и с <person ref="chaplin"
-                >Чарли Чаплиным</person>. Понимаете, вот <pron type="pers" number="sing"
-            >я</pron> сюжетов не могу помнить, это не очень интересно, но вот так актерская игра. И
-            актѐры того времени, конечно, они выделялись на экране и очень запомнились. Это и <person
+                >Чарли Чаплиным</person>. Понимаете, вот <pron type="pers" number="sing">я</pron>
+            сюжетов не могу помнить, это не очень интересно, но вот так актерская игра. И актѐры
+            того времени, конечно, они выделялись на экране и очень запомнились. Это и <person
                 ref="garbo">Гарбо</person>, и <person ref="dietrich">Марлен Дитрих</person>, а вот
             фильмы, в которых они играли, не очень помню. </speech>
         <speech speaker="derevyannykh" speechtype="q">А вы можете назвать даты приблизительно хотя
@@ -170,30 +171,30 @@
                 ref="garin">Гарин</person>, там,<hes type="lex"> ну </hes>там замечательные актѐры.
                 <person ref="ranevskaia">Раневская</person>--это просто. Вот. И из <nationalCinema
                 ref="foreignCinema">зарубежных фильмов</nationalCinema> помню, стояли огромные
-            очереди и так <pron type="pers" number="plur">мы</pron> смотрели фильм, потом выходили из
-                <place ref="movieTheater">кинотеатр</place>а, занимали очередь, опять заходили
+            очереди и так <pron type="pers" number="plur">мы</pron> смотрели фильм, потом выходили
+            из <place ref="movieTheater">кинотеатра</place>, занимали очередь, опять заходили
             смотрели фильм, это <title ref="greatWaltz">Большой вальс</title>. </speech>
         <speech speaker="derevyannykh" speechtype="q">Это чья (картина)?</speech>
         <speech speaker="chistiakova" speechtype="a">По-моему, это <nationalCinema
                 ref="austrianCinema">австрийский</nationalCinema>
             <hes type="nonlex"/> фильм <hes type="nonlex"/> жизнь <person ref="strauss"
                 >Штрауса</person>, <person ref="strauss">Иогана Штрауса</person>, его творчество.
-            Фильм <title ref="greatWaltz">Большой вальс</title> — это просто замечательный
-                фильм. <pron type="pers" number="plur">Мы</pron> смотрели его. Его периодически
-            показывали. Вот его покажут. <pron type="pers" number="sing">Я</pron> не могу сказать,
-                что <pron type="pers" number="plur">мы</pron> были привязаны к какой-то тематике. <pron
+            Фильм <title ref="greatWaltz">Большой вальс</title> — это просто замечательный фильм.
+                <pron type="pers" number="plur">Мы</pron> смотрели его. Его периодически показывали.
+            Вот его покажут. <pron type="pers" number="sing">Я</pron> не могу сказать, что <pron
+                type="pers" number="plur">мы</pron> были привязаны к какой-то тематике. <pron
                 type="pers" number="plur"> Мы </pron> были привязаны к прекрасному, к красивому, к
             тому, что <hes type="nonlex"/><hes type="lex"> ну </hes>находило отклик
                     в<collective><pron type="poss" number="plur">нашей</pron></collective> душе. Это
             была не одна я. Это <pron type="pers" number="plur">мы</pron> группой ходили. <hes
                 type="lex">Ну</hes>, классом не ходили, потому что <pron type="pers" number="plur"
-                >мы</pron> учились вечером, в вечернее время. Школа <pron type="poss" number="plur">у
-                нас</pron> была дневная. Но школа была очень загруженная. Училась школа в три смены.
-                Вот <pron type="pers" number="plur">мы</pron>, как старшеклассники, учились в третью
-            смену. Это вечернее время, а днѐм <pron type="pers" number="plur">мы</pron> работали. Нам
-            некогда было в кино ходить. Вот. Так что видите, <pron type="pers" number="sing"
-            >я</pron> вам о кино мало что расскажу. Но, фильмы, которые мы, <collective><pron
-                    type="poss" number="plur">наши</pron></collective>
+                >мы</pron> учились вечером, в вечернее время. Школа <pron type="poss" number="plur"
+                >у нас</pron> была дневная. Но школа была очень загруженная. Училась школа в три
+            смены. Вот <pron type="pers" number="plur">мы</pron>, как старшеклассники, учились в
+            третью смену. Это вечернее время, а днѐм <pron type="pers" number="plur">мы</pron>
+            работали. Нам некогда было в кино ходить. Вот. Так что видите, <pron type="pers"
+                number="sing">я</pron> вам о кино мало что расскажу. Но, фильмы, которые мы,
+                    <collective><pron type="poss" number="plur">наши</pron></collective>
             <nationalCinema ref="ourCinema">отечественные</nationalCinema> фильмы <pron type="pers"
                 number="plur">мы</pron>
             <collective>все</collective> с удовольствием смотрели. Потому что <pron type="pers"
@@ -206,21 +207,21 @@
         <speech speaker="derevyannykh" speechtype="q">Сколько лет в среднем было людям, которые
             ходили в кино утром, днѐм, вечером? </speech>
         <speech speaker="chistiakova" speechtype="a">Вечером это <hes type="nonlex"/> ходили, вот
-            можно даже сказать, семьями. Вот когда <hes type="nonlex"/> Во-первых, чѐтко соблюдалось,
-            детям до шестнадцати, до семнадцати лет ходить нельзя. Значит, они вот оставались дома.
-            А семья остальная шла в кино. То есть, фильмы смотрели семьями. Вот это было чѐтко,
-            потому что не зря был лозунг о том, что "самое массовое искусство -- это кино." Больше
-            некуда было пойти. Театров ещѐ тогда не было. Не восстановлены были театры после войны
-            долго. Они восстановились где-то уже в середине семидесятых годов, шестьдесят третий,
-            шестьдесят четвѐртый. А вот до этого, конечно, вот фильмы. Кинотеатры, они очень,
-            конечно, посещались. Посещаемы были. Но так как <pron type="pers" number="plur"
-                >мы</pron> жили вот на окранине, <pron type="poss" number="sing">моя</pron> личная
-            жизнь сложилась так, что <pron type="pers" number="sing">я</pron> ходила в кино
-            мало.</speech>
+            можно даже сказать, семьями. Вот когда <hes type="nonlex"/> Во-первых, чѐтко
+            соблюдалось, детям до шестнадцати, до семнадцати лет ходить нельзя. Значит, они вот
+            оставались дома. А семья остальная шла в кино. То есть, фильмы смотрели семьями. Вот это
+            было чѐтко, потому что не зря был лозунг о том, что "самое массовое искусство -- это
+            кино." Больше некуда было пойти. Театров ещѐ тогда не было. Не восстановлены были театры
+            после войны долго. Они восстановились где-то уже в середине семидесятых годов,
+            шестьдесят третий, шестьдесят четвѐртый. А вот до этого, конечно, вот фильмы.
+            Кинотеатры, они очень, конечно, посещались. Посещаемы были. Но так как <pron type="pers"
+                number="plur">мы</pron> жили вот на окранине, <pron type="poss" number="sing"
+                >моя</pron> личная жизнь сложилась так, что <pron type="pers" number="sing">я</pron>
+            ходила в кино мало.</speech>
         <speech speaker="derevyannykh" speechtype="q">Разные группы сидели в разных частях кинозала? </speech>
         <speech speaker="chistiakova" speechtype="a"> Вы знаете, если это семья, вся семья сидела
             семьѐй. Если это группа друзей, они все сидели рядом. И очень почтительное отношение в
-            то время было к <place ref="movieTheater">кинотеатр</place>ам и кино.<collective><pron
+            то время было к <place ref="movieTheater">кинотеатрам</place> и кино.<collective><pron
                     type="poss" number="plur">У нас</pron></collective><hes type="nonlex"/> как
             только выключался свет, наступала мѐртвая тишина. Никто не ходил. Никто. То есть
             абсолютная тишина. Никто не ходил. Никто. То есть, вот абсолютная тишина и всѐ внимание
@@ -230,9 +231,9 @@
                 type="nonlex"/> значит, журнал новостей, то всѐ. Если кто-то входил, то он ползком
             проходил, так чтобы тихо, чтобы никому не мешать, и садился на свободное место. То есть
             очень, очень почтительно относилась вся публика к действию на экране и на сцене. Потом,
-                это <pron type="pers" number="sing">я</pron> вам говорю о рабочем посѐлке и <place
-                ref="movieTheater">кинотеатр</place>е рабочего посѐлка. В центре города уже вот
-            ближе к шестидесятым годам <place ref="movieTheater">кинотеатр</place>ы были перед
+            это <pron type="pers" number="sing">я</pron> вам говорю о рабочем посѐлке и <place
+                ref="movieTheater">кинотеатре</place> рабочего посѐлка. В центре города уже вот
+            ближе к шестидесятым годам <place ref="movieTheater">кинотеатры</place> были перед
             началом сеанса обязательно такая небольшая в фойе сцена, и на этой сцене обязательно
             публику развлекал какой-нибудь оркестр или какой- нибудь певец. Это было во всех <place
                 ref="movieTheater">кинотеатрах</place><hes type="lex"> ну </hes>в центре города, в
@@ -247,8 +248,8 @@
             вот <collective>люди</collective> шли как в театр, поэтому они одевались <hes
                 type="nonlex"/> ну, во что-то нарядное, обязательно одевались в нарядное и так чтобы
             как в старину, и бабушки говорили шли на людей посмотреть и себя показать.</speech>
-        <speech speaker="derevyannykh" speechtype="q">Были в <place ref="movieTheater"
-                >кинотеатр</place>е билетѐры? Сколько им обычно было лет? </speech>
+        <speech speaker="derevyannykh" speechtype="q">Были в кинотеатре билетѐры? Сколько им обычно
+            было лет? </speech>
         <speech speaker="chistiakova" speechtype="a">Билет стоил помню, самый первый билет на <pron
                 type="poss" number="sing">моей</pron> памяти стоил тридцать копеек. Тридцать копеек
             стоил билет. И, конечно, билетѐры были. Билеты отрывали, проходили. Вот. Но так как
@@ -258,10 +259,10 @@
         <speech speaker="derevyannykh" speechtype="q">Где вы любили сидеть и почему? </speech>
         <speech speaker="chistiakova" speechtype="a">Не важно. Не было такого. Вообще, <pron
                 type="pers" number="sing">я</pron> не люблю сидеть по центру. <pron type="pers"
-                number="sing">Я</pron> люблю сидеть сбоку. <hes type="lex">Наверно</hes>, в силу <pron
-                type="poss" number="sing">моего</pron> роста. Рост маленький, и если вот сидишь
-            прямо и впереди тебя сидит кто-нибудь высокий, то всѐ. Это надо было как- нибудь так
-            сидеть. А если сидишь сбоку, то где-то так маневрируешь и всѐ видно. Только этим
+                number="sing">Я</pron> люблю сидеть сбоку. <hes type="lex">Наверно</hes>, в силу
+                <pron type="poss" number="sing">моего</pron> роста. Рост маленький, и если вот
+            сидишь прямо и впереди тебя сидит кто-нибудь высокий, то всѐ. Это надо было как- нибудь
+            так сидеть. А если сидишь сбоку, то где-то так маневрируешь и всѐ видно. Только этим
             определялось. Потому что билеты были абсолютно одинаковые, независимо от того, какое
             место. Входной билет был по одной цене. </speech>
         <speech speaker="derevyannykh" speechtype="q">Фильмы были немые или звуковые? Черно-белые
@@ -277,10 +278,10 @@
             черно-белые, и немые. А цветные пошли гораздо позже, <hes type="lex">наверно</hes>,
             всѐ-таки. Где-то уже к шестидесятым годам. Широкопанорамные фильмы. Это были вот там
             шестьдесят первый, шестьдесят второй год. Широкоформатные. Для этого были построены у
-            нас два <place ref="movieTheater">кинотеатр</place>а. В центре города, в <place
+            нас два <place ref="movieTheater">кинотеатра</place>. В центре города, в <place
                 ref="rostovOnDon">Ростове-на-Дону</place>. И было только отдельных два <place
-                ref="movieTheater">кинотеатр</place>а, где можно было посмотреть широкоформатные
-            фильмы. А потому что Кинотеатры типа <place ref="chkalovets">"Чкаловец"</place><hes
+                ref="movieTheater">кинотеатра</place>, где можно было посмотреть широкоформатные
+            фильмы. А потому что kинотеатры типа <place ref="chkalovets">"Чкаловец"</place><hes
                 type="nonlex"/> это строили <hes type="nonlex"/>
             <hes type="lex">Ну</hes>, то есть в тот момент, когда его строили, был только один тип
             экранов небольших. И поэтому, чтобы стали, чтобы посмотреть широкоформатный фильм,
@@ -297,12 +298,12 @@
                     >нашей</pron></collective> классике, по <person ref="chekhov">Чехову</person>,
             это <hes type="nonlex"/> по <person ref="dostoevskii">Достоевскому</person>, потому что
             классика, она всегда востребована. И порой человек не прочитает книгу. Ему некогда было.
-            Время было такое, что очень много приходилось <collective>людям</collective> работать. На
-            производстве. И потом на себя. И строить дом или что-то. Поэтому читать времени у
-                <collective>людей</collective> было мало. <pron type="pers" number="sing">Я</pron> вам
-            говорю, ребята, в основном о рабочей среде. Среда рабочая. Вот<hes type="nonlex"/> А в
-            школе <collective>все</collective> проходили обязательную программу. Это классика. Если
-            не всего читали, то фрагментами читали. Того же <person ref="dostoevskii"
+            Время было такое, что очень много приходилось <collective>людям</collective> работать.
+            На производстве. И потом на себя. И строить дом или что-то. Поэтому читать времени у
+                <collective>людей</collective> было мало. <pron type="pers" number="sing">Я</pron>
+            вам говорю, ребята, в основном о рабочей среде. Среда рабочая. Вот<hes type="nonlex"/> А
+            в школе <collective>все</collective> проходили обязательную программу. Это классика.
+            Если не всего читали, то фрагментами читали. Того же <person ref="dostoevskii"
                 >Достоевского</person>, того же <person ref="tolstoi2">Толстого, Алексея</person>,
                 <person ref="tolstoi"> Льва</person>. <person ref="turgenev">Тургенева</person>. И
             если видели фильмы на эту тему, классику, <collective>все</collective> шли. Это
@@ -310,8 +311,8 @@
                 <collective>всех</collective>. Одни это шли, потому что это просто интересно было,
             другие шли сознательно, что <pron type="pers" number="sing">я</pron> не читала, но хоть
             посмотрю. </speech>
-        <speech speaker="derevyannykh" speechtype="q">В <place ref="movieTheater"
-            >кинотеатр</place>ах часто показывали иностранные фильмы? Из каких стран? </speech>
+        <speech speaker="derevyannykh" speechtype="q">В кинотеатрах часто показывали иностранные
+            фильмы? Из каких стран? </speech>
         <speech speaker="chistiakova" speechtype="a">
             <hes type="nonlex"/>
             <hes type="lex">Ну</hes> вот, конечно<hes type="nonlex"/> В общем, вот эти <genre
@@ -325,26 +326,26 @@
             и смотрели с удовольствием. </speech>
         <speech speaker="derevyannykh" speechtype="q">Вы помните, какой-нибудь фильм, у которого
             были проблемы с выходом на экран? </speech>
-        <speech speaker="chistiakova" speechtype="a"> Вы знаете, мне, <pron type="pers" number="sing"
-                >я</pron> такого не помню, <pron type="pers" number="sing">я</pron> такого не помню.
-            Это потому, что <pron type="pers" number="plur">мы</pron> были далеки от этих
-            политических игр. <pron type="pers" number="plur">Мы</pron> были далеки,
+        <speech speaker="chistiakova" speechtype="a"> Вы знаете, мне, <pron type="pers"
+                number="sing">я</pron> такого не помню, <pron type="pers" number="sing">я</pron>
+            такого не помню. Это потому, что <pron type="pers" number="plur">мы</pron> были далеки
+            от этих политических игр. <pron type="pers" number="plur">Мы</pron> были далеки,
                     совершенно.<collective><pron type="poss" number="plur">У
             нас</pron></collective>была интересная жизнь, в детстве была интересная жизнь. В школе
             это художественная самодеятельность, этo смотры, это <hes type="nonlex"/>. и <pron
                 type="pers" number="plur">мы</pron> довольствовались, что ли, тем, что нам
             показывали вполне. Поэтому какие там проблемы, которые обязательно сопутствовали
             фильмам, вот его поставят, а потом в прокат не пускают. <pron type="pers" number="plur"
-                >Мы</pron> этого просто не знали. Это <pron type="pers" number="sing">я</pron> сейчас
-            узнаю, когда <pron type="pers" number="sing">я</pron> смотрю разоблачительные
-                программы <pron type="poss" number="plur">нашего</pron> телевидения. Сейчас это
-            узнаю. Раньше <pron type="pers" number="plur">мы</pron> этого не знали. <pron
-                type="pers" number="plur">Мы</pron> радовались тому, что нам показывали. </speech>
+                >Мы</pron> этого просто не знали. Это <pron type="pers" number="sing">я</pron>
+            сейчас узнаю, когда <pron type="pers" number="sing">я</pron> смотрю разоблачительные
+            программы <pron type="poss" number="plur">нашего</pron> телевидения. Сейчас это узнаю.
+            Раньше <pron type="pers" number="plur">мы</pron> этого не знали. <pron type="pers"
+                number="plur">Мы</pron> радовались тому, что нам показывали. </speech>
         <speech speaker="derevyannykh" speechtype="q">Как вы узнавали о репертуаре кинотеатров? </speech>
         <speech speaker="chistiakova" speechtype="a">Афиши. В начале <pron type="pers" number="sing"
                 >я</pron> вам говорила. В начале это был опрос <hes type="nonlex"/>
             <pron type="poss" number="plur">нашего</pron>, вот <hes type="nonlex"/> комитета.
-            Значит, комитет этой округи, который, "Ты чего хотел посмотреть?  -Да вот <title
+            Значит, комитет этой округи, который, "Ты чего хотел посмотреть? -Да вот <title
                 ref="chapaev">Чапаева</title>. -А ты чего? -<title ref="admiralUshakov">Про
                 Ушакова"</title>, и так далее. Вот это собиралось и передавалось в соответствующие
             инстанции, и на основании опросов приносили и показывали. Когда фильм, когда построили
@@ -355,14 +356,14 @@
             времени? </speech>
         <speech speaker="chistiakova" speechtype="a">После советского? Как реклама изменилась с
             советского времени? С тех времѐн. <hes type="lex">Ну</hes>, начнем с того, что за
-            девяностые годы все <place ref="movieTheater">кинотеатр</place>ы практически закрыли. Их
+            девяностые годы все <place ref="movieTheater">кинотеатры</place> практически закрыли. Их
             перепрофилировали в торговые точки. Это было очень грустно. Вместо того, чтобы кино в
-                    массы, <collective><pron type="poss" number="plur">у нас</pron></collective>кино
-            всѐ закрыли, <place ref="movieTheater">кинотеатр</place>ы. И сейчас в городе <pron
-                type="poss" number="plur">у нас </pron><place ref="movieTheater">кинотеатр</place>ы
+            массы, <collective><pron type="poss" number="plur">у нас</pron></collective>кино всѐ
+            закрыли, <place ref="movieTheater">кинотеатры</place>. И сейчас в городе <pron
+                type="poss" number="plur">у нас </pron><place ref="movieTheater">кинотеатры</place>
             по пальцам счесть буквально. На Невском там три <place ref="movieTheater"
-                >кинотеатр</place>а. А так<collective><pron type="poss" number="plur">у нас
-                </pron></collective>были <place ref="movieTheater">кинотеатр</place>ы
+                >кинотеатра</place>. А так<collective><pron type="poss" number="plur">у нас
+                </pron></collective>были <place ref="movieTheater">кинотеатры</place>
             специализированные. Кинотеатры были <place ref="knowledgePower">"Знание Сила"</place>.
             Кинотеатр <hes type="nonlex"/> в котором ты смотришь что-то специальное, что тебя
             интересует. Про НЛО. То есть, специализированные <place ref="knowledgePower">"Знание и
@@ -370,7 +371,7 @@
                 <genre ref="classics">классику</genre> или просто какие-то <nationalCinema
                 ref="foreignCinema">импортные, зарубежные фильмы</nationalCinema>. Вот,
                 <collective>люди</collective> смотрели такие фильмы. <hes type="nonlex"/> А <place
-                ref="movieTheater">кинотеатр</place>ы были из расчѐта населѐнный пункт небольшой,
+                ref="movieTheater">кинотеатры</place> были из расчѐта населѐнный пункт небольшой,
             обязательно, <place ref="movieTheater">кинотеатр</place>. Какой-то район, обязательно
                 <place ref="movieTheater">кинотеатр</place>. <pron type="poss" number="plur">У
                 нас</pron> здесь не успели построить, вот тут вот прямо на углу, прямо дом сорок
@@ -380,35 +381,35 @@
             строить. Кинотеатры закрыли. Поэтому реклама она соответственно. Если фильм какой-то
             надо было очень <hes type="nonlex"/> популяризировать, чтобы широко среди
                 <collective>людей</collective> он, вот эту рекламу на всех<hes type="nonlex"/> на
-            улицах, на столбах вот обязательно показывали рекламы, какой фильм надо смотреть, то есть
-            вот-вот надо смотреть. Кто-то шел на эту рекламу, кто-то не шел. </speech>
+            улицах, на столбах вот обязательно показывали рекламы, какой фильм надо смотреть, то
+            есть вот-вот надо смотреть. Кто-то шел на эту рекламу, кто-то не шел. </speech>
         <speech speaker="derevyannykh" speechtype="q">У Вас был телевизор? Когда Вы купили его, Вы
             ходили в кино больше или меньше? </speech>
         <speech speaker="chistiakova" speechtype="a"><hes type="nonlex"/> Телевизор когда купили,
                 <pron type="pers" number="plur">мы</pron> смотрели фильмов больше, конечно, по
-            телевизору, потому что<hes type="lex"> ну </hes>это, <hes type="lex">ну</hes>, не уходя из дома, как говорится,
-                но<hes type="nonlex"/> Но! но если шел такой широкоформатный панорамный фильм, то,
-            конечно, <pron type="pers" number="plur">мы</pron> шли в <place ref="movieTheater"
-                >кинотеатр</place>. Это в основном,<hes type="lex"> ну </hes>нам просто близко
-            здесь, это <place ref="kinoteatrAurora">Аврора</place>, это последний фильм по <person
-                ref="turgenev">Тургеневу</person><hes type="nonlex"/> По <person ref="turgenev"
-                >Тургеневу</person>, как фильм называется не помню. Но <hes type="nonlex"/>но
-            панорамный фильм, и он очень хорошо было показано природа, природа вот средней полосы
-            России, природа с великолепными этими парками, в которых строились когда-то барские
-            усадьбы. И вот эти вот<hes type="nonlex"/> Вся природа, вся вот эта панорама, она
-            переносила человека в ту среду, это по телевизору это не увидишь, поэтому на такие
-            фильмы <pron type="pers" number="plur">мы</pron> шли в <place ref="movieTheater"
-                >кинотеатр</place> и смотрели. И опять-таки это уже как бы какая реклама ни была,
-            сами ведь <collective>люди</collective> понимают, что хорошо, что плохо, надо ли тебе
-            это смотреть или не надо. Кто-то идет смотреть <title ref="gladiator"
-            >Гладиатора</title>, кто-то идет смотреть <title ref="mumu">Муму</title>. То есть
-            совершенно разные. Все? </speech>
+            телевизору, потому что<hes type="lex"> ну </hes>это, <hes type="lex">ну</hes>, не уходя
+            из дома, как говорится, но<hes type="nonlex"/> Но! но если шел такой широкоформатный
+            панорамный фильм, то, конечно, <pron type="pers" number="plur">мы</pron> шли в <place
+                ref="movieTheater">кинотеатр</place>. Это в основном,<hes type="lex"> ну </hes>нам
+            просто близко здесь, это <place ref="kinoteatrAurora">Аврора</place>, это последний
+            фильм по <person ref="turgenev">Тургеневу</person><hes type="nonlex"/> По <person
+                ref="turgenev">Тургеневу</person>, как фильм называется не помню. Но <hes
+                type="nonlex"/>но панорамный фильм, и он очень хорошо было показано природа, природа
+            вот средней полосы России, природа с великолепными этими парками, в которых строились
+            когда-то барские усадьбы. И вот эти вот<hes type="nonlex"/> Вся природа, вся вот эта
+            панорама, она переносила человека в ту среду, это по телевизору это не увидишь, поэтому
+            на такие фильмы <pron type="pers" number="plur">мы</pron> шли в <place
+                ref="movieTheater">кинотеатр</place> и смотрели. И опять-таки это уже как бы какая
+            реклама ни была, сами ведь <collective>люди</collective> понимают, что хорошо, что
+            плохо, надо ли тебе это смотреть или не надо. Кто-то идет смотреть <title
+                ref="gladiator">Гладиатора</title>, кто-то идет смотреть <title ref="mumu"
+                >Муму</title>. То есть совершенно разные. Все? </speech>
         <speech speaker="derevyannykh" speechtype="q">Вы помните фильмы во время войны? После войны?
             В восьмидесятые годы? Во время перестройки? </speech>
         <speech speaker="chistiakova" speechtype="a">Значит, во время войны <pron type="pers"
-                number="sing">я</pron> была маленькая, <pron type="pers" number="sing"
-            >я</pron> родилась, поэтому <pron type="pers" number="sing">я</pron> ничего не помню во
-            время войны. После, после войны вот <pron type="pers" number="sing">я</pron> вам сказала,
+                number="sing">я</pron> была маленькая, <pron type="pers" number="sing">я</pron>
+            родилась, поэтому <pron type="pers" number="sing">я</pron> ничего не помню во время
+            войны. После, после войны вот <pron type="pers" number="sing">я</pron> вам сказала,
             помню очень самый,<hes type="lex"> ну </hes>по-моему это один из первых фильмов был это
             вот <title ref="chapaev">Чапаев</title>. Вот из <hes type="nonlex"/><collective><pron
                     type="poss" number="plur">наших</pron></collective> фильмов <hes type="nonlex"
@@ -424,19 +425,19 @@
                 type="pers" number="plur">мы</pron> ходили меньше и реже. Во время перестройки? А во
             время перестройки <pron type="pers" number="plur">мы</pron> просто перестали ходить на
             фильмы, потому что <pron type="poss" number="plur">наши</pron> ближайшие <place
-                ref="movieTheater">кинотеатр</place>ы все закрылись. Это, а <place
-                ref="movieTheater">кинотеатр </place><pron type="poss" number="plur">у нас</pron> был
-                <place ref="priboi">Прибой</place>, но некоторые фильмы, типа такой есть <hes
+                ref="movieTheater">кинотеатры</place> все закрылись. Это, а <place
+                ref="movieTheater">кинотеатр </place><pron type="poss" number="plur">у нас</pron>
+            был <place ref="priboi">Прибой</place>, но некоторые фильмы, типа такой есть <hes
                 type="nonlex"/> фильма о подводниках <pron type="pers" number="plur">мы</pron>
             смотрели, ходили, потому что это было<collective><pron type="poss" number="plur"
                     >наше</pron></collective> профессиональное. </speech>
-        <speech speaker="derevyannykh" speechtype="q">Что вы думаете об изменениях в <place
-                ref="movieTheater">кинотеатр</place>ах сейчас? </speech>
+        <speech speaker="derevyannykh" speechtype="q">Что вы думаете об изменениях в кинотеатрах
+            сейчас? </speech>
         <speech speaker="chistiakova" speechtype="a">
             <hes type="lex">Ну</hes><pron type="pers" number="sing">я</pron> думаю, что в конце
             концов все равно придут, сейчас начинают <collective>людей</collective>
             <hes type="nonlex"/><hes type="lex"> ну </hes>привлекать к <place ref="movieTheater"
-                >кинотеатр</place>ам, начинают привлекать, и показом таких вот фильмов как
+                >кинотеатрам</place>, начинают привлекать, и показом таких вот фильмов как
                 сейчас<hes type="nonlex"/> Как этот период <hes type="nonlex"/> Ледниковый, <title
                 ref="iceAge">Ледниковый период</title>, <title ref="gladiator">Гладиаторы</title>
             <collective><pron type="poss" number="plur">у нас</pron></collective>, причем <pron
@@ -444,7 +445,7 @@
             на этих <hes type="nonlex"/> всяких <hes type="nonlex"/> в офисах где нибудь. Там, где
             проводится всякий маркетинг. Если кто-то там выигрывает, то вручались вот эти билеты.
             Чтобы привлечь. Но, видимо, не очень удается, потому что на окраинах <place
-                ref="movieTheater">кинотеатр</place>ы не ожили.</speech>
+                ref="movieTheater">кинотеатры</place> не ожили.</speech>
         <speech speaker="derevyannykh" speechtype="q">А вы сейчас ходите в кино? </speech>
         <speech speaker="chistiakova" speechtype="a">Нет.</speech>
         <speech speaker="derevyannykh" speechtype="q">Почему нет? </speech>
@@ -458,8 +459,8 @@
                 >я</pron> не хожу сейчас, то мало. А то, что иногда посмотришь, не впечатляет. А уже
             то что там<hes type="nonlex"/>. Действие всякие<hes type="nonlex"/> Нет, не нравится. А
             то что показывают здесь вот, эти сериалы<hes type="nonlex"/>
-            <hes type="lex">Ну</hes> вот видите как мало <pron type="pers" number="sing">я</pron> вам
-            всего рассказала.</speech>
+            <hes type="lex">Ну</hes> вот видите как мало <pron type="pers" number="sing">я</pron>
+            вам всего рассказала.</speech>
         <speech speaker="derevyannykh" speechtype="q">Нет. Вы рассказали очень много, Галина
             Нестеровна. Столько информации. Нам еѐ только, только изучать и изучать. Спасибо
             большое.</speech>
