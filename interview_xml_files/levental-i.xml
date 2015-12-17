@@ -155,7 +155,7 @@
 				<pron type="pers" number="plur">мы</pron> ходили в <place ref="movieTheater">кинотеатр</place> с учительницей, и всем
 			классом <hes type="nonlex"/> а потом одна с друзьями <hes type="nonlex"/> Знаете там был
 			перерыв, было время в девяностые годы, было время, когда <collective>люди</collective>
-			не ходили в <place ref="movieTheater">кинотеатр</place>ы, почти. И потом <pron type="pers" number="plur">мы</pron> стали
+			не ходили в <place ref="movieTheater">кинотеатры</place>, почти. И потом <pron type="pers" number="plur">мы</pron> стали
 			снова ходить в кино с друзьями. <pron type="pers" number="sing">Я</pron> думаю мне было
 			14 лет. Да? Вместе с друзьями. </speech>
 		<speech speaker="faith" speechtype="q"> Вам нравилось ходить в кино одна или сама? И почему? </speech>
@@ -277,7 +277,7 @@
 			коммерческого кино, да? Не очень, <pron type="pers" number="sing">я</pron> не люблю.
 				<pron type="pers" number="sing">Я</pron> смотрю много фильмов, но <hes type="nonlex"/>
 			<pron type="pers" number="sing">я</pron> не хожу в <place ref="movieTheater">кинотеатры</place> <hes type="nonlex"/> ну, в
-			эти <place ref="movieTheater">кинотеатр</place>ы, где идет, где идут фильмы, которые смотрит весь мир одновременно. Да?
+			эти <place ref="movieTheater">кинотеатры</place>, где идет, где идут фильмы, которые смотрит весь мир одновременно. Да?
 			Да, сейчас <pron type="pers" number="sing">я</pron> смотрю другие <hes type="nonlex"/>
 			Но в основном это <genre ref="drama">драмы</genre>, <genre ref="psychologicalThriller"
 				>психологические драмы</genre>. Иногда <genre ref="horror">триллеры</genre>, иногда
@@ -442,7 +442,7 @@
 		<speech speaker="leventalIrina" speechtype="a"> С друзьями. С друзьями. Конечно, с друзьями
 			и подругами. Или парочки. Знаете парочки, да? Мальчики и молодые девушки вместе. <hes
 				type="lex">Ну</hes> и молодые семьи. Вот. </speech>
-		<speech speaker="faith" speechtype="q"> В <place ref="movieTheater">кинотеатр</place> были очереди? </speech>
+		<speech speaker="faith" speechtype="q"> В кинотеатр были очереди? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Очереди? Были раньше или сейчас? </speech>
 		<speech speaker="faith" speechtype="q"> Раньше. </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Нет, <pron type="pers" number="sing"
@@ -456,7 +456,7 @@
 		<speech speaker="faith" speechtype="q"> Вы помните когда бы ждали в очереди? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Когда, что? </speech>
 		<speech speaker="faith" speechtype="q"> Когда, когда-то вы ждали в очереди? </speech>
-		<speech speaker="leventalIrina" speechtype="a"> В очереди? В <place ref="movieTheater">кинотеатр</place>е? <hes type="nonlex"
+		<speech speaker="leventalIrina" speechtype="a"> В очереди? В <place ref="movieTheater">кинотеатре</place>? <hes type="nonlex"
 			/> Да, да,<hes type="lex"> ну </hes>на фестивале. А так нет. </speech>
 		<speech speaker="faith" speechtype="q"> Разные группы людей сидели в разных частях кинозала? </speech>
 		<speech speaker="leventalIrina" speechtype="a">
@@ -468,12 +468,12 @@
 			есть свободные места, то <collective>люди</collective> садятся в центр. В центр зала,
 			чтобы видеть <hes type="nonlex"/> прямо так. </speech>
 		<speech speaker="faith" speechtype="q"> Люди шумели или вели себя тихо во время сеанса? </speech>
-		<speech speaker="leventalIrina" speechtype="a"> Знаете, это зависит от <place ref="movieTheater">кинотеатр</place>а, да?
-			Потому что есть эти <place ref="movieTheater">кинотеатр</place>ы, которые показывают <genre ref="commercialCinema"
+		<speech speaker="leventalIrina" speechtype="a"> Знаете, это зависит от <place ref="movieTheater">кинотеатра</place>, да?
+			Потому что есть эти <place ref="movieTheater">кинотеатры</place>, которые показывают <genre ref="commercialCinema"
 				>коммерческое массовое кино</genre>, и там конечно <collective>люди</collective>
 			<hes type="nonlex"/> да, <collective>люди</collective> там часто шумят. Они могут
 			разговаривать по телефону, или они могут разговаривать вслух, или есть, или пить, или
-			что-то комментировать. да. Но в Пeтербурге в том числе есть как минимум два <place ref="movieTheater">кинотеатр</place>а,
+			что-то комментировать. да. Но в Пeтербурге в том числе есть как минимум два <place ref="movieTheater">кинотеатра</place>,
 			где ситуация немного другая. Там люди смотрят кино тихо. Там просто показывают немного
 			другие фильмы. Да? То есть вот не мейнстрим, да? Понятно? То есть, современные да, но не
 				<hes type="nonlex"/> как сказать, как же это называется? <genre ref="blockbuster"
@@ -482,15 +482,15 @@
 
 		<speech speaker="faith" speechtype="q"> Как люди одевались в кино? Нарядно или обычно? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Обычно. </speech>
-		<speech speaker="faith" speechtype="q"> Вы знали люди, которые работали в <place ref="movieTheater">кинотеатр</place>е? </speech>
+		<speech speaker="faith" speechtype="q"> Вы знали люди, которые работали в <place ref="movieTheater">кинотеатре</place>? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Нет, нет, нет, <pron type="poss"
-				number="sing">у меня</pron> нет знакомых, которые работали в <place ref="movieTheater">кинотеатр</place>е. </speech>
-		<speech speaker="faith" speechtype="q"> Какая была атмосфера в <place ref="movieTheater">кинотеатр</place>е? </speech>
+				number="sing">у меня</pron> нет знакомых, которые работали в <place ref="movieTheater">кинотеатре</place>. </speech>
+		<speech speaker="faith" speechtype="q"> Какая была атмосфера в кинотеатре? </speech>
 
 		<speech speaker="leventalIrina" speechtype="a">
 			<hes type="nonlex"/> Ну, хорошая, весёлая, да. Нормальная, свободная, нормально было. </speech>
-		<speech speaker="faith" speechtype="q"> Опишите <place ref="movieTheater">кинотеатр</place>. Если можно, сравните с
-			<place ref="movieTheater">кинотеатрами</place> сейчас. </speech>
+		<speech speaker="faith" speechtype="q"> Опишите кинотеатр. Если можно, сравните с
+			кинотеатрами сейчас. </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Ну, так, теперь мне нужно понять, какой
 			<place ref="movieTheater">кинотеатр</place> вам описывать. Какой<hes type="nonlex"/> Раньше или тогда? Если <pron
 				type="pers" number="sing">я</pron> говорю о студенческих годах, <pron type="poss"
@@ -504,7 +504,7 @@
 		<speech speaker="faith" speechtype="q"> А в детстве и сейчас? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> В детстве и сейчас? Конечно, конечно. Совсем
 			другая история. Конечно, советские <place ref="movieTheater">кинотеатры</place> и <place ref="movieTheater">кинотеатры</place> сейчас. <hes type="lex"
-				>Ну</hes> во-первых, то как там всё устроено, обстановка. Да? Советские <place ref="movieTheater">кинотеатр</place>ы
+				>Ну</hes> во-первых, то как там всё устроено, обстановка. Да? Советские <place ref="movieTheater">кинотеатры</place>
 			были не комфортные, конечно. То есть, кресла, стулья они были такие твёрдые, да? не
 			мягкие там, не удобные. Да? Конечно, там был другой звук. Сейчас звук совсем другой.
 			Звук понятно? Да? И, конечно, там всё по-другому было. Всё по-другому <hes type="nonlex"
@@ -522,13 +522,13 @@
 			Такая искусственная кожа, даже не искусственная кожа. Потом у него был очень сильный
 			запах, химический такой. Вот, эти запахи например. Или <hes type="nonlex"/> ну,это
 			вообще запахи такие советских помещений, старых. Может быть, это краска. Или <hes
-				type="nonlex"/> такие, как у мебели. Или, и, например запахи советского <place ref="movieTheater">кинотеатр</place>а,
+				type="nonlex"/> такие, как у мебели. Или, и, например запахи советского <place ref="movieTheater">кинотеатра</place>,
 			в том городе где <pron type="pers" number="sing">я</pron> выросла, там был буфет и там
 			продавали пирожки, пирожки жарили в масле. И <hes type="nonlex"/> это запах жареных
 			пирожков. Например, а сейчас, и в студенчестве, и сейчас, <pron type="pers"
 				number="sing">я</pron> думаю, что это одинаково. Чем пахнет? Кофе. Вот. Кинотеатры,
 			в которые <pron type="pers" number="sing">я</pron> хожу, например, там нет попкорна, да?
-			Там не пахнет попкорном. В <place ref="movieTheater">кинотеатр</place>е, в которые ходят <collective>все</collective>
+			Там не пахнет попкорном. В <place ref="movieTheater">кинотеатре</place>, в которые ходят <collective>все</collective>
 			<collective>люди</collective>, распространённые, да? Там пахнет попкорном, конечно.<hes
 				type="lex"> Ну </hes>вот <hes type="nonlex"/> И звуки, ну,
 				<collective>люди</collective> едят, хрустят. </speech>
@@ -536,12 +536,12 @@
 		<speech speaker="faith" speechtype="q"> Когда вы были студентами, кресла были удобные? </speech>
 		<speech speaker="leventalIrina" speechtype="a"> Когда была студенткой? <hes type="lex"
 				>Ну</hes>, в этом <place ref="movieTheater">кинотеатре</place> нового типа, современного, да, конечно. Сейчас удобные,
-			и десять лет назад были тоже удобные. А, например, в <place ref="movieTheater">кинотеатр</place>е, в который <pron
-				type="pers" number="sing">я</pron> хожу и сейчас, <place ref="movieTheater">кинотеатр</place>ы, например, <place
+			и десять лет назад были тоже удобные. А, например, в <place ref="movieTheater">кинотеатре</place>, в который <pron
+				type="pers" number="sing">я</pron> хожу и сейчас, <place ref="movieTheater">кинотеатры</place>, например, <place
 				ref="domKino">Дом Кино,</place>
 			<place ref="kinoteatrRodina">Родина</place>, тоже. Они находятся на Манежной площади.
 			Недалеко от Невского проспекта, Манежная площадь, и там находится, в одном здании два
-			<place ref="movieTheater">кинотеатр</place>а. <place ref="kinoteatrRodina">Родина</place> и <place ref="domKino">Дом
+			<place ref="movieTheater">кинотеатра</place>. <place ref="kinoteatrRodina">Родина</place> и <place ref="domKino">Дом
 				Кино.</place> Вот, и ещё десять лет назад они были такие <hes type="nonlex"/> как
 			сказать, неудобные залы. Они были не удобные. Там был не такой хороший звух. Там кресла
 			были ещё старые, да, обычные. Вот. Но сейчас уже там, <hes type="lex">наверно</hes>, у
@@ -559,7 +559,7 @@
 				<hes type="nonlex"/>
 			<hes type="lex">может быть</hes> тридцать, сорок, но большой, большой такой, большой
 			зал. Сколько квадратных метров <pron type="pers" number="sing">я</pron> не помню. Очень
-			большой зал и большой экран. Здесь в Петербурге, эти <place ref="movieTheater">кинотеатр</place>ы, куда <pron type="pers"
+			большой зал и большой экран. Здесь в Петербурге, эти <place ref="movieTheater">кинотеатры</place>, куда <pron type="pers"
 				number="sing">я</pron> хожу, <place ref="kinoteatrRodina">Родина</place>, Дом Кино,
 			у них есть большие залы и есть малые залы. Большие залы, большие. Малые, маленькие. </speech>
 
@@ -572,9 +572,9 @@
 			маленьких. </speech>
 		<speech speaker="faith" speechtype="q"> Кинотеатр был только для кино или для других
 			мероприятий? </speech>
-		<speech speaker="leventalIrina" speechtype="a"> В детстве в этом <place ref="movieTheater">кинотеатр</place>е, он тоже
+		<speech speaker="leventalIrina" speechtype="a"> В детстве в этом <place ref="movieTheater">кинотеатре</place>, он тоже
 			назывался <place ref="kinoteatrRodina">Родина</place>. Вы понимаете в детстве, и сейчас
-			здесь тоже <place ref="kinoteatrRodina">Родина</place>. В детстве, да, в <place ref="movieTheater">кинотеатр</place>е
+			здесь тоже <place ref="kinoteatrRodina">Родина</place>. В детстве, да, в <place ref="movieTheater">кинотеатре</place>
 			проходили иногда концерты, потому что там была сцена. То есть вот был экран и тоже была
 			сцена, и там проходили концерты, разные. Иногда <collective>люди</collective> приходили
 			на концерты. Или там в <place ref="movieTheater">кинотеатре</place> проводили какие-нибудь мероприятие <hes type="nonlex"
