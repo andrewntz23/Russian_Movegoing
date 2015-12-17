@@ -13,6 +13,18 @@ ul#indexList {
     padding-left:0
 }
 
+#langToggle {
+position:fixed;
+top:20px;
+right:20px;
+}
+
+div#description
+{
+    margin-left:35px;
+    margin-right:35px;
+}
+
 div#menu
 {
 position: fixed;
