@@ -15,43 +15,40 @@
                 <script type="text/javascript" src="/javascript/interview.js"/>
             </head>
             <body>
- <xsl:comment>#include virtual="/inc/menuSSI.xhtml"</xsl:comment>
+                <xsl:comment>#include virtual="/inc/menuSSIInterview.xhtml"</xsl:comment>
                 <div id="boxes">
-                                   
-                    <label for="person">Person</label>
-                    <input type="radio" id="person" name="selector"></input>
-                    <label for="title">Title</label>
-                    <input type="radio" id="title" name="selector"></input>
-                    <label for="genre">Genre</label>
-                    <input type="radio" id="genre" name="selector"></input>
-                    <label for="nationalCinema">National Cinema</label>
-                    <input type="radio" id="nationalCinema" name="selector"></input>
-                    <label for="place">Place</label>
-                    <input type="radio" id="place" name="selector"></input>
-                    
-                    <label for="epit">Epithet</label>
-                    <input type="radio" id="epit" name="selector"></input>
-                    
-                    <label for="persSing">Personal Singular</label>
-                    <input type="radio" id="persSing" name="selector"></input>
-                    <label for="persPlur">Personal Plural</label>
-                    <input type="radio" id="persPlur" name="selector"></input>
-                    <label for="possSing">Possessive Singular</label>
-                    <input type="radio" id="possSing" name="selector"></input>
-                    <label for="possPlur">Possessive Plural</label>
-                    <input type="radio" id="possPlur" name="selector"></input>
-                    <label for="collective">Collective</label>
-                    <input type="radio" id="collective" name="selector"></input>
-                    
-                    <label for="lex">Lexical Hesitation Marks</label>
-                    <input type="radio" id="lex" name="selector"></input>
-                    <label for="nonLex">Nonlexical Hesitation Marks</label>
-                    <input type="radio" id="nonLex" name="selector"></input>
-                    
-                    
+
+                    <label for="person">Person<input type="radio" id="person" name="selector"
+                        /></label>
+                    <label for="title">Title<input type="radio" id="title" name="selector"/></label>
+                    <label for="genre">Genre<input type="radio" id="genre" name="selector"/></label>
+                    <label for="nationalCinema">National Cinema<input type="radio"
+                            id="nationalCinema" name="selector"/></label>
+                    <label for="place">Place<input type="radio" id="place" name="selector"/></label>
+                    <label for="epit">Epithet<input type="radio" id="epit" name="selector"/></label>
+                    <label for="persSing">Personal Singular<input type="radio" id="persSing"
+                            name="selector"/></label>
+                    <label for="persPlur">Personal Plural<input type="radio" id="persPlur"
+                            name="selector"/></label>
+                    <label for="possSing">Possessive Singular<input type="radio" id="possSing"
+                            name="selector"/></label>
+                    <label for="possPlur">Possessive Plural<input type="radio" id="possPlur"
+                            name="selector"/></label>
+                    <label for="collective">Collective <input type="radio" id="collective"
+                            name="selector"/>
+                    </label>
+                    <label for="lex">Lexical Hesitation<input type="radio" id="lex"
+                            name="selector"/></label>
+                    <label for="nonLex">Nonlexical Hesitation<input type="radio" id="nonLex"
+                            name="selector"/></label>
+
+
+
                 </div>
-                <div id="rightPanel"></div>
-              <div id='centerPanel'>  <xsl:apply-templates/></div>
+                <div id="rightPanel"/>
+                <div id="centerPanel">
+                    <xsl:apply-templates/>
+                </div>
             </body>
         </html>
 
@@ -105,19 +102,20 @@
 
     <xsl:template match="speech">
         <xsl:variable name="speaker" select="@speaker"/>
-        
-        <h3>   <xsl:if test="@speechtype = 'q'">
-            <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameEng"/>
-        </xsl:if>
-            
+
+        <h3>
+            <xsl:if test="@speechtype = 'q'">
+                <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameEng"/>
+            </xsl:if>
+
             <xsl:value-of select="$index//person[@xml:id = $speaker]/surnameRus"/>
             <xsl:text>: </xsl:text>
-            
+
         </h3>
-        
+
         <p>
-           
-      
+
+
             <xsl:apply-templates/>
         </p>
 
@@ -195,7 +193,7 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    
+
     <xsl:template match="place">
         <span class="place">
             <xsl:apply-templates/>

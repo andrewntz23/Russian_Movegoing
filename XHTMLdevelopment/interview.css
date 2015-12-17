@@ -20,7 +20,7 @@
     overflow-y:auto;
 }
 
-#boxes * {
+label {
     display:block
     
 }
