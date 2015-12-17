@@ -46,7 +46,7 @@
             кинопроекта, который изучает общественную, политическую, и культурную историю России
             через фильмы. Мы хотели бы, чтобы вы рассказали нам о ваших воспоминаниях о посещении
             кино. На основании Ваших ответов мы напишем эссе, в котором мы проанализируем результаты
-            опроса и напишем о посещении <place ref="movieTheater">кинотеатр</place>ов в России.
+            опроса и напишем о посещении кинотеатров в России.
             Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте кино в
             их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и за Вашу
             помощь нам. Это интервью будет доступно для прослушивания на интернетсайте кинопроекта.
@@ -92,7 +92,7 @@
         <speech speaker="pavlov" speechtype="a">Немножко <epit ref="kinoteatrFestival">похож на
                 крематорий</epit>, как где людей сжигают. <epit ref="kinoteatrFestival">Немножко
                 серый</epit>, скучный вид. Внутри деревянные кресла, как обычно в советских <place
-                ref="movieTheater">кинотеатр</place>ах, и достаточно большой зал.</speech>
+                ref="movieTheater">кинотеатрах</place>, и достаточно большой зал.</speech>
         <speech speaker="wilkinson" speechtype="q">Вы ходили пешком, или вы ездили?</speech>
         <speech speaker="pavlov" speechtype="a">Конечно пешком, <place ref="movieTheater"
                 >кинотеатр</place> в <place ref="sovietUnion">Советском Союзе</place> обычно
@@ -122,7 +122,7 @@
             закончили школу, поженились?</speech>
         <speech speaker="pavlov" speechtype="a">Тогда это стало одним из вариантов, скажем так,
             продолжения досуга. После ресторана зайти в кино или сначала кино, потом ресторан. То
-            есть, это уже как шоу, потому что и <place ref="movieTheater">кинотеатр</place>ы
+            есть, это уже как шоу, потому что и <place ref="movieTheater">кинотеатры</place>
             изменились, и фильмы изменились. Все стало другим.</speech>
         <speech speaker="wilkinson" speechtype="q">Хорошо. Какие были ваши самы любимые жанры в
             детстве?</speech>
@@ -178,13 +178,13 @@
             костюм, а девушке платье. В кино джинсы, рубашка, свитер <hes type="nonlex"/> это вполне
             нормально.</speech>
         <speech speaker="wilkinson" speechtype="q">Вы знали людей, которые работали в <place
-                ref="movieTheater">кинотеатр</place>ах?</speech>
+                ref="movieTheater">кинотеатрах</place>?</speech>
         <speech speaker="pavlov" speechtype="a">Да, конечно. <pron type="pers" number="sing"
                 >Я</pron> знал человека, который был директором <place ref="movieTheater"
-                >кинотеатр</place>а. <place ref="kinoteatrMaksim">Кинотеатра Максим</place> (такой
+                >кинотеатра</place>. <place ref="kinoteatrMaksim">Кинотеатра Максим</place> (такой
             был <place ref="movieTheater">кинотеатр</place>).</speech>
         <speech speaker="wilkinson" speechtype="q">Какая была атмосфера в <place ref="movieTheater"
-                >кинотеатр</place>е?</speech>
+                >кинотеатре</place>?</speech>
         <speech speaker="pavlov" speechtype="a">В советское время или в российское время? <hes
                 type="lex">Ну</hes>, это большая разница, потому что в советское время это была одна
             атмосфера, а в российское, <hes type="lex">наверно</hes>, когда появился попкорн и всё
@@ -202,7 +202,7 @@
             зависимости от того, как удобней.</speech>
         <speech speaker="wilkinson" speechtype="q">Кинотеатр был большой? </speech>
         <speech speaker="pavlov" speechtype="a">Раньше, в советское время, все <place
-                ref="movieTheater">кинотеатр</place>ы были <epit ref="kino">однотипные</epit>.
+                ref="movieTheater">кинотеатры</place> были <epit ref="kino">однотипные</epit>.
             Обычно это один зал и он достаточно большой. На пятьдесят зрителей. В <pron type="poss"
                 number="plur">наши</pron> дни это несколько маленьких залов. Где-то на семь рядов.
             Поэтому это другая тенденция, другая идея.</speech>
@@ -211,7 +211,7 @@
                 >Ну</hes>, конечно, буфет не как в театре. Шампанское никто в перерыве не пил. Но в
             советское время да, был буфет, можно было сьесть пирожок.</speech>
         <speech speaker="wilkinson" speechtype="q">Были в <place ref="movieTheater"
-                >кинотеатр</place>е билетёры? </speech>
+                >кинотеатре</place> билетёры? </speech>
         <speech speaker="pavlov" speechtype="a">Да <pron type="pers" number="sing">я</pron> думаю,
             всегда были. Обычно это женщины пожилого возраста, как в театре. И даже была у них
             какая-то униформа, как <pron type="pers" number="sing">я</pron> помню, в советское
@@ -240,10 +240,10 @@
                 >детективы</genre>, <person ref="christie">Агата Кристи</person>, экранизация
             фильмов Агаты Кристи. Вот, например, <title ref="tenLittleIndians">Десять
                 негритят</title> был очень популярный фильм.</speech>
-        <speech speaker="wilkinson" speechtype="q">В <place ref="movieTheater">кинотеатр</place>ах
+        <speech speaker="wilkinson" speechtype="q">В <place ref="movieTheater">кинотеатрах</place>
             часто показывали иностранные фильмы?</speech>
         <speech speaker="pavlov" speechtype="a">Нет. Советском Союзе, в принципе, в <place
-                ref="movieTheater">кинотеатр</place>е можно были посмотреть <nationalCinema
+                ref="movieTheater">кинотеатре</place> можно были посмотреть <nationalCinema
                 ref="indianCinema">индийские фильмы</nationalCinema> или <nationalCinema
                 ref="sovietCinema">советские фильмы</nationalCinema>. А <nationalCinema
                 ref="foreignCinema">иностранные фильмы</nationalCinema> других стран, конечно, редко
@@ -280,7 +280,7 @@
                 меня</pron> и сейчас есть телевизор. Только <pron type="pers" number="sing">я</pron>
             его не смотрю. Но это<hes type="nonlex"/> Нет, <pron type="pers" number="sing">я</pron>
             думаю, нет прямой зависимости между телевизором и <place ref="movieTheater"
-                >кинотеатр</place>ом, потому что в <place ref="movieTheater">кинотеатр</place>
+                >кинотеатром</place>, потому что в <place ref="movieTheater">кинотеатр</place>
             всё-таки <pron type="pers" number="sing">я</pron> иду, когда хочу услышать качественный
             звук. Или, например, фильм, если <pron type="pers" number="sing">я</pron> хочу
             посмотреть без перевода, если это иностранный фильм.</speech>
