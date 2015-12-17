@@ -39,12 +39,11 @@
 			у вас интервью для кино-проекта, который изучает общественную, политическую и культурную
 			историю России через фильмы. Мы хотели бы, чтобы Вы рассказали нам о Ваших воспоминаниях
 			от посещения кино; нас особенно интересуют детали. На основании Ваших ответов мы напишем
-			эссе, в котором мы проанализируем результаты опроса и напишем о посещении <place
-				ref="movieTheater">кинотеатр</place>ов в России. Цель этого интервью для нас –
-			узнать как можно больше о конкретных людях и месте кино в их жизни. Большое спасибо за
-			Вашу готовность поделиться вашими воспоминаниями и за Вашу помощь нам.Это интервью будет
-			доступно для прослушивания на интернет-сайте кино-проекта. Если вы не против, давайте
-			начнём. </speech>
+			эссе, в котором мы проанализируем результаты опроса и напишем о посещении кинотеатров в
+			России. Цель этого интервью для нас – узнать как можно больше о конкретных людях и месте
+			кино в их жизни. Большое спасибо за Вашу готовность поделиться вашими воспоминаниями и
+			за Вашу помощь нам.Это интервью будет доступно для прослушивания на интернет-сайте
+			кино-проекта. Если вы не против, давайте начнём. </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Давайте. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Расскажите нам, когда и где вы выросли? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
@@ -69,12 +68,12 @@
 			>Ну</hes>, разумеется, это было в каком-то очень нежном возрасте. Типа там года в три
 			или, <hes type="lex">может быть</hes>, лет в пять наверняка <hes type="nonlex"/> С
 			мамай, с папой. Ходили в кино. Но это было для <place ref="movieTheater"
-				>кинотеатр</place>ов сложное время, потому что считалось, что <place
-				ref="movieTheater">кинотеатр</place>ы умирают и что их заменят видео магнитофоны.
+				>кинотеатров</place> сложное время, потому что считалось, что <place
+				ref="movieTheater">кинотеатры</place> умирают и что их заменят видео магнитофоны.
 			Здесь они как раз вот появились в середине восьмидесятыx. Они ещё были такой вещью
 			достаточно редкой и дорогой. Но те, у кого были видео магнитофоны - они были практически
 			небожителями, и считалось, что вот скоро видео магнитофоны <place ref="movieTheater"
-				>кинотеатр</place>ы убьют. Все смотрели дома. Всякие, вот эти вот <hes type="nonlex"
+				>кинотеатры</place> убьют. Все смотрели дома. Всякие, вот эти вот <hes type="nonlex"
 			/> кассеты - VHS. А ещё то, что вы наверняка не знаете. Это было очень весело, но правда
 			это уже в начале девяностых, когда<collective><pron type="poss" number="plur"> у
 					нас</pron> начался разгул капитализма</collective>, и <collective>все стали
@@ -88,28 +87,25 @@
 			и вот там крутили <person ref="lee">Брюса Ли</person>, там, или, там <pron type="pers"
 				number="sing">я</pron> не знаю <title ref="nineAndHalfWeeks">Девять с половиной
 				недель</title>. И вот все платили за вход туда. То есть это можно считать <place
-				ref="movieTheater">кинотеатр</place>ом, да? Только там стоял <hes type="nonlex"/>
+				ref="movieTheater">кинотеатром</place>, да? Только там стоял <hes type="nonlex"/>
 			там не было экрана -- там стоял телевизор. Телевизор с видеомагнитофоном, и за это брали
 			деньги. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> Если вы помните, как назывался <place
-				ref="movieTheater">кинотеатр</place>? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> Если вы помните, как назывался кинотеатр? </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Нет, не помню. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Вы ходили пешком, или ездили? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes> как, днём на автобусе ездил наверняка. Мы тогда жили в таком
 			довольно отдалённом районе. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> У вас был один <place ref="movieTheater"
-				>кинотеатр</place> или больше около дома? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> У вас был один кинотеатр или больше около дома? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, совсем около дома был один <hes type="nonlex"/> да. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> А что вы чувствовали, когда вы ходили в <place
-				ref="movieTheater">кинотеатр</place>? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> А что вы чувствовали, когда вы ходили в
+			кинотеатр? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="nonlex"/> Очень сложный вопрос, не знаю, ничего особенного.<hes type="nonlex"
 			/> Кинотеатр как <place ref="movieTheater">кинотеатр</place><hes type="nonlex"/>
 		</speech>
-		<speech speaker="seeleyHall" speechtype="q"> Когда вы начали ходить в <place
-				ref="movieTheater">кинотеатр</place> один? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> Когда вы начали ходить в кинотеатр один? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="nonlex"/>
 			<hes type="lex">Ну</hes>, что значит один? Мне кажется, что <pron type="pers"
@@ -149,17 +145,17 @@
 		<speech speaker="leventalVadim" speechtype="a"> Да никак особенно. Мы как ходили с женой в
 			кино, так и продолжили ходить. До сих пор иногда ходим. <hes type="nonlex"/> Изменилось
 			в том смысле, что когда <pron type="pers" number="sing">я</pron> там учился в школе,
-			когда заканчивал школу, <place ref="movieTheater">кинотеатр</place>ов было не так много,
-			такого вот нового типа, что ли, <place ref="movieTheater">кинотеатр</place>ов.
+			когда заканчивал школу, <place ref="movieTheater">кинотеатров</place> было не так много,
+			такого вот нового типа, что ли, <place ref="movieTheater">кинотеатров</place>.
 			Оставалось с советского времени некоторое количество залов, но все они <epit ref="kino"
-				>технически</epit> были <epit ref="kino">отсталые</epit>. Только, наверное, где-то в
-			конце девяностых, в начале двухтысячных появляться вот эти вот <place ref="cityCenter"
-				>торговые центры</place>, и в каждом <place ref="cityCenter">торговом центре</place>
-			обязательно <place ref="movieTheater">кинотеатр</place>, там обязателъно пять залов и
-			какой-нибудь «Долби Сураунд», и что-нибудь еще <hes type="nonlex"/> и там,<hes
-				type="lex"> ну </hes>и так далее, так далее, ещё кинoтеатры появились на каждoм
-			шагу. Яблоку негде упасть, везде <place ref="movieTheater">кинотеатр</place>. В этом
-			смысле всё, что изменилось. </speech>
+				>технически</epit> были <epit ref="movieTheater">отсталые</epit>. Только, наверное,
+			где-то в конце девяностых, в начале двухтысячных появляться вот эти вот <place
+				ref="cityCenter">торговые центры</place>, и в каждом <place ref="cityCenter"
+				>торговом центре</place> обязательно <place ref="movieTheater">кинотеатр</place>,
+			там обязателъно пять залов и какой-нибудь «Долби Сураунд», и что-нибудь еще <hes
+				type="nonlex"/> и там,<hes type="lex"> ну </hes>и так далее, так далее, ещё
+			кинoтеатры появились на каждoм шагу. Яблоку негде упасть, везде <place
+				ref="movieTheater">кинотеатр</place>. В этом смысле всё, что изменилось. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Какие были ваши самые любимые жанры в детстве?
 			Как этo изменилось? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
@@ -229,8 +225,9 @@
 			<hes type="lex">Ну</hes>, наверное, не знаю, что тут сказать. <hes type="lex">Ну</hes>
 			много было всяких <hes type="nonlex"/> наверное, можно вспомнить. Что имеется в виду?
 			Если, типа<hes type="nonlex"/>
-			<hes type="lex">ну</hes> <pron type="pers" number="sing">я</pron> даже несколько раз
-			сходил на <title ref="melancholy">Мелaнхолию</title>
+			<hes type="lex">ну</hes>
+			<pron type="pers" number="sing">я</pron> даже несколько раз сходил на <title
+				ref="melancholy">Мелaнхолию</title>
 			<person ref="vonTrier">Фон Триера</person>, когда она вышла, потому что на большом
 			экране смотреть это уничтожение земли <hes type="nonlex"/> было особое удовольствие.
 			Невозможно получить на компьютере. Был очень смешной эпизод, когда <pron type="pers"
@@ -240,8 +237,8 @@
 			“underground”ные фильмы. Со всего мира, <genre ref="art">фестивальное кино</genre>,
 			артхаус. Мы туда ходили очень часто, и <pron type="poss" number="plur">наши</pron>
 			друзья об этом знали, и вдруг они говорят «Давайте <pron type="pers" number="plur"
-				>мы</pron> с вами сходим». Давайте, нет проблем, конечно. А на что вы идёте? Да <pron
-				type="pers" number="plur">мы</pron> не знаем, какой-то там фильм, какого-то
+				>мы</pron> с вами сходим». Давайте, нет проблем, конечно. А на что вы идёте? Да
+				<pron type="pers" number="plur">мы</pron> не знаем, какой-то там фильм, какого-то
 				<nationalCinema ref="koreanCinema">корейского режиссёра</nationalCinema>, не знаем.
 			И ребята с нами пошли. Мы на самом деле не знали, на что <pron type="pers" number="plur"
 				>мы</pron> идём. Фильм. Его уже можно посмотреть в сети. Назывался он <title
@@ -251,8 +248,8 @@
 			<genre ref="adult">порно</genre>. Включающее там <hes type="nonlex"/> как бы сказать
 			поприличнее? взаимодействие актёров с арбузами <hes type="nonlex"/> всякие извращённые
 			формы сексуального поведения. А <pron type="poss" number="plur">наши</pron> друзья были
-			довольно пуританского нрава и на <genre ref="art">фестивальное кино</genre> впервые
-			в жизни выбрaлись <hes type="nonlex"/> После этого они с нами в кино не ходили. (Laughs) </speech>
+			довольно пуританского нрава и на <genre ref="art">фестивальное кино</genre> впервые в
+			жизни выбрaлись <hes type="nonlex"/> После этого они с нами в кино не ходили. (Laughs) </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Сколько лет было в среднeм людям которые ходили
 			в кино? </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Было когда? Вы все время говорите про
@@ -318,17 +315,16 @@
 			это было чудовищно смешно. Так что, в последнее время это считается абсолютно нормально,
 			во время сеанса и комментировать, и разговаривать, и хохотать, разными другими способами
 			выражать свою реакцию на увиденное на экране. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> Опишите <place ref="movieTheater"
-				>кинотеатр</place> и если можно, сравните <place ref="movieTheater"
-				>кинотеатр</place> раньше с <place ref="movieTheater">кинотеатр</place>ами сейчас. </speech>
+		<speech speaker="seeleyHall" speechtype="q"> Опишите кинотеатр и если можно, сравните
+			кинотеатр раньше с кинотеатрами сейчас. </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, как выглядел <place ref="movieTheater">кинотеатр</place>
 			раньше можно посмотреть и сейчас. Можно прийти, допустим, в <place ref="kinoteatrAurora"
 				>кинотеатр Аврора</place> на <place ref="nevskiyProspekt">Невском проспекте</place>.
 			Один из, <hes type="lex">ну</hes>, по содержанию, что там катают, один из лучших <place
-				ref="movieTheater">кинотеатр</place>ов в <place ref="stPetersburg">городе</place>.
+				ref="movieTheater">кинотеатров</place> в <place ref="stPetersburg">городе</place>.
 			Надо понимать, что в <place ref="stPetersburg">Петербурге</place>
-			<place ref="movieTheater">кинотеатр</place>ы начали открываться, там, ещё в <place
+			<place ref="movieTheater">кинотеатры</place> начали открываться, там, ещё в <place
 				ref="imperialRussia">императорской России</place>, в начале двадцатого века. То
 			есть, это там какой-нибудь десятый или одинадцатый год, если <pron type="pers"
 				number="sing">я</pron> не ошибаюсь, двадцатого века, первый <place
@@ -337,26 +333,28 @@
 			сохранились, но те, вот которые <collective>до <pron type="poss" number="plur"
 					>наших</pron> времен </collective> дошли, которые были организованы в <place
 				ref="sovietUnion">Советском Союзе</place>, эти <place ref="movieTheater"
-				>кинотеатр</place>ы открывались в каких-нибудь залах бывших дворцов, не знаю,
-			гостиниц, там, каких-то залах собраний, и так далее так далее. Это залы сделаны в
-			модернистском каком-то ключе, или чаще в классическом ключе, то есть там всё вот
-			колонны, капители, люстры. Всё как в театре, очень красиво. Kaкие-нибудь расписные
-			потолки, плафоны, статуи, и так далее, и так далее. Там просто устраивались ряды. Так
-			эти залы, если они сохранились до нынешних времен, они так и выглядят. Да, вот <place
-				ref="kinoteatrAurora">Аврора</place>. <epit ref="kinoteatrAurora">Нынешний
-				зал</epit>, <epit ref="kinoteatrAurora">самый стандардный</epit> там, в <place
-				ref="cityCenter">торговом центре</place>, на последнем этаже. Более скучная картина.
-			Это типа чёрная коробка, в которой нет вообще ничего, никаких украшений там, и так
-			далее, и так далее. Они конечно, наверное, удобнее в каком-то смысле, и кресла там
-			удобнее, и подставки под попкорн есть, и звук там, <hes type="lex">может быть</hes>,
-			лучше, и изображение, вероятно, в каких-то залах лучше. Но, в принципе, это конечно
-			угнетающе просто, потому что они все выглядят абсолютно одинаково. Эти залы, <pron
-				type="pers" number="sing">я</pron> не знаю, двести <place ref="cityCenter">торговых
-				центров</place> по <place ref="stPetersburg">городу</place>, в каждом из них <place
-				ref="movieTheater">кинотеатр</place>, и все они абсолютно одинаковые. Есть и
-			какие-то обнадёживающиe случаи. Допустим, буквально пару лет назад заново открыли <place
-				ref="movieTheater">кинотеатр</place> или, <hes type="lex">может быть</hes>, впервые
-			открыли, не знаю, <place ref="movieTheater">кинотеатр</place> в <place
+				>кинотеатры</place> открывались в каких-нибудь залах бывших дворцов, не знаю,
+			гостиниц, там, каких-то залах собраний, и так далее так далее. Это залы сделаны <epit
+				ref="movieTheater">в модернистском каком-то ключе</epit>, или чаще <epit
+				ref="movieTheater">в классическом ключе</epit>, то есть там всё вот колонны,
+			капители, люстры. <epit ref="movieTheater">Всё как в театре, очень красиво</epit>.
+			Kaкие-нибудь расписные потолки, плафоны, статуи, и так далее, и так далее. Там просто
+			устраивались ряды. Так эти залы, если они сохранились до нынешних времен, они так и
+			выглядят. Да, вот <place ref="kinoteatrAurora">Аврора</place>. Нынешний зал, <epit
+				ref="movieTheater">самый стандардный</epit> там, в <place ref="cityCenter">торговом
+				центре</place>, на последнем этаже. Более скучная картина. Это типа <epit
+				ref="movieTheater">чёрная коробка</epit>, в которой нет вообще ничего, никаких
+			украшений там, и так далее, и так далее. Они конечно, наверное, удобнее в каком-то
+			смысле, и кресла там удобнее, и подставки под попкорн есть, и звук там, <hes type="lex"
+				>может быть</hes>, лучше, и изображение, вероятно, в каких-то залах лучше. Но, в
+			принципе, это конечно <epit ref="movieTheater">угнетающе просто</epit>, потому что они
+			все выглядят абсолютно одинаково. Эти залы, <pron type="pers" number="sing">я</pron> не
+			знаю, двести <place ref="cityCenter">торговых центров</place> по <place
+				ref="stPetersburg">городу</place>, в каждом из них <place ref="movieTheater"
+				>кинотеатр</place>, и все они <epit ref="movieTheater">абсолютно одинаковые</epit>.
+			Есть и какие-то обнадёживающиe случаи. Допустим, буквально пару лет назад заново открыли
+				<place ref="movieTheater">кинотеатр</place> или, <hes type="lex">может быть</hes>,
+			впервые открыли, не знаю, <place ref="movieTheater">кинотеатр</place> в <place
 				ref="hotelAngleter">гостинице Англетер</place> на <place ref="isaacsSquare"
 				>Исаакиевской площади</place>, и там зал сделан из старинного такого зала, в
 			барочном таком стиле, там много украшений. Очень красивый зал, и там, кстати, что очень
@@ -367,9 +365,8 @@
 			оригинальную дорожку, не дублированную. И поэтому, вот, зал <pron type="pers"
 				number="sing">я</pron> очень полюбил и считаю его замечательным. Там показывают
 			оригинальные фильмы, с оригинальными дорожками и субтитрами. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> В <place ref="movieTheater">кинотеатр</place>е
-			часто показывали инностранные фильмы или фильмы каких стран и какие фильмы вам нравились
-			больше всего? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> В кинотеатре часто показывали иностранные
+			фильмы или фильмы каких стран, и какие фильмы вам нравились больше всего? </speech>
 		<speech speaker="leventalVadim" speechtype="a"> Но вообще-то как-то есть статистика
 			наверняка какая-то на эту тему. У нас, <hes type="lex">ну</hes>, по-моему, если <pron
 				type="pers" number="sing">я</pron> не ошибаюсь, там что-то двадцать процентов только
@@ -382,8 +379,8 @@
 			знаю там, какие-нибудь роботы, апокалипсисы и все там, и так далее и так далее. Если
 			говорить, вот, о таких кинотеатрах, в которых показывают, скажем, “арт-хаус” то там
 			конечно разброс значительно шире. Tам, <hes type="lex">может быть</hes>, даже
-				<nationalCinema ref="americanCinema">американского</nationalCinema> будет меньше, чем
-			какого-нибудь <nationalCinema ref="italianCinema">итальянского</nationalCinema>,
+				<nationalCinema ref="americanCinema">американского</nationalCinema> будет меньше,
+			чем какого-нибудь <nationalCinema ref="italianCinema">итальянского</nationalCinema>,
 				<nationalCinema ref="germanCinema">немецкого</nationalCinema>, <nationalCinema
 				ref="frenchCinema">француского</nationalCinema>, <nationalCinema ref="swedishCinema"
 				>шведского</nationalCinema>, не знаю, <nationalCinema ref="koreanCinema"
@@ -404,9 +401,8 @@
 			абсолютно легально и законно. Собственно, эти законы о возрастных ограничениях,
 			аналогичные, кстати, тем который действуют в США, эти законы были введены буквально пару
 			лет назад. </speech>
-		<speech speaker="seeleyHall" speechtype="q"> Как вы узнавали о репертуаре <place
-				ref="movieTheater">кинотеатр</place>ов? О качестве фильмов? О том, что стоит
-			посмотреть? </speech>
+		<speech speaker="seeleyHall" speechtype="q"> Как вы узнавали о репертуаре кинотеатров? О
+			качестве фильмов? О том, что стоит посмотреть? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
 			<hes type="lex">Ну</hes>, интернет конечно, какие-то интернет сайты. И есть какие-то
 			кинокритики, которым <pron type="pers" number="sing">я</pron> доверяю. Допустим, там,
@@ -415,19 +411,19 @@
 				Трофименков</person> -- <epit ref="trofimenkov">наш петербургский кинокритик</epit>.
 			Eсть <epit ref="volobuev">такой московский</epit>, <person ref="volobuev">Роман
 				Волобуев</person>, <epit ref="volobuev">совершенно замечательно остроумный
-				критик</epit>, которому <pron type="pers" number="sing">я</pron> доверяю чуть меньше,
-			особенно в последние годы, потому что он <hes type="nonlex"/> стал очень <epit
+				критик</epit>, которому <pron type="pers" number="sing">я</pron> доверяю чуть
+			меньше, особенно в последние годы, потому что он <hes type="nonlex"/> стал очень <epit
 				ref="volobuev">сильно политизированным</epit>, и поскольку тем более его
 			политическая позиция очень сильно отличается от <pron type="poss" number="sing"
 				>моей</pron>, то <pron type="pers" number="sing">я</pron>, разумеется, стал меньше
 			доверять. И там же репертуары, конечно, есть сайты журналов, типа там “Афиша”, «Time
-			out» и тому подобное. Есть сайты <place ref="movieTheater">кинотеатр</place>ов. У того
+			out» и тому подобное. Есть сайты <place ref="movieTheater">кинотеатров</place>. У того
 			же Дома Кино есть прекрасный сайт, на котором афиша на пару недель вперёд есть. </speech>
 		<speech speaker="seeleyHall" speechtype="q"> Вы ходите в кино с вашими детьми. И почему да,
 			или почему нет? </speech>
 		<speech speaker="leventalVadim" speechtype="a">
-			<hes type="lex">Ну</hes> да, <pron type="pers" number="plur">мы</pron> с ребенком ходим в
-			кино, на <genre ref="animation">мультики</genre> конечно. <hes type="lex">Ну</hes> а
+			<hes type="lex">Ну</hes> да, <pron type="pers" number="plur">мы</pron> с ребенком ходим
+			в кино, на <genre ref="animation">мультики</genre> конечно. <hes type="lex">Ну</hes> а
 			почему собственно нет? Это <epit ref="kino">весело</epit> и <epit ref="kino"
 				>прикольно</epit>. Мы последний раз посмотрели какой-то <genre ref="animation"
 				>мультик</genre> про муравьев. <hes type="lex">Ну</hes>, ребёнку шесть лет. Он не
