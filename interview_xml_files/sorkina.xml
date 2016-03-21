@@ -481,7 +481,7 @@
             назад. Это очень популярный фильм, но ещё, не знаю как сказать по-русски, но это (shows)
             аспекты из этой культуры. </speech>
         <speech speaker="sorkina" speechtype="a"> Понятно. И ещё <pron type="pers" number="sing"
-                >я</pron> бы хотела спросить, а что нравится Американцам из <collective><pron
+                >я</pron> бы хотела спросить, а что нравится американцам из <collective><pron
                     type="poss" number="plur">нашего</pron> кино?</collective>
         </speech>
         <speech speaker="burke" speechtype="q">
@@ -495,10 +495,9 @@
         <speech speaker="burke" speechtype="q"> В российском кино! Да, редко, что американцы
             смотрели российское кино перед 1990ым году, и потом<hes type="nonlex"/>
             <pron type="pers" number="sing">я</pron> думаю, что если <hes type="nonlex"/> если
-            кто-то знает что-то уже о России, может смотреть фильмы Михалкова, или старые фильмы,
-            как Москва слезам не верит или<hes type="nonlex"/> С лёгким паром бы<hes type="nonlex"/>
-            будет реже, чем Москва слезам не верит, но <pron type="pers" number="sing">я</pron>
-            думаю, что многие американцы никогда не смотрели русские фильмы.</speech>
+            кто-то знает что-то уже о России, может смотреть фильмы <person ref="mikhalkov">Михалкова</person>, или старые фильмы,
+            как <title ref="moscowDoesNotBelieveInTears">Москва слезам не верит</title> или <title ref="ironyOfFate">С лёгким паром</title>бы будет реже, чем <title ref="moscowDoesNotBelieveInTears">Москва слезам не верит</title>, но <pron type="pers" number="sing">я</pron>
+            думаю, что многие американцы никогда не смотрели <nationalCinema ref="russianCinema">русские фильмы</nationalCinema>.</speech>
         <speech speaker="sorkina" speechtype="a">Да, конечно, но очень трудно найти русских, которые
             не смотрели <nationalCinema ref="americanCinema">aмериканские фильмы</nationalCinema>,
             потому что <collective><pron type="poss" number="plur">у нас</pron></collective> сейчас
