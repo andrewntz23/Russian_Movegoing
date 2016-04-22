@@ -47,8 +47,7 @@
         <speech speaker="roberts" speechtype="q">O посещениях.</speech>
         <speech speaker="danilenko" speechtype="a">О посещениях. Ощущение. <hes type="nonlex"/> Это
             было так давно, конечно. Первый большой экран в <place ref="movieTheater"
-                >кинотеатре</place> для меня было что-то необыкновенное. Как и сам <genre
-                ref="skazka">фильм-сказка</genre>. Это такое представление у ребёнка, что жизнь вся
+                >кинотеатре</place> для меня было что-то необыкновенное. Как и сам <genre ref="skazka">фильм-сказка</genre>. Это такое представление у ребёнка, что жизнь вся
             сказка, такая красивая. Вот такие первые впечатления.</speech>
         <speech speaker="roberts" speechtype="q">С кем вы ходили?</speech>
         <speech speaker="danilenko" speechtype="a">С мамой.</speech>
@@ -255,8 +254,7 @@
             тоже?</speech>
         <speech speaker="danilenko" speechtype="a">Да. </speech>
         <speech speaker="roberts" speechtype="q">А какие фильме вам нравились больше всего?</speech>
-        <speech speaker="danilenko" speechtype="a">Есть и комедии иностранные. С <person
-                ref="deFunes">Луи де Фюнесом</person> мне очень нравятся. <nationalCinema
+        <speech speaker="danilenko" speechtype="a">Есть и комедии иностранные. С <person ref="deFunes">Луи де Фюнесом</person> мне очень нравятся. <nationalCinema
                 ref="frenchCinema">Французские фильмы</nationalCinema>. Где <person ref="marais">Жан
                 Марэ</person>. Его уже нет. И один, и другой, они умерли. <hes type="lex">Ну</hes>
             <hes type="nonlex"/> фильмы <person ref="dalton">Тимоти Далтон</person> снимается.
