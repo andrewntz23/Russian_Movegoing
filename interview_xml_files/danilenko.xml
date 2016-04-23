@@ -63,12 +63,12 @@
             было, <pron type="pers" number="plur">мы</pron> не знали что, что такое. <hes type="lex"
                 >Ну</hes>, конечно очень, очень приятно было. </speech>
         <speech speaker="roberts" speechtype="q">Когда вы начали ходить в кинотеатр сама?</speech>
-        <speech speaker="danilenko" speechtype="a">Это <hes type="nonlex"/> ну как, одна <pron
+        <speech speaker="danilenko" speechtype="a">Это <hes type="nonlex"/>ну как, одна <pron
                 type="pers" number="sing">я</pron> не ходила, только где-то лет в шестнадцать, когда
             мне было шестнадцать лет. Наверно, тогда только. А так <pron type="pers" number="plur"
                 >мы</pron> посещали коллективно <place ref="movieTheater">кинотеатр</place>. Со
             школой. Или <pron type="poss" number="plur">у нас</pron> в школе был показ, <pron
-                type="poss" number="plur">у нас</pron> кинозал небольшой был. Нам там показывалиm
+                type="poss" number="plur">у нас</pron> кинозал небольшой был. Нам там показывали
             или группой <pron type="pers" number="plur">мы</pron> ходили в <place ref="movieTheater"
                 >кинотеатр</place>. </speech>
         <speech speaker="roberts" speechtype="q">Вам нравилось ходить в кино?</speech>
@@ -127,7 +127,7 @@
                 <genre ref="classics">классика</genre>, и <genre ref="warFilms">военные
                 фильмы</genre>. Очень нравились в детстве.<collective><pron type="poss"
                     number="plur">У нас</pron></collective> такие <title ref="elusiveAvengers"
-                >Неуловимые Мстители</title>, это <epit ref="elusiveAvengers"> революционый
+                >Неуловимые Мстители</title>, это <epit ref="elusiveAvengers">революционый
                 фильм</epit>. Там роли исполняли мальчики. Девочка и мальчики. Очень нравился мне. </speech>
         <speech speaker="roberts" speechtype="q">А почему?</speech>
         <speech speaker="danilenko" speechtype="a">Я не знаю. Может быть, такие там приключенческие
@@ -292,8 +292,7 @@
             запрещала. </speech>
         <speech speaker="roberts" speechtype="q">Извините?</speech>
         <speech speaker="danilenko" speechtype="a">Раньше было такое, комиссия была. Они, когда
-            фильм был готов, он должен был выйти на широкий экран в <place ref="movieTheater"
-                >кинотеатрe</place>, они смотрели и давали разрешения, что можно или нет. <hes
+            фильм был готов, он должен был выйти на широкий экран в <place ref="movieTheater">кинотеатрe</place>, они смотрели и давали разрешения, что можно или нет. <hes
                 type="lex">Ну</hes> я не знаю.</speech>
         <speech speaker="roberts" speechtype="q">Ваши родители ходили в кино?</speech>
         <speech speaker="danilenko" speechtype="a">Ходили когда, ну, очень редко, когда было время. </speech>

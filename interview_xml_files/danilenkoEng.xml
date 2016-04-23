@@ -31,8 +31,8 @@
         <speech speaker="danilenko" speechtype="a">Liudmila Vasilievna Danilenko. </speech>
         <speech speaker="roberts" speechtype="q">And where were you born? </speech>
         <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> was born
-            in Volgograd province. And in 1982 … and from 1982 on I’ve been living in St.
-            Petersburg. </speech>
+            in <place ref="volgogradskayaOblast">Volgograd province</place>. And in 1982 … and from
+            1982 on I’ve been living in <place ref="stPetersburg">St.Petersburg</place>. </speech>
         <speech speaker="roberts" speechtype="q">Do you remember the first time you went to the
             movies? </speech>
         <speech speaker="danilenko" speechtype="a">It was a long time ago. Maybe when <pron
@@ -44,21 +44,22 @@
             plot? </speech>
         <speech speaker="roberts" speechtype="q">About the experiences. </speech>
         <speech speaker="danilenko" speechtype="a">About the experiences. The sensation…it was a
-            long time ago, it really was. The first big screen at the movies for me was something
-            unusual. Some sort of <genre ref="skazka">fairy tale film</genre>. It was a version for kids, that all of life is a
-            fairy tale, oh so beautiful. Those were the first impressions. </speech>
+            long time ago, it really was. The first big screen at <place ref="movieTheater">the
+                movies</place> for me was something unusual. Some sort of <genre ref="skazka">fairy
+                tale film</genre>. It was a version for kids, that all of life is a fairy tale, oh
+            so beautiful. Those were the first impressions. </speech>
         <speech speaker="roberts" speechtype="q">Who did you go with? </speech>
         <speech speaker="danilenko" speechtype="a">With <pron type="poss" number="sing">my</pron>
             mom. </speech>
         <speech speaker="roberts" speechtype="q">How did you like the movie theater? </speech>
         <speech speaker="danilenko" speechtype="a">Well <pron type="pers" number="sing">I</pron>
-            haven’t been in a modern movie theater, because in connection with work, with <pron
-                type="poss" number="sing">my</pron> profession, there just isn’t time to go. But
-                <pron type="poss" number="sing">my</pron> first impression…what a huge building with
-            big seats, something very enjoyable, something new, it wasn’t quite a house. <pron
-                type="pers" number="plur">we</pron> didn’t have a TV set then, <pron type="pers"
-                number="plur">we</pron> didn’t know what that was. But of course it was very, very
-            enjoyable. </speech>
+            haven’t been in a modern <place ref="movieTheater">movie theater</place>, because in
+            connection with work, with <pron type="poss" number="sing">my</pron> profession, there
+            just isn’t time to go. But <pron type="poss" number="sing">my</pron> first
+            impression…what <epit ref="kino">a huge building</epit> <epit ref="kino">with big seats</epit>, something very enjoyable, something new,
+            it wasn’t quite a house. <pron type="pers" number="plur">we</pron> didn’t have a TV set
+            then, <pron type="pers" number="plur">we</pron> didn’t know what that was. But of course
+            it was very, very enjoyable. </speech>
         <speech speaker="roberts" speechtype="q">When did you start going to the movies by yourself? </speech>
         <speech speaker="danilenko" speechtype="a">It was…well, <pron type="pers" number="sing"
                 >I</pron> didn’t go alone, only sometime around sixteen, when <pron type="pers"
@@ -66,7 +67,7 @@
                 type="pers" number="plur">we</pron> went together to the movie theater. With school.
             Or there was a showing for us at school, <pron type="pers" number="plur">we</pron> had a
             not too big movie room. They showed them to us there or <pron type="pers" number="plur"
-                >we</pron> went in a group to the movie theater. </speech>
+                >we</pron> went in a group to the <place ref="movieTheater">movie theater</place>. </speech>
         <speech speaker="roberts" speechtype="q">Did you like going to the movies? </speech>
         <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> liked
             it, of course <pron type="pers" number="sing">I</pron> liked it. </speech>
@@ -79,20 +80,24 @@
                 number="sing">I</pron> was a kid, and when I, well, became a teenager and then
             already a full-grown adult…Earlier cinema was more accessible to the people, it was
             accessible for the people. It was just more full of life, not like today. Now these
-            films like <genre ref="blockbuster">blockbusters</genre>, everything is very strange and a bit incomprehensible. </speech>
+            films like <genre ref="blockbuster">blockbusters</genre>, everything is very <epit ref="blockbuster">strange</epit> and
+            <epit ref="blockbuster">a bit incomprehensible</epit>. </speech>
         <speech speaker="roberts" speechtype="q">What were your favorite genres in childhood? </speech>
         <speech speaker="danilenko" speechtype="a">As a child, <pron type="pers" number="sing"
-                >I</pron> think it was <genre ref="skazka">fairy tales</genre> and those educational programs. <title ref="inTheAnimalWorld">In the World of Animals</title>, <pron type="pers"
-                number="plur">we</pron> had a show like that, and many, many people watched it.
-            <genre ref="documentary">Documentaries</genre>. </speech>
+                >I</pron> think it was <genre ref="skazka">fairy tales</genre> and those educational
+            programs. <title ref="inTheAnimalWorld">In the World of Animals</title>, <pron
+                type="pers" number="plur">we</pron> had a show like that, and many, many people
+            watched it. <genre ref="documentary">Documentaries</genre>. </speech>
         <speech speaker="roberts" speechtype="q">Do you have a favorite movie? </speech>
         <speech speaker="danilenko" speechtype="a"><pron type="poss" number="plur">Our</pron>
             classics. But not just one, <pron type="pers" number="sing">I</pron> think there are
-            very many, the films of <person ref="gaidai">Gaidai</person>, <title ref="diamondArm">The Diamond Arm</title>…and
-            others. </speech>
+            very many, the films of <person ref="gaidai">Gaidai</person>, <title ref="diamondArm"
+                >The Diamond Arm</title>…and others. </speech>
         <speech speaker="roberts" speechtype="q">Explain the movies, please. </speech>
-        <speech speaker="danilenko" speechtype="a">They’re <genre ref="comedy">comedies</genre>. They became classics. Or <title ref="ivanVasilevichChangesJobs">Ivan Vasilievich Changes his Profession</title>. You
-            too surely know it. They’re really interesting and really lively. </speech>
+        <speech speaker="danilenko" speechtype="a">They’re <genre ref="comedy">comedies</genre>.
+            They became classics. Or <title ref="ivanVasilevichChangesJobs">Ivan Vasilievich Changes
+                his Profession</title>. You too surely know it. They’re really <epit ref="diamondArm">interesting</epit> and
+            <epit ref="diamondArm">about real life</epit>. </speech>
         <speech speaker="roberts" speechtype="q">Did you have favorite actors and actresses? </speech>
         <speech speaker="danilenko" speechtype="a">Yes, of course. They were and still remain,
             although they’re not still alive. Well…<person ref="leonov">Eugene Leonov</person>. </speech>
@@ -103,12 +108,14 @@
         <speech speaker="roberts" speechtype="q">Do you remember any movie or outing concretely? </speech>
         <speech speaker="danilenko" speechtype="a">Could you repeat the question? </speech>
         <speech speaker="roberts" speechtype="q">Do you remember any movie or outing concretely? </speech>
-        <speech speaker="danilenko" speechtype="a">Outing to the movie theater? That was a long time
-            ago. Well, <pron type="pers" number="sing">I</pron> don’t know. Many different films,
-            and the <genre ref="classics">classics</genre>, and <genre ref="warFilms">war movies</genre>. <pron type="pers" number="sing">I</pron> really liked
-            them as a kid. <pron type="pers" number="plur">we</pron> also had <title ref="elusiveAvengers">The Elusive Avengers</title>, it was a revolutionary film.
-            There young boys played the roles. A young girl and young boys. <pron type="pers"
-                number="sing">I</pron> really liked that. </speech>
+        <speech speaker="danilenko" speechtype="a">Outing to the <place ref="movieTheater">movie
+                theater</place>? That was a long time ago. Well, <pron type="pers" number="sing"
+                >I</pron> don’t know. Many different films, and the <genre ref="classics"
+                >classics</genre>, and <genre ref="warFilms">war movies</genre>. <pron type="pers"
+                number="sing">I</pron> really liked them as a kid. <pron type="pers" number="plur"
+                >we</pron> also had <title ref="elusiveAvengers">The Elusive Avengers</title>, it
+            was a <epit ref="elusiveAvengers">revolutionary</epit> film. There young boys played the roles. A young girl and young
+            boys. <pron type="pers" number="sing">I</pron> really liked that. </speech>
         <speech speaker="roberts" speechtype="q">Why? </speech>
         <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> don’t
             know. Maybe they had such adventurous topics, perhaps because <pron type="pers"
@@ -118,8 +125,8 @@
         <speech speaker="danilenko" speechtype="a">Well…the first movie, no…Yes. The first movie,
             probably, <pron type="pers" number="sing">I</pron> don’t know, but <pron type="pers"
                 number="sing">I</pron> remember <pron type="pers" number="sing">I</pron> saw the
-            ballet <title ref="swanLake">Swan Lake</title> on TV. But that was uncommon. It was
-            really, really beautiful. <pron type="pers" number="sing">I</pron> liked the music in
+            ballet <title ref="swanLake">Swan Lake</title> on TV. But that was <epit ref="swanLake">something fabulous</epit>. It was
+            <epit ref="swanLake">really, really beautiful</epit>. <pron type="pers" number="sing">I</pron> liked the music in
             the show. And <pron type="pers" number="sing">I</pron> really liked the girls, who were
             acting. <pron type="pers" number="sing">I</pron> was really little then. The first time
                 <pron type="pers" number="sing">I</pron> saw it. There were in really pretty
@@ -160,21 +167,24 @@
         <speech speaker="roberts" speechtype="q">Do you remember waiting in line? </speech>
         <speech speaker="danilenko" speechtype="a">What kind of movie? <pron type="pers"
                 number="sing">I</pron> remember <pron type="pers" number="sing">I</pron> was
-            studying in Volgograd, and <pron type="pers" number="sing">I</pron> went with <pron
-                type="poss" number="sing">my</pron> friend. The film was called <title ref="womanWhoSings">The Woman Who Sings</title>. <pron type="poss" number="plur"
-                >our</pron> famous singer <person ref="pugacheva">Alla Borisovna Pugacheva</person> starred in that movie. </speech>
+            studying in <place ref="volgograd">Volgograd</place>, and <pron type="pers"
+                number="sing">I</pron> went with <pron type="poss" number="sing">my</pron> friend.
+            The film was called <title ref="womanWhoSings">The Woman Who Sings</title>. <pron
+                type="poss" number="plur">our</pron> <epit ref="pugacheva">famous singer</epit> <person ref="pugacheva">Alla
+                Borisovna Pugacheva</person> starred in that movie. </speech>
         <speech speaker="roberts" speechtype="q">Why did you like it? </speech>
         <speech speaker="danilenko" speechtype="a">Well, how. She became a famous singer and a new
             movie came out. <pron type="pers" number="plur">we</pron> really like seeing and
             listening to her new songs and seeing her not like a singer, but like an actress. </speech>
         <speech speaker="roberts" speechtype="q">Did you know people who worked at the movie
             theater? </speech>
-        <speech speaker="danilenko" speechtype="a">At the movie theater…probably not. </speech>
+        <speech speaker="danilenko" speechtype="a">At the <place ref="movieTheater">movie
+                theater</place>…probably not. </speech>
         <speech speaker="roberts" speechtype="q">How was the atmosphere in the movie theater? </speech>
-        <speech speaker="danilenko" speechtype="a">What was it like in the movie hall? With how the
-            kids behaved, who came to the movies? It depended on the film they were showing, they
-            shouted, clapped. But when it was quiet, someone cried. What a topic there was in the
-            movie, if it was sad. When it was funny, everyone laughed. </speech>
+        <speech speaker="danilenko" speechtype="a">What was it like in the screening room? With how
+            the kids behaved, who came to the movies? It depended on the film they were showing,
+            they shouted, clapped. But when it was quiet, someone cried. What a topic there was in
+            the movie, if it was sad. When it was funny, everyone laughed. </speech>
         <speech speaker="roberts" speechtype="q">Did you eat anything at the movie theater? </speech>
         <speech speaker="danilenko" speechtype="a">No. <pron type="pers" number="sing">I</pron>
             think that wasn’t permitted. If a person came to watch a film, that meant that all his
@@ -196,20 +206,23 @@
         <speech speaker="danilenko" speechtype="a">Foreign ones? Yes <pron type="pers" number="sing"
                 >I</pron> watched foreign movies. Well, and like today with <pron type="poss"
                 number="plur">our</pron> new movies, <pron type="pers" number="sing">I</pron> don’t
-            really like <nationalCinema ref="foreignCinema">foreign movies</nationalCinema>. There’s a lot of…some sort of violence and murder there.
-            Well, maybe it’s like that, <pron type="pers" number="sing">I</pron> don’t know. I’m
-            somehow closer to <pron type="poss" number="plur">our</pron> movies. We’re brought up on
-            <genre ref="patrioticFilms">patriotic movies</genre>, on <genre ref="skazka">fairy tales</genre>, something like that. Well, there are really good
-            <nationalCinema ref="foreignCinema">foreign movies</nationalCinema>, I’m not saying that it’s all just <nationalCinema ref="americanCinema">American</nationalCinema>, <nationalCinema ref="frenchCinema">French cinema</nationalCinema> there, no.
-            There are really good movies. <pron type="pers" number="sing">I</pron> watch them with
-            enjoyment. </speech>
+            really like <nationalCinema ref="foreignCinema">foreign movies</nationalCinema>. There’s
+            a lot of…some sort of violence and murder there. Well, maybe it’s like that, <pron
+                type="pers" number="sing">I</pron> don’t know. I’m somehow closer to <pron
+                type="poss" number="plur">our</pron> movies. We’re brought up on <genre
+                ref="patrioticFilms">patriotic movies</genre>, on <genre ref="skazka">fairy
+                tales</genre>, something like that. Well, there are really good <nationalCinema
+                ref="foreignCinema">foreign movies</nationalCinema>, I’m not saying that it’s all
+            just <nationalCinema ref="americanCinema">American</nationalCinema>, <nationalCinema
+                ref="frenchCinema">French cinema</nationalCinema> there, no. There are really good
+            movies. <pron type="pers" number="sing">I</pron> watch them with enjoyment. </speech>
         <speech speaker="roberts" speechtype="q">Do you remember any films you’ve seen? </speech>
         <speech speaker="danilenko" speechtype="a">Foreign ones? <pron type="pers" number="sing"
                 >I</pron> can say <title ref="spartacus">Spartacus</title>, yours, but <pron
                 type="pers" number="sing">I</pron> don’t remember the director or the actors.
             There’s <title ref="alexander">Alexander</title>, yours, <title ref="troy">Troy</title>
-            and maybe there’s others, historical ones like this, of course, these very
-            effects-driven movies. </speech>
+            and maybe there’s others, <epit ref="alexander and spartacus and troy">historical</epit> ones like this, of course, these very
+            <epit ref="alexander and spartacus and troy">striking</epit> movies. </speech>
         <speech speaker="roberts" speechtype="q">Do you like historical films? </speech>
         <speech speaker="danilenko" speechtype="a">Yes. They’re really good. <title ref="gladiator"
                 >Gladiator</title>, although in these movies, of course, very many of their plots
@@ -221,21 +234,22 @@
         <speech speaker="danilenko" speechtype="a">Yes. </speech>
         <speech speaker="roberts" speechtype="q">And what movies do you like most of all? </speech>
         <speech speaker="danilenko" speechtype="a">There’s also foreign comedies. <pron type="pers"
-                number="sing">I</pron> really like ones with <person ref="deFunes">Louis de Funes</person>. French movies. Where
-            <person ref="marais">Jean Marais</person> plays. He’s already gone. One and the other, they died. Well Timothy Dalton
-            is still making movies. Now I’ll say, <pron type="pers" number="sing">I</pron> saw
-                <title ref="janeEyre">Jane Eyre</title>. The film’s called <title ref="janeEyre"
-                >Jane Eyre</title>. <person ref="dalton">Timothy Dalton</person> plays in the movie. <pron type="pers"
-                number="sing">I</pron> really like it. Him too…like there’s a not too big story
-            there. </speech>
+                number="sing">I</pron> really like ones with <person ref="deFunes">Louis de
+                Funes</person>. French movies. Where <person ref="marais">Jean Marais</person>
+            plays. He’s already gone. One and the other, they died. Well Timothy Dalton is still
+            making movies. Now I’ll say, <pron type="pers" number="sing">I</pron> saw <title
+                ref="janeEyre">Jane Eyre</title>. The film’s called <title ref="janeEyre">Jane
+                Eyre</title>. <person ref="dalton">Timothy Dalton</person> plays in the movie. <pron
+                type="pers" number="sing">I</pron> really like it. Him too…like there’s a not too
+            big story there. </speech>
         <speech speaker="roberts" speechtype="q">And do you like Timothy Dalton? </speech>
         <speech speaker="danilenko" speechtype="a">Yes. </speech>
         <speech speaker="roberts" speechtype="q">Do you have a favorite foreign actor? </speech>
         <speech speaker="danilenko" speechtype="a">Well…<pron type="pers" number="sing">I</pron>
-            don’t know. <pron type="pers" number="sing">I</pron> like ones with <person ref="rourke">Mickey Rourke</person>.
-            Rukenhauer? Did <pron type="pers" number="sing">I</pron> get his name right? Also, well,
-                <pron type="pers" number="sing">I</pron> could name many, there are many good
-            actors. </speech>
+            don’t know. <pron type="pers" number="sing">I</pron> like ones with <person ref="rourke"
+                >Mickey Rourke</person>. Rukenhauer? Did <pron type="pers" number="sing">I</pron>
+            get his name right? Also, well, <pron type="pers" number="sing">I</pron> could name
+            many, there are many good actors. </speech>
         <speech speaker="roberts" speechtype="q">Were there movies you weren’t allowed to go to? </speech>
         <speech speaker="danilenko" speechtype="a">Well, yes. With us it was forbidden, they
             wouldn’t let you go up until sixteen. The movie theater only until four o’clock. And
@@ -257,17 +271,19 @@
             censor forbade some films. </speech>
         <speech speaker="roberts" speechtype="q">Excuse me? </speech>
         <speech speaker="danilenko" speechtype="a">It was like that before, there was a commission.
-            They, when a film was ready, it was supposed to come to the big screen at the movie
-            theater, they watched it and gave their decision, whether it was okay or not. Well <pron
-                type="pers" number="sing">I</pron> don’t know. </speech>
+            They, when a film was ready, it was supposed to come to the big screen at the <place
+                ref="movieTheater">movie theater</place>, they watched it and gave their decision,
+            whether it was okay or not. Well <pron type="pers" number="sing">I</pron> don’t know. </speech>
         <speech speaker="roberts" speechtype="q">Did your parents go to the movies? </speech>
         <speech speaker="danilenko" speechtype="a">They went, but very rarely, when there was time. </speech>
         <speech speaker="roberts" speechtype="q">What did they watch when they went? </speech>
         <speech speaker="danilenko" speechtype="a">Well, different kinds of movies that were <pron
-                type="poss" number="plur">our</pron> <genre ref="classics">classics</genre>, and <genre ref="comedy">comedies</genre>, well foreign films,
-                <pron type="pers" number="sing">I</pron> can’t say their names now, because <pron
-                type="pers" number="sing">I</pron> was very little. Well, whatever was at the movie
-            theater, they tried when they were able to go to the movie theater to see, and they were
+                type="poss" number="plur">our</pron>
+            <genre ref="classics">classics</genre>, and <genre ref="comedy">comedies</genre>, well
+            foreign films, <pron type="pers" number="sing">I</pron> can’t say their names now,
+            because <pron type="pers" number="sing">I</pron> was very little. Well, whatever was at
+            the <place ref="movieTheater">movie theater</place>, they tried when they were able to
+            go to the <place ref="movieTheater">movie theater</place> to see, and they were
             interested in finding out how another country lived. </speech>
         <speech speaker="roberts" speechtype="q">Do you still go to the movies? </speech>
         <speech speaker="danilenko" speechtype="a"><pron type="pers" number="sing">I</pron> would
