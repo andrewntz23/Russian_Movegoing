@@ -61,7 +61,11 @@ Found in the Russian version and than manually tagged in the English translation
 10. epit
 Found in the Russian version and than manually tagged in the English translation.
 
-11. hes
+11. hes marks
+done
+
+12
+Find: <collective
 
 
 
