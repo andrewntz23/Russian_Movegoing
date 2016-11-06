@@ -6,7 +6,7 @@
     <xsl:output method="xml" indent="yes"/>
 
     <xsl:template match="/">
-        <xsl:variable name="interviews" select="collection('../interview_xml_files')"/>
+        <xsl:variable name="interviews" select="collection('xml_nonTEI')"/>
 
 
         <html>
